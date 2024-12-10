@@ -168,7 +168,7 @@ let data = [
         "17) When are sellers most effective?",
         "A) when they focus more on their specific products and services",
         "B) when they focus more on the price of their products and services",
-        "C) when they focus more on the benefits and experiences produced by their products and",
+        "C) when they focus more on the benefits and experiences produced by their products and services",
         "D) when they focus more on where their products and services can be purchased",
         "E) when they focus more on cost to produce the product or service",
         [
@@ -564,8 +564,8 @@ let data = [
         "77) In which of the following situations has a company most actively embraced customer- managed relationships?",
         "A) American Airlines awards frequent flyer points to returning customers.",
         "B) Paige Premium Denim jeans provide superior quality and perfect fit.",
-        "C) iRobot invites enthusiastic Roomba owners to develop and share their own uses for the",
-        "D) Best Buy distinguishes between its best customers and its less profitable customers, stocking",
+        "C) iRobot invites enthusiastic Roomba owners to develop and share their own uses for the company's robotic vacuum cleaner.",
+        "D) Best Buy distinguishes between its best customers and its less profitable customers, stocking merchandise to appeal to each group.",
         "E) Toyota develops a marketing presence on social networks and other online communities.",
         [
             3
@@ -573,8 +573,8 @@ let data = [
     ],
     [
         "78) Which of the following statements is true about creating customer loyalty and retention?",
-        "A) Losing a customer means losing the entire stream of purchases that the customer would",
-        "B) Customer delight creates a rational preference and not an emotional relationship with the",
+        "A) Losing a customer means losing the entire stream of purchases that the customer would make over a lifetime of patronage.",
+        "B) Customer delight creates a rational preference and not an emotional relationship with the brand.",
         "C) The aim of customer relationship management is to focus solely on customer delight.",
         "D) Losing a customer hardly makes a difference to a company's sales.",
         "E) The aim of customer relationship management is to focus solely on customer satisfaction.",
@@ -642,7 +642,7 @@ let data = [
         "A) a firm's current sales",
         "B) the share a firm earns of a customer's purchasing in their product categories",
         "C) the amount a customer is spending each year on certain products",
-        "D) the total combined customer lifetime value of all of the company's current and potential",
+        "D) the total combined customer lifetime value of all of the company's current and potential customers",
         "E) a firm's market share",
         [
             4
@@ -838,8 +838,8 @@ let data = [
     [
         "102) Apart from retaining good customers, most marketers want to constantly increase their \"share of customer.\" What does this mean in marketing terms?",
         "A) Marketers want to increase their market share.",
-        "B) Marketers want to increase the share they get of the customer's purchasing in their product",
-        "C) Marketers want to diversify their operations and customize their products to cater to the",
+        "B) Marketers want to increase the share they get of the customer's purchasing in their product categories.",
+        "C) Marketers want to diversify their operations and customize their products to cater to the entire market.",
         "D) Marketers want to continuously increase their customers' levels of satisfaction.",
         "E) Marketers want to turn satisfied customers into delighted customers.",
         [
@@ -962,7 +962,7 @@ let data = [
         "B) increasing discounts and coupons",
         "C) sending samples directly to customers",
         "D) introducing customers to \"brand evangelists\"",
-        "E) creating programs to cross-sell and up-sell to market more products and service to existing",
+        "E) creating programs to cross-sell and up-sell to market more products and service to existing customers",
         [
             5
         ]
@@ -1134,7 +1134,7 @@ let data = [
     ],
     [
         "2) Which of the following is true with regard to strategic planning?",
-        "A) At the corporate level, the company starts the strategic planning process by determining",
+        "A) At the corporate level, the company starts the strategic planning process by determining what portfolio of businesses and products is best for the company.",
         "B) A strategic plan deals with a company's short-term goals.",
         "C) The focus of strategic planning is to define a game plan for long-run survival and growth.",
         "D) The strategic plan is a statement of an organization's purpose.",
@@ -1215,7 +1215,7 @@ let data = [
         "B) consumer preferences with regard to products and technology are difficult to predict",
         "C) consumer preferences for different product categories vary from time to time",
         "D) products and technologies eventually become outdated",
-        "E) most consumers are not comfortable using sophisticated technology during the buying",
+        "E) most consumers are not comfortable using sophisticated technology during the buying process",
         [
             4
         ]
@@ -1255,10 +1255,10 @@ let data = [
     ],
     [
         "13) Which of the following companies has a product-oriented business definition?",
-        "A) A luxury hotel, whose business definition is: \"We sell out-of-the-world experiences to our",
+        "A) A luxury hotel, whose business definition is: \"We sell out-of-the-world experiences to our guests.\"",
         "B) A real estate company, whose business definition is: \"We sell dreams.\"",
         "C) A cosmetic company, whose business definition is: \"We offer hope and self-expression.\"",
-        "D) A shoe manufacturer, whose business definition is: \"We manufacture affordable and long-",
+        "D) A shoe manufacturer, whose business definition is: \"We manufacture affordable and long- lasting shoes for all.\"",
         "E) A high-technology company, whose business definition is: \"We sell inspirations.\"",
         [
             4
@@ -1270,7 +1270,7 @@ let data = [
         "B) A hotel, whose business definition is: \"We rent rooms.\"",
         "C) An apparel company, whose business definition is: \"We make and sell women's clothing.\"",
         "D) A cosmetic company, whose business definition is: \"We sell hope and self-esteem.\"",
-        "E) A pizzeria, whose business definition is: \"We sell the world's most delicious thin-crust",
+        "E) A pizzeria, whose business definition is: \"We sell the world's most delicious thin-crust pizzas.\"",
         [
             4
         ]
@@ -1435,7 +1435,7 @@ let data = [
         "B) It does not have any limitations.",
         "C) It considers market growth rate to be a measure of market attractiveness.",
         "D) It describes consumer motivations and needs.",
-        "E) It does not consider relative market share to be a measure of company strength in the",
+        "E) It does not consider relative market share to be a measure of company strength in the market.",
         [
             3
         ]
@@ -1554,8 +1554,8 @@ let data = [
         "51) The BCG matrix approach is problematic in that it ________.",
         "A) focuses on planning for the future at the cost of ignoring the present",
         "B) focuses solely on current businesses and provides little scope for future planning",
-        "C) tends to undermine the importance of market growth rate as a measure of market",
-        "D) tends to undermine the importance of relative market share as a measure of company",
+        "C) tends to undermine the importance of market growth rate as a measure of market attractiveness",
+        "D) tends to undermine the importance of relative market share as a measure of company strength in the market",
         "E) fails to classify SBUs",
         [
             2
@@ -1861,10 +1861,10 @@ let data = [
     [
         "99) Market segmentation can be best described as the process of ________.",
         "A) assigning specific human attributes to a given brand",
-        "B) dividing a market into distinct groups of buyers who have different needs, characteristics, or",
+        "B) dividing a market into distinct groups of buyers who have different needs, characteristics, or behaviors, and who might require separate marketing programs",
         "C) evaluating each market segment's attractiveness and selecting one or more segments to enter",
         "D) turning marketing plans into marketing actions to accomplish strategic marketing objectives",
-        "E) maintaining a strategic fit between organizational goals and changing marketing",
+        "E) maintaining a strategic fit between organizational goals and changing marketing opportunities",
         [
             2
         ]
@@ -1938,7 +1938,7 @@ let data = [
     [
         "106) Which of the following is true with regard to a market segment?",
         "A) A market segment consists of consumers with dissimilar needs and preferences.",
-        "B) A market segment consists of consumers who respond in a similar way to a given set of",
+        "B) A market segment consists of consumers who respond in a similar way to a given set of marketing efforts.",
         "C) Very few markets have segments.",
         "D) Dividing the market into segments decreases the efficiency of the selling process.",
         "E) Dividing the market into segments reduces composite demand.",
@@ -2070,10 +2070,10 @@ let data = [
     [
         "131) Which of the following would be classified as an opportunity in a SWOT analysis of Fun- Spot?",
         "A) A rival amusement park announces plans to open three new rides next season.",
-        "B) A new luxury hotel is being constructed in the area, with the aim of attracting more high-",
-        "C) Ron and Gail have paid off the mortgage on Fun-Spot, significantly reducing their monthly",
-        "D) Fun-Spot employees tend to be enthusiastic and young, projecting an image of fun and",
-        "E) Fun-Spot plans to further diversify its offerings by beginning a two-week summer camp for",
+        "B) A new luxury hotel is being constructed in the area, with the aim of attracting more high- spending families on vacation.",
+        "C) Ron and Gail have paid off the mortgage on Fun-Spot, significantly reducing their monthly expenses.",
+        "D) Fun-Spot employees tend to be enthusiastic and young, projecting an image of fun and vitality.",
+        "E) Fun-Spot plans to further diversify its offerings by beginning a two-week summer camp for elementary school students.",
         [
             2
         ]
@@ -2975,7 +2975,7 @@ let data = [
         "B) position his agency as focused on specialized experiences",
         "C) implement a mass marketing campaign",
         "D) place specially targeted ads in gay-themed publications",
-        "E) advertise on LOGO, the cable television network aimed at gays and lesbians and their",
+        "E) advertise on LOGO, the cable television network aimed at gays and lesbians and their friends and family",
         [
             3
         ]
@@ -2983,8 +2983,8 @@ let data = [
     [
         "75) Which of the following is true with regard to the diversity segment of U.S. adults with disabilities?",
         "A) Most individuals with disabilities are active consumers.",
-        "B) The market represented by U.S. adults with disabilities is smaller than that represented by",
-        "C) The diversity segment, U.S. adults with disabilities, is a rather unattractive segment for the",
+        "B) The market represented by U.S. adults with disabilities is smaller than that represented by African Americans or Hispanics.",
+        "C) The diversity segment, U.S. adults with disabilities, is a rather unattractive segment for the tourism industry.",
         "D) The annual spending power of U.S. adults with disabilities is less than $100 billion.",
         "E) Most companies are reluctant to reach out to consumers with disabilities.",
         [
@@ -3041,7 +3041,7 @@ let data = [
         "B) Over the past several decades, the middle class has grown faster than other classes.",
         "C) Over the past several decades, the poor have remained poor.",
         "D) The top 20 percent of earners capture over 50 percent of all income.",
-        "E) The top five percent of American earners get nearly 22 percent of the country's adjusted",
+        "E) The top five percent of American earners get nearly 22 percent of the country's adjusted gross income.",
         [
             2
         ]
@@ -3173,7 +3173,7 @@ let data = [
         "B) The chips are used to track shipments but not individual items.",
         "C) The chips do not risk invading people's privacy.",
         "D) Sharing of data decreases the buying experience for consumers.",
-        "E) The technology will be available for the foreseeable future, allowing companies to fully",
+        "E) The technology will be available for the foreseeable future, allowing companies to fully invest in its capabilities.",
         [
             1
         ]
@@ -3401,10 +3401,10 @@ let data = [
     [
         "139) Which of the following is most likely true with regard to people's views of organizations in contemporary America?",
         "A) In the American workplace, there has been an overall increase in organizational loyalty.",
-        "B) Most Americans are confident in their employers and are unlikely to switch jobs as",
-        "C) The past two decades have seen a sharp decrease in confidence in and loyalty toward",
+        "B) Most Americans are confident in their employers and are unlikely to switch jobs as frequently as in the past.",
+        "C) The past two decades have seen a sharp decrease in confidence in and loyalty toward America's business organizations.",
         "D) Most U.S. workers view work as a source of personal satisfaction and organizational pride.",
-        "E) In the last decade, corporate scandals and layoffs had little impact on people's confidence in",
+        "E) In the last decade, corporate scandals and layoffs had little impact on people's confidence in U.S. firms.",
         [
             3
         ]
@@ -3665,10 +3665,10 @@ let data = [
     [
         "21) Which of the following is an advantage of using an internal database?",
         "A) Data always remains current in internal databases.",
-        "B) Highly sophisticated equipment and techniques are not required for maintaining internal",
+        "B) Highly sophisticated equipment and techniques are not required for maintaining internal databases.",
         "C) Internal databases can be accessed more quickly and cheaply than other information sources.",
         "D) Internal databases require less maintenance efforts.",
-        "E) Information obtained from internal databases is almost always sufficient for making",
+        "E) Information obtained from internal databases is almost always sufficient for making marketing decisions.",
         [
             3
         ]
@@ -3678,8 +3678,8 @@ let data = [
         "A) Obtaining information from internal databases is both time-consuming as well as expensive.",
         "B) It is not possible to verify information obtained from internal databases.",
         "C) Using information from internal databases leads to biased research findings.",
-        "D) Internal information may be incomplete or in the wrong form for making marketing",
-        "E) Internal databases do not support highly sophisticated technologies that make it difficult to",
+        "D) Internal information may be incomplete or in the wrong form for making marketing decisions.",
+        "E) Internal databases do not support highly sophisticated technologies that make it difficult to store large volumes of data.",
         [
             4
         ]
@@ -3723,7 +3723,7 @@ let data = [
         "B) The goal of competitive marketing intelligence is to improve recruiting efforts.",
         "C) Competitive marketing intelligence relies upon costly internal databases.",
         "D) Competitive marketing intelligence relies upon publicly available information.",
-        "E) Companies using competitive marketing intelligence routinely ignore consumers' online",
+        "E) Companies using competitive marketing intelligence routinely ignore consumers' online chatter.",
         [
             4
         ]
@@ -3732,8 +3732,8 @@ let data = [
         "27) Which of the following is NOT a method of gathering good marketing intelligence?",
         "A) sending out teams of trained observers to mingle with customers",
         "B) interviewing competitors' employees to learn as much \"inside information\" as possible",
-        "C) setting up digital centers that monitor brand-related online consumer and marketplace",
-        "D) purchasing merchandise from competing sites to analyze and compare their assortment,",
+        "C) setting up digital centers that monitor brand-related online consumer and marketplace activity",
+        "D) purchasing merchandise from competing sites to analyze and compare their assortment, speed, and service quality",
         "E) searching specific competitor names, events, or trends to see what comes up",
         [
             2
@@ -3973,7 +3973,7 @@ let data = [
     [
         "58) Which of the following is true about secondary data?",
         "A) It is always current and, unlike primary data, it does not have to be updated.",
-        "B) Unlike primary data, it can be obtained by using direct surveys and questionnaires by the",
+        "B) Unlike primary data, it can be obtained by using direct surveys and questionnaires by the company.",
         "C) It cannot provide extra information a company is looking for.",
         "D) It can be obtained more quickly and at a lower cost than primary data.",
         "E) It requires more effort compared to gathering primary data.",
@@ -4041,7 +4041,7 @@ let data = [
         "A) The response rate of mail questionnaires is often very low.",
         "B) Mail questionnaires are highly flexible.",
         "C) The researcher has maximum control over the mail questionnaire sample.",
-        "D) Mail questionnaires are unsuitable for collecting large amounts of information about",
+        "D) Mail questionnaires are unsuitable for collecting large amounts of information about respondents.",
         "E) Respondents always provide honest answers to personal questions on mail questionnaires.",
         [
             1
@@ -4050,7 +4050,7 @@ let data = [
     [
         "65) Which of the following is true of ethnographic research?",
         "A) It is a type of experimental research that involves evaluating group responses.",
-        "B) It involves sending observers to watch and interact with consumers in their natural",
+        "B) It involves sending observers to watch and interact with consumers in their natural environments.",
         "C) It is a traditional quantitative research approach.",
         "D) Information used in this mode of research is mainly derived from secondary data sources.",
         "E) It is a form of survey research.",
@@ -4093,9 +4093,9 @@ let data = [
     ],
     [
         "69) Which of the following is true about survey research?",
-        "A) It involves sending observers to watch and interact with consumers in their natural",
+        "A) It involves sending observers to watch and interact with consumers in their natural environments.",
         "B) It is best suited for gathering causal information.",
-        "C) It involves selecting matched groups of subjects, giving them different treatments,",
+        "C) It involves selecting matched groups of subjects, giving them different treatments, controlling related factors, and checking for differences in group responses.",
         "D) The level of flexibility in survey research is lower than most other research methodologies.",
         "E) Survey research is the most widely used method for primary data collection.",
         [
@@ -4115,11 +4115,11 @@ let data = [
     ],
     [
         "71) Which of the following is most likely an advantage of survey research?",
-        "A) The flexibility of survey research is high; it can be used to obtain many different kinds of",
-        "B) Survey research allows researchers to observe respondents closely in their natural",
+        "A) The flexibility of survey research is high; it can be used to obtain many different kinds of information in many different situations.",
+        "B) Survey research allows researchers to observe respondents closely in their natural environments.",
         "C) The chances of getting dishonest feedback are almost negligible with survey research.",
-        "D) The attitudes and motives of the customers can be easily determined through survey",
-        "E) The data gathered in survey research is impartial and free from bias as the surveys are done",
+        "D) The attitudes and motives of the customers can be easily determined through survey research.",
+        "E) The data gathered in survey research is impartial and free from bias as the surveys are done in-person to evaluate consumer behavior.",
         [
             1
         ]
@@ -4248,10 +4248,10 @@ let data = [
     [
         "83) In a simple random sample, ________.",
         "A) every member of the population has a known and equal chance of selection",
-        "B) the population is divided into mutually exclusive groups (such as blocks), and the researcher",
+        "B) the population is divided into mutually exclusive groups (such as blocks), and the researcher draws a sample of the groups to interview",
         "C) the researcher selects the easiest population members from which to obtain information",
-        "D) the population is divided into mutually exclusive groups and random samples are drawn from",
-        "E) the researcher finds and interviews a prescribed number of people in each of several",
+        "D) the population is divided into mutually exclusive groups and random samples are drawn from each group",
+        "E) the researcher finds and interviews a prescribed number of people in each of several categories",
         [
             1
         ]
@@ -4260,8 +4260,8 @@ let data = [
         "84) Which of the following is most likely a disadvantage of focus group interviewing?",
         "A) Focus group interviewing does not connect secondary data with primary data.",
         "B) Focus group interviewing is less flexible compared to mail questionnaires.",
-        "C) Consumers in focus groups are always open and honest about their real feelings, behaviors,",
-        "D) Focus group interviewing involves small samples to keep time and costs down, which",
+        "C) Consumers in focus groups are always open and honest about their real feelings, behaviors, and intentions in front of other people.",
+        "D) Focus group interviewing involves small samples to keep time and costs down, which makes it hard to generalize from the results.",
         "E) The moderator in a focus group interview has poor control over the group of respondents.",
         [
             4
@@ -4302,7 +4302,7 @@ let data = [
     ],
     [
         "88) Which of the following is true about Internet-based survey research?",
-        "A) The effectiveness of Internet-based survey research is invariably affected by the",
+        "A) The effectiveness of Internet-based survey research is invariably affected by the interviewer's bias.",
         "B) Internet-based survey research is less flexible compared to mail questionnaires.",
         "C) Internet-based survey research is characterized by high speed and low costs.",
         "D) Typically, the quantity of data gathered in Internet-based survey research is low.",
@@ -4665,7 +4665,7 @@ let data = [
     ],
     [
         "152) Consumers who mistrust marketing research are more likely to ________.",
-        "A) consider marketing research initiatives as genuine endeavors aimed at heightening customer",
+        "A) consider marketing research initiatives as genuine endeavors aimed at heightening customer satisfaction",
         "B) believe that marketers rarely use personal data to manipulate consumer behavior",
         "C) believe that the misuse of research findings is highly unlikely",
         "D) consider marketing research efforts, such as interviewing, intrusions on consumer privacy",
@@ -4919,10 +4919,10 @@ let data = [
     [
         "24) Which of the following statements is true of cultural factors that influence consumer behavior?",
         "A) Cultural influences on buying behavior are identical across countries.",
-        "B) Social classes show distinct product and brand preferences in areas such as clothing and",
+        "B) Social classes show distinct product and brand preferences in areas such as clothing and travel.",
         "C) Subcultures include nationalities and racial groups, but exclude religions.",
         "D) Subcultures are groups within which each individual has a unique and distinct value system.",
-        "E) Hispanic Americans and African Americans are examples of racially segregated groups and",
+        "E) Hispanic Americans and African Americans are examples of racially segregated groups and not subcultures.",
         [
             2
         ]
@@ -5512,8 +5512,8 @@ let data = [
     ],
     [
         "78) Many families with children are now attracted to the shopping district in Forest Ridge. What characteristics about families as consumer groups might the owners of The Attic Trunk want to keep in mind?",
-        "A) Though more women hold jobs outside the home today than when The Attic Trunk first",
-        "B) Children have considerable amounts of disposable income and have a strong influence on",
+        "A) Though more women hold jobs outside the home today than when The Attic Trunk first opened, husband-wife involvement in the buying process has remained relatively unchanged.",
+        "B) Children have considerable amounts of disposable income and have a strong influence on family buying decisions.",
         "C) Women seldom account for any technology-related purchases.",
         "D) Women typically account for most habitual purchases.",
         "E) Men make all the major purchasing decisions in most families.",
@@ -5931,10 +5931,10 @@ let data = [
     [
         "155) Which of the following best describes divisibility of an innovation that influences the rate of adoption?",
         "A) It is the degree to which the innovation is difficult to understand.",
-        "B) It is the degree to which the results of using the innovation can be observed or described to",
+        "B) It is the degree to which the results of using the innovation can be observed or described to others.",
         "C) It is the degree to which the innovation appears superior to existing products.",
         "D) It is the degree to which the innovation may be tried on a limited basis.",
-        "E) It is the degree to which the innovation fits the values and experiences of potential",
+        "E) It is the degree to which the innovation fits the values and experiences of potential consumers.",
         [
             4
         ]
@@ -5964,9 +5964,9 @@ let data = [
     [
         "2) Business buyer behavior refers to the ________.",
         "A) buying behavior of consumers who buy goods and services for personal consumption",
-        "B) buying behavior of the organizations that buy goods and services for use in the production of",
-        "C) buying behavior of consumers who rely on small retailers for the regular supply of",
-        "D) decision process by which business buyers determine which products and services their",
+        "B) buying behavior of the organizations that buy goods and services for use in the production of other products and services that are sold, rented, or supplied to others",
+        "C) buying behavior of consumers who rely on small retailers for the regular supply of provisions",
+        "D) decision process by which business buyers determine which products and services their organizations need to purchase",
         "E) strong affinity of businesses for value-for-money deals",
         [
             2
@@ -6096,9 +6096,9 @@ let data = [
     [
         "14) Which of the following is true about business purchases?",
         "A) Business purchases involve more professional purchasing effort than consumer purchases.",
-        "B) Business purchases involve fewer participants in decision making compared to consumer",
+        "B) Business purchases involve fewer participants in decision making compared to consumer purchases.",
         "C) Purchasing agents are absent in business purchases.",
-        "D) Business purchases involve less technical and economic considerations compared to",
+        "D) Business purchases involve less technical and economic considerations compared to consumer purchases.",
         "E) Business purchases are usually quicker and more informal than are consumer purchases.",
         [
             1
@@ -6241,8 +6241,8 @@ let data = [
         "A) Suppliers are not required to focus on quality of products or services delivered.",
         "B) A straight rebuy is far more complex than a new-task situation.",
         "C) A straight rebuy is handled on a routine basis by the purchase department.",
-        "D) A straight rebuy occurs only when a buyer wants to pinpoint and procure the best deal in the",
-        "E) A straight rebuy involves more opportunities for \"out\" buyers than do other types of",
+        "D) A straight rebuy occurs only when a buyer wants to pinpoint and procure the best deal in the market.",
+        "E) A straight rebuy involves more opportunities for \"out\" buyers than do other types of purchasing situations.",
         [
             3
         ]
@@ -6316,10 +6316,10 @@ let data = [
     [
         "47) Solutions selling ________.",
         "A) is often a key business marketing strategy for winning and holding accounts",
-        "B) refers to a business buying situation in which the buyer purchases a product or service for",
-        "C) refers to a business buying situation in which the buyer wants to modify product",
+        "B) refers to a business buying situation in which the buyer purchases a product or service for the first time",
+        "C) refers to a business buying situation in which the buyer wants to modify product specifications, prices, terms, or suppliers",
         "D) is equivalent to cold calling",
-        "E) refers to a business buying situation in which the buyer routinely reorders something without",
+        "E) refers to a business buying situation in which the buyer routinely reorders something without any modifications",
         [
             1
         ]
@@ -6832,11 +6832,11 @@ let data = [
     ],
     [
         "113) Which of the following most likely occurs in the supplier selection stage of the business buying decision process?",
-        "A) The buyer calls for detailed written proposals or formal presentations from each potential",
-        "B) The buyer compiles a small list of qualified suppliers by reviewing trade directories, doing",
+        "A) The buyer calls for detailed written proposals or formal presentations from each potential supplier.",
+        "B) The buyer compiles a small list of qualified suppliers by reviewing trade directories, doing computer searches, or contacting other companies for recommendations.",
         "C) The buying team decides on the best product characteristics and specifies them accordingly.",
         "D) The buyer prepares a general need description and identifies the quantity of the needed item.",
-        "E) The buying center draws up a list of the desired supplier attributes and their relative",
+        "E) The buying center draws up a list of the desired supplier attributes and their relative importance.",
         [
             5
         ]
@@ -7053,10 +7053,10 @@ let data = [
     [
         "147) Which of the following is true about business-to-business e-procurement?",
         "A) E-procurement increases transaction costs for suppliers.",
-        "B) Because of an overwhelming demand, e-procurements usually have a huge time gap",
-        "C) Many buyers now use the power of the Internet to pit suppliers against one another and",
+        "B) Because of an overwhelming demand, e-procurements usually have a huge time gap between order and response.",
+        "C) Many buyers now use the power of the Internet to pit suppliers against one another and search out better deals, products, and turnaround times on a purchase-by-purchase basis.",
         "D) E-procurement doesn't enhance customer-supplier relationships.",
-        "E) Due to extensive paperwork, the relatively important strategic issues, such as finding better",
+        "E) Due to extensive paperwork, the relatively important strategic issues, such as finding better supply sources and working with suppliers to reduce costs and develop new products, are sidelined.",
         [
             3
         ]
@@ -7064,7 +7064,7 @@ let data = [
     [
         "148) Digital and social media's role in business-to-business marketing enhances all of the following EXCEPT ________.",
         "A) targeting individuals that affect buying decisions within the target businesses",
-        "B) facilitating anytime and anywhere connections between people at the selling and buying",
+        "B) facilitating anytime and anywhere connections between people at the selling and buying organizations",
         "C) giving sellers more control of and access to important information",
         "D) meeting in person with customers at trade shows or conferences",
         "E) giving buyers more control of and access to important information",
@@ -7514,11 +7514,11 @@ let data = [
     ],
     [
         "36) Which of the following is true about behavioral segmentation on the basis of the loyalty variable?",
-        "A) Consumers tend to pay more for products that are targeted at their respective age group or",
-        "B) By looking at customers who are shifting away from its brand, a company can learn about",
-        "C) Highly loyal customers of a brand are less likely to engage in word-of-mouth publicity than",
-        "D) Completely loyal customers of a brand are typically loyal to two or three brands of a given",
-        "E) Only consumers who seek premium or luxury services are subjected to behavioral",
+        "A) Consumers tend to pay more for products that are targeted at their respective age group or generation.",
+        "B) By looking at customers who are shifting away from its brand, a company can learn about its marketing weaknesses and take actions to correct them.",
+        "C) Highly loyal customers of a brand are less likely to engage in word-of-mouth publicity than those who are not.",
+        "D) Completely loyal customers of a brand are typically loyal to two or three brands of a given product.",
+        "E) Only consumers who seek premium or luxury services are subjected to behavioral segmentation based on the loyalty variable.",
         [
             2
         ]
@@ -7811,7 +7811,7 @@ let data = [
     ],
     [
         "85) Market targeting is ________.",
-        "A) arranging for a market offering to occupy a clear, distinctive, and desirable place relative to",
+        "A) arranging for a market offering to occupy a clear, distinctive, and desirable place relative to competing products in the minds of target consumers",
         "B) dividing a market into distinct groups of buyers who have different needs and characteristics",
         "C) evaluating segment attractiveness and deciding how many and which segment(s) to serve",
         "D) marketing to buyers with separate marketing strategies or mixes",
@@ -7932,7 +7932,7 @@ let data = [
     ],
     [
         "96) Which of the following is true about the concentrated marketing strategy?",
-        "A) Companies that rely on a few segments for all of their business will suffer if a segment turns",
+        "A) Companies that rely on a few segments for all of their business will suffer if a segment turns sour.",
         "B) Concentrated marketing is not profitable for most firms.",
         "C) Niche marketing involves few risks for most firms.",
         "D) Concentrated marketing involves going after a small share of a large market.",
@@ -7968,7 +7968,7 @@ let data = [
         "A) Local marketing increases manufacturing costs by reducing the economies of scale.",
         "B) Local marketing requires specialization that is difficult to identify.",
         "C) Local marketing is not profitable for most small firms.",
-        "D) Local marketing cannot accommodate the needs of modern buyers who are technology",
+        "D) Local marketing cannot accommodate the needs of modern buyers who are technology savvy.",
         "E) Local marketing almost always results in brand dilution.",
         [
             1
@@ -8284,7 +8284,7 @@ let data = [
     ],
     [
         "146) While there may be many differences between brands, not all are meaningful or relevant to consumers. Which of the following is NOT a criterion for establishing the value of a difference to promote?",
-        "A) superior; the difference is superior to other ways that customers might obtain the same",
+        "A) superior; the difference is superior to other ways that customers might obtain the same benefit",
         "B) affordable; buyers can afford to pay the difference",
         "C) profitable; the company can introduce the difference profitably",
         "D) important; the difference delivers a highly valued benefit to target buyers",
@@ -8417,10 +8417,10 @@ let data = [
     [
         "158) Which of the following is true with regard to the same for less value proposition?",
         "A) Discount stores and \"category killers\" rarely use the same-for-less value proposition.",
-        "B) The same-for-less value proposition is mostly offered by marketers who sell higher quality",
+        "B) The same-for-less value proposition is mostly offered by marketers who sell higher quality upscale products or services.",
         "C) The same-for-less value proposition cannot generate profits.",
-        "D) Offering the same for less can be a powerful value proposition because everyone likes a",
-        "E) The same-for-less positioning involves meeting consumers' lower performance or quality",
+        "D) Offering the same for less can be a powerful value proposition because everyone likes a good deal.",
+        "E) The same-for-less positioning involves meeting consumers' lower performance or quality requirements at a much lower price.",
         [
             4
         ]
@@ -8441,7 +8441,7 @@ let data = [
         "A) The quality of products is far more difficult to measure than that of services.",
         "B) Products do not include experiences, organizations, persons, places, and ideas.",
         "C) Products are not meant for sale in the market.",
-        "D) Products include services, events, persons, places, organizations, ideas, or a mixture of",
+        "D) Products include services, events, persons, places, organizations, ideas, or a mixture of these.",
         "E) Products refer to only those activities that are essentially intangible.",
         [
             4
@@ -8494,7 +8494,7 @@ let data = [
     [
         "6) Which of the following is true with regard to services?",
         "A) Services refer to purely tangible products.",
-        "B) Services are a form of product that consists of activities, benefits, or satisfactions offered for",
+        "B) Services are a form of product that consists of activities, benefits, or satisfactions offered for sale.",
         "C) Services can be stored for later use.",
         "D) Services can be easily separated from their providers.",
         "E) Services are tangible product offerings whose quality can be easily measured.",
@@ -8618,7 +8618,7 @@ let data = [
         "B) products and services bought by final consumers for personal consumption",
         "C) primarily intangible offerings from marketers",
         "D) raw materials as well as manufactured materials and parts",
-        "E) products that aid in the consumer's production or operations, including installations and",
+        "E) products that aid in the consumer's production or operations, including installations and accessory equipment",
         [
             2
         ]
@@ -9507,7 +9507,7 @@ let data = [
         "141) Which of the following is true with regard to brand equity?",
         "A) Brand equity refers to how much consumers know about the brand.",
         "B) High brand equity provides a company with many competitive advantages.",
-        "C) A brand has positive brand equity if consumers react less favorably to it than to an",
+        "C) A brand has positive brand equity if consumers react less favorably to it than to an unbranded version.",
         "D) Positive brand equity derives from low brand esteem.",
         "E) The total financial value of a brand can be easily measured.",
         [
@@ -9627,8 +9627,8 @@ let data = [
     [
         "152) Which of the following is an advantage offered by co-branding?",
         "A) Manufacturers do not have to invest in creating their own brand names with co-branding.",
-        "B) Co-branding allows retailers to sell exclusive products that cannot be purchased from",
-        "C) Co-branding allows a company to expand its existing brand into a category it might",
+        "B) Co-branding allows retailers to sell exclusive products that cannot be purchased from competitors.",
+        "C) Co-branding allows a company to expand its existing brand into a category it might otherwise have difficulty entering alone.",
         "D) Co-branding dilutes brand equity and increases the appeal of store brands.",
         "E) Co-branding does not involve complex legal contracts and licenses.",
         [
@@ -9716,9 +9716,9 @@ let data = [
         "2) Acquisition refers to ________.",
         "A) the buying of a whole company, a patent, or a license to produce someone else's product",
         "B) an agreement between two or more commercial companies to produce a common product",
-        "C) a partnership between two companies to produce a product in different countries by sharing",
+        "C) a partnership between two companies to produce a product in different countries by sharing risks",
         "D) investments made in a country's businesses by foreign citizens, often in the form of stocks",
-        "E) the development of original products, product improvements, product modifications, and",
+        "E) the development of original products, product improvements, product modifications, and new brands through the firm's own product development strategies",
         [
             1
         ]
@@ -9824,10 +9824,10 @@ let data = [
     ],
     [
         "16) Why are customers often considered the most important sources of new product ideas?",
-        "A) Customers are close to the market and can pass along information about problems and new",
-        "B) The company can analyze customer questions and complaints to find new products that",
-        "C) Customers buy competing new products, take them apart to see how they work, analyze",
-        "D) Customers review the sales, costs, and profit projections for a new product to find out",
+        "A) Customers are close to the market and can pass along information about problems and new product possibilities.",
+        "B) The company can analyze customer questions and complaints to find new products that better solve consumer problems.",
+        "C) Customers buy competing new products, take them apart to see how they work, analyze sales, and then decide to purchase.",
+        "D) Customers review the sales, costs, and profit projections for a new product to find out whether the product satisfies the company's objectives.",
         "E) Customers estimate the minimum and maximum sales to assess the range of risk.",
         [
             2
@@ -9871,7 +9871,7 @@ let data = [
         "A) The purpose of idea generation is to reduce the number of ideas to the least possible number.",
         "B) Truly innovative companies rely exclusively on a single source for new product ideas.",
         "C) Customers are the least important sources of new product ideas.",
-        "D) Truly innovative companies develop extensive innovation networks that capture ideas and",
+        "D) Truly innovative companies develop extensive innovation networks that capture ideas and inspiration from every possible source.",
         "E) Truly innovative companies seldom rely on customers and the general public for ideas.",
         [
             4
@@ -9926,8 +9926,8 @@ let data = [
         "A) It increases the number of ideas generated.",
         "B) It provides an opportunity for the marketer to test the prototype in a simulated market.",
         "C) It helps forecast the products' sales and profits accurately for a specific period.",
-        "D) It gives research and development team members an opportunity to gather consumer",
-        "E) It saves the company money in product development costs by going ahead with only the",
+        "D) It gives research and development team members an opportunity to gather consumer feedback.",
+        "E) It saves the company money in product development costs by going ahead with only the product ideas that are likely to be profitable.",
         [
             5
         ]
@@ -10089,10 +10089,10 @@ let data = [
     [
         "40) Which of the following statements is true of the new product development process?",
         "A) The purpose of the idea screening stage is to create a large number of ideas.",
-        "B) Under the business analysis stage, if the new product satisfies the company's objectives, the",
+        "B) Under the business analysis stage, if the new product satisfies the company's objectives, the product then moves to the product development stage.",
         "C) A product concept is the way consumers perceive an actual or potential product.",
-        "D) The concept testing stage is the stage at which the product and its proposed marketing",
-        "E) Commercialization is the process of inviting broad communities of people such as",
+        "D) The concept testing stage is the stage at which the product and its proposed marketing program are introduced into realistic market settings.",
+        "E) Commercialization is the process of inviting broad communities of people such as customers, employees, and scientists into the new product innovation process.",
         [
             2
         ]
@@ -10254,10 +10254,10 @@ let data = [
     [
         "55) Which of the following statements is true of test marketing?",
         "A) The amount of test marketing needed remains constant for each new product.",
-        "B) When the costs of developing and introducing the product are low, the company will have to",
+        "B) When the costs of developing and introducing the product are low, the company will have to do significant test marketing.",
         "C) Test marketing is seldom done on products that are risky.",
-        "D) Test marketing is seldom done when management is not sure of the product or its marketing",
-        "E) Test marketing costs can be high, and it takes time that may allow competitors to gain",
+        "D) Test marketing is seldom done when management is not sure of the product or its marketing program.",
+        "E) Test marketing costs can be high, and it takes time that may allow competitors to gain advantages.",
         [
             5
         ]
@@ -10374,7 +10374,7 @@ let data = [
     ],
     [
         "66) Under a team-based new product development approach, ________.",
-        "A) a single departmental team works to complete different stages of the process before passing",
+        "A) a single departmental team works to complete different stages of the process before passing the new product along to the next department and stage",
         "B) the organizational tension and confusion is less than under the sequential approach",
         "C) company departments work closely together in cross-functional teams",
         "D) a bottleneck at one phase can seriously delay an entire project",
@@ -10894,7 +10894,7 @@ let data = [
         "A) Historically, price has had the least perceptible impact on buyer choice.",
         "B) Price is the least flexible element in the marketing mix.",
         "C) Unlike product features and channel commitments, prices cannot be changed quickly.",
-        "D) Price is the sum of all the values that customers give up to gain the benefits of having a",
+        "D) Price is the sum of all the values that customers give up to gain the benefits of having a product.",
         "E) Prices only have an indirect impact on a firm's bottom line.",
         [
             4
@@ -10903,7 +10903,7 @@ let data = [
     [
         "4) Price is important to managers ________.",
         "A) because prices cannot be changed quickly, so must be correctly determined",
-        "B) because a small percentage improvement in price can generate a large percentage increase in",
+        "B) because a small percentage improvement in price can generate a large percentage increase in profitability",
         "C) but other marketing mix elements create customer value and build relationships",
         "D) but product features can be changed more quickly",
         "E) but has little impact on a firm's market share",
@@ -10968,11 +10968,11 @@ let data = [
     ],
     [
         "15) Which of the following is true of value-based pricing?",
-        "A) The targeted value and price drive decisions about what costs can be incurred and the",
+        "A) The targeted value and price drive decisions about what costs can be incurred and the resulting product design.",
         "B) Value-based pricing is mostly product driven.",
-        "C) Value-based pricing involves setting prices based on the costs of producing, distributing, and",
+        "C) Value-based pricing involves setting prices based on the costs of producing, distributing, and selling the product plus a fair rate of return for its effort and risk.",
         "D) The marketer usually designs a product and marketing program and then sets the price.",
-        "E) A company using value-based pricing designs what it considers to be a good product, adds",
+        "E) A company using value-based pricing designs what it considers to be a good product, adds up the costs of making the product, and sets a price that covers costs plus a target profit.",
         [
             1
         ]
@@ -11146,7 +11146,7 @@ let data = [
         "31) Companies that adopt value-added pricing ________.",
         "A) consider value-added features as a fitting substitute for aggressive cost cutting",
         "B) set incredibly low prices to meet competition",
-        "C) attach value-added features and services to differentiate their offers and support their higher",
+        "C) attach value-added features and services to differentiate their offers and support their higher prices",
         "D) overprice their products without any apparent justification",
         "E) underprice their products and lower quality to boost demand in the short-run",
         [
@@ -11155,9 +11155,9 @@ let data = [
     ],
     [
         "32) Which of the following is true with regard to value-added pricing?",
-        "A) Companies that practice value-added pricing typically match the competition by cutting",
-        "B) Companies practicing value-added pricing differentiate their offers by attaching value-added",
-        "C) The intrinsic value of products sold by companies practicing value-added pricing is far less",
+        "A) Companies that practice value-added pricing typically match the competition by cutting prices.",
+        "B) Companies practicing value-added pricing differentiate their offers by attaching value-added features to offerings that, in turn, justify higher prices.",
+        "C) The intrinsic value of products sold by companies practicing value-added pricing is far less than their actual selling price.",
         "D) Companies practicing value-added pricing primarily rely on cost differentiation.",
         "E) Value-added pricing is the most suitable pricing strategy in pure monopolies.",
         [
@@ -11200,7 +11200,7 @@ let data = [
     [
         "36) Companies with higher costs ________.",
         "A) can drive out competitors through their pricing strategy",
-        "B) intentionally pay higher costs so that they can add value through higher quality and claim",
+        "B) intentionally pay higher costs so that they can add value through higher quality and claim higher prices and margins",
         "C) can set lower prices that result in increased sales though with lower margins",
         "D) specialize in selling products without value-added features",
         "E) are more financially successful",
@@ -11309,10 +11309,10 @@ let data = [
     ],
     [
         "46) A cell phone manufacturing firm produced 1,000 cell phones a day but believed that it could reasonably step up production to 2,000 cell phones a day. Consequently, it built a larger plant and installed efficient machinery and work arrangements to realize the projected output. Which of the following can most likely be inferred from this information?",
-        "A) The unit cost of producing 2,000 cell phones per day would be twice that of the unit cost of",
-        "B) A production plant with the capacity of producing 5,000 cell phones a day would be most",
-        "C) The unit cost of producing 2,000 cell phones per day would be lower than the unit cost of",
-        "D) A 2,000-capacity production plant would be less efficient because of increasing",
+        "A) The unit cost of producing 2,000 cell phones per day would be twice that of the unit cost of producing 1,000 units per day.",
+        "B) A production plant with the capacity of producing 5,000 cell phones a day would be most efficient.",
+        "C) The unit cost of producing 2,000 cell phones per day would be lower than the unit cost of producing 1,000 units per day.",
+        "D) A 2,000-capacity production plant would be less efficient because of increasing diseconomies of scale.",
         "E) The fixed costs of the firm are more likely to increase with the increase in output.",
         [
             3
@@ -11324,7 +11324,7 @@ let data = [
         "B) projected total production costs of competitors",
         "C) variable costs incurred by a firm over time",
         "D) fixed costs incurred by a firm over the long term",
-        "E) number of units the market will buy in a given time period, at different prices that might be",
+        "E) number of units the market will buy in a given time period, at different prices that might be charged",
         [
             1
         ]
@@ -11343,8 +11343,8 @@ let data = [
     [
         "49) The learning curve is representative of the ________.",
         "A) per unit cost of output in the long run",
-        "B) drop in the average per-unit production cost that comes with accumulated production",
-        "C) number of units the market will buy in a given time period, at different prices that might be",
+        "B) drop in the average per-unit production cost that comes with accumulated production experience",
+        "C) number of units the market will buy in a given time period, at different prices that might be charged",
         "D) total market demand resulting from different prices",
         "E) per unit cost of output in the short run",
         [
@@ -11500,7 +11500,7 @@ let data = [
         "B) Markup pricing tends to maximize market competition.",
         "C) Markup pricing affords buyers greater bargaining power.",
         "D) Sellers do not need to make frequent adjustments as demand changes.",
-        "E) Markup pricing is designed to set prices to break even on the costs of making and marketing",
+        "E) Markup pricing is designed to set prices to break even on the costs of making and marketing a product.",
         [
             4
         ]
@@ -11562,9 +11562,9 @@ let data = [
     ],
     [
         "69) Which of the following statements about break-even analysis is true?",
-        "A) It is used to determine how much production experience a company must have in order to",
+        "A) It is used to determine how much production experience a company must have in order to achieve desired efficiencies.",
         "B) It is a technique used to calculate fixed costs.",
-        "C) It determines the amount of retained earnings a company will have during a given",
+        "C) It determines the amount of retained earnings a company will have during a given accounting period.",
         "D) It is a technique marketers use to determine the relationship between supply and demand.",
         "E) It is calculated by using variable costs, the unit price, and fixed costs.",
         [
@@ -11826,7 +11826,7 @@ let data = [
     ],
     [
         "124) Which of the following exemplifies a pure competitive market?",
-        "A) a market where many buyers and sellers trade over a range of prices rather than a single",
+        "A) a market where many buyers and sellers trade over a range of prices rather than a single market price",
         "B) a market where a single firm controls the larger fraction of the market share",
         "C) a market where a few powerful firms control the larger fraction of the market share",
         "D) a market characterized by only a few large sellers",
@@ -11873,7 +11873,7 @@ let data = [
         "A) Under pure competition, no single buyer or seller has much effect on the going market price.",
         "B) In a purely competitive market, marketing research is of utmost importance.",
         "C) In a purely competitive market, product development is the focus of most firms.",
-        "D) Under pure competition, the market consists of many buyers and sellers who trade over a",
+        "D) Under pure competition, the market consists of many buyers and sellers who trade over a range of prices rather than a single market price.",
         "E) Under pure competition, the market consists of only a few large sellers.",
         [
             1
@@ -11881,7 +11881,7 @@ let data = [
     ],
     [
         "129) Which of the following is true with regard to monopolistic competition?",
-        "A) Under monopolistic competition, the market consists of many buyers and sellers who trade",
+        "A) Under monopolistic competition, the market consists of many buyers and sellers who trade at a single market price.",
         "B) Under monopolistic competition, the market consists of only a few large sellers.",
         "C) In a monopolistic market, little time is spent on marketing strategy.",
         "D) Sellers can differentiate their products to buyers.",
@@ -11916,7 +11916,7 @@ let data = [
         "132) Under oligopolistic competition ________.",
         "A) the market consists of a single dominant seller",
         "B) the market consists of numerous small sellers",
-        "C) the market consists of many buyers and sellers who trade over a range of prices rather than a",
+        "C) the market consists of many buyers and sellers who trade over a range of prices rather than a single market price",
         "D) sellers are typically unresponsive to competitors' pricing strategies and marketing moves",
         "E) the market consists of only a few large sellers",
         [
@@ -11936,11 +11936,11 @@ let data = [
     ],
     [
         "134) Which of the following is true about the demand curve?",
-        "A) A demand curve indicates the drop in the average per-unit production cost that comes with",
+        "A) A demand curve indicates the drop in the average per-unit production cost that comes with accumulated production experience.",
         "B) A demand curve indicates the cost per unit of output in the long run.",
         "C) A demand curve indicates the cost per unit of output in the short run.",
-        "D) In a monopoly, the demand curve does not indicate the total market demand resulting from",
-        "E) A demand curve shows the number of units the market will buy in a given time period at",
+        "D) In a monopoly, the demand curve does not indicate the total market demand resulting from different prices.",
+        "E) A demand curve shows the number of units the market will buy in a given time period at different prices that might be charged.",
         [
             5
         ]
@@ -12245,9 +12245,9 @@ let data = [
     [
         "25) Which of the following companies uses product line pricing?",
         "A) Photo Genie, which sells inexpensive cameras that run only on their own expensive batteries",
-        "B) Mobile Point, which launched a range of cell phone models, each priced according to its",
-        "C) Penguin's Parlor, which offers customers a 20-percent discount on their birthdays and certain",
-        "D) Green Thumb, which gives away free watering cans with the purchase of certain potted",
+        "B) Mobile Point, which launched a range of cell phone models, each priced according to its features",
+        "C) Penguin's Parlor, which offers customers a 20-percent discount on their birthdays and certain holidays",
+        "D) Green Thumb, which gives away free watering cans with the purchase of certain potted plants",
         "E) Panizza, whose combo meals are priced lower than the individual components sold together",
         [
             2
@@ -12325,7 +12325,7 @@ let data = [
         "B) Go Zone, which launched a range of tablet models, each priced according to its features",
         "C) Penguin's Parlor, which offers customers a 20-percent discount on their birthdays",
         "D) Sportsprint, which prices sports equipment according to customer evaluations",
-        "E) Burger Den, whose combo meals are priced lower than its individual components sold",
+        "E) Burger Den, whose combo meals are priced lower than its individual components sold together",
         [
             1
         ]
@@ -12398,10 +12398,10 @@ let data = [
     ],
     [
         "39) Which of the following companies uses product bundle pricing?",
-        "A) Photo Genie, which sells inexpensive cameras that run only on their own, expensive,",
+        "A) Photo Genie, which sells inexpensive cameras that run only on their own, expensive, batteries",
         "B) Go Zone, which launched a range of tablet models, each priced according to its features",
         "C) Penguin's Parlor, which offers customers a 20 percent discount on their birthdays",
-        "D) Green Thumb, which gives away free watering cans with the purchase of certain potted",
+        "D) Green Thumb, which gives away free watering cans with the purchase of certain potted plants",
         "E) Panizza, whose combo meals are priced lower than its individual components sold together",
         [
             5
@@ -12775,7 +12775,7 @@ let data = [
         "A) It leads to 'deal-prone' customers who buy products only during sales.",
         "B) It fortifies the brand's image in the eyes of customers if relied upon extensively.",
         "C) It simplifies shopping for customers if used simultaneously by multiple stores.",
-        "D) It makes balancing short-term sales incentives against long-term brand building",
+        "D) It makes balancing short-term sales incentives against long-term brand building unnecessary.",
         "E) It is extremely beneficial for the brand's profitability if practiced repeatedly.",
         [
             1
@@ -13269,7 +13269,7 @@ let data = [
         "158) While comparison pricing claims are legal if they are truthful, the FTC warns sellers not to advertise a) factory or wholesale prices unless such prices are what they claim to be, b) comparable value prices on imperfect goods, or c) ________.",
         "A) a sale unless the products are available in sufficient quantity to meet expected demand",
         "B) in a way which confuses potential buyers of the product",
-        "C) a description of a product unless all versions of the product are offered with the same pricing",
+        "C) a description of a product unless all versions of the product are offered with the same pricing terms",
         "D) a price reduction unless it is a savings from the usual retail price",
         "E) if only a limited quantity are available at the reduced price",
         [
@@ -13388,7 +13388,7 @@ let data = [
     ],
     [
         "9) Which of the following questions is NOT of major concern regarding marketing channels?",
-        "A) What role do physical distribution and supply chain management plan in attracting and",
+        "A) What role do physical distribution and supply chain management plan in attracting and satisfying customers?",
         "B) What impact do marketing channels have on the profitability of the firm and its partners?",
         "C) How do channel firms interact and organize to do the work of the channel?",
         "D) What problems do companies face in designing and managing their channels?",
@@ -13423,9 +13423,9 @@ let data = [
         "12) Distribution channel decisions frequently require long-term commitments between firms. A primary reason is that ________.",
         "A) advertising is not easy to change",
         "B) old products are difficult to discard and new products are difficult to introduce",
-        "C) when they set up distribution through franchisees, independent dealers, or large retailers,",
+        "C) when they set up distribution through franchisees, independent dealers, or large retailers, they cannot readily replace these channels with company-owned stores or Internet sites if conditions change",
         "D) changing the manufacturing requirements is expensive and takes significant time",
-        "E) management does not want to be constantly changing the method of selling and distributing",
+        "E) management does not want to be constantly changing the method of selling and distributing its products",
         [
             3
         ]
@@ -13476,10 +13476,10 @@ let data = [
     ],
     [
         "17) Which of the following companies uses a direct marketing channel?",
-        "A) Fishhooks, a factory that manufactures fishing equipment that it ships to hobby stores",
-        "B) Germfight, a factory that manufactures dental products that it distributes only to select",
+        "A) Fishhooks, a factory that manufactures fishing equipment that it ships to hobby stores worldwide",
+        "B) Germfight, a factory that manufactures dental products that it distributes only to select department stores",
         "C) Apple Blossoms, a company that sells its cosmetics exclusively through Ray's Retail Store",
-        "D) Holly Wreaths, a store that sells Christmas ornaments to customers via its online click-to-",
+        "D) Holly Wreaths, a store that sells Christmas ornaments to customers via its online click-to- order catalogs",
         "E) Showdown, a clothing store that stocks merchandise from different international brands",
         [
             4
@@ -13929,9 +13929,9 @@ let data = [
         "70) Which of the following is true of changes in the organization of distribution channels?",
         "A) Developing new channels seldom causes conflict with a company's established channels.",
         "B) To remain competitive, product and service producers must use fewer marketing channels.",
-        "C) The growth of the Internet threatens many brick-and-mortar companies with",
-        "D) Companies have fewer channel options today than they did in the past due to economic",
-        "E) Advances in technology have decreased the number of channels available to entrepreneurial",
+        "C) The growth of the Internet threatens many brick-and-mortar companies with disintermediation.",
+        "D) Companies have fewer channel options today than they did in the past due to economic problems.",
+        "E) Advances in technology have decreased the number of channels available to entrepreneurial firms.",
         [
             3
         ]
@@ -14162,7 +14162,7 @@ let data = [
         "B) partner relationship management",
         "C) working to sell through the intermediaries",
         "D) persuading the intermediaries that they are first-line customers",
-        "E) convincing channel members that each will enjoy greater success working together with a",
+        "E) convincing channel members that each will enjoy greater success working together with a common goal",
         [
             1
         ]
@@ -14313,9 +14313,9 @@ let data = [
     [
         "138) Logistics has grown in importance for all of the following reasons EXCEPT that ________.",
         "A) companies that become channel members want to continue to grow and expand.",
-        "B) companies can gain a powerful competitive advantage by using improved logistics to give",
+        "B) companies can gain a powerful competitive advantage by using improved logistics to give customers better service or lower prices.",
         "C) improved logistics can yield tremendous cost savings to both a company and its customers.",
-        "D) more than almost any other marketing function, logistics affects the environment and a",
+        "D) more than almost any other marketing function, logistics affects the environment and a firm's environmental sustainability efforts.",
         "E) the explosion in product variety has created a need for improved logistics management.",
         [
             1
@@ -14357,8 +14357,8 @@ let data = [
     [
         "142) Which of the following is true of using trucks as a transportation mode?",
         "A) Transportation via trucks is costlier than by rail or air.",
-        "B) Trucks are a specialized means of shipping petroleum, natural gas, and chemicals from",
-        "C) Trucks provide in-transit services such as the diversion of shipped goods to other",
+        "B) Trucks are a specialized means of shipping petroleum, natural gas, and chemicals from sources to markets.",
+        "C) Trucks provide in-transit services such as the diversion of shipped goods to other destinations en route.",
         "D) Trucks are highly flexible in their routing and time schedules.",
         "E) Trucks are the slowest mode of transportation and most affected by the weather.",
         [
@@ -14368,8 +14368,8 @@ let data = [
     [
         "143) Which of the following is true of transporting goods via railroads?",
         "A) Railroads are ideal for the transportation of digital technology.",
-        "B) Railroads are a specialized means of shipping petroleum, natural gas, and chemicals from",
-        "C) Railroads are a cost-effective way to ship large amounts of bulk products over long",
+        "B) Railroads are a specialized means of shipping petroleum, natural gas, and chemicals from sources to markets.",
+        "C) Railroads are a cost-effective way to ship large amounts of bulk products over long distances.",
         "D) Railroads are the most flexible mode of transportation in their routing and time schedules.",
         "E) Railroads are the slowest mode of transportation and are the most affected by the weather.",
         [
@@ -14382,7 +14382,7 @@ let data = [
         "B) Water carriers are highly flexible in their routing and time schedules.",
         "C) Water transportation provides in-transit services, such as the processing of goods en route.",
         "D) Water transportation is ideal when time is short and speed is needed.",
-        "E) Water transportation is the slowest mode of transportation and the most affected by the",
+        "E) Water transportation is the slowest mode of transportation and the most affected by the weather.",
         [
             5
         ]
@@ -14400,7 +14400,7 @@ let data = [
     ],
     [
         "146) Which of the following is true about using air carriers as a transportation mode when shipping products?",
-        "A) Air carriers are the most cost-effective way to ship non-perishable goods over short",
+        "A) Air carriers are the most cost-effective way to ship non-perishable goods over short distances.",
         "B) Air carriers are the slowest and least reliable modes of transport.",
         "C) Air carriers provide in-transit services such as the processing of goods en route.",
         "D) Air carriers are ideal when time is short and speed is needed.",
@@ -15863,10 +15863,10 @@ let data = [
     ],
     [
         "19) Which of the following statements is true regarding today's marketing communications?",
-        "A) More marketers are shifting away from narrowly defined micromarkets and moving toward",
-        "B) More customers have started relying on marketer-supplied information rather than finding",
-        "C) Network television, magazines, newspapers, and other traditional mass media continue to",
-        "D) Focused marketing programs, which are designed to build closer relationships with",
+        "A) More marketers are shifting away from narrowly defined micromarkets and moving toward mass marketing.",
+        "B) More customers have started relying on marketer-supplied information rather than finding out information on their own.",
+        "C) Network television, magazines, newspapers, and other traditional mass media continue to increase their dominance.",
+        "D) Focused marketing programs, which are designed to build closer relationships with customers in more narrowly defined micromarkets, are no longer used by marketers.",
         "E) Today's consumers are better informed about products and services.",
         [
             5
@@ -16424,7 +16424,7 @@ let data = [
     ],
     [
         "82) Moral appeals ________.",
-        "A) relate to the audience's self-interest by showing that the product will produce the desired",
+        "A) relate to the audience's self-interest by showing that the product will produce the desired benefits",
         "B) attempt to stir up either negative or positive emotions that can motivate purchase",
         "C) range from love, joy, and humor to fear and guilt",
         "D) are directed to an audience's sense of what is \"right\" and \"proper\"",
@@ -16655,11 +16655,11 @@ let data = [
     ],
     [
         "124) Which of the following statements is most likely true regarding the competitive-parity method?",
-        "A) This method involves starting with total revenues, deducting operating expenses and capital",
+        "A) This method involves starting with total revenues, deducting operating expenses and capital outlays, and then devoting some portion of the remaining funds to advertising.",
         "B) It is based on the availability of funds rather than on opportunities.",
         "C) It wrongly views sales as the cause of promotion rather than as the result.",
         "D) In this method, promotion budgets are set to match competitors' outlays.",
-        "E) This method involves setting the promotion budget at a certain percentage of current or",
+        "E) This method involves setting the promotion budget at a certain percentage of current or forecasted sales.",
         [
             4
         ]
@@ -16688,7 +16688,7 @@ let data = [
     ],
     [
         "127) Which of the following statements is most likely true regarding the objective-and-task method of budget setting?",
-        "A) It forces management to spell out its assumptions about the relationship between the money",
+        "A) It forces management to spell out its assumptions about the relationship between the money spent and promotion results.",
         "B) It is the simplest and least time consuming method to use.",
         "C) It is the least logical budget-setting method.",
         "D) It involves setting the promotion budget to match competitors' outlays.",
@@ -17253,7 +17253,7 @@ let data = [
         "B) Brand content is usually created in-house by the company.",
         "C) Which media to use is sometimes more critical than the creative elements of the messaging.",
         "D) Market targeting has declined in importance in the planning stages.",
-        "E) Because so many consumers use the same mobile and social media applications, messaging",
+        "E) Because so many consumers use the same mobile and social media applications, messaging can be less focused.",
         [
             3
         ]
@@ -17999,7 +17999,7 @@ let data = [
         "144) How can public relations have a strong impact at a much lower cost than advertising?",
         "A) The firm can pay for content to be spread.",
         "B) Interested consumers can create the content on their own and spread it.",
-        "C) Interesting brand stories, events, videos, or other content can be shared by sources out of the",
+        "C) Interesting brand stories, events, videos, or other content can be shared by sources out of the company's control, but to its benefit.",
         "D) Advertising agencies can minimize the impact of competitors' news.",
         "E) Advertising costs have changed dramatically due to changing technologies.",
         [
@@ -18129,9 +18129,9 @@ let data = [
     ],
     [
         "1) Which of the following is true with regard to personal selling?",
-        "A) Personal selling entails personal presentations by a firm's sales force for the purpose of",
-        "B) Personal selling involves making personal requests to potential buyers to enter into short-",
-        "C) Personal selling distances the buyer from the seller and does not focus on building enduring",
+        "A) Personal selling entails personal presentations by a firm's sales force for the purpose of making sales and building customer relationships.",
+        "B) Personal selling involves making personal requests to potential buyers to enter into short- term business relationships with firms.",
+        "C) Personal selling distances the buyer from the seller and does not focus on building enduring relationships.",
         "D) An outside sales force is not involved in personal selling.",
         "E) Personal selling is a relatively new profession.",
         [
@@ -18155,7 +18155,7 @@ let data = [
         "B) Salespeople represent workers' interests to upper management.",
         "C) The primary responsibility of a sales force is to formulate operational strategies.",
         "D) The sales force is responsible for product development and product strategy.",
-        "E) The sales force oversees the auditing process and recovers money from defaulting",
+        "E) The sales force oversees the auditing process and recovers money from defaulting customers.",
         [
             1
         ]
@@ -18185,8 +18185,8 @@ let data = [
     [
         "6) Which of the following would most likely improve coordination between marketing and sales?",
         "A) Salespeople should directly participate in the development of new products.",
-        "B) Salespeople should participate in marketing planning sessions by sharing firsthand customer",
-        "C) The sales force should strategize promotional strategies and be the primary decision makers",
+        "B) Salespeople should participate in marketing planning sessions by sharing firsthand customer knowledge.",
+        "C) The sales force should strategize promotional strategies and be the primary decision makers about marketing.",
         "D) Marketing managers should field test new promotion strategies before the sales team.",
         "E) The marketing and sales departments should conduct annual job rotations.",
         [
@@ -18206,7 +18206,7 @@ let data = [
     ],
     [
         "8) At Price & Wallace Inc., a pharmaceuticals company, members of the sales force and marketing department tend to have disagreements when things go wrong with a customer. The marketers blame the salespeople for poorly executing their strategies, while the salespeople blame the marketers for being out of touch with customers. Which of the following steps should upper management at Price & Wallace take to help bring the sales and marketing functions closer together?",
-        "A) establish a customer sales force structure and make sure that sales quotas are easily",
+        "A) establish a customer sales force structure and make sure that sales quotas are easily achievable",
         "B) establish a complex sales force structure",
         "C) emphasize traditional methods of selling",
         "D) adopt a sales force automation system and implement team selling",
@@ -18264,8 +18264,8 @@ let data = [
         "A) The territorial sales force structure does not define each salesperson's job clearly.",
         "B) Salespeople specialize in selling only a small portion of the company's products.",
         "C) In a territorial sales force structure, separate sales forces are set up for different industries.",
-        "D) Travel expenses are relatively small as each salesperson travels within a limited geographic",
-        "E) In a territorial sales force structure, separate sales forces are often established to handle a",
+        "D) Travel expenses are relatively small as each salesperson travels within a limited geographic area.",
+        "E) In a territorial sales force structure, separate sales forces are often established to handle a single, large account in every territory.",
         [
             4
         ]
@@ -18273,7 +18273,7 @@ let data = [
     [
         "19) Ultra Tech Inc., a company manufacturing gardening tools, has decided to switch to a territorial sales force structure. Which of the following benefits is the company most likely to gain as a result of this decision?",
         "A) The cost of training new recruits would be eliminated.",
-        "B) An increased focus on short-term customer relationships would boost local sales of",
+        "B) An increased focus on short-term customer relationships would boost local sales of specialized products.",
         "C) Each salesperson would be assigned to sell a single product in which he/she specializes.",
         "D) The capacity for mass production of a wide range of products would significantly increase.",
         "E) As each salesperson travels within a limited geographic area, travel expenses would decline.",
@@ -18294,10 +18294,10 @@ let data = [
     ],
     [
         "21) Which of the following is true about the product sales force structure?",
-        "A) A product sales force structure is most appropriate for a company that manufactures a small",
-        "B) In a product sales force structure, each salesperson is assigned to an exclusive geographic",
-        "C) In a product sales force structure, salespersons specialize in only a particular product line as",
-        "D) In a product sales force structure, a single salesperson can become an expert in all product",
+        "A) A product sales force structure is most appropriate for a company that manufactures a small number of simple products.",
+        "B) In a product sales force structure, each salesperson is assigned to an exclusive geographic area and sells the company's full line of products or services to all customers in that territory.",
+        "C) In a product sales force structure, salespersons specialize in only a particular product line as the company produces numerous and complex products.",
+        "D) In a product sales force structure, a single salesperson can become an expert in all product categories.",
         "E) In a product sales force structure, specialization is highly discouraged.",
         [
             3
@@ -18316,11 +18316,11 @@ let data = [
     ],
     [
         "23) Which of the following is true about the customer sales force structure?",
-        "A) The customer sales force structure is a combination of territorial sales force structure and",
-        "B) Each salesperson is assigned to an exclusive geographic area and sells the company's full",
-        "C) Salespersons specialize in only a particular product line as the company produces numerous",
-        "D) Companies using customer sales force structure tend to ignore the importance of long-term",
-        "E) Separate sales forces are set up for different industries, serving current customers versus",
+        "A) The customer sales force structure is a combination of territorial sales force structure and product sales force structure.",
+        "B) Each salesperson is assigned to an exclusive geographic area and sells the company's full line of products or services to all customers in that territory.",
+        "C) Salespersons specialize in only a particular product line as the company produces numerous and complex products.",
+        "D) Companies using customer sales force structure tend to ignore the importance of long-term relationship building with customers.",
+        "E) Separate sales forces are set up for different industries, serving current customers versus finding new ones.",
         [
             5
         ]
@@ -18338,11 +18338,11 @@ let data = [
     ],
     [
         "25) In what situation is a complex sales force structure used?",
-        "A) when a company sells a narrow variety of products to few types of customers over a broad",
-        "B) when a company sells a wide variety of products to many types of customers over a broad",
-        "C) when a company sells a wide variety of products to many types of customers over a small",
-        "D) when a company sells a wide variety of products to few types of customers over a small",
-        "E) when a company sells a narrow variety of products to many types of customers over a small",
+        "A) when a company sells a narrow variety of products to few types of customers over a broad geographic area",
+        "B) when a company sells a wide variety of products to many types of customers over a broad geographic area",
+        "C) when a company sells a wide variety of products to many types of customers over a small geographic area",
+        "D) when a company sells a wide variety of products to few types of customers over a small geographic area",
+        "E) when a company sells a narrow variety of products to many types of customers over a small geographic area",
         [
             2
         ]
@@ -18426,11 +18426,11 @@ let data = [
     ],
     [
         "33) Which of the following is true with regard to the inside sales force of a company?",
-        "A) The inside sales force is invariably more attentive to customer needs than the outside sales",
+        "A) The inside sales force is invariably more attentive to customer needs than the outside sales force.",
         "B) Unlike the outside sales force, the inside sales force does not require training.",
         "C) Inside sales representatives engage in face-to-face interaction with customers.",
-        "D) The inside sales force is far more knowledgeable about customer habits than are outside",
-        "E) Inside salespeople provide support for the outside sales force, freeing them to spend more",
+        "D) The inside sales force is far more knowledgeable about customer habits than are outside salespeople.",
+        "E) Inside salespeople provide support for the outside sales force, freeing them to spend more time selling to major accounts and finding new prospects.",
         [
             5
         ]
@@ -18449,7 +18449,7 @@ let data = [
     [
         "35) Which of the following best explains the growth of telephone and online selling?",
         "A) the use of the Do Not Call Registry",
-        "B) the ability to make up to 8 times as many more customer contacts per day than an outside",
+        "B) the ability to make up to 8 times as many more customer contacts per day than an outside salesperson",
         "C) the similarity in cost between the inside and outside sales forces",
         "D) the difficulty and expense of reaching some customers",
         "E) the preference of customers for face-to-face contact",
@@ -18460,7 +18460,7 @@ let data = [
     [
         "36) Travis Computing Systems earns most of its revenue from sales and in-person computer services. The sales force at Travis recently began telemarketing and online selling. How would telemarketing and online selling most likely benefit Travis?",
         "A) The need for an outside sales force would be completely eliminated through telemarketing.",
-        "B) Travis sales reps would be able to engage in more frequent face-to-face interaction with",
+        "B) Travis sales reps would be able to engage in more frequent face-to-face interaction with large, high-value customers.",
         "C) Travis sales reps would be able to service hard-to-reach customers more effectively.",
         "D) The overhead costs of Travis would significantly decrease.",
         "E) The current liabilities of Travis would decrease.",
@@ -18481,9 +18481,9 @@ let data = [
     ],
     [
         "38) Which of the following best explains why companies are adopting the team selling approach to service large, complex accounts?",
-        "A) Products have become too complicated for one salesperson to handle a large company's",
+        "A) Products have become too complicated for one salesperson to handle a large company's needs.",
         "B) Customers prefer dealing with many salespeople rather than one sales representative.",
-        "C) Job rotation, an integral part of team selling, keeps workers motivated and boosts their",
+        "C) Job rotation, an integral part of team selling, keeps workers motivated and boosts their morale.",
         "D) Team selling facilitates the evaluation of individual contributions.",
         "E) With team selling, companies are not required to train the outside sales force any longer.",
         [
@@ -18504,10 +18504,10 @@ let data = [
     [
         "40) All of the following are disadvantages of team selling EXCEPT ________.",
         "A) selling teams can be confusing and overwhelming for customers",
-        "B) salespeople who are used to having customers all to themselves may have trouble learning to",
+        "B) salespeople who are used to having customers all to themselves may have trouble learning to work with and trust others on a team",
         "C) team selling reduces the overall efficiency of the selling process",
         "D) individual contributions and compensations can be difficult to assess in team selling",
-        "E) team selling discourages individual contributors because the team receives credit for good",
+        "E) team selling discourages individual contributors because the team receives credit for good performance",
         [
             3
         ]
@@ -18569,7 +18569,7 @@ let data = [
     ],
     [
         "46) Which of the following is a primary reason that companies use e-learning to conduct sales training programs?",
-        "A) Customer needs and habits can be unambiguously conveyed through online training",
+        "A) Customer needs and habits can be unambiguously conveyed through online training programs.",
         "B) Sales training programs that do not use e-learning are mostly ineffective.",
         "C) E-learning eliminates employee attrition.",
         "D) E-learning is the best way to simulate real-life sales calls.",
@@ -18613,11 +18613,11 @@ let data = [
     ],
     [
         "50) Which of the following is most likely a true statement about sales compensation in economically tough circumstances?",
-        "A) Cutting sales force compensation is usually a last resort for firms that want to maintain",
-        "B) Morale is boosted by distributing commissions equally among low and high sales",
+        "A) Cutting sales force compensation is usually a last resort for firms that want to maintain positive customer relationships.",
+        "B) Morale is boosted by distributing commissions equally among low and high sales performers.",
         "C) Online selling is discontinued to improve customer relations.",
-        "D) Compensation for the inside sales force is reduced to increase commissions for the outside",
-        "E) Low performers are retained and top performers are dismissed to reduce commission",
+        "D) Compensation for the inside sales force is reduced to increase commissions for the outside sales force.",
+        "E) Low performers are retained and top performers are dismissed to reduce commission payments.",
         [
             1
         ]
@@ -18943,8 +18943,8 @@ let data = [
     ],
     [
         "111) Which of the following is true with regard to value selling?",
-        "A) Value selling refers to earning business from customers by cutting down prices of value",
-        "B) Value selling refers to delivering superior customer value and capturing a fair return on that",
+        "A) Value selling refers to earning business from customers by cutting down prices of value products.",
+        "B) Value selling refers to delivering superior customer value and capturing a fair return on that value.",
         "C) Value selling refers to the mass production of inferior-quality goods for sale.",
         "D) Value selling dilutes customer loyalty in the long run.",
         "E) Value selling tarnishes the brand image of a product in the long run.",
@@ -18979,7 +18979,7 @@ let data = [
         "A) Salespersons meet and greet the buyer.",
         "B) Salespersons learn as much as possible about the organization.",
         "C) Salespersons identify qualified potential customers.",
-        "D) Salespersons tell the \"value story\" to the buyer, showing how the company's offer solves the",
+        "D) Salespersons tell the \"value story\" to the buyer, showing how the company's offer solves the customer's problems.",
         "E) Salespersons ask for the order, review points of agreement, and offer to write up the order.",
         [
             3
@@ -19240,11 +19240,11 @@ let data = [
     ],
     [
         "149) Which of the following is an example of trade promotion?",
-        "A) manufacturers offering regular value-for-money deals to attract thrifty and value-conscious",
+        "A) manufacturers offering regular value-for-money deals to attract thrifty and value-conscious customers",
         "B) salespeople engaging in door-to-door selling activities",
         "C) manufacturers offering free merchandise to resellers who feature a certain flavor or size",
         "D) advertisers claiming that a certain product is the best in the market",
-        "E) marketers selling specialty products to a small segment of customers with unique",
+        "E) marketers selling specialty products to a small segment of customers with unique preferences",
         [
             3
         ]
@@ -19420,7 +19420,7 @@ let data = [
         "B) Salespersons are compensated for other salespeople they recruit.",
         "C) Online direct marketing allows sellers to create immediate, timely, and personal offers.",
         "D) Online direct marketing involves two or more intermediaries.",
-        "E) In online direct marketing, outside and inside sales forces coordinate to provide value",
+        "E) In online direct marketing, outside and inside sales forces coordinate to provide value products to customers.",
         [
             3
         ]
@@ -19585,7 +19585,7 @@ let data = [
         "B) build closer customer relationships",
         "C) generate engagement with and between the brand and its customers",
         "D) increase online sales",
-        "E) allows visitors to interact with likeminded people to explore and communicate experiences",
+        "E) allows visitors to interact with likeminded people to explore and communicate experiences with the brand",
         [
             4
         ]
@@ -19593,7 +19593,7 @@ let data = [
     [
         "33) Companies must attract visitors to their Web sites. Which of the following is a method companies use to entice visitors not just to visit but also to return to a site?",
         "A) using flashy graphics, bright colors and vivid pictures",
-        "B) aggressively promoting the site in broadcast advertising and through ads and links on other",
+        "B) aggressively promoting the site in broadcast advertising and through ads and links on other sites",
         "C) offering prizes for visiting the site",
         "D) providing rewards for visitors connecting their friends to the site",
         "E) requiring registration on the first visit to the site",
@@ -19647,11 +19647,11 @@ let data = [
     ],
     [
         "38) Which of the following is true about e-mail marketing messages?",
-        "A) E-mail marketing messages involve sending an offer, announcement, reminder, or sample to",
-        "B) E-mail marketing messages involve connecting directly with carefully targeted consumers,",
-        "C) E-mail marketing messages are effective in reaching the desired target market and result in",
-        "D) E-mail marketing messages cost more per thousand people reached than mass media such as",
-        "E) E-mail marketing messages create a stronger emotional connection with the customers",
+        "A) E-mail marketing messages involve sending an offer, announcement, reminder, or sample to a person living at a particular address.",
+        "B) E-mail marketing messages involve connecting directly with carefully targeted consumers, exclusively on a one-to-one, interactive basis.",
+        "C) E-mail marketing messages are effective in reaching the desired target market and result in low costs.",
+        "D) E-mail marketing messages cost more per thousand people reached than mass media such as television or magazines.",
+        "E) E-mail marketing messages create a stronger emotional connection with the customers compared to traditional direct mail.",
         [
             3
         ]
@@ -19748,9 +19748,9 @@ let data = [
         "47) Which of the following statements is true of viral marketing?",
         "A) Marketers have significant control over where their viral messages end up.",
         "B) Viral marketing gives consumers online places to congregate, socialize, and exchange views.",
-        "C) Because customers find and pass along the message, viral marketing can be very",
-        "D) In viral marketing, links appear alongside search engine results on sites such as Google and",
-        "E) Viral marketing messages are blocked by most search engines, security software, and social",
+        "C) Because customers find and pass along the message, viral marketing can be very inexpensive.",
+        "D) In viral marketing, links appear alongside search engine results on sites such as Google and Bing.",
+        "E) Viral marketing messages are blocked by most search engines, security software, and social networking sites.",
         [
             3
         ]
@@ -19760,7 +19760,7 @@ let data = [
         "A) Viral marketing usually takes time to make an impact.",
         "B) Viral marketing is very inexpensive.",
         "C) Marketers have great control over who receives the viral message.",
-        "D) Viral marketing messages are offensive to the audiences who are not a part of the targeted",
+        "D) Viral marketing messages are offensive to the audiences who are not a part of the targeted market.",
         "E) Viral marketing messages are blocked by most search engines.",
         [
             3
@@ -19816,7 +19816,7 @@ let data = [
         "B) Blogs are online selling platforms for people located in hard-to-reach places.",
         "C) Blogs help reach a wider audience compared to other online direct marketing tools.",
         "D) Demographic information about customers can be easily discovered.",
-        "E) Blogs can offer a fresh, original, personal, and cheap way to enter into consumer",
+        "E) Blogs can offer a fresh, original, personal, and cheap way to enter into consumer conversations.",
         [
             5
         ]
@@ -19826,8 +19826,8 @@ let data = [
         "A) The blogosphere is cluttered and difficult to control.",
         "B) Advertising on a blog is typically expensive and time consuming.",
         "C) Using blogs as a marketing tool offers minimum reach to a target audience.",
-        "D) Blogs, when used as a marketing tool, have a low rank in Web directories and search",
-        "E) Blogs do not provide the kind of personalized approach that today's marketers are looking",
+        "D) Blogs, when used as a marketing tool, have a low rank in Web directories and search engines.",
+        "E) Blogs do not provide the kind of personalized approach that today's marketers are looking for.",
         [
             1
         ]
@@ -19891,8 +19891,8 @@ let data = [
         "78) Which of the following is a challenge of marketing through online social networks?",
         "A) Results are hard to measure.",
         "B) Users seldom have control over the online social networks.",
-        "C) Most existing networks are already controlled by major corporations and therefore do not",
-        "D) It is difficult to get the approval of the online advisory board to post an ad in a social",
+        "C) Most existing networks are already controlled by major corporations and therefore do not favor competitors.",
+        "D) It is difficult to get the approval of the online advisory board to post an ad in a social network.",
         "E) Marketing via online social networks is expensive and time-consuming.",
         [
             1
@@ -20175,11 +20175,11 @@ let data = [
     ],
     [
         "111) How has do-not-call legislation helped direct marketers?",
-        "A) Marketers are compensated by the Federal Trade Commission for lost sales caused by the",
+        "A) Marketers are compensated by the Federal Trade Commission for lost sales caused by the laws.",
         "B) Direct marketers have outsourced their activities to firms that are exempt from such laws.",
         "C) Direct marketers have developed kiosks as an alternative to telemarketing.",
         "D) Telemarketers are allowed to call customers for a small fee.",
-        "E) Telemarketers have developed opt-in calling systems that target consumers who have chosen",
+        "E) Telemarketers have developed opt-in calling systems that target consumers who have chosen to be contacted and therefore are less invasive.",
         [
             5
         ]
@@ -20439,7 +20439,7 @@ let data = [
     ],
     [
         "135) According to the \"Privacy Promise to American Consumers\" program, DMA members need to comply with which of the following consumer privacy rules?",
-        "A) agree to notify customers when any personal information is rented, sold, or exchanged with",
+        "A) agree to notify customers when any personal information is rented, sold, or exchanged with others",
         "B) offer to register all customers in the National Do Not Call Registry",
         "C) make sure that consumers are adhering to the Children's Online Privacy Protection Act",
         "D) educate consumers on the Can Spam legislation",
@@ -21022,11 +21022,11 @@ let data = [
     ],
     [
         "80) Which of the following statements is true of the approaches to marketing strategy?",
-        "A) Intrepreneurial marketing applies to companies that sometimes lose their marketing",
-        "B) As small companies achieve success, they inevitably move away from more-formulated",
-        "C) Within a company, a single strategy exclusively applies to all different businesses and",
-        "D) Formulated marketing seldom involves developing formal marketing strategies and adhering",
-        "E) Formulated marketing encourages more marketing initiative and \"intrepreneurship\" at the",
+        "A) Intrepreneurial marketing applies to companies that sometimes lose their marketing creativity and passion that they had at the start.",
+        "B) As small companies achieve success, they inevitably move away from more-formulated marketing.",
+        "C) Within a company, a single strategy exclusively applies to all different businesses and products.",
+        "D) Formulated marketing seldom involves developing formal marketing strategies and adhering to them closely.",
+        "E) Formulated marketing encourages more marketing initiative and \"intrepreneurship\" at the local level.",
         [
             1
         ]
@@ -21528,11 +21528,11 @@ let data = [
     ],
     [
         "126) Which of the following statements is most likely true of market follower strategies?",
-        "A) Market followers have the resources to expand the market by developing new users, new",
-        "B) Market followers must expand internationally first to ensure distribution effectiveness, cost",
-        "C) Market followers should conduct indirect attacks on competitors' weaknesses to gain market",
-        "D) Market followers benefit from pursuing subsegments of target markets due to their limited",
-        "E) Market followers must keep manufacturing costs and prices low or product quality and",
+        "A) Market followers have the resources to expand the market by developing new users, new uses, and more usage of its products.",
+        "B) Market followers must expand internationally first to ensure distribution effectiveness, cost savings, and quality control.",
+        "C) Market followers should conduct indirect attacks on competitors' weaknesses to gain market share quickly and inexpensively.",
+        "D) Market followers benefit from pursuing subsegments of target markets due to their limited resources.",
+        "E) Market followers must keep manufacturing costs and prices low or product quality and services high.",
         [
             5
         ]
@@ -21550,9 +21550,9 @@ let data = [
     ],
     [
         "128) Market niching is profitable because the company ________.",
-        "A) copies or improves on the leader's products and programs, usually with much less",
-        "B) bears the cost of developing new products and markets, expanding distribution, and",
-        "C) knows the needs of the target customer segment better than other firms that casually attempt",
+        "A) copies or improves on the leader's products and programs, usually with much less investment",
+        "B) bears the cost of developing new products and markets, expanding distribution, and educating the market",
+        "C) knows the needs of the target customer segment better than other firms that casually attempt to sell to the same segment",
         "D) either keeps its manufacturing costs and prices low or its product quality and services high",
         "E) can achieve economies of scale much faster by selling the same product to the global market",
         [
@@ -22232,8 +22232,8 @@ let data = [
     ],
     [
         "46) Which of the following characterizes emerging economies?",
-        "A) Industrialization typically creates a new rich class and a growing middle class, both",
-        "B) They trade goods among themselves and also export them to other types of economies for",
+        "A) Industrialization typically creates a new rich class and a growing middle class, both demanding new types of imported goods.",
+        "B) They trade goods among themselves and also export them to other types of economies for raw materials and semifinished goods.",
         "C) Most African countries fall into this category.",
         "D) They consume most of their output and barter the rest for simple goods and services.",
         "E) These countries are the best markets for large equipment, tools and supplies, and trucks.",
@@ -23114,9 +23114,9 @@ let data = [
         "10) Sustainable marketing includes all of the following EXCEPT ________.",
         "A) going beyond caring for the needs and wants of today's customers",
         "B) focusing on profits and return to shareholders and employees above all else",
-        "C) having concern for tomorrow's customers in ensuring the success of the business,",
+        "C) having concern for tomorrow's customers in ensuring the success of the business, employees, and the broader world",
         "D) pursuing a mission of shared value and triple bottom line: people, planet, profits",
-        "E) provides context for companies to engage customers and build profitable relationships with",
+        "E) provides context for companies to engage customers and build profitable relationships with them by creating value for customers in order to capture value from customers in return, now and in the future.",
         [
             2
         ]
@@ -23203,7 +23203,7 @@ let data = [
         "A) brand name products cost more",
         "B) functional value also matters",
         "C) development costs should be covered in the price of the product",
-        "D) consumers want and are willing to pay more for products that provide psychological",
+        "D) consumers want and are willing to pay more for products that provide psychological benefits",
         "E) the services provided are demanded by customers",
         [
             4
@@ -23303,7 +23303,7 @@ let data = [
         "B) instantly toned thighs and legs as a result of using the Thigh Master for only 15 minutes",
         "C) children immediately growing into attractive adults as a result of drinking milk",
         "D) a retired couple drinking a vitamin and protein shake and then going bicycling",
-        "E) a sleepy mom who wakes up to a gray day, drinks a cup of coffee, and then looks out her",
+        "E) a sleepy mom who wakes up to a gray day, drinks a cup of coffee, and then looks out her window to see golden sunshine, beautiful flowers blooming, songbirds singing, and a rainbow on the horizon",
         [
             4
         ]
@@ -23928,7 +23928,7 @@ let data = [
         "109) A sustainability vision addresses not just challenges in the natural environment but also ________.",
         "A) challenges in the manufacturing and product development departments",
         "B) prods the firm's employees to identify personal ways to impact the environment",
-        "C) strategic opportunities for using environmental strategies to create sustainable value for the",
+        "C) strategic opportunities for using environmental strategies to create sustainable value for the firm",
         "D) in the economic and cultural environments",
         "E) enhances the company's reputation with consumers",
         [
@@ -24245,8 +24245,8 @@ let data = [
     ],
     [
         "163) Which of the following is being followed as a guiding principle by a company that produces and heavily markets cigarettes, with many promotions aimed at young (although legal age) nonsmokers?",
-        "A) the philosophy that companies should have a social conscience and be morally responsible",
-        "B) the philosophy that companies can do in good conscience whatever the market and legal",
+        "A) the philosophy that companies should have a social conscience and be morally responsible for current and future populations",
+        "B) the philosophy that companies can do in good conscience whatever the market and legal systems allow",
         "C) the philosophy of environmentalism",
         "D) the philosophy of consumer-oriented marketing",
         "E) the philosophy of consumerism",

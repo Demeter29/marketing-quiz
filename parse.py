@@ -26,8 +26,8 @@ def parse_questions(text):
             block = []
             open = False
         else:
-            if open and len(block) == 1 and  not line.isnumeric():
-                block[0] += " "+line
+            if open and len(block) > 0 and  not line.isnumeric():
+                block[len(block)-1] += " "+line
     
     
     return blocks
