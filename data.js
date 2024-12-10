@@ -1,4 +1,4 @@
-let data = [
+[
     [
         "1) Which of the following is NOT an accurate description of modern marketing?",
         "A) Marketing is the creation of value for customers.",
@@ -22,7 +22,7 @@ let data = [
         ]
     ],
     [
-        "3) Marketing is defined as a social and managerial process by which individuals andorganizations obtain what they need and want through ________.",
+        "3) Marketing is defined as a social and managerial process by which individuals and organizations obtain what they need and want through ________.",
         "A) research and development",
         "B) innovation and creativity",
         "C) manufacturing efficiencies",
@@ -33,7 +33,7 @@ let data = [
         ]
     ],
     [
-        "4) According to the five-step model of the marketing process, which of the following is thefinal step in creating value for customers?",
+        "4) According to the five-step model of the marketing process, which of the following is the final step in creating value for customers?",
         "A) designing a customer-driven marketing strategy",
         "B) understanding the marketplace and customer needs",
         "C) constructing an integrated marketing program that delivers superior value",
@@ -44,7 +44,7 @@ let data = [
         ]
     ],
     [
-        "5) According to the five-step model of the marketing process, a company should ________before designing a customer-driven marketing strategy.",
+        "5) According to the five-step model of the marketing process, a company should ________ before designing a customer-driven marketing strategy.",
         "A) determine how to deliver superior value to customers",
         "B) build profitable relationships with customers",
         "C) use customer relationship management to create full partnerships with key customers",
@@ -88,7 +88,7 @@ let data = [
         ]
     ],
     [
-        "10) Greg Williams now has the buying power to purchase the desktop computer that he haswanted for the last six months. Greg's want now has become a(n) ________.",
+        "10) Greg Williams now has the buying power to purchase the desktop computer that he has wanted for the last six months. Greg's want now has become a(n) ________.",
         "A) need",
         "B) necessity",
         "C) demand",
@@ -99,7 +99,7 @@ let data = [
         ]
     ],
     [
-        "11) A ________ is some combination of products, services, information, or experiencesprovided to consumers to satisfy a need or want.",
+        "11) A ________ is some combination of products, services, information, or experiences provided to consumers to satisfy a need or want.",
         "A) market offering",
         "B) value proposition",
         "C) brand positioning",
@@ -110,7 +110,7 @@ let data = [
         ]
     ],
     [
-        "12) Which of the following terms refers to sellers being preoccupied with their own productsand losing sight of underlying consumer needs?",
+        "12) Which of the following terms refers to sellers being preoccupied with their own products and losing sight of underlying consumer needs?",
         "A) vendor lock-in",
         "B) social loafing",
         "C) value proposition",
@@ -132,7 +132,7 @@ let data = [
         ]
     ],
     [
-        "14) ________ is the act of obtaining a desired object from someone by offering something inreturn.",
+        "14) ________ is the act of obtaining a desired object from someone by offering something in return.",
         "A) Valuation",
         "B) Exchange",
         "C) Market offering",
@@ -154,7 +154,7 @@ let data = [
         ]
     ],
     [
-        "16) Consumer research, product development, communication, distribution, pricing, andservice are all core ________ activities.",
+        "16) Consumer research, product development, communication, distribution, pricing, and service are all core ________ activities.",
         "A) positioning",
         "B) marketing",
         "C) outsourcing",
@@ -176,7 +176,7 @@ let data = [
         ]
     ],
     [
-        "18) Seagull Terrace offers its customers good accommodations, local delicacies, and amazingseaside views. The overall experience provided at the motel is a part of its ________.",
+        "18) Seagull Terrace offers its customers good accommodations, local delicacies, and amazing seaside views. The overall experience provided at the motel is a part of its ________.",
         "A) market offering",
         "B) target market",
         "C) market segment",
@@ -187,7 +187,7 @@ let data = [
         ]
     ],
     [
-        "31) The art and science of choosing target markets and building profitable relationships withthem is called ________.",
+        "31) The art and science of choosing target markets and building profitable relationships with them is called ________.",
         "A) marketing management",
         "B) positioning",
         "C) marketing mix",
@@ -209,7 +209,7 @@ let data = [
         ]
     ],
     [
-        "33) Dividing the market into various groups of customers that a company may serve is called________.",
+        "33) Dividing the market into various groups of customers that a company may serve is called ________.",
         "A) market segmentation",
         "B) positioning",
         "C) customization",
@@ -220,7 +220,7 @@ let data = [
         ]
     ],
     [
-        "34) Cathy's Clothes is a small yet successful retail chain that sells women's clothing andaccessories with a focus on buyers who have relatively modest means. For this specificpurpose, the firm has rolled out several marketing initiatives aimed at women of a specificdemographic. This is an example of ________.",
+        "34) Cathy's Clothes is a small yet successful retail chain that sells women's clothing and accessories with a focus on buyers who have relatively modest means. For this specific purpose, the firm has rolled out several marketing initiatives aimed at women of a specific demographic. This is an example of ________.",
         "A) ambush marketing",
         "B) social marketing",
         "C) societal marketing",
@@ -231,7 +231,7 @@ let data = [
         ]
     ],
     [
-        "35) An organic farmer has identified three distinct groups that might be interested in hisproducts: vegetarians, health-conscious individuals, and people identified as trendsetters whotry out new products in the market before others. These three groups are examples of________.",
+        "35) An organic farmer has identified three distinct groups that might be interested in his products: vegetarians, health-conscious individuals, and people identified as trendsetters who try out new products in the market before others. These three groups are examples of ________.",
         "A) marketing mixes",
         "B) market segments",
         "C) value propositions",
@@ -242,7 +242,7 @@ let data = [
         ]
     ],
     [
-        "36) Which of the following refers to a set of benefits that a company promises to deliver tocustomers to satisfy their needs?",
+        "36) Which of the following refers to a set of benefits that a company promises to deliver to customers to satisfy their needs?",
         "A) customer lock-in",
         "B) a cartel",
         "C) marketing mix",
@@ -264,7 +264,7 @@ let data = [
         ]
     ],
     [
-        "38) Which of the following marketing management orientations focuses primarily onimproving efficiencies along the supply chain?",
+        "38) Which of the following marketing management orientations focuses primarily on improving efficiencies along the supply chain?",
         "A) production concept",
         "B) product concept",
         "C) selling concept",
@@ -275,7 +275,7 @@ let data = [
         ]
     ],
     [
-        "39) Which of the following marketing management concepts is most likely to lead to marketingmyopia?",
+        "39) Which of the following marketing management concepts is most likely to lead to marketing myopia?",
         "A) customer-driven marketing concept",
         "B) customer-driving marketing concept",
         "C) societal marketing concept",
@@ -297,7 +297,7 @@ let data = [
         ]
     ],
     [
-        "41) The ________ concept is aligned with the philosophy of continuous product improvementand the belief that customers will choose products that offer the most in quality, performance,and innovative features.",
+        "41) The ________ concept is aligned with the philosophy of continuous product improvement and the belief that customers will choose products that offer the most in quality, performance, and innovative features.",
         "A) product",
         "B) production",
         "C) societal marketing",
@@ -319,7 +319,7 @@ let data = [
         ]
     ],
     [
-        "43) Henry Ford's philosophy was to perfect the Model T so that its cost could be reducedfurther for increased consumer affordability. This reflects the ________ concept.",
+        "43) Henry Ford's philosophy was to perfect the Model T so that its cost could be reduced further for increased consumer affordability. This reflects the ________ concept.",
         "A) product",
         "B) production",
         "C) selling",
@@ -330,7 +330,7 @@ let data = [
         ]
     ],
     [
-        "44) Railroads were once operated based on the thinking that users wanted trains that wouldoffer the most in quality, performance, and innovative features. The railroad managingcompanies overlooked the fact that there could be other modes of transportation. This reflectsthe ________ concept.",
+        "44) Railroads were once operated based on the thinking that users wanted trains that would offer the most in quality, performance, and innovative features. The railroad managing companies overlooked the fact that there could be other modes of transportation. This reflects the ________ concept.",
         "A) product",
         "B) production",
         "C) selling",
@@ -352,7 +352,7 @@ let data = [
         ]
     ],
     [
-        "46) Which of the following marketing orientations calls for aggressive promotional efforts andfocuses on creating transactions rather than long-term customer relationships?",
+        "46) Which of the following marketing orientations calls for aggressive promotional efforts and focuses on creating transactions rather than long-term customer relationships?",
         "A) the marketing concept",
         "B) the production concept",
         "C) the product concept",
@@ -363,7 +363,7 @@ let data = [
         ]
     ],
     [
-        "47) Jolene's firm markets preplanning services for a mortician. She finds that most of her targetmarket avoids discussing future funeral needs. She convinces people to invest in the firm'sservices through her large-scale promotional efforts. Jolene's firm most likely practices the________.",
+        "47) Jolene's firm markets preplanning services for a mortician. She finds that most of her target market avoids discussing future funeral needs. She convinces people to invest in the firm's services through her large-scale promotional efforts. Jolene's firm most likely practices the ________.",
         "A) production concept",
         "B) marketing concept",
         "C) selling concept",
@@ -385,7 +385,7 @@ let data = [
         ]
     ],
     [
-        "49) Which of the following marketing orientations holds that achieving organizational goalsdepends on knowing the needs and wants of target markets and delivering the desiredsatisfactions better than competitors do?",
+        "49) Which of the following marketing orientations holds that achieving organizational goals depends on knowing the needs and wants of target markets and delivering the desired satisfactions better than competitors do?",
         "A) the product concept",
         "B) the production concept",
         "C) the selling concept",
@@ -396,7 +396,7 @@ let data = [
         ]
     ],
     [
-        "50) Which of the following uses a customer-centered \"sense-and-respond\" philosophy ratherthan a product-centered \"make-and-sell\" philosophy?",
+        "50) Which of the following uses a customer-centered \"sense-and-respond\" philosophy rather than a product-centered \"make-and-sell\" philosophy?",
         "A) market segmentation",
         "B) the production concept",
         "C) the marketing concept",
@@ -418,7 +418,7 @@ let data = [
         ]
     ],
     [
-        "52) The marketing concept takes a(n) ________. It starts with a well-defined market, focuseson customer needs, and integrates all the marketing activities that affect customers.",
+        "52) The marketing concept takes a(n) ________. It starts with a well-defined market, focuses on customer needs, and integrates all the marketing activities that affect customers.",
         "A) outside-in perspective",
         "B) product-centered make-and-sell philosophy",
         "C) inside-out perspective",
@@ -440,7 +440,7 @@ let data = [
         ]
     ],
     [
-        "54) ________ marketing is practiced by an organization that understands and anticipatescustomer needs even better than customers themselves do and creates products and services tomeet current and future needs.",
+        "54) ________ marketing is practiced by an organization that understands and anticipates customer needs even better than customers themselves do and creates products and services to meet current and future needs.",
         "A) Customer-driven",
         "B) Customer-driving",
         "C) Affinity",
@@ -451,7 +451,7 @@ let data = [
         ]
     ],
     [
-        "55) When customers don't know what they want or don't even know what's possible, the mosteffective marketing strategy is ________ marketing.",
+        "55) When customers don't know what they want or don't even know what's possible, the most effective marketing strategy is ________ marketing.",
         "A) customer-driven",
         "B) customer-driving",
         "C) societal",
@@ -473,7 +473,7 @@ let data = [
         ]
     ],
     [
-        "57) ________ refers to socially and environmentally responsible marketing that meets theneeds of consumers and businesses while also preserving or enhancing the ability of futuregenerations to meet their needs.",
+        "57) ________ refers to socially and environmentally responsible marketing that meets the needs of consumers and businesses while also preserving or enhancing the ability of future generations to meet their needs.",
         "A) Ambush marketing",
         "B) Evangelism marketing",
         "C) Sustainable marketing",
@@ -484,7 +484,7 @@ let data = [
         ]
     ],
     [
-        "58) Some fast-food restaurants offer tasty and convenient food at affordable prices, but in doingso they contribute to a national obesity epidemic and environmental problems. These fast-foodrestaurants overlook the ________ philosophy.",
+        "58) Some fast-food restaurants offer tasty and convenient food at affordable prices, but in doing so they contribute to a national obesity epidemic and environmental problems. These fast-food restaurants overlook the ________ philosophy.",
         "A) marketing concept",
         "B) product concept",
         "C) production concept",
@@ -495,7 +495,7 @@ let data = [
         ]
     ],
     [
-        "59) The set of marketing tools a firm uses to implement its marketing strategy is called the________.",
+        "59) The set of marketing tools a firm uses to implement its marketing strategy is called the ________.",
         "A) promotion mix",
         "B) product mix",
         "C) marketing mix",
@@ -506,7 +506,7 @@ let data = [
         ]
     ],
     [
-        "60) Which of the following is the most likely result of a marketing strategy that attempts toserve all potential customers?",
+        "60) Which of the following is the most likely result of a marketing strategy that attempts to serve all potential customers?",
         "A) All customers will be delighted.",
         "B) Customer-perceived value will increase.",
         "C) All customers will directly turn into customer evangelists.",
@@ -528,7 +528,7 @@ let data = [
         ]
     ],
     [
-        "62) Bead Beautiful is a jewelry brand targeted at preteen girls. What needs do NOT fit with thisaudience, as the marketing team develops a value proposition for Bead Beautiful?",
+        "62) Bead Beautiful is a jewelry brand targeted at preteen girls. What needs do NOT fit with this audience, as the marketing team develops a value proposition for Bead Beautiful?",
         "A) variety of colors in products",
         "B) price",
         "C) quality of materials",
@@ -539,7 +539,7 @@ let data = [
         ]
     ],
     [
-        "63) When demand for athletic shoes produced by Nike and endorsed by Michael Jordan is high,Nike limits how many pairs of shoes are manufactured. This action maintains strong demand bylimiting supply. This decision contradicts the philosophy of which marketing concept?",
+        "63) When demand for athletic shoes produced by Nike and endorsed by Michael Jordan is high, Nike limits how many pairs of shoes are manufactured. This action maintains strong demand by limiting supply. This decision contradicts the philosophy of which marketing concept?",
         "A) marketing concept",
         "B) product concept",
         "C) production concept",
@@ -550,7 +550,7 @@ let data = [
         ]
     ],
     [
-        "64) At a local farmers' market, Molly Malone sells mussels while shouting to passersby, \"Freshseafood, get your fresh seafood here!\" What kind of perspective is Molly taking?",
+        "64) At a local farmers' market, Molly Malone sells mussels while shouting to passersby, \"Fresh seafood, get your fresh seafood here!\" What kind of perspective is Molly taking?",
         "A) customer-driving",
         "B) inside-out",
         "C) customer-driven",
@@ -561,7 +561,7 @@ let data = [
         ]
     ],
     [
-        "77) In which of the following situations has a company most actively embraced customer-managed relationships?",
+        "77) In which of the following situations has a company most actively embraced customer- managed relationships?",
         "A) American Airlines awards frequent flyer points to returning customers.",
         "B) Paige Premium Denim jeans provide superior quality and perfect fit.",
         "C) iRobot invites enthusiastic Roomba owners to develop and share their own uses for the",
@@ -583,7 +583,7 @@ let data = [
         ]
     ],
     [
-        "79) FedEx offers its customers fast and reliable package delivery. When FedEx customersweigh these benefits against the monetary cost of using FedEx along with other costs of usingthe service, they are acting upon ________.",
+        "79) FedEx offers its customers fast and reliable package delivery. When FedEx customers weigh these benefits against the monetary cost of using FedEx along with other costs of using the service, they are acting upon ________.",
         "A) brand loyalty",
         "B) customer equity",
         "C) customer-perceived value",
@@ -594,7 +594,7 @@ let data = [
         ]
     ],
     [
-        "80) Customer satisfaction is a goal that companies strive to earn. Companies can achievecustomer delight by ________.",
+        "80) Customer satisfaction is a goal that companies strive to earn. Companies can achieve customer delight by ________.",
         "A) regularly putting products on sale",
         "B) promising only what they can deliver and then delivering more than they promise",
         "C) offering promotional deals such as \"buy one and get one free\"",
@@ -605,7 +605,7 @@ let data = [
         ]
     ],
     [
-        "81) Building and maintaining profitable customer relationships by delivering superior customervalue and satisfaction is called ________.",
+        "81) Building and maintaining profitable customer relationships by delivering superior customer value and satisfaction is called ________.",
         "A) customer lifetime value",
         "B) customer-perceived value",
         "C) customer relationship management",
@@ -616,7 +616,7 @@ let data = [
         ]
     ],
     [
-        "82) Which of the following marketing strategies should marketing managers focus on tomanage detailed information about individual customers and carefully manage customertouchpoints to maximize customer loyalty?",
+        "82) Which of the following marketing strategies should marketing managers focus on to manage detailed information about individual customers and carefully manage customer touchpoints to maximize customer loyalty?",
         "A) customer divestment",
         "B) customer-managed relationships",
         "C) the societal marketing concept",
@@ -627,7 +627,7 @@ let data = [
         ]
     ],
     [
-        "83) ________ is determined by a customer's evaluation of the benefits and costs of a marketoffering relative to those of competing offers.",
+        "83) ________ is determined by a customer's evaluation of the benefits and costs of a market offering relative to those of competing offers.",
         "A) Customer-perceived value",
         "B) Customer lifetime value",
         "C) Share of customer",
@@ -649,7 +649,7 @@ let data = [
         ]
     ],
     [
-        "85) It is most accurate to say that when customers purchase products they act on ________ asthey judge values and costs.",
+        "85) It is most accurate to say that when customers purchase products they act on ________ as they judge values and costs.",
         "A) objective value",
         "B) perceived value",
         "C) customer lifetime value",
@@ -660,7 +660,7 @@ let data = [
         ]
     ],
     [
-        "86) The primary key to delivering customer satisfaction is to match product performance with________.",
+        "86) The primary key to delivering customer satisfaction is to match product performance with ________.",
         "A) the performance of competitive products",
         "B) competitive prices",
         "C) aggressive advertising",
@@ -671,7 +671,7 @@ let data = [
         ]
     ],
     [
-        "87) Which of the following terms refers to customers who make repeat purchases and tellothers about their positive experiences with a product or service?",
+        "87) Which of the following terms refers to customers who make repeat purchases and tell others about their positive experiences with a product or service?",
         "A) barnacles",
         "B) customer evangelists",
         "C) butterflies",
@@ -682,7 +682,7 @@ let data = [
         ]
     ],
     [
-        "88) Sally recently purchased Brand X lotion. In comparing her perception of how the lotionmade her skin feel and look to her expectations about Brand X lotion, Sally was measuring herlevel of ________.",
+        "88) Sally recently purchased Brand X lotion. In comparing her perception of how the lotion made her skin feel and look to her expectations about Brand X lotion, Sally was measuring her level of ________.",
         "A) share of customer",
         "B) customer satisfaction",
         "C) customer equity",
@@ -693,7 +693,7 @@ let data = [
         ]
     ],
     [
-        "89) Which of the following strategies would a company most likely use to increase customersatisfaction?",
+        "89) Which of the following strategies would a company most likely use to increase customer satisfaction?",
         "A) decreasing the variety of offered services",
         "B) divesting",
         "C) lowering prices",
@@ -704,7 +704,7 @@ let data = [
         ]
     ],
     [
-        "90) Hank is an assistant marketing director for a firm in a market with many low-margincustomers. What type of relationship with these customers would be the most profitable forhim?",
+        "90) Hank is an assistant marketing director for a firm in a market with many low-margin customers. What type of relationship with these customers would be the most profitable for him?",
         "A) full partnerships",
         "B) basic relationships",
         "C) causal relationships",
@@ -715,7 +715,7 @@ let data = [
         ]
     ],
     [
-        "91) A room upgrade offered by a hotel to a guest who often stays in the hotel is an example of________.",
+        "91) A room upgrade offered by a hotel to a guest who often stays in the hotel is an example of ________.",
         "A) a frequency marketing program",
         "B) a basic relationship",
         "C) a club marketing program",
@@ -726,7 +726,7 @@ let data = [
         ]
     ],
     [
-        "92) A gym equipment manufacturer encourages customers to become members of the firm'sWeb site. Membership provides customers with exercise tips as well as discounts on gymequipment and workout apparel. This is an example of ________.",
+        "92) A gym equipment manufacturer encourages customers to become members of the firm's Web site. Membership provides customers with exercise tips as well as discounts on gym equipment and workout apparel. This is an example of ________.",
         "A) a frequency marketing program",
         "B) a basic customer relationship",
         "C) a club marketing program",
@@ -737,7 +737,7 @@ let data = [
         ]
     ],
     [
-        "93) The marketing world is most likely embracing ________ because consumers wield greaterpower now with many platforms for airing and sharing their brand views with other consumers.",
+        "93) The marketing world is most likely embracing ________ because consumers wield greater power now with many platforms for airing and sharing their brand views with other consumers.",
         "A) partner relationship management",
         "B) supply chain management",
         "C) customer-managed relationships",
@@ -759,7 +759,7 @@ let data = [
         ]
     ],
     [
-        "95) Kao Corp., a deodorant manufacturer, invited teenage girls to make an ad that wouldencourage other girls to buy the product. This program is an example of ________.",
+        "95) Kao Corp., a deodorant manufacturer, invited teenage girls to make an ad that would encourage other girls to buy the product. This program is an example of ________.",
         "A) societal marketing",
         "B) the production concept",
         "C) the selling concept",
@@ -770,7 +770,7 @@ let data = [
         ]
     ],
     [
-        "96) Elisandra, a marketing manager at a regional chain restaurant, has decided to organize acontest calling for customers to create commercials for the restaurant. Winning entries will beposted on the organization's home page. Elisandra's plan is an example of ________.",
+        "96) Elisandra, a marketing manager at a regional chain restaurant, has decided to organize a contest calling for customers to create commercials for the restaurant. Winning entries will be posted on the organization's home page. Elisandra's plan is an example of ________.",
         "A) consumer-generated marketing",
         "B) partner relationship management",
         "C) customer lifetime value",
@@ -781,7 +781,7 @@ let data = [
         ]
     ],
     [
-        "97) Through ________, companies today are strengthening their connections with all partners,from providers of raw materials and components to those involved in the delivery of finalgoods and services.",
+        "97) Through ________, companies today are strengthening their connections with all partners, from providers of raw materials and components to those involved in the delivery of final goods and services.",
         "A) supply chain management",
         "B) direct marketing",
         "C) customer relationship marketing",
@@ -803,7 +803,7 @@ let data = [
         ]
     ],
     [
-        "99) \"Losing a customer once means losing the entire stream of possible purchases that thecustomer would make over an extended period of patronage.\" This statement specificallyindicates loss in terms of ________.",
+        "99) \"Losing a customer once means losing the entire stream of possible purchases that the customer would make over an extended period of patronage.\" This statement specifically indicates loss in terms of ________.",
         "A) customer-perceived value",
         "B) marketing offerings",
         "C) partner relationship management",
@@ -814,7 +814,7 @@ let data = [
         ]
     ],
     [
-        "100) At Gina's retail stores, the posted policy reads, \"Without our customers, we don't exist.\"Gina and her staff aim to delight each customer, and they are quick to offer discounts or extraservices whenever a customer is anything less than satisfied. Gina and her staff strive to makeevery customer a repeat customer. It is most accurate to say that instead of focusing on eachindividual transaction, Gina and her staff put a priority on ________.",
+        "100) At Gina's retail stores, the posted policy reads, \"Without our customers, we don't exist.\" Gina and her staff aim to delight each customer, and they are quick to offer discounts or extra services whenever a customer is anything less than satisfied. Gina and her staff strive to make every customer a repeat customer. It is most accurate to say that instead of focusing on each individual transaction, Gina and her staff put a priority on ________.",
         "A) managing partner relationships",
         "B) selling new products",
         "C) attracting \"butterflies\"",
@@ -825,7 +825,7 @@ let data = [
         ]
     ],
     [
-        "101) The portion of the customer's purchasing that a company gets in its product categories isknown as ________.",
+        "101) The portion of the customer's purchasing that a company gets in its product categories is known as ________.",
         "A) customer-perceived value",
         "B) share of customer",
         "C) customer insight",
@@ -836,7 +836,7 @@ let data = [
         ]
     ],
     [
-        "102) Apart from retaining good customers, most marketers want to constantly increase their\"share of customer.\" What does this mean in marketing terms?",
+        "102) Apart from retaining good customers, most marketers want to constantly increase their \"share of customer.\" What does this mean in marketing terms?",
         "A) Marketers want to increase their market share.",
         "B) Marketers want to increase the share they get of the customer's purchasing in their product",
         "C) Marketers want to diversify their operations and customize their products to cater to the",
@@ -858,7 +858,7 @@ let data = [
         ]
     ],
     [
-        "104) Keith, a clothing store owner, offers product suggestions to customers based on theircurrent purchases. Which of the following is Keith trying to increase?",
+        "104) Keith, a clothing store owner, offers product suggestions to customers based on their current purchases. Which of the following is Keith trying to increase?",
         "A) shared value",
         "B) share of customer",
         "C) social responsibility",
@@ -869,7 +869,7 @@ let data = [
         ]
     ],
     [
-        "105) Which of the following refers to the total combined customer lifetime value of all of thecompany's current and potential customers?",
+        "105) Which of the following refers to the total combined customer lifetime value of all of the company's current and potential customers?",
         "A) share of customer",
         "B) marketing mix",
         "C) customer equity",
@@ -880,7 +880,7 @@ let data = [
         ]
     ],
     [
-        "106) In the context of customer relationship groups, a potentially profitable and short-termcustomer is referred to as a ________.",
+        "106) In the context of customer relationship groups, a potentially profitable and short-term customer is referred to as a ________.",
         "A) true friend",
         "B) butterfly",
         "C) stranger",
@@ -891,7 +891,7 @@ let data = [
         ]
     ],
     [
-        "107) Customers can be classified into four relationship groups based on their profitability andprojected loyalty. Which customer type is associated with high profitability and long-termloyalty?",
+        "107) Customers can be classified into four relationship groups based on their profitability and projected loyalty. Which customer type is associated with high profitability and long-term loyalty?",
         "A) barnacles",
         "B) strangers",
         "C) butterflies",
@@ -902,7 +902,7 @@ let data = [
         ]
     ],
     [
-        "108) A company should not always target all possible customers. Which kind of customer isnot the most valuable to a company, but, can over time, contribute to the firm's success?",
+        "108) A company should not always target all possible customers. Which kind of customer is not the most valuable to a company, but, can over time, contribute to the firm's success?",
         "A) butterflies",
         "B) shooting stars",
         "C) barnacles",
@@ -913,7 +913,7 @@ let data = [
         ]
     ],
     [
-        "109) A financial services firm has several loyal customers who conduct business with themexclusively. However, the company has noticed that this customer group is the least profitablefor the company, and in some cases, it increases their losses when engaging in business withthis group. Which of the following customer groups is being referred to in this scenario?",
+        "109) A financial services firm has several loyal customers who conduct business with them exclusively. However, the company has noticed that this customer group is the least profitable for the company, and in some cases, it increases their losses when engaging in business with this group. Which of the following customer groups is being referred to in this scenario?",
         "A) butterflies",
         "B) true friends",
         "C) strangers",
@@ -924,7 +924,7 @@ let data = [
         ]
     ],
     [
-        "110) Digital technology allows companies to reach out to customers in numerous ways. Whichof the following is NOT the purpose of a company reaching out using digital and social media?",
+        "110) Digital technology allows companies to reach out to customers in numerous ways. Which of the following is NOT the purpose of a company reaching out using digital and social media?",
         "A) solving consumer problems",
         "B) building customer relationships",
         "C) helping customers shop",
@@ -957,7 +957,7 @@ let data = [
         ]
     ],
     [
-        "113) A marketer wants to increase its \"share of customer.\" It can do this by offering a greatervariety to customers, or by ________.",
+        "113) A marketer wants to increase its \"share of customer.\" It can do this by offering a greater variety to customers, or by ________.",
         "A) decreasing prices",
         "B) increasing discounts and coupons",
         "C) sending samples directly to customers",
@@ -968,7 +968,7 @@ let data = [
         ]
     ],
     [
-        "114) Carol Veldt's plan also involves a seasonal promotional gimmick that she wants topromote aggressively. This is an example of the ________ concept.",
+        "114) Carol Veldt's plan also involves a seasonal promotional gimmick that she wants to promote aggressively. This is an example of the ________ concept.",
         "A) selling",
         "B) marketing",
         "C) product",
@@ -979,7 +979,7 @@ let data = [
         ]
     ],
     [
-        "115) Renovations of the guest rooms at the Seagull Terrace and plans to add an indoor poolarea are examples of the ________ concept.",
+        "115) Renovations of the guest rooms at the Seagull Terrace and plans to add an indoor pool area are examples of the ________ concept.",
         "A) selling",
         "B) marketing",
         "C) product",
@@ -990,7 +990,7 @@ let data = [
         ]
     ],
     [
-        "116) Carol Veldt has decided to ask selected guests to participate in an extensive survey abouttheir experience at Seagull Terrace and about their requirements in terms of amenities andcuisines. By implementing the suggestions she receives from guests, Carol would be followingthe ________ concept.",
+        "116) Carol Veldt has decided to ask selected guests to participate in an extensive survey about their experience at Seagull Terrace and about their requirements in terms of amenities and cuisines. By implementing the suggestions she receives from guests, Carol would be following the ________ concept.",
         "A) production",
         "B) product",
         "C) selling",
@@ -1001,7 +1001,7 @@ let data = [
         ]
     ],
     [
-        "134) Marketers use mobile channels for several purposes. Which of the following is LEASTlikely to be one of those purposes?",
+        "134) Marketers use mobile channels for several purposes. Which of the following is LEAST likely to be one of those purposes?",
         "A) Enrich the brand experience.",
         "B) Send billing statement.",
         "C) Stimulate immediate buying.",
@@ -1012,7 +1012,7 @@ let data = [
         ]
     ],
     [
-        "135) Marketers set up company and brand Web sites that provide information and promote thecompany's products. Social media is a significant part of today's marketing strategy. Which ofthese tools is NOT part of the growth in digital technology?",
+        "135) Marketers set up company and brand Web sites that provide information and promote the company's products. Social media is a significant part of today's marketing strategy. Which of these tools is NOT part of the growth in digital technology?",
         "A) blogs",
         "B) e-mail",
         "C) telemarketing calls",
@@ -1023,7 +1023,7 @@ let data = [
         ]
     ],
     [
-        "136) Following the change in consumer values and consumption patterns after the GreatRecession, marketers have changed their marketing strategies to emphasize the ________ oftheir products.",
+        "136) Following the change in consumer values and consumption patterns after the Great Recession, marketers have changed their marketing strategies to emphasize the ________ of their products.",
         "A) image",
         "B) value",
         "C) durability",
@@ -1045,7 +1045,7 @@ let data = [
         ]
     ],
     [
-        "138) Government agencies design ________ to encourage energy conservation and discouragesmoking, excessive drinking, and drug use.",
+        "138) Government agencies design ________ to encourage energy conservation and discourage smoking, excessive drinking, and drug use.",
         "A) club marketing programs",
         "B) social marketing campaigns",
         "C) consumer-generated marketing campaigns",
@@ -1056,7 +1056,7 @@ let data = [
         ]
     ],
     [
-        "139) As part of the rapid globalization of today's economy, companies are selling moredomestically produced goods in international markets and ________.",
+        "139) As part of the rapid globalization of today's economy, companies are selling more domestically produced goods in international markets and ________.",
         "A) taking a local view of their industry",
         "B) purchasing more supplies abroad",
         "C) reducing competition within their industry",
@@ -1067,7 +1067,7 @@ let data = [
         ]
     ],
     [
-        "140) Iceco Inc., an ice cream manufacturing company, encourages all stakeholders, includingthe top management and all employees, to consider individual and community welfare in theirday-to-day decisions. This action undertaken by Iceco reflects ________.",
+        "140) Iceco Inc., an ice cream manufacturing company, encourages all stakeholders, including the top management and all employees, to consider individual and community welfare in their day-to-day decisions. This action undertaken by Iceco reflects ________.",
         "A) environmentalism",
         "B) social responsibility",
         "C) the selling concept",
@@ -1089,7 +1089,7 @@ let data = [
         ]
     ],
     [
-        "142) A church targeting different demographic groups to increase attendance is an example of________.",
+        "142) A church targeting different demographic groups to increase attendance is an example of ________.",
         "A) affinity marketing",
         "B) not-for-profit marketing",
         "C) societal marketing",
@@ -1100,7 +1100,7 @@ let data = [
         ]
     ],
     [
-        "143) Your state's department of education has budgeted a significant amount of money for aradio, print, television, and online advertising campaign emphasizing the long-term benefits,both educationally and professionally, of reading every day. This is an example of a(n)________ campaign.",
+        "143) Your state's department of education has budgeted a significant amount of money for a radio, print, television, and online advertising campaign emphasizing the long-term benefits, both educationally and professionally, of reading every day. This is an example of a(n) ________ campaign.",
         "A) ambush marketing",
         "B) social marketing",
         "C) inbound marketing",
@@ -1111,7 +1111,7 @@ let data = [
         ]
     ],
     [
-        "144) Many organizations use multiple social media, such as Facebook, Twitter, Instagram, andYouTube. What is the primary reason a company would use multiple social media?",
+        "144) Many organizations use multiple social media, such as Facebook, Twitter, Instagram, and YouTube. What is the primary reason a company would use multiple social media?",
         "A) entice customers to one of the social media sites",
         "B) present a carefully integrated message to fans and customers",
         "C) improve its \"hit\" count",
@@ -1122,7 +1122,7 @@ let data = [
         ]
     ],
     [
-        "1) ________ is the process of developing and maintaining a crucial fit between theorganization's goals and capabilities and its changing marketing opportunities.",
+        "1) ________ is the process of developing and maintaining a crucial fit between the organization's goals and capabilities and its changing marketing opportunities.",
         "A) Benchmarking",
         "B) SWOT analysis",
         "C) Market segmentation",
@@ -1166,7 +1166,7 @@ let data = [
         ]
     ],
     [
-        "5) A ________ documents an organization's purpose—what it wants to accomplish in the largerenvironment.",
+        "5) A ________ documents an organization's purpose—what it wants to accomplish in the larger environment.",
         "A) vision statement",
         "B) mission statement",
         "C) business portfolio",
@@ -1210,7 +1210,7 @@ let data = [
         ]
     ],
     [
-        "9) Companies that define their missions in terms of products or technologies are consideredmyopic primarily because ________.",
+        "9) Companies that define their missions in terms of products or technologies are considered myopic primarily because ________.",
         "A) products and technologies result in low returns on investment",
         "B) consumer preferences with regard to products and technology are difficult to predict",
         "C) consumer preferences for different product categories vary from time to time",
@@ -1232,7 +1232,7 @@ let data = [
         ]
     ],
     [
-        "11) Orion Inc. operates in many industries, including pharmaceuticals and food products. Thecompany's goal is to create \"abundant and affordable food for all and a healthy environment.\"This represents Orion's ________.",
+        "11) Orion Inc. operates in many industries, including pharmaceuticals and food products. The company's goal is to create \"abundant and affordable food for all and a healthy environment.\" This represents Orion's ________.",
         "A) marketing plan",
         "B) product mix",
         "C) business portfolio",
@@ -1342,7 +1342,7 @@ let data = [
         ]
     ],
     [
-        "32) The major activity in strategic planning is ________, whereby management evaluates theproducts and businesses that make up the company.",
+        "32) The major activity in strategic planning is ________, whereby management evaluates the products and businesses that make up the company.",
         "A) SWOT analysis",
         "B) benchmarking",
         "C) business portfolio analysis",
@@ -1375,7 +1375,7 @@ let data = [
         ]
     ],
     [
-        "35) During portfolio analysis, a company ________ after identifying the key businesses thatmake up the company.",
+        "35) During portfolio analysis, a company ________ after identifying the key businesses that make up the company.",
         "A) formulates a short-term marketing plan",
         "B) assesses the attractiveness of its various SBUs",
         "C) assesses its strengths and weaknesses",
@@ -1386,7 +1386,7 @@ let data = [
         ]
     ],
     [
-        "36) Which of the following is NOT something a company must determine when analyzing itscurrent business portfolio?",
+        "36) Which of the following is NOT something a company must determine when analyzing its current business portfolio?",
         "A) which businesses should receive more investment",
         "B) which businesses should receive less investment",
         "C) which businesses should receive no investment",
@@ -1408,7 +1408,7 @@ let data = [
         ]
     ],
     [
-        "38) According to the Boston Consulting Group approach, ________ provides a measure ofmarket attractiveness.",
+        "38) According to the Boston Consulting Group approach, ________ provides a measure of market attractiveness.",
         "A) product attribute",
         "B) product design",
         "C) market penetration",
@@ -1419,7 +1419,7 @@ let data = [
         ]
     ],
     [
-        "39) According to the Boston Consulting Group approach, ________ serves as a measure ofcompany strength in the market.",
+        "39) According to the Boston Consulting Group approach, ________ serves as a measure of company strength in the market.",
         "A) relative market share",
         "B) product development",
         "C) market diversification",
@@ -1452,7 +1452,7 @@ let data = [
         ]
     ],
     [
-        "42) The key businesses of Kimberley and Price consist of a division that produces and sellsbreakfast cereals and another that manufactures gardening tools. Each of these businesses iscalled a ________.",
+        "42) The key businesses of Kimberley and Price consist of a division that produces and sells breakfast cereals and another that manufactures gardening tools. Each of these businesses is called a ________.",
         "A) market segment",
         "B) strategic business unit",
         "C) question mark",
@@ -1463,7 +1463,7 @@ let data = [
         ]
     ],
     [
-        "43) ________ are a type of SBU that often require heavy investments to finance their rapidgrowth.",
+        "43) ________ are a type of SBU that often require heavy investments to finance their rapid growth.",
         "A) Cash cows",
         "B) Question marks",
         "C) Stars",
@@ -1474,7 +1474,7 @@ let data = [
         ]
     ],
     [
-        "44) ________ are low-growth, high-share businesses/products that need less investment to holdtheir market share.",
+        "44) ________ are low-growth, high-share businesses/products that need less investment to hold their market share.",
         "A) Stars",
         "B) Cash cows",
         "C) Question marks",
@@ -1496,7 +1496,7 @@ let data = [
         ]
     ],
     [
-        "46) ________ are low-share business units in high-growth markets that require a lot of cash tohold their share.",
+        "46) ________ are low-share business units in high-growth markets that require a lot of cash to hold their share.",
         "A) Stars",
         "B) Dogs",
         "C) Question marks",
@@ -1507,7 +1507,7 @@ let data = [
         ]
     ],
     [
-        "47) The pharmaceuticals division of Omni Healthcare holds low market share in a high-growthmarket. According to the BCG matrix, the pharmaceuticals division of Omni can be classifiedas a ________.",
+        "47) The pharmaceuticals division of Omni Healthcare holds low market share in a high-growth market. According to the BCG matrix, the pharmaceuticals division of Omni can be classified as a ________.",
         "A) star",
         "B) bear",
         "C) question mark",
@@ -1529,7 +1529,7 @@ let data = [
         ]
     ],
     [
-        "49) A company can ________ an SBU by selling it or phasing it out and using the resourceselsewhere.",
+        "49) A company can ________ an SBU by selling it or phasing it out and using the resources elsewhere.",
         "A) divest",
         "B) promote",
         "C) expand",
@@ -1562,7 +1562,7 @@ let data = [
         ]
     ],
     [
-        "52) Which of the following is a portfolio-planning tool for identifying company growthopportunities through market penetration, market development, product development, ordiversification?",
+        "52) Which of the following is a portfolio-planning tool for identifying company growth opportunities through market penetration, market development, product development, or diversification?",
         "A) BCG matrix",
         "B) analysis of variance",
         "C) product/market expansion grid",
@@ -1573,7 +1573,7 @@ let data = [
         ]
     ],
     [
-        "53) Phoenix, a popular coffee shop chain in North America, recently opened 400 stores to caterto its rapidly increasing number of patrons. This exemplifies ________.",
+        "53) Phoenix, a popular coffee shop chain in North America, recently opened 400 stores to cater to its rapidly increasing number of patrons. This exemplifies ________.",
         "A) product differentiation",
         "B) product development",
         "C) diversification",
@@ -1595,7 +1595,7 @@ let data = [
         ]
     ],
     [
-        "55) Making more sales to current customers without changing a firm's products is known as________.",
+        "55) Making more sales to current customers without changing a firm's products is known as ________.",
         "A) market segmentation",
         "B) market penetration",
         "C) product diversification",
@@ -1606,7 +1606,7 @@ let data = [
         ]
     ],
     [
-        "56) Lark Inc., an American electronics company, is currently reviewing new geographicalmarkets to sell its highly popular televisions. By 2020, it plans to open new stores across all themajor South Asian cities. Lark is most likely following a ________ strategy.",
+        "56) Lark Inc., an American electronics company, is currently reviewing new geographical markets to sell its highly popular televisions. By 2020, it plans to open new stores across all the major South Asian cities. Lark is most likely following a ________ strategy.",
         "A) local marketing",
         "B) market development",
         "C) diversification",
@@ -1617,7 +1617,7 @@ let data = [
         ]
     ],
     [
-        "57) The managers of Arrow, an American retail chain, are currently reviewing newdemographic markets to sell the firm's current products. This is an example of ________.",
+        "57) The managers of Arrow, an American retail chain, are currently reviewing new demographic markets to sell the firm's current products. This is an example of ________.",
         "A) market penetration",
         "B) product development",
         "C) mass marketing",
@@ -1628,7 +1628,7 @@ let data = [
         ]
     ],
     [
-        "58) The managers of Alfredo's Pizza, a popular pizzeria in New York City, have beenincreasingly encouraging senior citizens to visit the pizzeria's numerous outlets spread acrossthe city. Anticipating a rise in the population of senior citizens in the area, the management ofAlfredo's Pizza is seeking to tap into this promising segment that consists of retired, affluentconsumers. In this instance, the managers of Alfredo's Pizza are anticipating company growththrough ________.",
+        "58) The managers of Alfredo's Pizza, a popular pizzeria in New York City, have been increasingly encouraging senior citizens to visit the pizzeria's numerous outlets spread across the city. Anticipating a rise in the population of senior citizens in the area, the management of Alfredo's Pizza is seeking to tap into this promising segment that consists of retired, affluent consumers. In this instance, the managers of Alfredo's Pizza are anticipating company growth through ________.",
         "A) market development",
         "B) product development",
         "C) mass customization",
@@ -1639,7 +1639,7 @@ let data = [
         ]
     ],
     [
-        "59) FencePro, a local company, has developed an entirely new mounting system for chain linkfences. After acquiring a distributor, FencePro now has the ability to market its productsnationwide. FencePro is most likely following a ________ strategy.",
+        "59) FencePro, a local company, has developed an entirely new mounting system for chain link fences. After acquiring a distributor, FencePro now has the ability to market its products nationwide. FencePro is most likely following a ________ strategy.",
         "A) market penetration",
         "B) market development",
         "C) downsizing",
@@ -1650,7 +1650,7 @@ let data = [
         ]
     ],
     [
-        "60) Amor, a successful brand of women's clothing, recently introduced a line of fitnessequipment. This is an example of ________.",
+        "60) Amor, a successful brand of women's clothing, recently introduced a line of fitness equipment. This is an example of ________.",
         "A) mass customization",
         "B) niche marketing",
         "C) diversification",
@@ -1661,7 +1661,7 @@ let data = [
         ]
     ],
     [
-        "61) Sunny Brews is a coffeehouse chain based in Boston. It recently introduced Eva, a mildroast, which became immensely popular. This exemplifies ________.",
+        "61) Sunny Brews is a coffeehouse chain based in Boston. It recently introduced Eva, a mild roast, which became immensely popular. This exemplifies ________.",
         "A) benchmarking",
         "B) diversification",
         "C) mass customization",
@@ -1672,7 +1672,7 @@ let data = [
         ]
     ],
     [
-        "62) A women's apparel manufacturer in California recently acquired a Houston-based companythat manufactures office furniture. This is an example of ________.",
+        "62) A women's apparel manufacturer in California recently acquired a Houston-based company that manufactures office furniture. This is an example of ________.",
         "A) product development",
         "B) market development",
         "C) market penetration",
@@ -1694,7 +1694,7 @@ let data = [
         ]
     ],
     [
-        "64) Companies may want to downsize their business portfolios for all but which of thefollowing reasons?",
+        "64) Companies may want to downsize their business portfolios for all but which of the following reasons?",
         "A) The firm may have grown too fast.",
         "B) The firm may have entered areas where it lacks experience.",
         "C) The customers may have purchased all they need.",
@@ -1705,7 +1705,7 @@ let data = [
         ]
     ],
     [
-        "65) Elmo Corp., a manufacturer of personal computers and printers, recently established anoffice furniture exporting business. This is an example of ________.",
+        "65) Elmo Corp., a manufacturer of personal computers and printers, recently established an office furniture exporting business. This is an example of ________.",
         "A) niche marketing",
         "B) local marketing",
         "C) diversification",
@@ -1727,7 +1727,7 @@ let data = [
         ]
     ],
     [
-        "67) Fun-Spot Fun Park represents a high-growth, high-share business. According to the BCGmatrix, it can be classified as a ________.",
+        "67) Fun-Spot Fun Park represents a high-growth, high-share business. According to the BCG matrix, it can be classified as a ________.",
         "A) star",
         "B) question mark",
         "C) bear",
@@ -1738,7 +1738,7 @@ let data = [
         ]
     ],
     [
-        "68) Ron and Gail plan to lower Fun-Spot's prices in an effort to encourage customers to staylonger, visit more often, and spend more money during each visit. What type of strategy areRon and Gail planning?",
+        "68) Ron and Gail plan to lower Fun-Spot's prices in an effort to encourage customers to stay longer, visit more often, and spend more money during each visit. What type of strategy are Ron and Gail planning?",
         "A) market penetration",
         "B) market development",
         "C) product development",
@@ -1749,7 +1749,7 @@ let data = [
         ]
     ],
     [
-        "69) Ron and Gail, owners of Fun-Spot, strive to provide new offerings and entertainmentoptions for their visitors. This type of strategy can be best described as ________.",
+        "69) Ron and Gail, owners of Fun-Spot, strive to provide new offerings and entertainment options for their visitors. This type of strategy can be best described as ________.",
         "A) market penetration",
         "B) market development",
         "C) product development",
@@ -1760,7 +1760,7 @@ let data = [
         ]
     ],
     [
-        "84) Marketing plays a key role in the company's strategic planning in all of these waysEXCEPT ________.",
+        "84) Marketing plays a key role in the company's strategic planning in all of these ways EXCEPT ________.",
         "A) providing input to identify attractive market opportunities",
         "B) designing new products from scratch",
         "C) creating customer value and building profitable relationships with customer groups",
@@ -1771,7 +1771,7 @@ let data = [
         ]
     ],
     [
-        "85) Each department in a company that carries out value-creating activities can be thought of asa link in the company's ________.",
+        "85) Each department in a company that carries out value-creating activities can be thought of as a link in the company's ________.",
         "A) channel of intermediaries",
         "B) external value stream",
         "C) demand chain",
@@ -1782,7 +1782,7 @@ let data = [
         ]
     ],
     [
-        "86) RedFin manufactures diving equipment that is highly regarded by customers worldwide.Each department in RedFin contributes to its success and can be thought of as a(n) ________.",
+        "86) RedFin manufactures diving equipment that is highly regarded by customers worldwide. Each department in RedFin contributes to its success and can be thought of as a(n) ________.",
         "A) link in the company's internal value chain",
         "B) separate organization",
         "C) independent subsidiary of the company",
@@ -1793,7 +1793,7 @@ let data = [
         ]
     ],
     [
-        "87) The network made up of the company, its suppliers, its distributors, and, ultimately, itscustomers who partner with each other to improve the performance of the entire system isknown as the ________.",
+        "87) The network made up of the company, its suppliers, its distributors, and, ultimately, its customers who partner with each other to improve the performance of the entire system is known as the ________.",
         "A) business portfolio",
         "B) supply chain",
         "C) marketing mix",
@@ -1804,7 +1804,7 @@ let data = [
         ]
     ],
     [
-        "94) The marketing logic by which a company hopes to create customer value and achieveprofitable customer relationships is referred to as the ________.",
+        "94) The marketing logic by which a company hopes to create customer value and achieve profitable customer relationships is referred to as the ________.",
         "A) price",
         "B) marketing implementation",
         "C) value chain",
@@ -1826,7 +1826,7 @@ let data = [
         ]
     ],
     [
-        "96) Which of the following is NOT part of a company's decision about which customers it willserve and how?",
+        "96) Which of the following is NOT part of a company's decision about which customers it will serve and how?",
         "A) differentiation",
         "B) targeting",
         "C) budgeting",
@@ -1848,7 +1848,7 @@ let data = [
         ]
     ],
     [
-        "98) Customers can be grouped and served in various ways based on several factors. Theseinclude all of the following EXCEPT ________ factors.",
+        "98) Customers can be grouped and served in various ways based on several factors. These include all of the following EXCEPT ________ factors.",
         "A) psychographic",
         "B) behavioral",
         "C) technological",
@@ -1870,7 +1870,7 @@ let data = [
         ]
     ],
     [
-        "100) Teenagers are expected to respond in a similar way to a set of marketing efforts. In otherwords, this group represents a ________.",
+        "100) Teenagers are expected to respond in a similar way to a set of marketing efforts. In other words, this group represents a ________.",
         "A) channel intermediary",
         "B) line extension",
         "C) market segment",
@@ -1881,7 +1881,7 @@ let data = [
         ]
     ],
     [
-        "101) Each company must divide up the total market, choose the best segments, and designstrategies for profitably serving chosen segments. This process involves market segmentation,________, differentiation, and positioning.",
+        "101) Each company must divide up the total market, choose the best segments, and design strategies for profitably serving chosen segments. This process involves market segmentation, ________, differentiation, and positioning.",
         "A) market targeting",
         "B) marketing implementation",
         "C) supply-chain analysis",
@@ -1892,7 +1892,7 @@ let data = [
         ]
     ],
     [
-        "102) Which of the following refers to the process of dividing a market into distinct groups ofbuyers with different needs, characteristics, or behaviors?",
+        "102) Which of the following refers to the process of dividing a market into distinct groups of buyers with different needs, characteristics, or behaviors?",
         "A) market diversification",
         "B) market segmentation",
         "C) downsizing",
@@ -1903,7 +1903,7 @@ let data = [
         ]
     ],
     [
-        "103) Rob has been asked by his manager to identify a group of potential customers who wouldrespond in a similar way to a given set of marketing efforts. In this instance, Rob has beenasked to identify a ________.",
+        "103) Rob has been asked by his manager to identify a group of potential customers who would respond in a similar way to a given set of marketing efforts. In this instance, Rob has been asked to identify a ________.",
         "A) new product",
         "B) market segment",
         "C) marketing intermediary",
@@ -1914,7 +1914,7 @@ let data = [
         ]
     ],
     [
-        "104) The process of evaluating each market segment's attractiveness and selecting one or moresegments to enter is known as ________.",
+        "104) The process of evaluating each market segment's attractiveness and selecting one or more segments to enter is known as ________.",
         "A) market segmentation",
         "B) diversification",
         "C) market targeting",
@@ -1925,7 +1925,7 @@ let data = [
         ]
     ],
     [
-        "105) Paul Robinson has identified a group of potential customers who seem to respond in asimilar way to a series of magazine and radio advertisements for his company's product. Paulhas identified a ________.",
+        "105) Paul Robinson has identified a group of potential customers who seem to respond in a similar way to a series of magazine and radio advertisements for his company's product. Paul has identified a ________.",
         "A) target market",
         "B) market segment",
         "C) niche market",
@@ -1947,7 +1947,7 @@ let data = [
         ]
     ],
     [
-        "107) The process of arranging for a product to occupy a clear, distinctive, and desirable placerelative to competing products in the minds of target consumers is known as ________.",
+        "107) The process of arranging for a product to occupy a clear, distinctive, and desirable place relative to competing products in the minds of target consumers is known as ________.",
         "A) market segmentation",
         "B) differentiation",
         "C) target marketing",
@@ -1958,7 +1958,7 @@ let data = [
         ]
     ],
     [
-        "108) Crocus, a gift store, specializes in serving customer segments that major competitorsoverlook and ignore. Which of the following best describes Crocus?",
+        "108) Crocus, a gift store, specializes in serving customer segments that major competitors overlook and ignore. Which of the following best describes Crocus?",
         "A) market follower",
         "B) market challenger",
         "C) early adopter",
@@ -1969,7 +1969,7 @@ let data = [
         ]
     ],
     [
-        "109) Arrow is \"a different kind of company, manufacturing a different kind of a car\"; theRoadPro is \"like nothing else.\" Statements such as these reflect a firm's ________.",
+        "109) Arrow is \"a different kind of company, manufacturing a different kind of a car\"; the RoadPro is \"like nothing else.\" Statements such as these reflect a firm's ________.",
         "A) portfolio",
         "B) marketing segment",
         "C) positioning",
@@ -1980,7 +1980,7 @@ let data = [
         ]
     ],
     [
-        "110) Alpha Motors offers \"Green automobiles for a greener world.\" This refers to the ________of Alpha automobiles.",
+        "110) Alpha Motors offers \"Green automobiles for a greener world.\" This refers to the ________ of Alpha automobiles.",
         "A) brand resonance",
         "B) position",
         "C) brand equity",
@@ -1991,7 +1991,7 @@ let data = [
         ]
     ],
     [
-        "111) Arranging for a product to occupy a clear, distinctive, and desirable place relative tocompeting products in the minds of target consumers is known as ________.",
+        "111) Arranging for a product to occupy a clear, distinctive, and desirable place relative to competing products in the minds of target consumers is known as ________.",
         "A) positioning",
         "B) segmenting",
         "C) diversifying",
@@ -2013,7 +2013,7 @@ let data = [
         ]
     ],
     [
-        "113) Which of the following Ps in the marketing mix describes the goods-and-servicescombination the company offers to the target market?",
+        "113) Which of the following Ps in the marketing mix describes the goods-and-services combination the company offers to the target market?",
         "A) price",
         "B) promotion",
         "C) product",
@@ -2024,7 +2024,7 @@ let data = [
         ]
     ],
     [
-        "114) In the marketing mix, design, packaging, services, and variety can be categorized under________.",
+        "114) In the marketing mix, design, packaging, services, and variety can be categorized under ________.",
         "A) product",
         "B) price",
         "C) promotion",
@@ -2035,7 +2035,7 @@ let data = [
         ]
     ],
     [
-        "115) In the context of a company's marketing mix, ________ includes company activities thatmake the product available to target consumers.",
+        "115) In the context of a company's marketing mix, ________ includes company activities that make the product available to target consumers.",
         "A) position",
         "B) place",
         "C) price",
@@ -2057,7 +2057,7 @@ let data = [
         ]
     ],
     [
-        "117) ________ refers to activities that communicate the merits of the product and persuadetarget customers to buy it.",
+        "117) ________ refers to activities that communicate the merits of the product and persuade target customers to buy it.",
         "A) Position",
         "B) Promotion",
         "C) Pricing",
@@ -2068,7 +2068,7 @@ let data = [
         ]
     ],
     [
-        "131) Which of the following would be classified as an opportunity in a SWOT analysis of Fun-Spot?",
+        "131) Which of the following would be classified as an opportunity in a SWOT analysis of Fun- Spot?",
         "A) A rival amusement park announces plans to open three new rides next season.",
         "B) A new luxury hotel is being constructed in the area, with the aim of attracting more high-",
         "C) Ron and Gail have paid off the mortgage on Fun-Spot, significantly reducing their monthly",
@@ -2090,7 +2090,7 @@ let data = [
         ]
     ],
     [
-        "133) ________ analysis is an overall evaluation of the company's strengths, weaknesses,opportunities, and threats.",
+        "133) ________ analysis is an overall evaluation of the company's strengths, weaknesses, opportunities, and threats.",
         "A) Porter's five forces",
         "B) A breakeven",
         "C) A regression",
@@ -2123,7 +2123,7 @@ let data = [
         ]
     ],
     [
-        "136) Harris Brown, the marketing manager at a small retail chain, wants to assess his firm'sstrengths, opportunities, weaknesses, and threats. Which of the following would be best suitedfor his purpose?",
+        "136) Harris Brown, the marketing manager at a small retail chain, wants to assess his firm's strengths, opportunities, weaknesses, and threats. Which of the following would be best suited for his purpose?",
         "A) SWOT analysis",
         "B) cluster analysis",
         "C) portfolio analysis",
@@ -2156,7 +2156,7 @@ let data = [
         ]
     ],
     [
-        "139) Marketing ________ addresses the what and why of marketing activities, while marketing________ addresses the who, where, when, and how.",
+        "139) Marketing ________ addresses the what and why of marketing activities, while marketing ________ addresses the who, where, when, and how.",
         "A) analysis; planning",
         "B) planning; implementation",
         "C) implementation; planning",
@@ -2167,7 +2167,7 @@ let data = [
         ]
     ],
     [
-        "140) Omega Inc. makes lightweight sunglasses with 100-percent UV protection for people wholove to hunt, hike, and ride bikes. The company's long-term plans include the development oflenses that, in addition to protecting users from UV rays, would help reduce lens spottingthrough effective water-sheeting methods. This new feature would be valuable to people whofish. Given the rising popularity of recreational fishing in the United States, Omega productsclearly have a huge market potential. In terms of a SWOT analysis, Omega has recognized amarket ________.",
+        "140) Omega Inc. makes lightweight sunglasses with 100-percent UV protection for people who love to hunt, hike, and ride bikes. The company's long-term plans include the development of lenses that, in addition to protecting users from UV rays, would help reduce lens spotting through effective water-sheeting methods. This new feature would be valuable to people who fish. Given the rising popularity of recreational fishing in the United States, Omega products clearly have a huge market potential. In terms of a SWOT analysis, Omega has recognized a market ________.",
         "A) weakness",
         "B) strength",
         "C) threat",
@@ -2178,7 +2178,7 @@ let data = [
         ]
     ],
     [
-        "141) The main section of the marketing plan most likely presents a detailed ________ analysis42of the current marketing situation.",
+        "141) The main section of the marketing plan most likely presents a detailed ________ analysis 42 of the current marketing situation.",
         "A) breakeven",
         "B) SBU",
         "C) SWOT",
@@ -2189,7 +2189,7 @@ let data = [
         ]
     ],
     [
-        "142) A marketing plan begins with a(n) ________, which presents a brief summary of the maingoals and recommendations of the plan for management review.",
+        "142) A marketing plan begins with a(n) ________, which presents a brief summary of the main goals and recommendations of the plan for management review.",
         "A) budget",
         "B) opportunity analysis",
         "C) threat analysis",
@@ -2200,7 +2200,7 @@ let data = [
         ]
     ],
     [
-        "143) Many managers think that \"doing things right,\" or ________, is as important as, or evenmore important than, \"doing the right things.\"",
+        "143) Many managers think that \"doing things right,\" or ________, is as important as, or even more important than, \"doing the right things.\"",
         "A) strategy",
         "B) planning",
         "C) positioning",
@@ -2211,7 +2211,7 @@ let data = [
         ]
     ],
     [
-        "144) The most common form of marketing organization is the ________ organization. Underthis organization, an operational specialist heads different marketing activities.",
+        "144) The most common form of marketing organization is the ________ organization. Under this organization, an operational specialist heads different marketing activities.",
         "A) geographic",
         "B) product management",
         "C) functional",
@@ -2222,7 +2222,7 @@ let data = [
         ]
     ],
     [
-        "145) Berman Electronics, a chain of appliance stores in North America, caters to a wide rangeof customers. It has a marketing organization in which different operational specialists headdifferent marketing activities. Berman Electronics is a(n) ________.",
+        "145) Berman Electronics, a chain of appliance stores in North America, caters to a wide range of customers. It has a marketing organization in which different operational specialists head different marketing activities. Berman Electronics is a(n) ________.",
         "A) customer management organization",
         "B) niche marketer",
         "C) early adopter",
@@ -2233,7 +2233,7 @@ let data = [
         ]
     ],
     [
-        "146) ________ refer(s) to meaningful sets of marketing performance measures in a singledisplay used to monitor strategic marketing performance.",
+        "146) ________ refer(s) to meaningful sets of marketing performance measures in a single display used to monitor strategic marketing performance.",
         "A) Field automation systems",
         "B) Market segments",
         "C) Market share",
@@ -2244,7 +2244,7 @@ let data = [
         ]
     ],
     [
-        "147) Emerson Studios has designed its marketing organization along the lines of a ________organization in which operational specialists head different marketing activities.",
+        "147) Emerson Studios has designed its marketing organization along the lines of a ________ organization in which operational specialists head different marketing activities.",
         "A) geographic",
         "B) product",
         "C) functional",
@@ -2255,7 +2255,7 @@ let data = [
         ]
     ],
     [
-        "148) Ravenshaw Corp. assigns its sales and marketing people to specific countries, regions, anddistricts. Ravenshaw Corp. is most likely an example of a ________.",
+        "148) Ravenshaw Corp. assigns its sales and marketing people to specific countries, regions, and districts. Ravenshaw Corp. is most likely an example of a ________.",
         "A) geographic organization",
         "B) product organization",
         "C) functional organization",
@@ -2288,7 +2288,7 @@ let data = [
         ]
     ],
     [
-        "151) More and more, companies are shifting their brand management focus from brandprofitability toward ________.",
+        "151) More and more, companies are shifting their brand management focus from brand profitability toward ________.",
         "A) technology management",
         "B) product management",
         "C) customer management",
@@ -2299,7 +2299,7 @@ let data = [
         ]
     ],
     [
-        "152) ________ refers to measuring and evaluating the results of marketing strategies and plansand taking corrective action to ensure that the objectives are achieved.",
+        "152) ________ refers to measuring and evaluating the results of marketing strategies and plans and taking corrective action to ensure that the objectives are achieved.",
         "A) Marketing control",
         "B) Marketing implementation",
         "C) Satisficing",
@@ -2332,7 +2332,7 @@ let data = [
         ]
     ],
     [
-        "155) The purpose of ________ is to ensure that the company achieves the sales, profits, andother goals set out in its annual marketing plan.",
+        "155) The purpose of ________ is to ensure that the company achieves the sales, profits, and other goals set out in its annual marketing plan.",
         "A) benchmarking",
         "B) operating control",
         "C) strategic control",
@@ -2343,7 +2343,7 @@ let data = [
         ]
     ],
     [
-        "156) ________ involves looking at whether a company's key action plans are well-matched toits opportunities.",
+        "156) ________ involves looking at whether a company's key action plans are well-matched to its opportunities.",
         "A) Operating control",
         "B) Benchmarking",
         "C) Strategic control",
@@ -2365,7 +2365,7 @@ let data = [
         ]
     ],
     [
-        "1) Dan has been directed to study the forces close to a company that affect its ability to serve itscustomers, such as the company, suppliers, marketing intermediaries, customer markets,competitors, and publics. In this instance, Dan has been directed to study the ________ of thecompany.",
+        "1) Dan has been directed to study the forces close to a company that affect its ability to serve its customers, such as the company, suppliers, marketing intermediaries, customer markets, competitors, and publics. In this instance, Dan has been directed to study the ________ of the company.",
         "A) macroenvironment",
         "B) microenvironment",
         "C) technological environment",
@@ -2376,7 +2376,7 @@ let data = [
         ]
     ],
     [
-        "2) Which of the following terms is used to describe the actors and forces outside marketing thataffect marketing management's ability to build and maintain successful relationships with targetcustomers?",
+        "2) Which of the following terms is used to describe the actors and forces outside marketing that affect marketing management's ability to build and maintain successful relationships with target customers?",
         "A) marketing environment",
         "B) marketing orientation",
         "C) strategic planning",
@@ -2398,7 +2398,7 @@ let data = [
         ]
     ],
     [
-        "4) Sam has been directed to study the demographic, economic, political, and cultural forces thataffect an organization. In this instance, Sam has been directed to study the ________ of theorganization.",
+        "4) Sam has been directed to study the demographic, economic, political, and cultural forces that affect an organization. In this instance, Sam has been directed to study the ________ of the organization.",
         "A) macroenvironment",
         "B) microenvironment",
         "C) internal environment",
@@ -2409,7 +2409,7 @@ let data = [
         ]
     ],
     [
-        "5) The interrelated departments within a company that influence marketing decisions form the________ environment.",
+        "5) The interrelated departments within a company that influence marketing decisions form the ________ environment.",
         "A) cultural",
         "B) economic",
         "C) company",
@@ -2442,7 +2442,7 @@ let data = [
         ]
     ],
     [
-        "8) Sparex Inc. is a manufacturer of metal bolts that are used by Boilex Inc. to manufactureheavy machineries. In this instance, Sparex acts as a ________.",
+        "8) Sparex Inc. is a manufacturer of metal bolts that are used by Boilex Inc. to manufacture heavy machineries. In this instance, Sparex acts as a ________.",
         "A) financial intermediary",
         "B) supplier",
         "C) retailer",
@@ -2453,7 +2453,7 @@ let data = [
         ]
     ],
     [
-        "9) Jonathan works for a firm that assists companies in promoting, distributing, and selling theirproducts to end consumers. The firm Jonathan works for is a ________.",
+        "9) Jonathan works for a firm that assists companies in promoting, distributing, and selling their products to end consumers. The firm Jonathan works for is a ________.",
         "A) licensor",
         "B) supplier",
         "C) marketing intermediary",
@@ -2464,7 +2464,7 @@ let data = [
         ]
     ],
     [
-        "10) ________ help companies stock and move goods from their points of origin to theirdestinations.",
+        "10) ________ help companies stock and move goods from their points of origin to their destinations.",
         "A) Retailers",
         "B) Physical distribution firms",
         "C) Marketing services agencies",
@@ -2475,7 +2475,7 @@ let data = [
         ]
     ],
     [
-        "11) ________ include banks, credit companies, insurance companies, and other businesses thathelp insure against the risks associated with the buying and selling of goods.",
+        "11) ________ include banks, credit companies, insurance companies, and other businesses that help insure against the risks associated with the buying and selling of goods.",
         "A) Financial intermediaries",
         "B) Physical distribution firms",
         "C) Resellers",
@@ -2486,7 +2486,7 @@ let data = [
         ]
     ],
     [
-        "12) Maria works for Sigma Inc., a firm that helps companies target and promote their productsto the right markets. Sigma is most likely a ________.",
+        "12) Maria works for Sigma Inc., a firm that helps companies target and promote their products to the right markets. Sigma is most likely a ________.",
         "A) financial intermediary",
         "B) physical distribution firm",
         "C) marketing services agency",
@@ -2497,7 +2497,7 @@ let data = [
         ]
     ],
     [
-        "13) LandPort Transportation and Omega Warehousing help companies move and stock goodsfrom their manufacturing plants to their destinations. These two businesses are examples of________.",
+        "13) LandPort Transportation and Omega Warehousing help companies move and stock goods from their manufacturing plants to their destinations. These two businesses are examples of ________.",
         "A) resellers",
         "B) marketing services agencies",
         "C) financial intermediaries",
@@ -2508,7 +2508,7 @@ let data = [
         ]
     ],
     [
-        "14) Boxes, Inc. sells products to end users or to other companies that will sell to end users.Boxes, Inc. is a ________.",
+        "14) Boxes, Inc. sells products to end users or to other companies that will sell to end users. Boxes, Inc. is a ________.",
         "A) reseller",
         "B) marketing services agencies",
         "C) financial intermediaries",
@@ -2541,7 +2541,7 @@ let data = [
         ]
     ],
     [
-        "17) Companies can succeed against their competitors by all of the following EXCEPT________.",
+        "17) Companies can succeed against their competitors by all of the following EXCEPT ________.",
         "A) providing greater customer value and satisfaction",
         "B) better meeting the needs of target customers",
         "C) positioning their offerings strongly against competitors' offerings in the minds of consumers",
@@ -2552,7 +2552,7 @@ let data = [
         ]
     ],
     [
-        "18) A company's marketing decisions may be questioned by consumer organizations,environmental groups, minority groups, and others. These organizations and groups are alsoknown as ________.",
+        "18) A company's marketing decisions may be questioned by consumer organizations, environmental groups, minority groups, and others. These organizations and groups are also known as ________.",
         "A) media publics",
         "B) marketing intermediaries",
         "C) customers",
@@ -2563,7 +2563,7 @@ let data = [
         ]
     ],
     [
-        "19) A consumer organization in Ohio has challenged the marketing decision of a local firmalleging it to be against the larger social interest. In this instance, the firm is challenged by a(n)________ public.",
+        "19) A consumer organization in Ohio has challenged the marketing decision of a local firm alleging it to be against the larger social interest. In this instance, the firm is challenged by a(n) ________ public.",
         "A) internal",
         "B) general",
         "C) government",
@@ -2585,7 +2585,7 @@ let data = [
         ]
     ],
     [
-        "21) Cape Sky Inc., an international insurance and financial services company, is the primarysponsor of the annual New York City Marathon, which is attended by over one million fans andwatched by approximately 300 million viewers worldwide. The Cape Sky logo and name aredisplayed throughout the racecourse. Cape Sky most likely sponsors this event in order toappeal to which of the following types of publics?",
+        "21) Cape Sky Inc., an international insurance and financial services company, is the primary sponsor of the annual New York City Marathon, which is attended by over one million fans and watched by approximately 300 million viewers worldwide. The Cape Sky logo and name are displayed throughout the racecourse. Cape Sky most likely sponsors this event in order to appeal to which of the following types of publics?",
         "A) financial publics",
         "B) citizen-action publics",
         "C) government publics",
@@ -2607,7 +2607,7 @@ let data = [
         ]
     ],
     [
-        "23) Price & Malone Corp., a company based in Houston, caters to a market of individuals andhouseholds that buy goods and services for personal consumption. Price & Malone caters to a________ market.",
+        "23) Price & Malone Corp., a company based in Houston, caters to a market of individuals and households that buy goods and services for personal consumption. Price & Malone caters to a ________ market.",
         "A) business",
         "B) reseller",
         "C) government",
@@ -2629,7 +2629,7 @@ let data = [
         ]
     ],
     [
-        "25) Government markets consist of government agencies that buy goods and services________.",
+        "25) Government markets consist of government agencies that buy goods and services ________.",
         "A) to produce public services",
         "B) to resell at a profit",
         "C) for further processing",
@@ -2640,7 +2640,7 @@ let data = [
         ]
     ],
     [
-        "26) Rachel works for a furniture company in Ireland. She is responsible for buying and sellinggoods at a profit to small retailers. Rachel most likely operates in a ________ market.",
+        "26) Rachel works for a furniture company in Ireland. She is responsible for buying and selling goods at a profit to small retailers. Rachel most likely operates in a ________ market.",
         "A) business",
         "B) reseller",
         "C) wholesale",
@@ -2651,7 +2651,7 @@ let data = [
         ]
     ],
     [
-        "27) Sparks Inc. has a growing ________ market in the United States consisting of individualsand households that buy Sparks' products for personal use.",
+        "27) Sparks Inc. has a growing ________ market in the United States consisting of individuals and households that buy Sparks' products for personal use.",
         "A) consumer",
         "B) government",
         "C) business",
@@ -2662,7 +2662,7 @@ let data = [
         ]
     ],
     [
-        "28) Which of the following microenvironment actors has had the most influence on TheLanding?",
+        "28) Which of the following microenvironment actors has had the most influence on The Landing?",
         "A) competitors",
         "B) suppliers",
         "C) marketing intermediaries",
@@ -2673,7 +2673,7 @@ let data = [
         ]
     ],
     [
-        "47) The marketing team of 7 Star Inc., a company manufacturing smartphones, is currently15studying the size, density, location, age, and occupation of its target market. Which of thefollowing environments is being studied in this scenario?",
+        "47) The marketing team of 7 Star Inc., a company manufacturing smartphones, is currently 15 studying the size, density, location, age, and occupation of its target market. Which of the following environments is being studied in this scenario?",
         "A) demographic environment",
         "B) political environment",
         "C) economic environment",
@@ -2695,7 +2695,7 @@ let data = [
         ]
     ],
     [
-        "49) Among the generational groups in U.S population, the ________ are still the wealthiestgeneration in U.S. history.",
+        "49) Among the generational groups in U.S population, the ________ are still the wealthiest generation in U.S. history.",
         "A) baby boomers",
         "B) Generation Xers",
         "C) Millennials",
@@ -2739,7 +2739,7 @@ let data = [
         ]
     ],
     [
-        "53) Mary Adams is helping her company develop a marketing program for a new product line.The program is designed to appeal most to less materialistic consumer groups who are likely toprize experience, not acquisition. The marketing program is most likely designed to appeal towhich of the following demographic groups?",
+        "53) Mary Adams is helping her company develop a marketing program for a new product line. The program is designed to appeal most to less materialistic consumer groups who are likely to prize experience, not acquisition. The marketing program is most likely designed to appeal to which of the following demographic groups?",
         "A) Generation X",
         "B) Millennials",
         "C) Echo Boomers",
@@ -2761,7 +2761,7 @@ let data = [
         ]
     ],
     [
-        "55) Which of the following generational groups is most comfortable with digital technologyand embraces that technology?",
+        "55) Which of the following generational groups is most comfortable with digital technology and embraces that technology?",
         "A) Generation X",
         "B) Millennials",
         "C) Baby Boomers",
@@ -2772,7 +2772,7 @@ let data = [
         ]
     ],
     [
-        "56) Wholesome Soups, a maker of organic soups, is starting a new marketing campaignemphasizing the ease of preparing and eating Wholesome Soups. Print, television, and Internetads feature college students enjoying Wholesome Soups in between classes and during studybreaks. Wholesome Soups' new marketing campaign is most likely aimed at which of thefollowing?",
+        "56) Wholesome Soups, a maker of organic soups, is starting a new marketing campaign emphasizing the ease of preparing and eating Wholesome Soups. Print, television, and Internet ads feature college students enjoying Wholesome Soups in between classes and during study breaks. Wholesome Soups' new marketing campaign is most likely aimed at which of the following?",
         "A) Baby Boomers",
         "B) Gen Zers",
         "C) Gen Xers",
@@ -2805,7 +2805,7 @@ let data = [
         ]
     ],
     [
-        "59) Marketers can group people in a number of ways, including by birth date. However, thefollowing combination of groups has proven to be more effective: ________.",
+        "59) Marketers can group people in a number of ways, including by birth date. However, the following combination of groups has proven to be more effective: ________.",
         "A) income, lifestyle, life stage",
         "B) profession, common values they seek in products they buy, lifestyle",
         "C) lifestyle, life stage, common values they seek in products they buy",
@@ -2816,7 +2816,7 @@ let data = [
         ]
     ],
     [
-        "60) Which of the following is a trend that depicts the increasingly nontraditional nature oftoday's American families?",
+        "60) Which of the following is a trend that depicts the increasingly nontraditional nature of today's American families?",
         "A) the low percentage of working women in the workforce",
         "B) the low percentage of married couples with children",
         "C) the sharply declining number of dual-income families",
@@ -2827,7 +2827,7 @@ let data = [
         ]
     ],
     [
-        "61) In the context of geographical shifts in population, the migration toward ________ areashas resulted in a rapid increase in the number of people who telecommute.",
+        "61) In the context of geographical shifts in population, the migration toward ________ areas has resulted in a rapid increase in the number of people who telecommute.",
         "A) urban",
         "B) remote",
         "C) rural",
@@ -2871,7 +2871,7 @@ let data = [
         ]
     ],
     [
-        "65) An increasing number of American workers currently work from their homes or remoteoffices and conduct their business by phone or the Internet. This trend has created a ________.",
+        "65) An increasing number of American workers currently work from their homes or remote offices and conduct their business by phone or the Internet. This trend has created a ________.",
         "A) booming real estate market in the big cities",
         "B) booming SOHO market",
         "C) decline in the demand for convenience foods",
@@ -2882,7 +2882,7 @@ let data = [
         ]
     ],
     [
-        "66) Which of the following demographic trends is the most likely cause for a rapid increase intelecommuting?",
+        "66) Which of the following demographic trends is the most likely cause for a rapid increase in telecommuting?",
         "A) the migration toward micropolitan and suburban areas",
         "B) the migration from rural to metropolitan areas",
         "C) the increasing number of traditional households",
@@ -2926,7 +2926,7 @@ let data = [
         ]
     ],
     [
-        "70) Which of the following is an accurate statement about the diversity of the Americanpopulation?",
+        "70) Which of the following is an accurate statement about the diversity of the American population?",
         "A) African Americans represent the largest non-white segment of the population.",
         "B) More than 20 percent of the people living in the United States were born in another country.",
         "C) By 2050, the Asian population is estimated to remain at 4.7 percent.",
@@ -2948,7 +2948,7 @@ let data = [
         ]
     ],
     [
-        "72) Which of the following situations is expected to enhance the use of targeted advertisingmessages by marketers?",
+        "72) Which of the following situations is expected to enhance the use of targeted advertising messages by marketers?",
         "A) increase in derived demand in the market",
         "B) increase in ethnic populations",
         "C) rising global inflation rates",
@@ -2959,7 +2959,7 @@ let data = [
         ]
     ],
     [
-        "73) With an expected increase in ethnic diversity within the American population, marketers aremost likely to place a greater emphasis on ________.",
+        "73) With an expected increase in ethnic diversity within the American population, marketers are most likely to place a greater emphasis on ________.",
         "A) geographic segmentation",
         "B) targeted advertising messages",
         "C) mass marketing",
@@ -2970,7 +2970,7 @@ let data = [
         ]
     ],
     [
-        "74) Soon-Yi Park's chain of travel agencies has identified the lesbian, gay, bisexual, andtransgender community as a growing market that spends an increasing percentage of its incomeon travel. Which of the following would be the LEAST effective component of a marketingplan for Soon-Yi to take advantage of this opportunity?",
+        "74) Soon-Yi Park's chain of travel agencies has identified the lesbian, gay, bisexual, and transgender community as a growing market that spends an increasing percentage of its income on travel. Which of the following would be the LEAST effective component of a marketing plan for Soon-Yi to take advantage of this opportunity?",
         "A) develop a presence on LGBT-oriented social networking sites",
         "B) position his agency as focused on specialized experiences",
         "C) implement a mass marketing campaign",
@@ -2981,7 +2981,7 @@ let data = [
         ]
     ],
     [
-        "75) Which of the following is true with regard to the diversity segment of U.S. adults withdisabilities?",
+        "75) Which of the following is true with regard to the diversity segment of U.S. adults with disabilities?",
         "A) Most individuals with disabilities are active consumers.",
         "B) The market represented by U.S. adults with disabilities is smaller than that represented by",
         "C) The diversity segment, U.S. adults with disabilities, is a rather unattractive segment for the",
@@ -3014,7 +3014,7 @@ let data = [
         ]
     ],
     [
-        "78) Which of the following is an accurate statement about the income distribution of theAmerican population?",
+        "78) Which of the following is an accurate statement about the income distribution of the American population?",
         "A) The top 20 percent of earners achieves 68 percent of the country's adjusted gross income.",
         "B) The bottom 40 percent of earners captures just 11 percent of total income.",
         "C) The top 5 percent of American earners captures 18 percent of all income.",
@@ -3036,7 +3036,7 @@ let data = [
         ]
     ],
     [
-        "80) Which of the following statements about income distribution in the United States is NOTtrue?",
+        "80) Which of the following statements about income distribution in the United States is NOT true?",
         "A) Over the past several decades, the rich have grown richer.",
         "B) Over the past several decades, the middle class has grown faster than other classes.",
         "C) Over the past several decades, the poor have remained poor.",
@@ -3047,7 +3047,7 @@ let data = [
         ]
     ],
     [
-        "81) Which of the following is the macroenvironmental force that has had the greatest effect onThe Landing?",
+        "81) Which of the following is the macroenvironmental force that has had the greatest effect on The Landing?",
         "A) the demographic environment",
         "B) the technological environment",
         "C) marketing intermediaries",
@@ -3058,7 +3058,7 @@ let data = [
         ]
     ],
     [
-        "82) Which of the following generational groups is most likely to represent the present ownersof cottages surrounding Witmer Lake?",
+        "82) Which of the following generational groups is most likely to represent the present owners of cottages surrounding Witmer Lake?",
         "A) Baby Boomers",
         "B) Echo Boomers",
         "C) Gen Xers",
@@ -3069,7 +3069,7 @@ let data = [
         ]
     ],
     [
-        "103) The physical environment affecting marketing activities is referred to as the ________environment.",
+        "103) The physical environment affecting marketing activities is referred to as the ________ environment.",
         "A) economic",
         "B) natural",
         "C) cultural",
@@ -3091,7 +3091,7 @@ let data = [
         ]
     ],
     [
-        "105) As a consequence of the concern for the natural environment, many companies aredeveloping strategies and practices that support ________.",
+        "105) As a consequence of the concern for the natural environment, many companies are developing strategies and practices that support ________.",
         "A) government intervention",
         "B) environmental sustainability",
         "C) deregulation",
@@ -3135,7 +3135,7 @@ let data = [
         ]
     ],
     [
-        "109) Many companies use RFID product labels on their goods, which exemplifies the________ environment in business.",
+        "109) Many companies use RFID product labels on their goods, which exemplifies the ________ environment in business.",
         "A) natural",
         "B) political",
         "C) economic",
@@ -3146,7 +3146,7 @@ let data = [
         ]
     ],
     [
-        "110) Which of the following is most likely a result of regulations set up by the Food and DrugAdministration and the Consumer Product Safety Commission?",
+        "110) Which of the following is most likely a result of regulations set up by the Food and Drug Administration and the Consumer Product Safety Commission?",
         "A) The time between new product ideas and their introduction to the market has decreased.",
         "B) Annual spending on research and development has decreased.",
         "C) Research costs for companies have risen.",
@@ -3179,7 +3179,7 @@ let data = [
         ]
     ],
     [
-        "113) Regulations force companies to be responsible. However, most companies want to beresponsible. Impacts of government regulations include all of the following EXCEPT________.",
+        "113) Regulations force companies to be responsible. However, most companies want to be responsible. Impacts of government regulations include all of the following EXCEPT ________.",
         "A) informing the public that products are safe",
         "B) higher research costs",
         "C) increased sales because they have been found to be safe",
@@ -3190,7 +3190,7 @@ let data = [
         ]
     ],
     [
-        "114) Which of the following is the macroenvironmental force that benefitted The Landing themost?",
+        "114) Which of the following is the macroenvironmental force that benefitted The Landing the most?",
         "A) the legal environment",
         "B) the natural environment",
         "C) the economic environment",
@@ -3201,7 +3201,7 @@ let data = [
         ]
     ],
     [
-        "121) The ________ prohibits monopolies and activities (price-fixing, predatory pricing) thatrestrain trade or competition in interstate commerce.",
+        "121) The ________ prohibits monopolies and activities (price-fixing, predatory pricing) that restrain trade or competition in interstate commerce.",
         "A) Sherman Antitrust Act",
         "B) Lanham Trademark Act",
         "C) Fair Packaging and Labeling Act",
@@ -3223,7 +3223,7 @@ let data = [
         ]
     ],
     [
-        "123) The ________ environment consists of laws, government agencies, and pressure groupsthat influence or limit various organizations and individuals in a given society.",
+        "123) The ________ environment consists of laws, government agencies, and pressure groups that influence or limit various organizations and individuals in a given society.",
         "A) socio-legal",
         "B) cultural",
         "C) political",
@@ -3245,7 +3245,7 @@ let data = [
         ]
     ],
     [
-        "125) Laws in the United States and many other countries have many business-oriented lawscovering issues such as competition, environmental protection, pricing, packaging and labeling,product safety, truth in advertising, consumer privacy, and ________.",
+        "125) Laws in the United States and many other countries have many business-oriented laws covering issues such as competition, environmental protection, pricing, packaging and labeling, product safety, truth in advertising, consumer privacy, and ________.",
         "A) land ownership",
         "B) taxation",
         "C) fair-trade practices",
@@ -3256,7 +3256,7 @@ let data = [
         ]
     ],
     [
-        "126) Business legislation is enacted to protect ________.43",
+        "126) Business legislation is enacted to protect ________. 43",
         "A) consumers from unfair business practices",
         "B) businesses from unfair attacks by consumers",
         "C) consumers from competition by businesses",
@@ -3278,7 +3278,7 @@ let data = [
         ]
     ],
     [
-        "128) Funco Inc., a toy manufacturer, sold plastic racing cars that were manufactured with toxicmaterials, which threatened the health of several children. Which purpose of governmentregulation to protect consumers is involved?",
+        "128) Funco Inc., a toy manufacturer, sold plastic racing cars that were manufactured with toxic materials, which threatened the health of several children. Which purpose of government regulation to protect consumers is involved?",
         "A) misleading customers in their advertising",
         "B) deceiving consumers through their packaging",
         "C) making shoddy products",
@@ -3289,7 +3289,7 @@ let data = [
         ]
     ],
     [
-        "129) A company or association's ________ is designed to help guide responses to complexsocial responsibility issues.",
+        "129) A company or association's ________ is designed to help guide responses to complex social responsibility issues.",
         "A) code of ethics",
         "B) marketing plan",
         "C) non-disclosure policy",
@@ -3300,7 +3300,7 @@ let data = [
         ]
     ],
     [
-        "130) The boom in Internet marketing has created a new set of social and ethical issues. Criticsworry most about ________.",
+        "130) The boom in Internet marketing has created a new set of social and ethical issues. Critics worry most about ________.",
         "A) accessibility",
         "B) puffery in advertising",
         "C) online privacy issues",
@@ -3322,7 +3322,7 @@ let data = [
         ]
     ],
     [
-        "132) A regional supermarket chain runs print, radio, and television advertisements announcingthat 1 percent of its sales is donated to local after-school programs for underprivileged youth.This is an example of ________.",
+        "132) A regional supermarket chain runs print, radio, and television advertisements announcing that 1 percent of its sales is donated to local after-school programs for underprivileged youth. This is an example of ________.",
         "A) cause-related marketing",
         "B) generational marketing",
         "C) sustainable marketing",
@@ -3333,7 +3333,7 @@ let data = [
         ]
     ],
     [
-        "133) The ________ environment consists of institutions and other forces that affect a society'sbasic values, perceptions, preferences, and behaviors.",
+        "133) The ________ environment consists of institutions and other forces that affect a society's basic values, perceptions, preferences, and behaviors.",
         "A) social",
         "B) cultural",
         "C) political",
@@ -3355,7 +3355,7 @@ let data = [
         ]
     ],
     [
-        "135) Babita Singh, a 51-year-old schoolteacher from Los Angeles, believes that people shouldchoose a profession they like, which is an example of Babita's ________.",
+        "135) Babita Singh, a 51-year-old schoolteacher from Los Angeles, believes that people should choose a profession they like, which is an example of Babita's ________.",
         "A) secondary belief",
         "B) core belief",
         "C) core value",
@@ -3366,7 +3366,7 @@ let data = [
         ]
     ],
     [
-        "136) A pastor from Kansas believes that adultery is immoral. This refers to the pastor's________.",
+        "136) A pastor from Kansas believes that adultery is immoral. This refers to the pastor's ________.",
         "A) secondary belief",
         "B) acquired belief",
         "C) social identity",
@@ -3377,7 +3377,7 @@ let data = [
         ]
     ],
     [
-        "137) Mercury Inc., an American multinational corporation, is currently planning to enter thepromising consumer goods market in India. The firm will most likely discover that ________beliefs and values are more open to change in India.",
+        "137) Mercury Inc., an American multinational corporation, is currently planning to enter the promising consumer goods market in India. The firm will most likely discover that ________ beliefs and values are more open to change in India.",
         "A) inherited",
         "B) secondary",
         "C) primary",
@@ -3388,7 +3388,7 @@ let data = [
         ]
     ],
     [
-        "138) A society's ________ are expressed in how people view themselves and others,organizations, society, nature, and the universe.",
+        "138) A society's ________ are expressed in how people view themselves and others, organizations, society, nature, and the universe.",
         "A) social codes",
         "B) cultural values",
         "C) demographics",
@@ -3399,7 +3399,7 @@ let data = [
         ]
     ],
     [
-        "139) Which of the following is most likely true with regard to people's views of organizationsin contemporary America?",
+        "139) Which of the following is most likely true with regard to people's views of organizations in contemporary America?",
         "A) In the American workplace, there has been an overall increase in organizational loyalty.",
         "B) Most Americans are confident in their employers and are unlikely to switch jobs as",
         "C) The past two decades have seen a sharp decrease in confidence in and loyalty toward",
@@ -3410,7 +3410,7 @@ let data = [
         ]
     ],
     [
-        "140) People vary in their attitudes toward their society—while ________ defend it, malcontentswant to leave it.",
+        "140) People vary in their attitudes toward their society—while ________ defend it, malcontents want to leave it.",
         "A) reformers",
         "B) patriots",
         "C) activists",
@@ -3421,7 +3421,7 @@ let data = [
         ]
     ],
     [
-        "141) Which of the following is a potential downside to using patriotic themes in marketingprograms?",
+        "141) Which of the following is a potential downside to using patriotic themes in marketing programs?",
         "A) Consumers rarely respond to patriotic marketing messages in a favorable manner.",
         "B) A consumer's societal orientation has no visible impact on product consumption.",
         "C) Patriotism could be viewed as an attempt to cash in on the nation's emotions.",
@@ -3432,7 +3432,7 @@ let data = [
         ]
     ],
     [
-        "142) Consumers in the \"lifestyles of health and sustainability\" market are more likely to seek________.",
+        "142) Consumers in the \"lifestyles of health and sustainability\" market are more likely to seek ________.",
         "A) alternative medicine",
         "B) perfumes made from animal products",
         "C) clothing made of fur",
@@ -3443,7 +3443,7 @@ let data = [
         ]
     ],
     [
-        "143) The fact that people are dropping out of organized religion doesn't mean that they areabandoning their faith. Some futurists have noted a renewed interest in ________, perhaps as apart of a broader search for a new inner purpose.",
+        "143) The fact that people are dropping out of organized religion doesn't mean that they are abandoning their faith. Some futurists have noted a renewed interest in ________, perhaps as a part of a broader search for a new inner purpose.",
         "A) interacting with nature",
         "B) the fine arts",
         "C) charitable giving",
@@ -3454,7 +3454,7 @@ let data = [
         ]
     ],
     [
-        "144) Josie's FarmFresh creates sustainable, all-natural food products. These products are mostlikely to become popular with which group?",
+        "144) Josie's FarmFresh creates sustainable, all-natural food products. These products are most likely to become popular with which group?",
         "A) SOHO",
         "B) environmentally conscious",
         "C) LGBT",
@@ -3465,7 +3465,7 @@ let data = [
         ]
     ],
     [
-        "156) Rather than assuming that strategic options are bounded by the current environment, firmsadopting a(n) ________ to the marketing environment develop strategies to change theenvironment.",
+        "156) Rather than assuming that strategic options are bounded by the current environment, firms adopting a(n) ________ to the marketing environment develop strategies to change the environment.",
         "A) environmental stance",
         "B) proactive stance",
         "C) reactive stance",
@@ -3476,7 +3476,7 @@ let data = [
         ]
     ],
     [
-        "157) Companies that take a proactive stance toward the marketing environment are most likelyto ________.",
+        "157) Companies that take a proactive stance toward the marketing environment are most likely to ________.",
         "A) develop strategies to change the environment in their favor",
         "B) passively accept the marketing environment",
         "C) resist organizational change",
@@ -3487,7 +3487,7 @@ let data = [
         ]
     ],
     [
-        "158) Katrina Mendoza is a senior manager in a manufacturing firm that hires lobbyists toinfluence legislation that affects the manufacturing industry. Katrina's firm takes a(n) ________stance toward the marketing environment.",
+        "158) Katrina Mendoza is a senior manager in a manufacturing firm that hires lobbyists to influence legislation that affects the manufacturing industry. Katrina's firm takes a(n) ________ stance toward the marketing environment.",
         "A) reactive",
         "B) proactive",
         "C) adversarial",
@@ -3542,7 +3542,7 @@ let data = [
         ]
     ],
     [
-        "3) Brad works with a reputable retailer and leads a team that collects market information from awide variety of sources ranging from marketing research studies to monitoring onlineconversations where consumers discuss Brad's firm or its products. Brad's team uses thisinformation to arrive at a better understanding of consumers' behavior and their buyingmotives. This, in turn, allows Brad's firm to successfully generate more value for consumers.Brad leads the ________ team.",
+        "3) Brad works with a reputable retailer and leads a team that collects market information from a wide variety of sources ranging from marketing research studies to monitoring online conversations where consumers discuss Brad's firm or its products. Brad's team uses this information to arrive at a better understanding of consumers' behavior and their buying motives. This, in turn, allows Brad's firm to successfully generate more value for consumers. Brad leads the ________ team.",
         "A) product development",
         "B) strategy implementation",
         "C) human resource",
@@ -3553,7 +3553,7 @@ let data = [
         ]
     ],
     [
-        "4) The term big data refers to the ________ generated by today's sophisticated informationgeneration, collection, storage, and analysis technologies.",
+        "4) The term big data refers to the ________ generated by today's sophisticated information generation, collection, storage, and analysis technologies.",
         "A) large reports",
         "B) huge and complex data sets",
         "C) information requests",
@@ -3575,7 +3575,7 @@ let data = [
         ]
     ],
     [
-        "6) A(n) ________ consists of people and procedures dedicated to assessing information needs,developing the needed information, and helping decision makers use the information togenerate and validate actionable customer and market insights.",
+        "6) A(n) ________ consists of people and procedures dedicated to assessing information needs, developing the needed information, and helping decision makers use the information to generate and validate actionable customer and market insights.",
         "A) enterprise planning system",
         "B) enterprise information system",
         "C) marketing information system",
@@ -3608,7 +3608,7 @@ let data = [
         ]
     ],
     [
-        "9) The market researchers at HoneyCamp Foods gather daily sales data and sort it by productline and region. With the help of sophisticated tools and techniques, they develop the dataneeded by marketing managers to evaluate the market share of the company's different productsand also to gain valuable market insights. This mix of people and procedures at HoneyCampFoods that generate actionable marketing insights represents a(n) ________.",
+        "9) The market researchers at HoneyCamp Foods gather daily sales data and sort it by product line and region. With the help of sophisticated tools and techniques, they develop the data needed by marketing managers to evaluate the market share of the company's different products and also to gain valuable market insights. This mix of people and procedures at HoneyCamp Foods that generate actionable marketing insights represents a(n) ________.",
         "A) enterprise planning system",
         "B) product mix",
         "C) strategic planning system",
@@ -3619,7 +3619,7 @@ let data = [
         ]
     ],
     [
-        "17) A good marketing information system balances the information users ________ to haveagainst what they ________ and what is ________ to offer.",
+        "17) A good marketing information system balances the information users ________ to have against what they ________ and what is ________ to offer.",
         "A) request; want; affordable",
         "B) demand; should request; time-efficient",
         "C) want; are unaware of; the newest technology",
@@ -3641,7 +3641,7 @@ let data = [
         ]
     ],
     [
-        "19) Kei, a senior marketing manager of a pizzeria in North Florida, is currently researchingelectronic collections of consumer information within the company network to arrive at crucialmarketing decisions. In this instance, Kei is using ________.",
+        "19) Kei, a senior marketing manager of a pizzeria in North Florida, is currently researching electronic collections of consumer information within the company network to arrive at crucial marketing decisions. In this instance, Kei is using ________.",
         "A) ethnographic research",
         "B) internal databases",
         "C) descriptive research",
@@ -3652,7 +3652,7 @@ let data = [
         ]
     ],
     [
-        "20) Information in a company's database can come from many sources. An advantage ofharnessing such information is to ________.",
+        "20) Information in a company's database can come from many sources. An advantage of harnessing such information is to ________.",
         "A) eliminate employee turnover",
         "B) achieve a high degree of employee empowerment",
         "C) gain competitive advantage",
@@ -3696,7 +3696,7 @@ let data = [
         ]
     ],
     [
-        "24) ________ is the systematic collection and analysis of publicly available information aboutconsumers, competitors, and developments in the marketing environment.",
+        "24) ________ is the systematic collection and analysis of publicly available information about consumers, competitors, and developments in the marketing environment.",
         "A) Data warehousing",
         "B) Competitive marketing intelligence",
         "C) SWOT analysis",
@@ -3707,7 +3707,7 @@ let data = [
         ]
     ],
     [
-        "25) The marketing department of a reputable firm wants to improve strategic decision making,track the actions of other players in the market, and provide early warning of opportunities andthreats. Which of the following would help the firm achieve its objectives?",
+        "25) The marketing department of a reputable firm wants to improve strategic decision making, track the actions of other players in the market, and provide early warning of opportunities and threats. Which of the following would help the firm achieve its objectives?",
         "A) ethnographic research",
         "B) strategic planning",
         "C) data warehousing",
@@ -3762,7 +3762,7 @@ let data = [
         ]
     ],
     [
-        "30) In this scenario, which of the following is representative of competitive marketingintelligence?",
+        "30) In this scenario, which of the following is representative of competitive marketing intelligence?",
         "A) formulating a research plan",
         "B) collecting data about competitors",
         "C) sending mail questionnaires to focus groups",
@@ -3773,7 +3773,7 @@ let data = [
         ]
     ],
     [
-        "40) ________ is the systematic design, collection, analysis, and reporting of data relevant to aspecific marketing situation facing an organization.",
+        "40) ________ is the systematic design, collection, analysis, and reporting of data relevant to a specific marketing situation facing an organization.",
         "A) Product marketing",
         "B) Strategic planning",
         "C) Marketing research",
@@ -3828,7 +3828,7 @@ let data = [
         ]
     ],
     [
-        "45) In ________ research, the objective is to gather preliminary information that will helpdefine the problem and suggest hypotheses.",
+        "45) In ________ research, the objective is to gather preliminary information that will help define the problem and suggest hypotheses.",
         "A) exploratory",
         "B) statistical",
         "C) causal",
@@ -3839,7 +3839,7 @@ let data = [
         ]
     ],
     [
-        "46) The goal of ________ research is to describe things, such as the market potential for aproduct or the demographics and attitudes of consumers who buy the product.",
+        "46) The goal of ________ research is to describe things, such as the market potential for a product or the demographics and attitudes of consumers who buy the product.",
         "A) exploratory",
         "B) statistical",
         "C) causal",
@@ -3850,7 +3850,7 @@ let data = [
         ]
     ],
     [
-        "47) Akira Takano, a marketing manager, is about to test the hypothesis that the sale of aparticular product will increase exponentially if there is a $5 drop in the selling price of theproduct. Akira is involved in ________ research.",
+        "47) Akira Takano, a marketing manager, is about to test the hypothesis that the sale of a particular product will increase exponentially if there is a $5 drop in the selling price of the product. Akira is involved in ________ research.",
         "A) exploratory",
         "B) descriptive",
         "C) causal",
@@ -3861,7 +3861,7 @@ let data = [
         ]
     ],
     [
-        "48) Which of the following types of research would be best suited for understanding theattitudes of consumers who buy a particular brand of soft drink?",
+        "48) Which of the following types of research would be best suited for understanding the attitudes of consumers who buy a particular brand of soft drink?",
         "A) internal research",
         "B) descriptive research",
         "C) causal research",
@@ -3872,7 +3872,7 @@ let data = [
         ]
     ],
     [
-        "49) Beth Williams works for a marketing research company in Chicago. Her current researchinvolves finding the market potential for a client's new line of sports apparel. Given herobjective, which of the following types of research is the most suitable for Beth?",
+        "49) Beth Williams works for a marketing research company in Chicago. Her current research involves finding the market potential for a client's new line of sports apparel. Given her objective, which of the following types of research is the most suitable for Beth?",
         "A) causal research",
         "B) constructive research",
         "C) statistical research",
@@ -3894,7 +3894,7 @@ let data = [
         ]
     ],
     [
-        "51) The research plan should be presented in a written proposal. The proposal should includeall of the following EXCEPT ________.",
+        "51) The research plan should be presented in a written proposal. The proposal should include all of the following EXCEPT ________.",
         "A) the predicted results",
         "B) research objectives",
         "C) how the results will help management's decision making",
@@ -3938,7 +3938,7 @@ let data = [
         ]
     ],
     [
-        "55) Commercial online databases are rich sources for obtaining ________.17",
+        "55) Commercial online databases are rich sources for obtaining ________. 17",
         "A) primary data",
         "B) secondary data",
         "C) customer insights",
@@ -3993,7 +3993,7 @@ let data = [
         ]
     ],
     [
-        "60) Designing a plan for primary data collection requires decisions on all of the followingEXCEPT ________.",
+        "60) Designing a plan for primary data collection requires decisions on all of the following EXCEPT ________.",
         "A) research instruments",
         "B) contact methods",
         "C) sampling plan",
@@ -4004,7 +4004,7 @@ let data = [
         ]
     ],
     [
-        "61) A company sent a trained observer to watch and interact with consumers in their naturalenvironments in order to gain deeper insights on consumer needs. This is an example of________.",
+        "61) A company sent a trained observer to watch and interact with consumers in their natural environments in order to gain deeper insights on consumer needs. This is an example of ________.",
         "A) viral marketing",
         "B) survey research",
         "C) ethnographic research",
@@ -4015,7 +4015,7 @@ let data = [
         ]
     ],
     [
-        "62) ________ involves gathering primary data by closely examining relevant people, actions,and situations.",
+        "62) ________ involves gathering primary data by closely examining relevant people, actions, and situations.",
         "A) Observational research",
         "B) Survey research",
         "C) Telephone interviewing",
@@ -4026,7 +4026,7 @@ let data = [
         ]
     ],
     [
-        "63) ________, a form of observational research, involves sending observers to watch andinteract with consumers in their natural environments.",
+        "63) ________, a form of observational research, involves sending observers to watch and interact with consumers in their natural environments.",
         "A) Group interviewing",
         "B) Ethnographic research",
         "C) Survey research",
@@ -4070,7 +4070,7 @@ let data = [
         ]
     ],
     [
-        "67) While looking for ideas on how to craft a user-friendly dishwasher, the designers of adishwasher-manufacturing company spent 10 days observing people as they used theirdishwashers in their homes. In this instance, the designers were conducting ________.",
+        "67) While looking for ideas on how to craft a user-friendly dishwasher, the designers of a dishwasher-manufacturing company spent 10 days observing people as they used their dishwashers in their homes. In this instance, the designers were conducting ________.",
         "A) survey research",
         "B) experimental research",
         "C) quantitative marketing research",
@@ -4081,7 +4081,7 @@ let data = [
         ]
     ],
     [
-        "68) ________ involves gathering primary data by asking people questions about theirknowledge, attitudes, preferences, or buying behavior. It is the most widely used method forprimary data collection.",
+        "68) ________ involves gathering primary data by asking people questions about their knowledge, attitudes, preferences, or buying behavior. It is the most widely used method for primary data collection.",
         "A) Experimental research",
         "B) Causal research",
         "C) Ethnographic research",
@@ -4103,7 +4103,7 @@ let data = [
         ]
     ],
     [
-        "70) Juanita Petino, a nutritionist, decided to test the effects of two breakfast cereals, Kinglo andLoopy, on different consumer groups. For the purpose of her study, she divided 20 volunteersinto two groups and asked the members of one group to have Kinglo cereal and the members ofthe other group to have Loopy cereal for breakfast. She decided to compare the responses of thevolunteers after a week to gain deeper insights into consumer attitude. In this instance, Juanitais using ________.",
+        "70) Juanita Petino, a nutritionist, decided to test the effects of two breakfast cereals, Kinglo and Loopy, on different consumer groups. For the purpose of her study, she divided 20 volunteers into two groups and asked the members of one group to have Kinglo cereal and the members of the other group to have Loopy cereal for breakfast. She decided to compare the responses of the volunteers after a week to gain deeper insights into consumer attitude. In this instance, Juanita is using ________.",
         "A) niche marketing",
         "B) experimental research",
         "C) product differentiation",
@@ -4125,7 +4125,7 @@ let data = [
         ]
     ],
     [
-        "72) ________ refers to gathering primary data by selecting matched groups of subjects, givingthem different treatments, controlling related factors, and checking for differences in groupresponses.",
+        "72) ________ refers to gathering primary data by selecting matched groups of subjects, giving them different treatments, controlling related factors, and checking for differences in group responses.",
         "A) Experimental research",
         "B) Constructive research",
         "C) Observational research",
@@ -4136,7 +4136,7 @@ let data = [
         ]
     ],
     [
-        "73) Experimental research is best suited for gathering ________ information.23",
+        "73) Experimental research is best suited for gathering ________ information. 23",
         "A) exploratory",
         "B) causal",
         "C) random",
@@ -4147,7 +4147,7 @@ let data = [
         ]
     ],
     [
-        "74) Kinger Burgers came out with a new hamburger and, before including it on its main menu,released it in two different cities with two different prices. The marketers at Kinger Burgersthen analyzed the different levels of purchase made at these two different places, planning touse the information to help them set a nationwide price for the new offering. This is an exampleof ________.",
+        "74) Kinger Burgers came out with a new hamburger and, before including it on its main menu, released it in two different cities with two different prices. The marketers at Kinger Burgers then analyzed the different levels of purchase made at these two different places, planning to use the information to help them set a nationwide price for the new offering. This is an example of ________.",
         "A) ethnographic research",
         "B) descriptive research",
         "C) DIY research",
@@ -4158,7 +4158,7 @@ let data = [
         ]
     ],
     [
-        "75) Maria Ramirez is conducting research to determine consumers' personal grooming habits.Because of the personal nature of many of the survey questions, Maria wants to select thecontact method that is most likely to encourage respondents to answer honestly and that willallow her to easily collect large amounts of data. Which of the following is best suited to meetMaria's requirements?",
+        "75) Maria Ramirez is conducting research to determine consumers' personal grooming habits. Because of the personal nature of many of the survey questions, Maria wants to select the contact method that is most likely to encourage respondents to answer honestly and that will allow her to easily collect large amounts of data. Which of the following is best suited to meet Maria's requirements?",
         "A) mail questionnaires",
         "B) telephone interviews",
         "C) individual interviews",
@@ -4180,7 +4180,7 @@ let data = [
         ]
     ],
     [
-        "77) Loft Industries sells roof trusses to contractors and builders and is currently looking forhonest feedback on its services. However, in the past, most of its efforts to procure feedbackfrom customers did not yield any meaningful data. According to the marketing managers ofLoft Industries, feedback was more polite than honest. Which of the following contact methodsshould Loft Industries most likely use to maximize its chances of receiving honest andimpersonal feedback?",
+        "77) Loft Industries sells roof trusses to contractors and builders and is currently looking for honest feedback on its services. However, in the past, most of its efforts to procure feedback from customers did not yield any meaningful data. According to the marketing managers of Loft Industries, feedback was more polite than honest. Which of the following contact methods should Loft Industries most likely use to maximize its chances of receiving honest and impersonal feedback?",
         "A) online focus groups",
         "B) telephone interviews",
         "C) mail questionnaires",
@@ -4202,7 +4202,7 @@ let data = [
         ]
     ],
     [
-        "79) Which form of marketing research involves talking with people in their homes or offices,on the street, or in shopping malls?",
+        "79) Which form of marketing research involves talking with people in their homes or offices, on the street, or in shopping malls?",
         "A) individual interviewing",
         "B) focus-group interviewing",
         "C) telephone interviewing",
@@ -4213,7 +4213,7 @@ let data = [
         ]
     ],
     [
-        "80) ________ consists of inviting 6 to 10 people to meet with a trained moderator to talk abouta product, service, or organization.",
+        "80) ________ consists of inviting 6 to 10 people to meet with a trained moderator to talk about a product, service, or organization.",
         "A) Telephone interviewing",
         "B) Individual interviewing",
         "C) A mail questionnaire",
@@ -4224,7 +4224,7 @@ let data = [
         ]
     ],
     [
-        "81) Redrunners Inc., a manufacturer of sports merchandise, is gathering customer opinionsabout the firm's new sports shoe line. A team of researchers in the company invited eightregular customers to talk about the new line of shoes, asking why they chose to buy the shoeand what they disliked most about its design. A moderator was present to monitor thediscussion. Which of the following types of contact methods is Redrunners using?",
+        "81) Redrunners Inc., a manufacturer of sports merchandise, is gathering customer opinions about the firm's new sports shoe line. A team of researchers in the company invited eight regular customers to talk about the new line of shoes, asking why they chose to buy the shoe and what they disliked most about its design. A moderator was present to monitor the discussion. Which of the following types of contact methods is Redrunners using?",
         "A) individual interviewing",
         "B) mail questionnaire",
         "C) group interviewing",
@@ -4235,7 +4235,7 @@ let data = [
         ]
     ],
     [
-        "82) Happy Pets, a company manufacturing pet foods and accessories, created a membershipclub for its regular customers called \"I Love My Pet.\" This group consists of animal loversselected by the company to complete product-related polls, chat with product developers, andprovide feedback about specific products. Which of the following best describes \"I Love MyPet\"?",
+        "82) Happy Pets, a company manufacturing pet foods and accessories, created a membership club for its regular customers called \"I Love My Pet.\" This group consists of animal lovers selected by the company to complete product-related polls, chat with product developers, and provide feedback about specific products. Which of the following best describes \"I Love My Pet\"?",
         "A) primary group",
         "B) immersion group",
         "C) mob",
@@ -4268,7 +4268,7 @@ let data = [
         ]
     ],
     [
-        "85) To overcome problems in focus group interviewing, some companies employ small groupsof consumers who interact directly and informally with product designers without a focus groupmoderator present. Such groups are known as ________.",
+        "85) To overcome problems in focus group interviewing, some companies employ small groups of consumers who interact directly and informally with product designers without a focus group moderator present. Such groups are known as ________.",
         "A) classes",
         "B) consumer guilds",
         "C) virtual communities",
@@ -4279,7 +4279,7 @@ let data = [
         ]
     ],
     [
-        "86) Jaime Gonzalez owns a small publishing company in Utah and has a very restrictive budgetfor the market research he currently needs to conduct. He requires a large sample size for hisresearch in order to arrive at insightful conclusions. Additionally, he wants to have excellentcontrol over his sample. Keeping in mind his restrictive budget and other specifications, whichof the following methods of contact would you advise Jaime to use?",
+        "86) Jaime Gonzalez owns a small publishing company in Utah and has a very restrictive budget for the market research he currently needs to conduct. He requires a large sample size for his research in order to arrive at insightful conclusions. Additionally, he wants to have excellent control over his sample. Keeping in mind his restrictive budget and other specifications, which of the following methods of contact would you advise Jaime to use?",
         "A) telephone interviews",
         "B) individual interviews",
         "C) online surveys",
@@ -4290,7 +4290,7 @@ let data = [
         ]
     ],
     [
-        "87) Melissa Thomas leads the marketing research division at Tronics Inc., a manufacturingcompany based in Alabama. To improve future sales of the company's products, she hasdecided to collect customer opinions and feedback on the current products offered by hercompany. For this purpose, Melissa is looking for a highly flexible contact method that can beused to gather large amounts of data within the least possible time. In this instance, which ofthe following contact methods is most likely to hold the highest appeal for Melissa?",
+        "87) Melissa Thomas leads the marketing research division at Tronics Inc., a manufacturing company based in Alabama. To improve future sales of the company's products, she has decided to collect customer opinions and feedback on the current products offered by her company. For this purpose, Melissa is looking for a highly flexible contact method that can be used to gather large amounts of data within the least possible time. In this instance, which of the following contact methods is most likely to hold the highest appeal for Melissa?",
         "A) online surveys",
         "B) in-depth interviews",
         "C) telephone interviews",
@@ -4301,7 +4301,7 @@ let data = [
         ]
     ],
     [
-        "88) Which of the following is true about Internet-based survey research?28",
+        "88) Which of the following is true about Internet-based survey research? 28",
         "A) The effectiveness of Internet-based survey research is invariably affected by the",
         "B) Internet-based survey research is less flexible compared to mail questionnaires.",
         "C) Internet-based survey research is characterized by high speed and low costs.",
@@ -4323,7 +4323,7 @@ let data = [
         ]
     ],
     [
-        "90) A(n) ________ is a segment of the population selected for marketing research to representthe population as a whole.",
+        "90) A(n) ________ is a segment of the population selected for marketing research to represent the population as a whole.",
         "A) focus group",
         "B) immersion group",
         "C) primary group",
@@ -4334,7 +4334,7 @@ let data = [
         ]
     ],
     [
-        "91) For her current research project, Margaret Rogers wants to select a sample in which everymember has a known and equal chance of selection. In other words, Margaret is looking for a________.",
+        "91) For her current research project, Margaret Rogers wants to select a sample in which every member has a known and equal chance of selection. In other words, Margaret is looking for a ________.",
         "A) simple random sample",
         "B) convenience sample",
         "C) stratified random sample",
@@ -4345,7 +4345,7 @@ let data = [
         ]
     ],
     [
-        "92) Which of the following refers to a probability sample in which the population is dividedinto mutually exclusive groups (such as blocks), and the researcher draws a sample of thegroups to interview?",
+        "92) Which of the following refers to a probability sample in which the population is divided into mutually exclusive groups (such as blocks), and the researcher draws a sample of the groups to interview?",
         "A) quota sample",
         "B) judgment sample",
         "C) cluster sample",
@@ -4356,7 +4356,7 @@ let data = [
         ]
     ],
     [
-        "93) Which of the following refers to a nonprobability sample in which the researcher selects theeasiest population members from which to obtain information?",
+        "93) Which of the following refers to a nonprobability sample in which the researcher selects the easiest population members from which to obtain information?",
         "A) quota sample",
         "B) judgment sample",
         "C) convenience sample",
@@ -4367,7 +4367,7 @@ let data = [
         ]
     ],
     [
-        "94) Which of the following refers to a nonprobability sample in which the researcher uses his orher evaluation techniques to select population members who are good prospects for accurateinformation?",
+        "94) Which of the following refers to a nonprobability sample in which the researcher uses his or her evaluation techniques to select population members who are good prospects for accurate information?",
         "A) quota sample",
         "B) judgment sample",
         "C) convenience sample",
@@ -4378,7 +4378,7 @@ let data = [
         ]
     ],
     [
-        "95) Which of the following refers to a nonprobability sample in which the researcher finds andinterviews a prescribed number of people in each of several categories?",
+        "95) Which of the following refers to a nonprobability sample in which the researcher finds and interviews a prescribed number of people in each of several categories?",
         "A) quota sample",
         "B) judgment sample",
         "C) convenience sample",
@@ -4389,7 +4389,7 @@ let data = [
         ]
     ],
     [
-        "96) In collecting primary data, marketing researchers have a choice of two main researchinstruments, ________.",
+        "96) In collecting primary data, marketing researchers have a choice of two main research instruments, ________.",
         "A) reference books and journals",
         "B) questionnaires and mechanical devices",
         "C) social networks and internal databases",
@@ -4422,7 +4422,7 @@ let data = [
         ]
     ],
     [
-        "99) While creating research questionnaires, researchers must particularly AVOID the use of________.",
+        "99) While creating research questionnaires, researchers must particularly AVOID the use of ________.",
         "A) biased phrasing",
         "B) simple language",
         "C) closed-end questions",
@@ -4433,7 +4433,7 @@ let data = [
         ]
     ],
     [
-        "100) ________ refers to the measurement of brain activity to learn how consumers feel andrespond.",
+        "100) ________ refers to the measurement of brain activity to learn how consumers feel and respond.",
         "A) Biometrics",
         "B) Demographics",
         "C) Sampling",
@@ -4444,7 +4444,7 @@ let data = [
         ]
     ],
     [
-        "101) After a research instrument is selected, the next step in the marketing research process isto ________.",
+        "101) After a research instrument is selected, the next step in the marketing research process is to ________.",
         "A) select a sampling method",
         "B) interpret the research findings",
         "C) implement the research plan",
@@ -4466,7 +4466,7 @@ let data = [
         ]
     ],
     [
-        "103) Of the 141 companies on the list, Jason chose to survey only 75 of them. He sent surveysto both small as well as large companies. If Jason selected survey recipients randomly from twomutually exclusive groups comprised of small and large companies respectively, he most likelyused a ________.",
+        "103) Of the 141 companies on the list, Jason chose to survey only 75 of them. He sent surveys to both small as well as large companies. If Jason selected survey recipients randomly from two mutually exclusive groups comprised of small and large companies respectively, he most likely used a ________.",
         "A) simple random sample",
         "B) judgment sample",
         "C) convenience sample",
@@ -4477,7 +4477,7 @@ let data = [
         ]
     ],
     [
-        "104) If Jason used mostly open-ended questions in the survey to encourage people to answer intheir own words, he is performing ________ research.",
+        "104) If Jason used mostly open-ended questions in the survey to encourage people to answer in their own words, he is performing ________ research.",
         "A) focus group",
         "B) qualitative",
         "C) experiential",
@@ -4510,7 +4510,7 @@ let data = [
         ]
     ],
     [
-        "133) Customer information is often buried deep in separate databases and records of differentcompany departments. To overcome such problems, many companies are now turning to________ to manage detailed information about individual customers.",
+        "133) Customer information is often buried deep in separate databases and records of different company departments. To overcome such problems, many companies are now turning to ________ to manage detailed information about individual customers.",
         "A) neuromarketing",
         "B) customer needs marketing",
         "C) customer relationship management",
@@ -4521,7 +4521,7 @@ let data = [
         ]
     ],
     [
-        "134) Customer relationship management integrates everything that a company's sales, service,42and ________ teams know about individual customers.",
+        "134) Customer relationship management integrates everything that a company's sales, service, 42 and ________ teams know about individual customers.",
         "A) management",
         "B) marketing",
         "C) manufacturing",
@@ -4554,7 +4554,7 @@ let data = [
         ]
     ],
     [
-        "137) In CRM, ________ techniques are used to sort through data and locate useful findingsabout customers.",
+        "137) In CRM, ________ techniques are used to sort through data and locate useful findings about customers.",
         "A) data warehousing",
         "B) marketing analytics",
         "C) niche marketing",
@@ -4565,7 +4565,7 @@ let data = [
         ]
     ],
     [
-        "138) A successful CRM program is expected to help a company achieve all of the followingEXCEPT ________.",
+        "138) A successful CRM program is expected to help a company achieve all of the following EXCEPT ________.",
         "A) provide higher levels of customer service",
         "B) develop deeper customer relationships",
         "C) create offers tailored to meet specific customer requirements",
@@ -4576,7 +4576,7 @@ let data = [
         ]
     ],
     [
-        "139) Ralph Goldsmith works for Zenith Inc., a leading cosmetic company based in Illinois. AtZenith, Ralph's primary responsibility revolves around digging deeply into customer data togain valuable insights about customer needs, motives, and attitudes. This data is, in turn, usedby Zenith to personalize its customers' shopping experiences. Ralph's position at Zenithrequires him to focus primarily on ________.",
+        "139) Ralph Goldsmith works for Zenith Inc., a leading cosmetic company based in Illinois. At Zenith, Ralph's primary responsibility revolves around digging deeply into customer data to gain valuable insights about customer needs, motives, and attitudes. This data is, in turn, used by Zenith to personalize its customers' shopping experiences. Ralph's position at Zenith requires him to focus primarily on ________.",
         "A) customer sales",
         "B) human resource management",
         "C) risk assessment",
@@ -4587,7 +4587,7 @@ let data = [
         ]
     ],
     [
-        "140) For marketing information to have value, it must be available to decision makers. Thismay include non-routine information for special situations. Companies frequently use________ in these instances.",
+        "140) For marketing information to have value, it must be available to decision makers. This may include non-routine information for special situations. Companies frequently use ________ in these instances.",
         "A) e-mail messages",
         "B) computer extranets",
         "C) company intranet and internal CRM systems",
@@ -4598,7 +4598,7 @@ let data = [
         ]
     ],
     [
-        "146) Joe Kerry, owner of a small bakery, wants to obtain marketing insights to improve hisbusiness. Joe has a limited budget and would like to gather free secondary data. What is thebest option for Joe?",
+        "146) Joe Kerry, owner of a small bakery, wants to obtain marketing insights to improve his business. Joe has a limited budget and would like to gather free secondary data. What is the best option for Joe?",
         "A) mail questionnaires",
         "B) focus group interviews",
         "C) Internet search engines",
@@ -4675,7 +4675,7 @@ let data = [
         ]
     ],
     [
-        "153) While collecting sensitive customer data, market researchers should adhere to all of thefollowing guidelines EXCEPT ________.",
+        "153) While collecting sensitive customer data, market researchers should adhere to all of the following guidelines EXCEPT ________.",
         "A) asking only for the information needed",
         "B) using information responsibly to provide value",
         "C) providing respondents with the research firm's contact information",
@@ -4697,7 +4697,7 @@ let data = [
         ]
     ],
     [
-        "1) Individuals and households that buy or acquire goods and services for personal consumptionmake up the ________.",
+        "1) Individuals and households that buy or acquire goods and services for personal consumption make up the ________.",
         "A) consumer market",
         "B) market offering",
         "C) market mix",
@@ -4719,7 +4719,7 @@ let data = [
         ]
     ],
     [
-        "3) Which of the following is one of the other stimuli present in a buyer's environment apartfrom marketing stimuli?",
+        "3) Which of the following is one of the other stimuli present in a buyer's environment apart from marketing stimuli?",
         "A) product stimuli",
         "B) cultural stimuli",
         "C) price stimuli",
@@ -4730,7 +4730,7 @@ let data = [
         ]
     ],
     [
-        "4) Companies can research many aspects of buying decisions. However, the one that is the mostdifficult to identify is ________.",
+        "4) Companies can research many aspects of buying decisions. However, the one that is the most difficult to identify is ________.",
         "A) what consumers buy",
         "B) how and how much they buy",
         "C) why they buy",
@@ -4741,7 +4741,7 @@ let data = [
         ]
     ],
     [
-        "5) According to the model of buyer behavior, which of the following is one of the two primaryparts of a \"buyer's black box\"?",
+        "5) According to the model of buyer behavior, which of the following is one of the two primary parts of a \"buyer's black box\"?",
         "A) technological stimuli",
         "B) buyer's decision process",
         "C) buyer's spending habits",
@@ -4763,7 +4763,7 @@ let data = [
         ]
     ],
     [
-        "7) In the model of buyer behavior, which of the following is NOT a major type of force orevent in the buyer's environment?",
+        "7) In the model of buyer behavior, which of the following is NOT a major type of force or event in the buyer's environment?",
         "A) economic",
         "B) technological",
         "C) social",
@@ -4774,7 +4774,7 @@ let data = [
         ]
     ],
     [
-        "8) Buyer responses are influenced by marketing stimuli. The responses to the stimuli include allof the following EXCEPT ________.",
+        "8) Buyer responses are influenced by marketing stimuli. The responses to the stimuli include all of the following EXCEPT ________.",
         "A) brand engagement",
         "B) buying attitudes",
         "C) purchasing behavior",
@@ -4796,7 +4796,7 @@ let data = [
         ]
     ],
     [
-        "13) Each culture contains smaller ________, or groups of people with shared value systemsbased on common life experiences and situations.",
+        "13) Each culture contains smaller ________, or groups of people with shared value systems based on common life experiences and situations.",
         "A) cultural universals",
         "B) reference groups",
         "C) subcultures",
@@ -4818,7 +4818,7 @@ let data = [
         ]
     ],
     [
-        "15) Which consumer group tends to show more brand loyalty and makes shopping a familyevent, with children having a big say in the purchase decision?",
+        "15) Which consumer group tends to show more brand loyalty and makes shopping a family event, with children having a big say in the purchase decision?",
         "A) Hispanic Americans",
         "B) African Americans",
         "C) Arab Americans",
@@ -4829,7 +4829,7 @@ let data = [
         ]
     ],
     [
-        "16) ________ consumers are one of the fastest-growing U.S. population subsegments and areexpected to surge to nearly one third of the total U.S. population by 2030.",
+        "16) ________ consumers are one of the fastest-growing U.S. population subsegments and are expected to surge to nearly one third of the total U.S. population by 2030.",
         "A) African American",
         "B) Hispanic American",
         "C) Asian American",
@@ -4840,7 +4840,7 @@ let data = [
         ]
     ],
     [
-        "17) Hispanic Americans tend to be deeply family oriented and make shopping a family affair.Older consumers are brand loyal, while younger Hispanics have shown increasing pricesensitivity and willingness to choose store brands. Hispanic Americans make up a ________.",
+        "17) Hispanic Americans tend to be deeply family oriented and make shopping a family affair. Older consumers are brand loyal, while younger Hispanics have shown increasing price sensitivity and willingness to choose store brands. Hispanic Americans make up a ________.",
         "A) subculture",
         "B) social class",
         "C) social network",
@@ -4851,7 +4851,7 @@ let data = [
         ]
     ],
     [
-        "18) Although more price-conscious than other population segments, ________ consumers tendto be strongly motivated by quality and selection, and give importance to brands.",
+        "18) Although more price-conscious than other population segments, ________ consumers tend to be strongly motivated by quality and selection, and give importance to brands.",
         "A) lower upper",
         "B) African American",
         "C) Asian American",
@@ -4862,7 +4862,7 @@ let data = [
         ]
     ],
     [
-        "19) ________ consumers are the most affluent U.S. demographic segment and are expected tohave an annual buying power approaching $1 trillion by 2017.",
+        "19) ________ consumers are the most affluent U.S. demographic segment and are expected to have an annual buying power approaching $1 trillion by 2017.",
         "A) Hispanic American",
         "B) African American",
         "C) Asian American",
@@ -4873,7 +4873,7 @@ let data = [
         ]
     ],
     [
-        "20) ________ consumers are the most brand conscious of all the ethnic groups, are extremelybrand loyal, and shop frequently.",
+        "20) ________ consumers are the most brand conscious of all the ethnic groups, are extremely brand loyal, and shop frequently.",
         "A) African American",
         "B) Native American",
         "C) Hispanic American",
@@ -4884,7 +4884,7 @@ let data = [
         ]
     ],
     [
-        "21) Many companies use ethnically specific themes in their mainstream marketing strategybecause marketers have realized that insights gleaned from ethnic consumers can influencetheir broader markets. This type of marketing is known as ________.",
+        "21) Many companies use ethnically specific themes in their mainstream marketing strategy because marketers have realized that insights gleaned from ethnic consumers can influence their broader markets. This type of marketing is known as ________.",
         "A) total market strategy",
         "B) buzz marketing",
         "C) social networking",
@@ -4895,7 +4895,7 @@ let data = [
         ]
     ],
     [
-        "22) ________ are society's relatively permanent and ordered divisions whose members sharesimilar values, interests, and behaviors.",
+        "22) ________ are society's relatively permanent and ordered divisions whose members share similar values, interests, and behaviors.",
         "A) Social classes",
         "B) Societal norms",
         "C) Reference groups",
@@ -4906,7 +4906,7 @@ let data = [
         ]
     ],
     [
-        "23) Consumer purchases are influenced strongly by characteristics that marketers cannotcontrol but must take into account, including cultural, social, psychological, and ________characteristics.",
+        "23) Consumer purchases are influenced strongly by characteristics that marketers cannot control but must take into account, including cultural, social, psychological, and ________ characteristics.",
         "A) economic",
         "B) professional",
         "C) medical",
@@ -4917,7 +4917,7 @@ let data = [
         ]
     ],
     [
-        "24) Which of the following statements is true of cultural factors that influence consumerbehavior?",
+        "24) Which of the following statements is true of cultural factors that influence consumer behavior?",
         "A) Cultural influences on buying behavior are identical across countries.",
         "B) Social classes show distinct product and brand preferences in areas such as clothing and",
         "C) Subcultures include nationalities and racial groups, but exclude religions.",
@@ -4961,7 +4961,7 @@ let data = [
         ]
     ],
     [
-        "28) ________ are groups to which an individual wishes to belong, as when a young basketballplayer hopes to play someday in the NBA or WNBA.",
+        "28) ________ are groups to which an individual wishes to belong, as when a young basketball player hopes to play someday in the NBA or WNBA.",
         "A) Membership groups",
         "B) Aspirational groups",
         "C) Leading adopters",
@@ -4972,7 +4972,7 @@ let data = [
         ]
     ],
     [
-        "29) A shoe manufacturing company uses ads featuring the members of a country music bandwith the hope that the band's fans will see them wearing the company's shoes and hencepurchase the same brand of shoes. The shoe company believes that the band portrays the imageof a ________ to the band's fans.",
+        "29) A shoe manufacturing company uses ads featuring the members of a country music band with the hope that the band's fans will see them wearing the company's shoes and hence purchase the same brand of shoes. The shoe company believes that the band portrays the image of a ________ to the band's fans.",
         "A) membership group",
         "B) reference group",
         "C) status symbol",
@@ -4994,7 +4994,7 @@ let data = [
         ]
     ],
     [
-        "31) Rachel loves fashion and is always seen wearing the trendiest fashion outfits. She activelyshares her knowledge with a wide group of friends and colleagues about where to shop for thelatest fashion at great deals. Most of her friends and colleagues follow her fashion tips. Rachelportrays the image of a(n) ________.",
+        "31) Rachel loves fashion and is always seen wearing the trendiest fashion outfits. She actively shares her knowledge with a wide group of friends and colleagues about where to shop for the latest fashion at great deals. Most of her friends and colleagues follow her fashion tips. Rachel portrays the image of a(n) ________.",
         "A) surrogate consumer",
         "B) lagging adopter",
         "C) opinion leader",
@@ -5005,7 +5005,7 @@ let data = [
         ]
     ],
     [
-        "32) ________ are people within a reference group who, because of special skills, knowledge,personality, or other characteristics, exert influence on others.",
+        "32) ________ are people within a reference group who, because of special skills, knowledge, personality, or other characteristics, exert influence on others.",
         "A) Opinion leaders",
         "B) Innovators",
         "C) Surrogate consumers",
@@ -5027,7 +5027,7 @@ let data = [
         ]
     ],
     [
-        "34) ________ are ambassadors who enthusiastically share their passion for a company'sproducts with large circles of friends and acquaintances.",
+        "34) ________ are ambassadors who enthusiastically share their passion for a company's products with large circles of friends and acquaintances.",
         "A) Leading adopters",
         "B) Brand evangelists",
         "C) Surrogate consumers",
@@ -5060,7 +5060,7 @@ let data = [
         ]
     ],
     [
-        "37) Which of the following is characteristic of online social networks?11",
+        "37) Which of the following is characteristic of online social networks? 11",
         "A) use of one-way communication techniques",
         "B) negligible adoption rates",
         "C) guaranteed positive results",
@@ -5071,7 +5071,7 @@ let data = [
         ]
     ],
     [
-        "38) Independent bloggers are self-made influencers. Traits that make them relevant tomarketers include ________.",
+        "38) Independent bloggers are self-made influencers. Traits that make them relevant to marketers include ________.",
         "A) creative writing skills",
         "B) professional Web site",
         "C) good fit with the brand",
@@ -5093,7 +5093,7 @@ let data = [
         ]
     ],
     [
-        "40) ________ traditionally has been considered the main purchasing agent for the family in theareas of food, household products, and clothing, although this is changing as more work outsidethe home.",
+        "40) ________ traditionally has been considered the main purchasing agent for the family in the areas of food, household products, and clothing, although this is changing as more work outside the home.",
         "A) A teenager",
         "B) The husband",
         "C) The wife",
@@ -5104,7 +5104,7 @@ let data = [
         ]
     ],
     [
-        "41) A ________ consists of the activities an individual is expected to perform, according to thepeople around him/her.",
+        "41) A ________ consists of the activities an individual is expected to perform, according to the people around him/her.",
         "A) motive",
         "B) role",
         "C) lifestyle",
@@ -5115,7 +5115,7 @@ let data = [
         ]
     ],
     [
-        "42) A buyer's decisions are influenced by ________ such as the buyer's age and life-cycle stage,occupation, economic situation, lifestyle, personality, and self-concept.",
+        "42) A buyer's decisions are influenced by ________ such as the buyer's age and life-cycle stage, occupation, economic situation, lifestyle, personality, and self-concept.",
         "A) personal characteristics",
         "B) stereotypes",
         "C) perceptions",
@@ -5126,7 +5126,7 @@ let data = [
         ]
     ],
     [
-        "43) Consumer information provider Nielsen uses a life-stage segmentation system that placesU.S. households into one of 66 different life-stage groups. According to Nielsen's groups,which of the following refers to the group consisting of hip, single twenty-somethings who arepolitically liberal, listen to alternative music, and enjoy lively nightlife?",
+        "43) Consumer information provider Nielsen uses a life-stage segmentation system that places U.S. households into one of 66 different life-stage groups. According to Nielsen's groups, which of the following refers to the group consisting of hip, single twenty-somethings who are politically liberal, listen to alternative music, and enjoy lively nightlife?",
         "A) Striving Singles",
         "B) Young Achievers",
         "C) Bohemian Mix",
@@ -5148,7 +5148,7 @@ let data = [
         ]
     ],
     [
-        "45) Life-stage segmentation allows marketers to create targeted, actionable, and ________campaigns based on how people consume and interact with brands.",
+        "45) Life-stage segmentation allows marketers to create targeted, actionable, and ________ campaigns based on how people consume and interact with brands.",
         "A) inexpensive",
         "B) professional",
         "C) multimedia",
@@ -5159,7 +5159,7 @@ let data = [
         ]
     ],
     [
-        "46) Since a person's economic situation will affect her store and product choices, marketerswatch trends in spending, personal income, interest rates, and ________.",
+        "46) Since a person's economic situation will affect her store and product choices, marketers watch trends in spending, personal income, interest rates, and ________.",
         "A) employment",
         "B) savings",
         "C) home purchases",
@@ -5170,7 +5170,7 @@ let data = [
         ]
     ],
     [
-        "47) ________ is a person's pattern of living as expressed in his/her psychographics, and itincludes the individual's activities, interests, and opinions.",
+        "47) ________ is a person's pattern of living as expressed in his/her psychographics, and it includes the individual's activities, interests, and opinions.",
         "A) Personality",
         "B) Culture",
         "C) Lifestyle",
@@ -5181,7 +5181,7 @@ let data = [
         ]
     ],
     [
-        "48) In the context of the AIO dimensions for measuring consumers' lifestyles, \"A\" stands for________.",
+        "48) In the context of the AIO dimensions for measuring consumers' lifestyles, \"A\" stands for ________.",
         "A) activities",
         "B) achievements",
         "C) admirations",
@@ -5192,7 +5192,7 @@ let data = [
         ]
     ],
     [
-        "49) A current trend in the United States involves rediscovering the benefits of home-cookedfood and the use of organic ingredients. People are choosing to spend hours in the kitchen usingonly the freshest ingredients to cook healthy and nutritious meals. This change in ________ isone of the reasons for the increasing demand for organic ingredients.",
+        "49) A current trend in the United States involves rediscovering the benefits of home-cooked food and the use of organic ingredients. People are choosing to spend hours in the kitchen using only the freshest ingredients to cook healthy and nutritious meals. This change in ________ is one of the reasons for the increasing demand for organic ingredients.",
         "A) self-concept",
         "B) subculture",
         "C) lifestyle",
@@ -5203,7 +5203,7 @@ let data = [
         ]
     ],
     [
-        "50) ________ refers to the unique psychological characteristics that distinguish an individual orgroup.",
+        "50) ________ refers to the unique psychological characteristics that distinguish an individual or group.",
         "A) Attitude",
         "B) Belief",
         "C) Perception",
@@ -5214,7 +5214,7 @@ let data = [
         ]
     ],
     [
-        "51) Which of the following terms refers to a specific mix of human traits that may be attributedto a particular brand?",
+        "51) Which of the following terms refers to a specific mix of human traits that may be attributed to a particular brand?",
         "A) brand perception",
         "B) brand identity",
         "C) brand personality",
@@ -5225,7 +5225,7 @@ let data = [
         ]
     ],
     [
-        "52) Shoez Inc., a manufacturer of shoes, has recently launched a brand of sturdy shoes ideal forhiking and other outdoor activities. Which of the following brand personalities could be bestassociated with the new brand?",
+        "52) Shoez Inc., a manufacturer of shoes, has recently launched a brand of sturdy shoes ideal for hiking and other outdoor activities. Which of the following brand personalities could be best associated with the new brand?",
         "A) sincerity",
         "B) excitement",
         "C) sophistication",
@@ -5236,7 +5236,7 @@ let data = [
         ]
     ],
     [
-        "53) Many marketers use the self-concept premise that people's possessions contribute to andreflect their identities—that is, \"we are what we consume.\" According to this premise,consumers ________.",
+        "53) Many marketers use the self-concept premise that people's possessions contribute to and reflect their identities—that is, \"we are what we consume.\" According to this premise, consumers ________.",
         "A) buy products to support their self-image",
         "B) rarely identify with brand personalities",
         "C) are affected by opinion leaders",
@@ -5247,7 +5247,7 @@ let data = [
         ]
     ],
     [
-        "54) Harley-Davidson promotes its motorcycles with images of independence, freedom, andpower. Harley-Davidson has created a ________.",
+        "54) Harley-Davidson promotes its motorcycles with images of independence, freedom, and power. Harley-Davidson has created a ________.",
         "A) motive",
         "B) life-cycle stage",
         "C) self-concept",
@@ -5258,7 +5258,7 @@ let data = [
         ]
     ],
     [
-        "55) A marketer of women's hair care products targeting Chinese customers created anadvertising message that told women their hair could be worn any way they wanted as opposedto wearing it straight. The message suggested the women did not need to conform to themainstream media definition of beauty. It is most accurate to say that this ad was based on anunderstanding of customers' ________.",
+        "55) A marketer of women's hair care products targeting Chinese customers created an advertising message that told women their hair could be worn any way they wanted as opposed to wearing it straight. The message suggested the women did not need to conform to the mainstream media definition of beauty. It is most accurate to say that this ad was based on an understanding of customers' ________.",
         "A) social class",
         "B) life-cycle stage",
         "C) self-concept",
@@ -5269,7 +5269,7 @@ let data = [
         ]
     ],
     [
-        "56) A person's buying choices are influenced by four major psychological factors. Which of thefollowing is NOT one of these factors?",
+        "56) A person's buying choices are influenced by four major psychological factors. Which of the following is NOT one of these factors?",
         "A) motivation",
         "B) perception",
         "C) association",
@@ -5302,7 +5302,7 @@ let data = [
         ]
     ],
     [
-        "59) Many marketers now use ________ research to dig deeply into consumer psyches anddevelop better marketing strategies.",
+        "59) Many marketers now use ________ research to dig deeply into consumer psyches and develop better marketing strategies.",
         "A) analytical",
         "B) interpretive",
         "C) causal",
@@ -5313,7 +5313,7 @@ let data = [
         ]
     ],
     [
-        "60) ________ refers to qualitative research designed to probe consumers' hidden, subconsciousmotivations.",
+        "60) ________ refers to qualitative research designed to probe consumers' hidden, subconscious motivations.",
         "A) Perception analysis",
         "B) Subliminal analysis",
         "C) Motivation research",
@@ -5324,7 +5324,7 @@ let data = [
         ]
     ],
     [
-        "61) A marketing research company asked members of a focus group to describe several brandsas animals. The purpose of the request is to measure the prestige of the various brands. This isan example of ________.",
+        "61) A marketing research company asked members of a focus group to describe several brands as animals. The purpose of the request is to measure the prestige of the various brands. This is an example of ________.",
         "A) brand strength analysis",
         "B) interpretive consumer research",
         "C) quantitative research",
@@ -5357,7 +5357,7 @@ let data = [
         ]
     ],
     [
-        "64) According to Maslow's hierarchy of needs, which of the following is the LEAST pressingneed?",
+        "64) According to Maslow's hierarchy of needs, which of the following is the LEAST pressing need?",
         "A) physiological needs",
         "B) social needs",
         "C) esteem needs",
@@ -5368,7 +5368,7 @@ let data = [
         ]
     ],
     [
-        "65) ________ is the process by which people select, organize, and interpret information to forma meaningful picture of the world.",
+        "65) ________ is the process by which people select, organize, and interpret information to form a meaningful picture of the world.",
         "A) Motivation",
         "B) Perception",
         "C) Dissonance",
@@ -5379,7 +5379,7 @@ let data = [
         ]
     ],
     [
-        "66) People cannot focus on all of the stimuli that surround them each day. A person's tendencyto screen out most of the information is called ________.",
+        "66) People cannot focus on all of the stimuli that surround them each day. A person's tendency to screen out most of the information is called ________.",
         "A) subliminal retention",
         "B) selective distortion",
         "C) cognitive dissonance",
@@ -5390,7 +5390,7 @@ let data = [
         ]
     ],
     [
-        "67) People tend to interpret new information in a way that will support what they alreadybelieve. This is called ________.",
+        "67) People tend to interpret new information in a way that will support what they already believe. This is called ________.",
         "A) selective retention",
         "B) selective distortion",
         "C) cognitive dissonance",
@@ -5401,7 +5401,7 @@ let data = [
         ]
     ],
     [
-        "68) ________ means that consumers are likely to remember good points made about a brandthey favor and forget good points made about competing brands.",
+        "68) ________ means that consumers are likely to remember good points made about a brand they favor and forget good points made about competing brands.",
         "A) Selective attention",
         "B) Selective retention",
         "C) Cognitive dissonance",
@@ -5412,7 +5412,7 @@ let data = [
         ]
     ],
     [
-        "69) Mark has long supported a particular brand of footwear and has always bought that brand.Recently, the footwear manufacturer was embroiled in a controversy for using child labor at itsmanufacturing plants. Mark doubts the news reports and continues to purchase the same brandof footwear. It is most accurate to say that Mark displays ________.",
+        "69) Mark has long supported a particular brand of footwear and has always bought that brand. Recently, the footwear manufacturer was embroiled in a controversy for using child labor at its manufacturing plants. Mark doubts the news reports and continues to purchase the same brand of footwear. It is most accurate to say that Mark displays ________.",
         "A) selective distortion",
         "B) cognitive dissonance",
         "C) selective retention",
@@ -5423,7 +5423,7 @@ let data = [
         ]
     ],
     [
-        "70) Juana looked at the September issue of her favorite fashion magazine and did not findanything particularly interesting despite the fact that the magazine had several advertisementsthat were targeted at Juana's demographic. The only thing that interested her was an articleabout an upcoming fashion show. Which consumer behavior is being illustrated in thisinstance?",
+        "70) Juana looked at the September issue of her favorite fashion magazine and did not find anything particularly interesting despite the fact that the magazine had several advertisements that were targeted at Juana's demographic. The only thing that interested her was an article about an upcoming fashion show. Which consumer behavior is being illustrated in this instance?",
         "A) subliminal advertising",
         "B) groupthink",
         "C) selective attention",
@@ -5434,7 +5434,7 @@ let data = [
         ]
     ],
     [
-        "71) Stephanie and John wanted to purchase a high-end sports car. They viewed a commercialfor a particular sports car that highlighted the cost, design, and power of the car. After viewingthe ad, Stephanie felt that the car's price was acceptable, considering the superior and uniquedesign. John thought that the car was expensive owing to the high power engine installed in it.They used the information in different ways, focusing on issues that each considered important.Which of the following concepts does this scenario demonstrate?",
+        "71) Stephanie and John wanted to purchase a high-end sports car. They viewed a commercial for a particular sports car that highlighted the cost, design, and power of the car. After viewing the ad, Stephanie felt that the car's price was acceptable, considering the superior and unique design. John thought that the car was expensive owing to the high power engine installed in it. They used the information in different ways, focusing on issues that each considered important. Which of the following concepts does this scenario demonstrate?",
         "A) selective distortion",
         "B) consumer ethnocentrism",
         "C) selective retention",
@@ -5445,7 +5445,7 @@ let data = [
         ]
     ],
     [
-        "72) Some consumers worry that they will be affected by marketing messages without evenknowing it. They are concerned about ________.",
+        "72) Some consumers worry that they will be affected by marketing messages without even knowing it. They are concerned about ________.",
         "A) alternative evaluation",
         "B) subliminal advertising",
         "C) selective retention",
@@ -5467,7 +5467,7 @@ let data = [
         ]
     ],
     [
-        "74) ________ are minor stimuli that determine where, when, and how a person responds to anidea.",
+        "74) ________ are minor stimuli that determine where, when, and how a person responds to an idea.",
         "A) Cues",
         "B) Drives",
         "C) Reinforcers",
@@ -5489,7 +5489,7 @@ let data = [
         ]
     ],
     [
-        "76) A(n) ________ is a person's relatively consistent evaluations, feelings, and tendenciestoward an object or idea.",
+        "76) A(n) ________ is a person's relatively consistent evaluations, feelings, and tendencies toward an object or idea.",
         "A) lifestyle",
         "B) motive",
         "C) belief",
@@ -5500,7 +5500,7 @@ let data = [
         ]
     ],
     [
-        "77) Which of the following best supports the idea that The Attic Trunk's mature, wealthyclientele can remain a viable target market?",
+        "77) Which of the following best supports the idea that The Attic Trunk's mature, wealthy clientele can remain a viable target market?",
         "A) Older, first generation Hispanic consumers are not especially family-oriented.",
         "B) Older, first-generation Hispanic consumers favor sellers who show special interest in them.",
         "C) Older, first generation Hispanic consumers tend to be very price conscious.",
@@ -5511,7 +5511,7 @@ let data = [
         ]
     ],
     [
-        "78) Many families with children are now attracted to the shopping district in Forest Ridge.What characteristics about families as consumer groups might the owners of The Attic Trunkwant to keep in mind?",
+        "78) Many families with children are now attracted to the shopping district in Forest Ridge. What characteristics about families as consumer groups might the owners of The Attic Trunk want to keep in mind?",
         "A) Though more women hold jobs outside the home today than when The Attic Trunk first",
         "B) Children have considerable amounts of disposable income and have a strong influence on",
         "C) Women seldom account for any technology-related purchases.",
@@ -5522,7 +5522,7 @@ let data = [
         ]
     ],
     [
-        "79) Which of the following would each consumer segment attracted to The Attic Trunk have incommon with the other consumer segments?",
+        "79) Which of the following would each consumer segment attracted to The Attic Trunk have in common with the other consumer segments?",
         "A) habitual buying behaviors",
         "B) self-concepts",
         "C) AIO dimensions",
@@ -5533,7 +5533,7 @@ let data = [
         ]
     ],
     [
-        "108) When consumers are highly involved with the purchase of an expensive product and theyperceive significant differences among brands, they most likely will exhibit ________.",
+        "108) When consumers are highly involved with the purchase of an expensive product and they perceive significant differences among brands, they most likely will exhibit ________.",
         "A) consumer capitalism",
         "B) complex buying behavior",
         "C) consumer ethnocentrism",
@@ -5544,7 +5544,7 @@ let data = [
         ]
     ],
     [
-        "109) George is buying his first house. He has spent a month looking at houses and comparingattributes such as price and location. He has contacted several real estate agents to look atdifferent types of houses. George is most likely exhibiting ________.",
+        "109) George is buying his first house. He has spent a month looking at houses and comparing attributes such as price and location. He has contacted several real estate agents to look at different types of houses. George is most likely exhibiting ________.",
         "A) variety-seeking buying behavior",
         "B) complex buying behavior",
         "C) consumer capitalism",
@@ -5555,7 +5555,7 @@ let data = [
         ]
     ],
     [
-        "110) When consumers are highly involved with an expensive, infrequent, or risky purchase butsee little difference among brands, they most likely will exhibit ________.",
+        "110) When consumers are highly involved with an expensive, infrequent, or risky purchase but see little difference among brands, they most likely will exhibit ________.",
         "A) habitual buying behavior",
         "B) complex buying behavior",
         "C) impulse buying behavior",
@@ -5566,7 +5566,7 @@ let data = [
         ]
     ],
     [
-        "111) For the past ten years, Bill and Margaret have saved money to go to the Super Bowlshould their team, the Chicago Bears, reach the finals of the NFC championship. This is theyear, and several tour companies offer attractive, but very similar, packages to the game. Sinceall packages are pretty much the same, they have chosen one that fits their budget. Bill andMargaret are most likely exhibiting ________.",
+        "111) For the past ten years, Bill and Margaret have saved money to go to the Super Bowl should their team, the Chicago Bears, reach the finals of the NFC championship. This is the year, and several tour companies offer attractive, but very similar, packages to the game. Since all packages are pretty much the same, they have chosen one that fits their budget. Bill and Margaret are most likely exhibiting ________.",
         "A) complex buying behavior",
         "B) dissonance-reducing buying behavior",
         "C) habitual buying behavior",
@@ -5577,7 +5577,7 @@ let data = [
         ]
     ],
     [
-        "112) Which of the following consumer buying behaviors is related to conditions of low-consumer involvement and little significant brand difference?",
+        "112) Which of the following consumer buying behaviors is related to conditions of low- consumer involvement and little significant brand difference?",
         "A) complex buying behavior",
         "B) dissonance-reducing buying behavior",
         "C) habitual buying behavior",
@@ -5588,7 +5588,7 @@ let data = [
         ]
     ],
     [
-        "113) Pat thought he had received the best deal on his new car. Shortly after buying the car, Patstarted to notice certain disadvantages of his new car as he learned more about other carsavailable in the market. Pat is experiencing ________.",
+        "113) Pat thought he had received the best deal on his new car. Shortly after buying the car, Pat started to notice certain disadvantages of his new car as he learned more about other cars available in the market. Pat is experiencing ________.",
         "A) dissonance-reducing buying behavior",
         "B) need recognition",
         "C) postpurchase dissonance",
@@ -5599,7 +5599,7 @@ let data = [
         ]
     ],
     [
-        "114) Which of the following would a marketer LEAST likely do to encourage habitual buyingbehavior?",
+        "114) Which of the following would a marketer LEAST likely do to encourage habitual buying behavior?",
         "A) dominate shelf space",
         "B) run frequent reminder ads",
         "C) keep shelves fully stocked",
@@ -5610,7 +5610,7 @@ let data = [
         ]
     ],
     [
-        "115) Eduardo usually purchases the same breakfast cereal, the kind he grew up eating. Eduardoexhibits ________.",
+        "115) Eduardo usually purchases the same breakfast cereal, the kind he grew up eating. Eduardo exhibits ________.",
         "A) dissonance-reducing buying behavior",
         "B) complex buying behavior",
         "C) habitual buying behavior",
@@ -5621,7 +5621,7 @@ let data = [
         ]
     ],
     [
-        "116) Carrie tends to purchase various brands of bath soap. She has never been loyal to aspecific brand; instead she does a lot of brand switching. Carrie exhibits ________.",
+        "116) Carrie tends to purchase various brands of bath soap. She has never been loyal to a specific brand; instead she does a lot of brand switching. Carrie exhibits ________.",
         "A) dissonance-reducing buying behavior",
         "B) complex buying behavior",
         "C) habitual buying behavior",
@@ -5632,7 +5632,7 @@ let data = [
         ]
     ],
     [
-        "117) When customers have low involvement in a purchase but perceive significant branddifferences, they will most likely engage in ________.",
+        "117) When customers have low involvement in a purchase but perceive significant brand differences, they will most likely engage in ________.",
         "A) complex buying behavior",
         "B) dissonance-reducing buying behavior",
         "C) habitual buying behavior",
@@ -5643,7 +5643,7 @@ let data = [
         ]
     ],
     [
-        "118) The buyer decision process consists of five stages. Which of the following is NOT one ofthese stages?",
+        "118) The buyer decision process consists of five stages. Which of the following is NOT one of these stages?",
         "A) need recognition",
         "B) information search",
         "C) conspicuous consumption",
@@ -5665,7 +5665,7 @@ let data = [
         ]
     ],
     [
-        "120) An invitation to go skiing over the weekend forced Donna to look at her current wardrobe.She realized that she required a warmer coat. Which of the following stages of the buyerdecision process does Donna exemplify?",
+        "120) An invitation to go skiing over the weekend forced Donna to look at her current wardrobe. She realized that she required a warmer coat. Which of the following stages of the buyer decision process does Donna exemplify?",
         "A) product evaluation",
         "B) situational analysis",
         "C) need recognition",
@@ -5676,7 +5676,7 @@ let data = [
         ]
     ],
     [
-        "121) Donna wants to buy a new coat. During the ________ stage of the buyer decision processshe will ask her friends to recommend stores that sell good quality winterwear clothing. Shewill also go through newspapers and magazines to look out for offers and sales on coats.",
+        "121) Donna wants to buy a new coat. During the ________ stage of the buyer decision process she will ask her friends to recommend stores that sell good quality winterwear clothing. She will also go through newspapers and magazines to look out for offers and sales on coats.",
         "A) product evaluation",
         "B) alternative evaluation",
         "C) need recognition",
@@ -5687,7 +5687,7 @@ let data = [
         ]
     ],
     [
-        "122) If a consumer's drive is strong and a satisfying product is near at hand, the consumer islikely to purchase the product at that time. If not, the consumer may store the need in memoryor undertake ________.",
+        "122) If a consumer's drive is strong and a satisfying product is near at hand, the consumer is likely to purchase the product at that time. If not, the consumer may store the need in memory or undertake ________.",
         "A) consumer ethnocentrism",
         "B) buyer's remorse",
         "C) a need recognition",
@@ -5698,7 +5698,7 @@ let data = [
         ]
     ],
     [
-        "123) James has decided to buy a new vehicle. His brother John has recently purchased a newtruck and recommends the same model to James. James finally decides to buy the same truck.Which of the following sources of information has most likely influenced James' purchasedecision?",
+        "123) James has decided to buy a new vehicle. His brother John has recently purchased a new truck and recommends the same model to James. James finally decides to buy the same truck. Which of the following sources of information has most likely influenced James' purchase decision?",
         "A) experiential sources",
         "B) public sources",
         "C) personal sources",
@@ -5709,7 +5709,7 @@ let data = [
         ]
     ],
     [
-        "124) John has decided to buy a particular smartphone that he saw reviewed online. Which ofthe following sources of information has most likely influenced John's purchase decision?",
+        "124) John has decided to buy a particular smartphone that he saw reviewed online. Which of the following sources of information has most likely influenced John's purchase decision?",
         "A) laggards",
         "B) commercial sources",
         "C) public sources",
@@ -5731,7 +5731,7 @@ let data = [
         ]
     ],
     [
-        "126) The information sources that are the most effective at influencing a consumer's purchasedecision are ________. These sources legitimize or evaluate products for the buyer.",
+        "126) The information sources that are the most effective at influencing a consumer's purchase decision are ________. These sources legitimize or evaluate products for the buyer.",
         "A) commercial",
         "B) public",
         "C) experimental",
@@ -5742,7 +5742,7 @@ let data = [
         ]
     ],
     [
-        "127) Marketers describe the way a consumer processes information to arrive at brand choicesas ________.",
+        "127) Marketers describe the way a consumer processes information to arrive at brand choices as ________.",
         "A) alternative evaluation",
         "B) information search",
         "C) impulse buying",
@@ -5753,7 +5753,7 @@ let data = [
         ]
     ],
     [
-        "128) Robert has taken up cycling as a hobby and as a way to maintain his physical fitness. Hewants to buy a hydration system since he will need a lot of water as he cycles. Having gathereda great deal of information, he has finally narrowed down his choices to three systems:Waterbags for Roadies, Supertanker Hydropacks, and Fast Water. Robert is in the ________stage of the buyer decision process.",
+        "128) Robert has taken up cycling as a hobby and as a way to maintain his physical fitness. He wants to buy a hydration system since he will need a lot of water as he cycles. Having gathered a great deal of information, he has finally narrowed down his choices to three systems: Waterbags for Roadies, Supertanker Hydropacks, and Fast Water. Robert is in the ________ stage of the buyer decision process.",
         "A) need recognition",
         "B) evaluation of alternatives",
         "C) product trial",
@@ -5764,7 +5764,7 @@ let data = [
         ]
     ],
     [
-        "129) Sara is about to purchase a new television. She is using several attributes to evaluate herchoices. Which of the following is least likely to be a criterion Sara is using?",
+        "129) Sara is about to purchase a new television. She is using several attributes to evaluate her choices. Which of the following is least likely to be a criterion Sara is using?",
         "A) price",
         "B) size of screen",
         "C) color of body",
@@ -5775,7 +5775,7 @@ let data = [
         ]
     ],
     [
-        "130) Generally, the consumer's purchase decision will be to buy the most preferred brand, buttwo factors can come between the purchase intention and the purchase decision. Which of thefollowing is one of these factors?",
+        "130) Generally, the consumer's purchase decision will be to buy the most preferred brand, but two factors can come between the purchase intention and the purchase decision. Which of the following is one of these factors?",
         "A) economic risks",
         "B) attitudes of others",
         "C) cognitive dissonance",
@@ -5786,7 +5786,7 @@ let data = [
         ]
     ],
     [
-        "131) After the purchase of a product, consumers will be either satisfied or dissatisfied andengage in ________.",
+        "131) After the purchase of a product, consumers will be either satisfied or dissatisfied and engage in ________.",
         "A) consumer capitalism",
         "B) alternative evaluation",
         "C) postpurchase behavior",
@@ -5797,7 +5797,7 @@ let data = [
         ]
     ],
     [
-        "132) The relationship between the consumer's expectations and the product's ________determines whether the buyer is satisfied or dissatisfied with a purchase.",
+        "132) The relationship between the consumer's expectations and the product's ________ determines whether the buyer is satisfied or dissatisfied with a purchase.",
         "A) perceived performance",
         "B) brand personality",
         "C) market reach",
@@ -5808,7 +5808,7 @@ let data = [
         ]
     ],
     [
-        "133) A particular automobile company works to keep its customers happy after each sale,aiming to delight each one of them in order to increase their customer lifetime value. Which ofthe following steps of the buyer decision process does the company exemplify?",
+        "133) A particular automobile company works to keep its customers happy after each sale, aiming to delight each one of them in order to increase their customer lifetime value. Which of the following steps of the buyer decision process does the company exemplify?",
         "A) need recognition",
         "B) information search",
         "C) evaluation of alternatives",
@@ -5819,7 +5819,7 @@ let data = [
         ]
     ],
     [
-        "134) Leona bought two different brands of wine from vineyards in Australia. When asked forher opinion about the wines, she said that one brand of wine tasted like alcoholic grape juice,but the other had a crisp taste that she really enjoyed. These statements were most likely madeduring the ________ stage of the buyer decision process.",
+        "134) Leona bought two different brands of wine from vineyards in Australia. When asked for her opinion about the wines, she said that one brand of wine tasted like alcoholic grape juice, but the other had a crisp taste that she really enjoyed. These statements were most likely made during the ________ stage of the buyer decision process.",
         "A) information search",
         "B) need recognition",
         "C) alternative evaluation",
@@ -5830,7 +5830,7 @@ let data = [
         ]
     ],
     [
-        "135) Almost all major purchases result in ________, or discomfort caused by postpurchaseconflict.",
+        "135) Almost all major purchases result in ________, or discomfort caused by postpurchase conflict.",
         "A) need recognition",
         "B) cognitive dissonance",
         "C) consumer ethnocentrism",
@@ -5841,7 +5841,7 @@ let data = [
         ]
     ],
     [
-        "136) When a customer feels uneasy about losing out on the benefits of a brand not purchased,she is likely to experience ________.",
+        "136) When a customer feels uneasy about losing out on the benefits of a brand not purchased, she is likely to experience ________.",
         "A) selective retention",
         "B) selective attention",
         "C) selective distortion",
@@ -5852,7 +5852,7 @@ let data = [
         ]
     ],
     [
-        "148) Consumers learn about new products for the first time and make the decision to buy thoseproducts during the ________.",
+        "148) Consumers learn about new products for the first time and make the decision to buy those products during the ________.",
         "A) need recognition stage",
         "B) adoption process",
         "C) evaluation process",
@@ -5874,7 +5874,7 @@ let data = [
         ]
     ],
     [
-        "150) Which of the following is the adoption process stage at which the consumer considerswhether trying the new product makes sense?",
+        "150) Which of the following is the adoption process stage at which the consumer considers whether trying the new product makes sense?",
         "A) awareness",
         "B) interest",
         "C) evaluation",
@@ -5885,7 +5885,7 @@ let data = [
         ]
     ],
     [
-        "151) Cameron loves to own and be up-to-date on the latest technological gadgets available inthe market. Among his friends, he is always the first to own the latest electronic gadgets. Heloves trying out new products before others. Cameron most likely belongs to the ________adopter group.",
+        "151) Cameron loves to own and be up-to-date on the latest technological gadgets available in the market. Among his friends, he is always the first to own the latest electronic gadgets. He loves trying out new products before others. Cameron most likely belongs to the ________ adopter group.",
         "A) innovator",
         "B) surrogate consumer",
         "C) late mainstream",
@@ -5896,7 +5896,7 @@ let data = [
         ]
     ],
     [
-        "152) Five characteristics are important in influencing an innovation's rate of adoption. Which ofthe following is NOT one of those characteristics?",
+        "152) Five characteristics are important in influencing an innovation's rate of adoption. Which of the following is NOT one of those characteristics?",
         "A) relative advantage",
         "B) compatibility",
         "C) consumability",
@@ -5907,7 +5907,7 @@ let data = [
         ]
     ],
     [
-        "153) In the context of product characteristics that influence the rate of adoption, ________refers to the degree to which the innovation fits the values and experiences of potentialconsumers.",
+        "153) In the context of product characteristics that influence the rate of adoption, ________ refers to the degree to which the innovation fits the values and experiences of potential consumers.",
         "A) communicability",
         "B) relative advantage",
         "C) compatibility",
@@ -5918,7 +5918,7 @@ let data = [
         ]
     ],
     [
-        "154) Which of the following product characteristics refers to the degree to which the innovationappears superior to existing products?",
+        "154) Which of the following product characteristics refers to the degree to which the innovation appears superior to existing products?",
         "A) compatibility",
         "B) divisibility",
         "C) communicability",
@@ -5929,7 +5929,7 @@ let data = [
         ]
     ],
     [
-        "155) Which of the following best describes divisibility of an innovation that influences the rateof adoption?",
+        "155) Which of the following best describes divisibility of an innovation that influences the rate of adoption?",
         "A) It is the degree to which the innovation is difficult to understand.",
         "B) It is the degree to which the results of using the innovation can be observed or described to",
         "C) It is the degree to which the innovation appears superior to existing products.",
@@ -5940,7 +5940,7 @@ let data = [
         ]
     ],
     [
-        "156) Relative advantage, compatibility, complexity, divisibility, and communicability are allcharacteristics of ________.",
+        "156) Relative advantage, compatibility, complexity, divisibility, and communicability are all characteristics of ________.",
         "A) alternative evaluations",
         "B) the degree of buyer involvement",
         "C) a product's rate of adoption",
@@ -5951,7 +5951,7 @@ let data = [
         ]
     ],
     [
-        "1) The decision process by which business buyers determine which products and services theirorganizations need to purchase and then find, evaluate, and choose among alternative suppliersand brands is known as ________.",
+        "1) The decision process by which business buyers determine which products and services their organizations need to purchase and then find, evaluate, and choose among alternative suppliers and brands is known as ________.",
         "A) situational analysis",
         "B) business buying process",
         "C) business diversification",
@@ -5995,7 +5995,7 @@ let data = [
         ]
     ],
     [
-        "5) Differences between business markets and consumer markets include all of the followingEXCEPT ________.",
+        "5) Differences between business markets and consumer markets include all of the following EXCEPT ________.",
         "A) nature of the buying unit",
         "B) market structure and demand",
         "C) number of buyers",
@@ -6017,7 +6017,7 @@ let data = [
         ]
     ],
     [
-        "7) The Pure Drug Company produces insulin, a product with a very stable demand. Eventhough the price changed several times in the past two years, the demand for Pure Drug'sinsulin remained relatively unaffected. In this instance, the demand for insulin is representativeof ________ demand.",
+        "7) The Pure Drug Company produces insulin, a product with a very stable demand. Even though the price changed several times in the past two years, the demand for Pure Drug's insulin remained relatively unaffected. In this instance, the demand for insulin is representative of ________ demand.",
         "A) latent",
         "B) negative",
         "C) inelastic",
@@ -6039,7 +6039,7 @@ let data = [
         ]
     ],
     [
-        "9) A university enrolled 200 graduate students in the Fall of 2015. However, the enrollment ratewas only slightly affected following a 12-percent hike in tuition the following fall. Thisillustrates ________ demand.",
+        "9) A university enrolled 200 graduate students in the Fall of 2015. However, the enrollment rate was only slightly affected following a 12-percent hike in tuition the following fall. This illustrates ________ demand.",
         "A) derived",
         "B) negative",
         "C) highly elastic",
@@ -6050,7 +6050,7 @@ let data = [
         ]
     ],
     [
-        "10) Business demand that ultimately comes from the demand for consumer goods is known as________ demand.",
+        "10) Business demand that ultimately comes from the demand for consumer goods is known as ________ demand.",
         "A) derived",
         "B) negative",
         "C) primary",
@@ -6061,7 +6061,7 @@ let data = [
         ]
     ],
     [
-        "11) Green Bees, a popular American heavy-metal band, will perform in Berlin duringChristmas. There is a high demand for concert tickets among fans worldwide who are lookingforward to the much-awaited performance. In this instance, the high demand for tickets for theGreen Bees concert is representative of ________ demand.",
+        "11) Green Bees, a popular American heavy-metal band, will perform in Berlin during Christmas. There is a high demand for concert tickets among fans worldwide who are looking forward to the much-awaited performance. In this instance, the high demand for tickets for the Green Bees concert is representative of ________ demand.",
         "A) primary",
         "B) negative",
         "C) derived",
@@ -6072,7 +6072,7 @@ let data = [
         ]
     ],
     [
-        "12) Demand for outboard motors depends on consumers purchasing fishing boats. This is anexample of ________ demand.",
+        "12) Demand for outboard motors depends on consumers purchasing fishing boats. This is an example of ________ demand.",
         "A) primary",
         "B) composite",
         "C) derived",
@@ -6083,7 +6083,7 @@ let data = [
         ]
     ],
     [
-        "13) Jeremy's, a handbag manufacturer in Lower Manhattan, procures a large stock of leather inanticipation of brisk sales of handbags during December. This is an example of a(n) ________demand.",
+        "13) Jeremy's, a handbag manufacturer in Lower Manhattan, procures a large stock of leather in anticipation of brisk sales of handbags during December. This is an example of a(n) ________ demand.",
         "A) composite",
         "B) derived",
         "C) primary",
@@ -6116,7 +6116,7 @@ let data = [
         ]
     ],
     [
-        "16) Since business marketers have fewer buyers than consumer marketers, business buyersoften face ________ than do consumer buyers.",
+        "16) Since business marketers have fewer buyers than consumer marketers, business buyers often face ________ than do consumer buyers.",
         "A) less complex buying decisions",
         "B) shorter buying processes",
         "C) informal buying processes",
@@ -6127,7 +6127,7 @@ let data = [
         ]
     ],
     [
-        "17) ________ involves systematically developing networks of supplier-partners to ensure adependable supply of products and materials for use in making products or reselling them toothers.",
+        "17) ________ involves systematically developing networks of supplier-partners to ensure a dependable supply of products and materials for use in making products or reselling them to others.",
         "A) Supplier development",
         "B) Business buying",
         "C) Supplier quality assurance",
@@ -6138,7 +6138,7 @@ let data = [
         ]
     ],
     [
-        "18) The owners of a manufacturing firm in Ohio have developed a core network of suppliers toensure an uninterrupted supply of products. This is an example of ________.",
+        "18) The owners of a manufacturing firm in Ohio have developed a core network of suppliers to ensure an uninterrupted supply of products. This is an example of ________.",
         "A) capability management",
         "B) a supply bottleneck",
         "C) asset management",
@@ -6149,7 +6149,7 @@ let data = [
         ]
     ],
     [
-        "19) The demand for Alpha Stampings' products is ultimately based on the demand for newautomobiles in the consumer market. This is an example of ________ demand.",
+        "19) The demand for Alpha Stampings' products is ultimately based on the demand for new automobiles in the consumer market. This is an example of ________ demand.",
         "A) negative",
         "B) latent",
         "C) primary",
@@ -6171,7 +6171,7 @@ let data = [
         ]
     ],
     [
-        "34) Sigma Inc., a software firm based in California, reordered 50 printers from the designatedprovider without any modifications. This is an example of ________.",
+        "34) Sigma Inc., a software firm based in California, reordered 50 printers from the designated provider without any modifications. This is an example of ________.",
         "A) derived demand",
         "B) inelastic demand",
         "C) a straight rebuy",
@@ -6182,7 +6182,7 @@ let data = [
         ]
     ],
     [
-        "35) A marketer wanting to determine business buyer behavior is most likely to ask which of the10following questions?",
+        "35) A marketer wanting to determine business buyer behavior is most likely to ask which of the 10 following questions?",
         "A) Are buyers sensitive toward price changes in consumer markets?",
         "B) What are the major influences on buyers?",
         "C) Are niche markets more profitable than mass markets?",
@@ -6193,7 +6193,7 @@ let data = [
         ]
     ],
     [
-        "36) In a ________ situation, the \"in\" suppliers may become nervous and feel pressured to puttheir best foot forward to protect an account and the \"out\" suppliers may see the presentsituation as an opportunity to make a better offer and gain new business.",
+        "36) In a ________ situation, the \"in\" suppliers may become nervous and feel pressured to put their best foot forward to protect an account and the \"out\" suppliers may see the present situation as an opportunity to make a better offer and gain new business.",
         "A) straight rebuy",
         "B) new task",
         "C) reverse auction",
@@ -6204,7 +6204,7 @@ let data = [
         ]
     ],
     [
-        "37) In a(n) ________ situation, the buyer wants to revise product specifications, prices, terms,or suppliers.",
+        "37) In a(n) ________ situation, the buyer wants to revise product specifications, prices, terms, or suppliers.",
         "A) reverse auction",
         "B) straight rebuy",
         "C) new task",
@@ -6226,7 +6226,7 @@ let data = [
         ]
     ],
     [
-        "39) Gina Parker owns an ad agency in Baton Rouge. She regularly purchases cleaning suppliesfor her custodial staff, using the same vendor and ordering relatively consistent amounts of thesame products on each purchase. This is an example of ________.",
+        "39) Gina Parker owns an ad agency in Baton Rouge. She regularly purchases cleaning supplies for her custodial staff, using the same vendor and ordering relatively consistent amounts of the same products on each purchase. This is an example of ________.",
         "A) a modified rebuy situation",
         "B) a new task",
         "C) a straight rebuy situation",
@@ -6248,7 +6248,7 @@ let data = [
         ]
     ],
     [
-        "41) Ralph works for a manufacturing company in Ohio. Recently, he called in a departmentmanager to assist in the purchase of some heavy machinery. After consulting the departmentmanager, Ralph is considering a change in product specifications and characteristics andexpects suppliers to meet his requirements. Which of the following is evident here?",
+        "41) Ralph works for a manufacturing company in Ohio. Recently, he called in a department manager to assist in the purchase of some heavy machinery. After consulting the department manager, Ralph is considering a change in product specifications and characteristics and expects suppliers to meet his requirements. Which of the following is evident here?",
         "A) modified rebuy",
         "B) new task",
         "C) straight rebuy",
@@ -6259,7 +6259,7 @@ let data = [
         ]
     ],
     [
-        "42) Sheffield Cargo serves both consumer and business markets, but most of its revenue comesfrom its business customers. Of late, the business customers of Sheffield Cargo have demandeda change in the packaging of heavy cargo along with a more sophisticated and user-friendlyextranet framework. Sheffield Cargo is under pressure to offer better products and services orrisk losing a huge portion of its customers. This is an example of ________.",
+        "42) Sheffield Cargo serves both consumer and business markets, but most of its revenue comes from its business customers. Of late, the business customers of Sheffield Cargo have demanded a change in the packaging of heavy cargo along with a more sophisticated and user-friendly extranet framework. Sheffield Cargo is under pressure to offer better products and services or risk losing a huge portion of its customers. This is an example of ________.",
         "A) a new task",
         "B) a modified rebuy situation",
         "C) a straight rebuy situation",
@@ -6270,7 +6270,7 @@ let data = [
         ]
     ],
     [
-        "43) Peter Adams, an entrepreneur, decided to start a new technology venture. As he neededservers and computers for his company, he decided to order these from a local vendor who wasoffering attractive discounts. In this instance, Peter ________.",
+        "43) Peter Adams, an entrepreneur, decided to start a new technology venture. As he needed servers and computers for his company, he decided to order these from a local vendor who was offering attractive discounts. In this instance, Peter ________.",
         "A) faces a new task situation",
         "B) faces a modified rebuy situation",
         "C) is most likely to benefit the most from reverse auction",
@@ -6281,7 +6281,7 @@ let data = [
         ]
     ],
     [
-        "44) ________ refers to a business buying situation in which the buyer purchases a product orservice for the first time.",
+        "44) ________ refers to a business buying situation in which the buyer purchases a product or service for the first time.",
         "A) Modified rebuy",
         "B) Straight rebuy",
         "C) New task",
@@ -6303,7 +6303,7 @@ let data = [
         ]
     ],
     [
-        "46) ________ refers to buying a packaged solution to a problem from a single seller, thusavoiding all the separate decisions involved in a complex buying situation.",
+        "46) ________ refers to buying a packaged solution to a problem from a single seller, thus avoiding all the separate decisions involved in a complex buying situation.",
         "A) Systems selling",
         "B) Performance review",
         "C) Problem recognition",
@@ -6325,7 +6325,7 @@ let data = [
         ]
     ],
     [
-        "48) Rudolf Technologies Inc. decided to enter the automobile service market. Consequently, thecompany decided to procure the tools and machines needed from a reputable supplier. RudolfTechnologies is facing ________.",
+        "48) Rudolf Technologies Inc. decided to enter the automobile service market. Consequently, the company decided to procure the tools and machines needed from a reputable supplier. Rudolf Technologies is facing ________.",
         "A) a new task situation",
         "B) a modified rebuy situation",
         "C) negative competition",
@@ -6347,7 +6347,7 @@ let data = [
         ]
     ],
     [
-        "50) In routine buying situations, which of the following members of the buying center has formalor informal power to select or approve the final suppliers?",
+        "50) In routine buying situations, which of the following members of the buying center has formal or informal power to select or approve the final suppliers?",
         "A) users",
         "B) influencers",
         "C) gatekeepers",
@@ -6358,7 +6358,7 @@ let data = [
         ]
     ],
     [
-        "51) The ________ refer(s) to all the individuals and units that play a role in the purchasedecision-making process.",
+        "51) The ________ refer(s) to all the individuals and units that play a role in the purchase decision-making process.",
         "A) users",
         "B) influencers",
         "C) buying center",
@@ -6380,7 +6380,7 @@ let data = [
         ]
     ],
     [
-        "53) ________ refer to members of the buying organization who help define specifications andprovide information for evaluating alternatives.",
+        "53) ________ refer to members of the buying organization who help define specifications and provide information for evaluating alternatives.",
         "A) Gatekeepers",
         "B) Influencers",
         "C) Users",
@@ -6391,7 +6391,7 @@ let data = [
         ]
     ],
     [
-        "54) ________ have formal authority to select the supplier and arrange the terms of purchase.16",
+        "54) ________ have formal authority to select the supplier and arrange the terms of purchase. 16",
         "A) Users",
         "B) Influencers",
         "C) Buyers",
@@ -6402,7 +6402,7 @@ let data = [
         ]
     ],
     [
-        "55) ________ refer to people in an organization's buying center who affect the buying decision;they often help define specifications and provide information for evaluating alternatives.",
+        "55) ________ refer to people in an organization's buying center who affect the buying decision; they often help define specifications and provide information for evaluating alternatives.",
         "A) Users",
         "B) Influencers",
         "C) Buyers",
@@ -6413,7 +6413,7 @@ let data = [
         ]
     ],
     [
-        "56) ________ may help shape product specifications, but their major role is to select vendorsand to negotiate.",
+        "56) ________ may help shape product specifications, but their major role is to select vendors and to negotiate.",
         "A) Gatekeepers",
         "B) Deciders",
         "C) Buyers",
@@ -6424,7 +6424,7 @@ let data = [
         ]
     ],
     [
-        "57) Eric Mason, an employee of Huntington Steelworks, is responsible for defining productspecifications and providing relevant information for evaluating alternatives in hisorganization's buying center. Eric, whose opinions affect the buying decisions of hisorganization to a great extent, is most likely a(n) ________.",
+        "57) Eric Mason, an employee of Huntington Steelworks, is responsible for defining product specifications and providing relevant information for evaluating alternatives in his organization's buying center. Eric, whose opinions affect the buying decisions of his organization to a great extent, is most likely a(n) ________.",
         "A) user",
         "B) influencer",
         "C) decider",
@@ -6435,7 +6435,7 @@ let data = [
         ]
     ],
     [
-        "58) Dora has formal authority to select the suppliers and arrange terms of purchase for many ofthe items her firm uses. Her role in the buying center is that of a(n) ________.",
+        "58) Dora has formal authority to select the suppliers and arrange terms of purchase for many of the items her firm uses. Her role in the buying center is that of a(n) ________.",
         "A) user",
         "B) influencer",
         "C) buyer",
@@ -6446,7 +6446,7 @@ let data = [
         ]
     ],
     [
-        "59) Paul, a purchasing agent for Kiel Inc., has the authority to prevent salespersons from seeingthe decision makers in his organization. Which of the following best describes Paul's position?",
+        "59) Paul, a purchasing agent for Kiel Inc., has the authority to prevent salespersons from seeing the decision makers in his organization. Which of the following best describes Paul's position?",
         "A) influencer",
         "B) decider",
         "C) gatekeeper",
@@ -6457,7 +6457,7 @@ let data = [
         ]
     ],
     [
-        "60) Who among the following does NOT participate in the purchase decision process of abuying organization?",
+        "60) Who among the following does NOT participate in the purchase decision process of a buying organization?",
         "A) individuals who use the product or service",
         "B) individuals who influence the buying decision",
         "C) individuals who make the buying decision",
@@ -6468,7 +6468,7 @@ let data = [
         ]
     ],
     [
-        "61) Jason Perkins has the informal power to approve the final suppliers in his organization. Inother words, Jason plays the role of a(n) ________ in his organization's buying center.",
+        "61) Jason Perkins has the informal power to approve the final suppliers in his organization. In other words, Jason plays the role of a(n) ________ in his organization's buying center.",
         "A) gatekeeper",
         "B) decider",
         "C) buyer",
@@ -6479,7 +6479,7 @@ let data = [
         ]
     ],
     [
-        "62) A technician in a hospital told the chief dentist, Dr. Albrecht, that the hospital shouldpurchase equipment that would sterilize the dentists' tools without using any water becausewater tends to affect the durability of the tools over time. Dr. Albrecht located some articles onchemical sterilizers and gathered more information on how they worked. After talking tosalespeople, Dr. Albrecht finally placed his order for the machine. In this instance, Dr. Albrechtplayed the role of a(n) ________.",
+        "62) A technician in a hospital told the chief dentist, Dr. Albrecht, that the hospital should purchase equipment that would sterilize the dentists' tools without using any water because water tends to affect the durability of the tools over time. Dr. Albrecht located some articles on chemical sterilizers and gathered more information on how they worked. After talking to salespeople, Dr. Albrecht finally placed his order for the machine. In this instance, Dr. Albrecht played the role of a(n) ________.",
         "A) monitor",
         "B) decider",
         "C) agent",
@@ -6490,7 +6490,7 @@ let data = [
         ]
     ],
     [
-        "63) Marissa Hopkins, a hospital nurse, notices that the gurneys used in the hospital are notdurable enough. She informed the hospital authorities about Grace Care Inc., a new companyselling lightweight and durable gurneys. In this instance, Marissa played the role of a(n)________.",
+        "63) Marissa Hopkins, a hospital nurse, notices that the gurneys used in the hospital are not durable enough. She informed the hospital authorities about Grace Care Inc., a new company selling lightweight and durable gurneys. In this instance, Marissa played the role of a(n) ________.",
         "A) strategist",
         "B) buyer",
         "C) gatekeeper",
@@ -6512,7 +6512,7 @@ let data = [
         ]
     ],
     [
-        "65) Phoi Nguyen, a manufacturing mechanic, determines that the molds for manufacturingplastic jar lids are wearing out sooner than expected. Phoi contacts her manager to request thatthe parts be reordered. In this instance, Phoi played the role of a(n) ________.",
+        "65) Phoi Nguyen, a manufacturing mechanic, determines that the molds for manufacturing plastic jar lids are wearing out sooner than expected. Phoi contacts her manager to request that the parts be reordered. In this instance, Phoi played the role of a(n) ________.",
         "A) user",
         "B) buyer",
         "C) gatekeeper",
@@ -6545,7 +6545,7 @@ let data = [
         ]
     ],
     [
-        "68) Business buyers are heavily influenced by factors in the current and expected economicenvironment, such as ________.",
+        "68) Business buyers are heavily influenced by factors in the current and expected economic environment, such as ________.",
         "A) level of primary demand",
         "B) organizational objectives",
         "C) group dynamics",
@@ -6556,7 +6556,7 @@ let data = [
         ]
     ],
     [
-        "69) The major influences on the buying process at General Aeronautics Limited include supplyconditions and technological changes, which would both be categorized as ________ factors.",
+        "69) The major influences on the buying process at General Aeronautics Limited include supply conditions and technological changes, which would both be categorized as ________ factors.",
         "A) organizational",
         "B) individual",
         "C) systemic",
@@ -6567,7 +6567,7 @@ let data = [
         ]
     ],
     [
-        "70) ________ can strongly influence business buyer reactions to the marketer's behavior andstrategies, especially in the international marketing environment.",
+        "70) ________ can strongly influence business buyer reactions to the marketer's behavior and strategies, especially in the international marketing environment.",
         "A) Political developments",
         "B) Culture and customs",
         "C) Technological changes",
@@ -6589,7 +6589,7 @@ let data = [
         ]
     ],
     [
-        "72) Which of the following factors influencing the business buying process do marketerstypically find most difficult to assess?",
+        "72) Which of the following factors influencing the business buying process do marketers typically find most difficult to assess?",
         "A) economic",
         "B) technological",
         "C) interpersonal",
@@ -6600,7 +6600,7 @@ let data = [
         ]
     ],
     [
-        "73) Factors such as a firm's objectives, procedures, and systems are examples of ________influences on the business buyer behavior.",
+        "73) Factors such as a firm's objectives, procedures, and systems are examples of ________ influences on the business buyer behavior.",
         "A) political",
         "B) interpersonal",
         "C) technological",
@@ -6611,7 +6611,7 @@ let data = [
         ]
     ],
     [
-        "74) If a buying center is most influenced by authority in the business buying process, it can besafely concluded that ________ factors have a major influence on its buying behavior.",
+        "74) If a buying center is most influenced by authority in the business buying process, it can be safely concluded that ________ factors have a major influence on its buying behavior.",
         "A) technological",
         "B) systemic",
         "C) interpersonal",
@@ -6622,7 +6622,7 @@ let data = [
         ]
     ],
     [
-        "75) After searching extensively for vendors, Shalina D'Souza, the owner of a manufacturingfirm, selected Texcom Technologies Inc. as her firm's primary supplier of bearings and shafts ofa specific dimension. Shalina is currently preparing an order form that specifies the number ofshafts needed and the expected time of delivery. In other words, she is preparing the ________.",
+        "75) After searching extensively for vendors, Shalina D'Souza, the owner of a manufacturing firm, selected Texcom Technologies Inc. as her firm's primary supplier of bearings and shafts of a specific dimension. Shalina is currently preparing an order form that specifies the number of shafts needed and the expected time of delivery. In other words, she is preparing the ________.",
         "A) order routine specification",
         "B) general needs description",
         "C) product specification",
@@ -6633,7 +6633,7 @@ let data = [
         ]
     ],
     [
-        "76) In this scenario, which of the following had the greatest influence on the business buyingbehavior at Alpha Stampings?",
+        "76) In this scenario, which of the following had the greatest influence on the business buying behavior at Alpha Stampings?",
         "A) individual preferences",
         "B) organizational structure",
         "C) interpersonal influences",
@@ -6644,7 +6644,7 @@ let data = [
         ]
     ],
     [
-        "77) The management's directive to reduce the number of steel suppliers refers to the influenceof ________ factors affecting the business buying behavior of Alpha.",
+        "77) The management's directive to reduce the number of steel suppliers refers to the influence of ________ factors affecting the business buying behavior of Alpha.",
         "A) political",
         "B) organizational",
         "C) interpersonal",
@@ -6666,7 +6666,7 @@ let data = [
         ]
     ],
     [
-        "98) In the beginning of the buying process, Timothy Perry, a product development manager,noticed that the raw materials that were being procured from his company's regular supplierwere of poor quality. Consequently, he decided to change the existing supplier as a remedialmeasure. The stage of the buying process in which Timothy identified the quality breachrepresents the ________ stage.",
+        "98) In the beginning of the buying process, Timothy Perry, a product development manager, noticed that the raw materials that were being procured from his company's regular supplier were of poor quality. Consequently, he decided to change the existing supplier as a remedial measure. The stage of the buying process in which Timothy identified the quality breach represents the ________ stage.",
         "A) problem recognition",
         "B) general needs description",
         "C) product specification",
@@ -6677,7 +6677,7 @@ let data = [
         ]
     ],
     [
-        "99) ________ occurs when someone in the company identifies a need that can be met byacquiring a specific product or service.",
+        "99) ________ occurs when someone in the company identifies a need that can be met by acquiring a specific product or service.",
         "A) Solutions selling",
         "B) Proposal solicitation",
         "C) Problem recognition",
@@ -6688,7 +6688,7 @@ let data = [
         ]
     ],
     [
-        "100) Which of the following is an example of an internal stimulus that would most likely leadto problem recognition?",
+        "100) Which of the following is an example of an internal stimulus that would most likely lead to problem recognition?",
         "A) A buyer gets a new idea from an advertisement.",
         "B) A buyer gets a new idea at a trade show.",
         "C) A buyer is unhappy with a current supplier's product quality.",
@@ -6710,7 +6710,7 @@ let data = [
         ]
     ],
     [
-        "102) Ross Stuart is a purchasing manager in a Texas-based manufacturing company. He sourcesmost of the raw materials needed by his company from Kramer Corp. However, Ross isunhappy with Kramer's prices. Additionally, he thinks that the quality of the raw materialssupplied by Kramer is substandard. Which of the following stages in the business buyingprocess is Ross' company currently in?",
+        "102) Ross Stuart is a purchasing manager in a Texas-based manufacturing company. He sources most of the raw materials needed by his company from Kramer Corp. However, Ross is unhappy with Kramer's prices. Additionally, he thinks that the quality of the raw materials supplied by Kramer is substandard. Which of the following stages in the business buying process is Ross' company currently in?",
         "A) general needs description",
         "B) problem recognition",
         "C) product specification",
@@ -6721,7 +6721,7 @@ let data = [
         ]
     ],
     [
-        "103) Sam Doharty, a purchasing manager in Willard Groups of Companies, is currentlyworking with engineers and consultants to define the items to be purchased. Additionally, Samand his team are ranking the importance of reliability, durability, and price desired in the items.In other words, they are preparing a(n) ________.",
+        "103) Sam Doharty, a purchasing manager in Willard Groups of Companies, is currently working with engineers and consultants to define the items to be purchased. Additionally, Sam and his team are ranking the importance of reliability, durability, and price desired in the items. In other words, they are preparing a(n) ________.",
         "A) decision tree",
         "B) supplier list",
         "C) product proposal",
@@ -6732,7 +6732,7 @@ let data = [
         ]
     ],
     [
-        "104) In the ________ stage of the buying process, the alert business marketer can help thebuyers define their needs and provide information about the value of different productcharacteristics.",
+        "104) In the ________ stage of the buying process, the alert business marketer can help the buyers define their needs and provide information about the value of different product characteristics.",
         "A) problem recognition",
         "B) general needs description",
         "C) supplier search",
@@ -6743,7 +6743,7 @@ let data = [
         ]
     ],
     [
-        "105) ________ refers to the stage of the business buying process in which the buyingorganization decides on and specifies the best technical product characteristics for a neededitem.",
+        "105) ________ refers to the stage of the business buying process in which the buying organization decides on and specifies the best technical product characteristics for a needed item.",
         "A) Performance review",
         "B) General needs description",
         "C) Product development",
@@ -6754,7 +6754,7 @@ let data = [
         ]
     ],
     [
-        "106) During which of the following stages of the business buying process is a buyer most likelyto conduct a value analysis by carefully studying components to determine if they can beredesigned, standardized, or made less expensively?",
+        "106) During which of the following stages of the business buying process is a buyer most likely to conduct a value analysis by carefully studying components to determine if they can be redesigned, standardized, or made less expensively?",
         "A) proposal solicitation",
         "B) general need description",
         "C) order-routine specification",
@@ -6765,7 +6765,7 @@ let data = [
         ]
     ],
     [
-        "107) A manager in a garment manufacturing company decided to replace the plastic shoppingbags currently used in his company with bags made of recyclable material. Consequently, heasked the operations officer to gather relevant information and send a list of alternatives to him.In the business buying process, the manager is preparing a(n) ________.",
+        "107) A manager in a garment manufacturing company decided to replace the plastic shopping bags currently used in his company with bags made of recyclable material. Consequently, he asked the operations officer to gather relevant information and send a list of alternatives to him. In the business buying process, the manager is preparing a(n) ________.",
         "A) problem statement",
         "B) general needs description",
         "C) supplier list",
@@ -6776,7 +6776,7 @@ let data = [
         ]
     ],
     [
-        "108) ________ is an approach to cost reduction in which components are studied carefully todetermine if they can be redesigned, standardized, or made by less costly methods ofproduction.",
+        "108) ________ is an approach to cost reduction in which components are studied carefully to determine if they can be redesigned, standardized, or made by less costly methods of production.",
         "A) Proposal solicitation",
         "B) General needs description",
         "C) Order-routine specification",
@@ -6798,7 +6798,7 @@ let data = [
         ]
     ],
     [
-        "110) Johann Herr's company has standardized the size of its paper bags so that each bag can beused in five to seven different store departments. In the business buying process, this approachto cost reduction most likely took place in the ________ stage.",
+        "110) Johann Herr's company has standardized the size of its paper bags so that each bag can be used in five to seven different store departments. In the business buying process, this approach to cost reduction most likely took place in the ________ stage.",
         "A) problem recognition",
         "B) general needs description",
         "C) product specification",
@@ -6809,7 +6809,7 @@ let data = [
         ]
     ],
     [
-        "111) Sail Metalworks Inc. is currently looking for the best vendors of metal sheets. In otherwords, Sail Metalworks is ________.",
+        "111) Sail Metalworks Inc. is currently looking for the best vendors of metal sheets. In other words, Sail Metalworks is ________.",
         "A) preparing a general needs description",
         "B) deciding on product specification",
         "C) conducting a supplier search",
@@ -6820,7 +6820,7 @@ let data = [
         ]
     ],
     [
-        "112) Members of the buying center at Kid's World, a store for children's clothing, are drawingup a list of desired supplier attributes and their relative importance. Next, they intend tocompare several suppliers' proposals to these attributes. In which step of the business buyingprocess is the buying center at Kid's World involved?",
+        "112) Members of the buying center at Kid's World, a store for children's clothing, are drawing up a list of desired supplier attributes and their relative importance. Next, they intend to compare several suppliers' proposals to these attributes. In which step of the business buying process is the buying center at Kid's World involved?",
         "A) general needs description",
         "B) proposal solicitation",
         "C) supplier selection",
@@ -6831,7 +6831,7 @@ let data = [
         ]
     ],
     [
-        "113) Which of the following most likely occurs in the supplier selection stage of the businessbuying decision process?",
+        "113) Which of the following most likely occurs in the supplier selection stage of the business buying decision process?",
         "A) The buyer calls for detailed written proposals or formal presentations from each potential",
         "B) The buyer compiles a small list of qualified suppliers by reviewing trade directories, doing",
         "C) The buying team decides on the best product characteristics and specifies them accordingly.",
@@ -6842,7 +6842,7 @@ let data = [
         ]
     ],
     [
-        "114) If a task is new, complex and costly, on which stage of the buying process will the buyerspend a greater amount of time?",
+        "114) If a task is new, complex and costly, on which stage of the buying process will the buyer spend a greater amount of time?",
         "A) preparing a general needs description",
         "B) deciding on product specification",
         "C) conducting a supplier search",
@@ -6853,7 +6853,7 @@ let data = [
         ]
     ],
     [
-        "115) A company will likely identify qualified suppliers by doing all of the following EXCEPT________.",
+        "115) A company will likely identify qualified suppliers by doing all of the following EXCEPT ________.",
         "A) online searches",
         "B) reviewing trade directories",
         "C) phoning other companies for recommendations",
@@ -6875,7 +6875,7 @@ let data = [
         ]
     ],
     [
-        "117) Attributes that a buying center may look for in a supplier include all of the followingEXCEPT ________.",
+        "117) Attributes that a buying center may look for in a supplier include all of the following EXCEPT ________.",
         "A) product quality",
         "B) off-shore manufacturing",
         "C) service quality",
@@ -6897,7 +6897,7 @@ let data = [
         ]
     ],
     [
-        "119) The stage of the business buying process in which the chosen supplier(s) is given the finalorder is the ________ stage.",
+        "119) The stage of the business buying process in which the chosen supplier(s) is given the final order is the ________ stage.",
         "A) performance review",
         "B) proposal solicitation",
         "C) order-routine specification",
@@ -6908,7 +6908,7 @@ let data = [
         ]
     ],
     [
-        "120) A ________ creates a long-term relationship in which the supplier promises to resupplythe buyer as needed at agreed prices for a set time period.",
+        "120) A ________ creates a long-term relationship in which the supplier promises to resupply the buyer as needed at agreed prices for a set time period.",
         "A) blanket contract",
         "B) request for proposal",
         "C) supplier proposal",
@@ -6919,7 +6919,7 @@ let data = [
         ]
     ],
     [
-        "121) In which stage of the business buying process does a buyer ask users to rate their37satisfaction with the supplied materials?",
+        "121) In which stage of the business buying process does a buyer ask users to rate their 37 satisfaction with the supplied materials?",
         "A) problem recognition",
         "B) performance review",
         "C) supplier search",
@@ -6930,7 +6930,7 @@ let data = [
         ]
     ],
     [
-        "122) Luke Price, a manager in an automobile factory, wanted his subordinates to rate theirsatisfaction about the new pistons that arrived last month. He asked them to rate the productbased on strength and ease of handling. Which of the following is evident here?",
+        "122) Luke Price, a manager in an automobile factory, wanted his subordinates to rate their satisfaction about the new pistons that arrived last month. He asked them to rate the product based on strength and ease of handling. Which of the following is evident here?",
         "A) order-routine specifications",
         "B) supplier selection",
         "C) performance review",
@@ -6941,7 +6941,7 @@ let data = [
         ]
     ],
     [
-        "123) Under ________, buyers share sales and inventory information directly with key supplierswho monitor and replenish the buyer's stock automatically as needed.",
+        "123) Under ________, buyers share sales and inventory information directly with key suppliers who monitor and replenish the buyer's stock automatically as needed.",
         "A) supplier selection",
         "B) proposal solicitation",
         "C) general need specification",
@@ -6963,7 +6963,7 @@ let data = [
         ]
     ],
     [
-        "139) ________ refers to purchasing through electronic connections between buyers and sellers—usually online.",
+        "139) ________ refers to purchasing through electronic connections between buyers and sellers —usually online.",
         "A) E-procurement",
         "B) General need specification",
         "C) Strategic sourcing",
@@ -6974,7 +6974,7 @@ let data = [
         ]
     ],
     [
-        "140) SkyWalk Aeronautics Limited received orders for 25 cargo air carriers from Zephyr CargoLimited through its Web site in 2016. This is an example of ________.",
+        "140) SkyWalk Aeronautics Limited received orders for 25 cargo air carriers from Zephyr Cargo Limited through its Web site in 2016. This is an example of ________.",
         "A) order-routine specification",
         "B) supplier selection",
         "C) e-procurement",
@@ -6985,7 +6985,7 @@ let data = [
         ]
     ],
     [
-        "141) Pace Hardware uses Learningnow.com to improve sales force effectiveness and facilitatesharing of expertise. It allows Pace retailers to connect with each other for seeking managerialand marketing advice. It also allows Pace retailers to ask their suppliers about product usage,deliveries, and warranties, and send new-product information directly to the retailers. In thisinstance, Pace Hardware is facilitating communication through ________.",
+        "141) Pace Hardware uses Learningnow.com to improve sales force effectiveness and facilitate sharing of expertise. It allows Pace retailers to connect with each other for seeking managerial and marketing advice. It also allows Pace retailers to ask their suppliers about product usage, deliveries, and warranties, and send new-product information directly to the retailers. In this instance, Pace Hardware is facilitating communication through ________.",
         "A) extranet links",
         "B) podcasts",
         "C) search engines",
@@ -7007,7 +7007,7 @@ let data = [
         ]
     ],
     [
-        "143) In ________, companies put their purchasing requests online and invite suppliers to bidfor the business.",
+        "143) In ________, companies put their purchasing requests online and invite suppliers to bid for the business.",
         "A) product specification",
         "B) supplier search",
         "C) reverse auctions",
@@ -7029,7 +7029,7 @@ let data = [
         ]
     ],
     [
-        "145) Which of the following is LEAST likely a characteristic of business-to-business e-procurement?",
+        "145) Which of the following is LEAST likely a characteristic of business-to-business e- procurement?",
         "A) greater access to new suppliers",
         "B) lower purchasing costs",
         "C) quick order processing and delivery",
@@ -7040,7 +7040,7 @@ let data = [
         ]
     ],
     [
-        "146) Which of the following can help a company create direct procurement accounts withsuppliers, through which company buyers can purchase equipment, materials, and suppliesdirectly?",
+        "146) Which of the following can help a company create direct procurement accounts with suppliers, through which company buyers can purchase equipment, materials, and supplies directly?",
         "A) backsourcing",
         "B) extranet",
         "C) company blog",
@@ -7062,7 +7062,7 @@ let data = [
         ]
     ],
     [
-        "148) Digital and social media's role in business-to-business marketing enhances all of thefollowing EXCEPT ________.",
+        "148) Digital and social media's role in business-to-business marketing enhances all of the following EXCEPT ________.",
         "A) targeting individuals that affect buying decisions within the target businesses",
         "B) facilitating anytime and anywhere connections between people at the selling and buying",
         "C) giving sellers more control of and access to important information",
@@ -7073,7 +7073,7 @@ let data = [
         ]
     ],
     [
-        "154) The ________ market consists of schools, hospitals, nursing homes, prisons, and the likethat provide goods and services to people in their care.",
+        "154) The ________ market consists of schools, hospitals, nursing homes, prisons, and the like that provide goods and services to people in their care.",
         "A) government",
         "B) consumer",
         "C) wholesale",
@@ -7084,7 +7084,7 @@ let data = [
         ]
     ],
     [
-        "155) Sage Hospitals, a nonprofit organization, provides healthcare to the people in the Midwest.Management at Sage is involved in the ________ market.",
+        "155) Sage Hospitals, a nonprofit organization, provides healthcare to the people in the Midwest. Management at Sage is involved in the ________ market.",
         "A) government",
         "B) consumer",
         "C) wholesale",
@@ -7095,7 +7095,7 @@ let data = [
         ]
     ],
     [
-        "156) All of the following organizations are likely part of the institutional market EXCEPT________.",
+        "156) All of the following organizations are likely part of the institutional market EXCEPT ________.",
         "A) LaGrange Community Hospital",
         "B) Worthampshire Prison",
         "C) Lancaster Real Estate Company",
@@ -7106,7 +7106,7 @@ let data = [
         ]
     ],
     [
-        "157) In several major cities in the United States, the ________ operates business service centerswith staffs to provide a complete education on the way government agencies buy, the steps thatsuppliers should follow, and the procurement opportunities available.",
+        "157) In several major cities in the United States, the ________ operates business service centers with staffs to provide a complete education on the way government agencies buy, the steps that suppliers should follow, and the procurement opportunities available.",
         "A) Defense Logistics Agency",
         "B) Federal Business Agency",
         "C) Small Business Administration",
@@ -7117,7 +7117,7 @@ let data = [
         ]
     ],
     [
-        "158) All of the following are difficulties associated with selling to government buyers EXCEPT________.",
+        "158) All of the following are difficulties associated with selling to government buyers EXCEPT ________.",
         "A) excessive paperwork",
         "B) bureaucracy",
         "C) strict regulations",
@@ -7128,7 +7128,7 @@ let data = [
         ]
     ],
     [
-        "159) Government buyers are affected by all of the following factors EXCEPT ________factors.",
+        "159) Government buyers are affected by all of the following factors EXCEPT ________ factors.",
         "A) environmental",
         "B) cultural",
         "C) organizational",
@@ -7161,7 +7161,7 @@ let data = [
         ]
     ],
     [
-        "162) Some companies sell primarily to government buyers as prime contractors orsubcontractors. This allows these companies to ________, participate in the productspecification phase, gather competitive intelligence, prepare bids carefully, and producestronger communication to describe and enhance their companies' reputations.",
+        "162) Some companies sell primarily to government buyers as prime contractors or subcontractors. This allows these companies to ________, participate in the product specification phase, gather competitive intelligence, prepare bids carefully, and produce stronger communication to describe and enhance their companies' reputations.",
         "A) lobby elected officials to fund projects",
         "B) anticipate government needs and projects",
         "C) develop relationships with government procurers",
@@ -7172,7 +7172,7 @@ let data = [
         ]
     ],
     [
-        "163) The ________ Web site provides a single point of entry through which commercialvendors and government buyers can post, search, monitor, and retrieve opportunities solicitedby the entire federal contracting community.",
+        "163) The ________ Web site provides a single point of entry through which commercial vendors and government buyers can post, search, monitor, and retrieve opportunities solicited by the entire federal contracting community.",
         "A) U.S. Small Business Administration",
         "B) Center for Regulatory Effectiveness",
         "C) Federal Business Opportunities",
@@ -7183,7 +7183,7 @@ let data = [
         ]
     ],
     [
-        "1) Companies know they cannot appeal to all buyers in the marketplace, or at least not in thesame way. Reasons for this include all of the following EXCEPT ________.",
+        "1) Companies know they cannot appeal to all buyers in the marketplace, or at least not in the same way. Reasons for this include all of the following EXCEPT ________.",
         "A) buyers are too numerous",
         "B) companies vary widely in their abilities to serve different market segments",
         "C) buyers are varied in their needs and buying practices",
@@ -7194,7 +7194,7 @@ let data = [
         ]
     ],
     [
-        "2) ________ consists of evaluating each market segment's attractiveness and selecting one ormore segments to enter.",
+        "2) ________ consists of evaluating each market segment's attractiveness and selecting one or more segments to enter.",
         "A) Positioning",
         "B) Mass customization",
         "C) Market targeting",
@@ -7205,7 +7205,7 @@ let data = [
         ]
     ],
     [
-        "3) ________ involves dividing a market into smaller segments of buyers with distinct needs,characteristics, or behaviors that might require separate marketing strategies or mixes.",
+        "3) ________ involves dividing a market into smaller segments of buyers with distinct needs, characteristics, or behaviors that might require separate marketing strategies or mixes.",
         "A) Mass customization",
         "B) Market targeting",
         "C) Market segmentation",
@@ -7216,7 +7216,7 @@ let data = [
         ]
     ],
     [
-        "4) ________ involves actually distinguishing the firm's market offering to create superiorcustomer value.",
+        "4) ________ involves actually distinguishing the firm's market offering to create superior customer value.",
         "A) Mass customization",
         "B) Differentiation",
         "C) Market segmentation",
@@ -7227,7 +7227,7 @@ let data = [
         ]
     ],
     [
-        "5) When marketers at Fair & Leigh Inc. selected the Millennials, a demographic group thatincludes many college students, as an untapped group of potential customers for their new lineof products, they were engaging in ________.",
+        "5) When marketers at Fair & Leigh Inc. selected the Millennials, a demographic group that includes many college students, as an untapped group of potential customers for their new line of products, they were engaging in ________.",
         "A) occasion segmenting",
         "B) local marketing",
         "C) market diversification",
@@ -7238,7 +7238,7 @@ let data = [
         ]
     ],
     [
-        "6) ________ consists of arranging for a market offering to occupy a clear, distinctive, anddesirable place relative to competing products in the minds of target consumers.",
+        "6) ________ consists of arranging for a market offering to occupy a clear, distinctive, and desirable place relative to competing products in the minds of target consumers.",
         "A) Mass customization",
         "B) Targeting",
         "C) Segmentation",
@@ -7249,7 +7249,7 @@ let data = [
         ]
     ],
     [
-        "12) Which of the following is NOT one of the major variables used in segmenting consumermarkets?",
+        "12) Which of the following is NOT one of the major variables used in segmenting consumer markets?",
         "A) demographic",
         "B) behavioral",
         "C) ethical",
@@ -7260,7 +7260,7 @@ let data = [
         ]
     ],
     [
-        "13) ________ calls for dividing the market into regions, states, counties, cities, or evenneighborhoods.",
+        "13) ________ calls for dividing the market into regions, states, counties, cities, or even neighborhoods.",
         "A) Benefit segmentation",
         "B) Geographic segmentation",
         "C) Demographic segmentation",
@@ -7271,7 +7271,7 @@ let data = [
         ]
     ],
     [
-        "14) Many companies today are localizing their products, advertising, promotion, and salesefforts to fit the needs of individual regions, cities, and neighborhoods. This is an example of________.",
+        "14) Many companies today are localizing their products, advertising, promotion, and sales efforts to fit the needs of individual regions, cities, and neighborhoods. This is an example of ________.",
         "A) geographic segmentation",
         "B) product diversification",
         "C) branding",
@@ -7282,7 +7282,7 @@ let data = [
         ]
     ],
     [
-        "15) ________ segmentation divides the market into segments based on variables such as age,life-cycle stage, gender, income, occupation, education, religion, ethnicity, and generation.",
+        "15) ________ segmentation divides the market into segments based on variables such as age, life-cycle stage, gender, income, occupation, education, religion, ethnicity, and generation.",
         "A) Geographic",
         "B) Benefit",
         "C) Occasion",
@@ -7293,7 +7293,7 @@ let data = [
         ]
     ],
     [
-        "16) Delta Motorworks markets its cars based on the age, gender, and income of its customers.Which of the following types of market segmentation is evident here?",
+        "16) Delta Motorworks markets its cars based on the age, gender, and income of its customers. Which of the following types of market segmentation is evident here?",
         "A) geographic segmentation",
         "B) benefit segmentation",
         "C) occasion segmentation",
@@ -7304,7 +7304,7 @@ let data = [
         ]
     ],
     [
-        "17) ________ segmentation divides buyers into different segments based on social class,lifestyle, or personality characteristics.",
+        "17) ________ segmentation divides buyers into different segments based on social class, lifestyle, or personality characteristics.",
         "A) Benefit",
         "B) Occasion",
         "C) Geographic",
@@ -7315,7 +7315,7 @@ let data = [
         ]
     ],
     [
-        "18) A company selling child-care products ran a television ad depicting women as beingprimarily responsible for childcare. Many women viewers considered this regressive, allegingthat the ad failed to recognize the much more diversified role of women in today's world. Thisis an example of ________.",
+        "18) A company selling child-care products ran a television ad depicting women as being primarily responsible for childcare. Many women viewers considered this regressive, alleging that the ad failed to recognize the much more diversified role of women in today's world. This is an example of ________.",
         "A) cause marketing",
         "B) stereotyping",
         "C) niche marketing",
@@ -7326,7 +7326,7 @@ let data = [
         ]
     ],
     [
-        "19) Which of the following variables are the most popular for marketers to use in segmentingcustomer groups?",
+        "19) Which of the following variables are the most popular for marketers to use in segmenting customer groups?",
         "A) ethical",
         "B) psychographic",
         "C) demographic",
@@ -7337,7 +7337,7 @@ let data = [
         ]
     ],
     [
-        "20) ________ can be a poor predictor of a person's health, work or family status, needs, orbuying power.",
+        "20) ________ can be a poor predictor of a person's health, work or family status, needs, or buying power.",
         "A) Occupation",
         "B) Education",
         "C) Ethnicity",
@@ -7348,7 +7348,7 @@ let data = [
         ]
     ],
     [
-        "21) ________ segmentation has long been used in clothing, cosmetics, toiletries, andmagazines.",
+        "21) ________ segmentation has long been used in clothing, cosmetics, toiletries, and magazines.",
         "A) Behavioral",
         "B) Gender",
         "C) Benefit",
@@ -7359,7 +7359,7 @@ let data = [
         ]
     ],
     [
-        "22) Gilron Holidays runs a premium membership club that caters to customers whose annualsalary exceeds $100,000. Members of this club are offered seasonal discounts at select luxuryhotels in select cities worldwide. Gilron Holidays most likely follows a(n) ________segmentation approach.",
+        "22) Gilron Holidays runs a premium membership club that caters to customers whose annual salary exceeds $100,000. Members of this club are offered seasonal discounts at select luxury hotels in select cities worldwide. Gilron Holidays most likely follows a(n) ________ segmentation approach.",
         "A) gender",
         "B) benefit",
         "C) occasion",
@@ -7370,7 +7370,7 @@ let data = [
         ]
     ],
     [
-        "23) ________ segmentation divides buyers into different segments based on lifestyle orpersonality characteristics.",
+        "23) ________ segmentation divides buyers into different segments based on lifestyle or personality characteristics.",
         "A) Benefit",
         "B) Occasion",
         "C) Geographic",
@@ -7381,7 +7381,7 @@ let data = [
         ]
     ],
     [
-        "24) Marketers who use ________ often segment their markets by consumer lifestyles and basetheir marketing strategies on lifestyle appeals.",
+        "24) Marketers who use ________ often segment their markets by consumer lifestyles and base their marketing strategies on lifestyle appeals.",
         "A) demographic segmentation",
         "B) geographic segmentation",
         "C) benefit segmentation",
@@ -7392,7 +7392,7 @@ let data = [
         ]
     ],
     [
-        "25) ________ segmentation divides buyers into segments based on their knowledge, attitudes,uses, or responses concerning a product.",
+        "25) ________ segmentation divides buyers into segments based on their knowledge, attitudes, uses, or responses concerning a product.",
         "A) Behavioral",
         "B) Psychographic",
         "C) Age and life cycle",
@@ -7403,7 +7403,7 @@ let data = [
         ]
     ],
     [
-        "26) ________ segmentation refers to dividing the market into segments according to occasionswhen buyers get the idea to buy, actually make their purchase, or use the purchased item.",
+        "26) ________ segmentation refers to dividing the market into segments according to occasions when buyers get the idea to buy, actually make their purchase, or use the purchased item.",
         "A) Gender",
         "B) Psychographic",
         "C) Occasion",
@@ -7414,7 +7414,7 @@ let data = [
         ]
     ],
     [
-        "27) Malcolm Sanders, a graduate student from Boston, makes customized snowboards for localsnowboarding enthusiasts. The demand for snowboards peaks during the winter months, a busytime for Malcolm. He advertises more aggressively and sells most of his snowboards aroundthis time. Which market segmentation approach does Malcolm most likely use?",
+        "27) Malcolm Sanders, a graduate student from Boston, makes customized snowboards for local snowboarding enthusiasts. The demand for snowboards peaks during the winter months, a busy time for Malcolm. He advertises more aggressively and sells most of his snowboards around this time. Which market segmentation approach does Malcolm most likely use?",
         "A) gender segmentation",
         "B) psychographic segmentation",
         "C) occasion segmentation",
@@ -7425,7 +7425,7 @@ let data = [
         ]
     ],
     [
-        "28) Tropicana promotes drinking orange juice at any time of day as a cool, refreshing drink.The market segmentation approach Tropicana is using is ________.",
+        "28) Tropicana promotes drinking orange juice at any time of day as a cool, refreshing drink. The market segmentation approach Tropicana is using is ________.",
         "A) occasion segmentation",
         "B) benefit segmentation",
         "C) age and life-cycle segmentation",
@@ -7436,7 +7436,7 @@ let data = [
         ]
     ],
     [
-        "29) ________ requires finding the major advantages people look for in a product class, thekinds of people who look for each positive aspect of a product, and the major brands thatdeliver it.",
+        "29) ________ requires finding the major advantages people look for in a product class, the kinds of people who look for each positive aspect of a product, and the major brands that deliver it.",
         "A) Gender segmentation",
         "B) Psychographic segmentation",
         "C) Benefit segmentation",
@@ -7447,7 +7447,7 @@ let data = [
         ]
     ],
     [
-        "30) Calypso Motors recently rolled out its Proteus hatchback. Proteus combines theattractiveness of a luxury car with the excellent agility of a sports car. Calypso Motors isconfident that Proteus will appeal to both sports car enthusiasts as well as the luxury segment.Which of the following types of market segmentation is evident here?",
+        "30) Calypso Motors recently rolled out its Proteus hatchback. Proteus combines the attractiveness of a luxury car with the excellent agility of a sports car. Calypso Motors is confident that Proteus will appeal to both sports car enthusiasts as well as the luxury segment. Which of the following types of market segmentation is evident here?",
         "A) gender segmentation",
         "B) income segmentation",
         "C) benefit segmentation",
@@ -7458,7 +7458,7 @@ let data = [
         ]
     ],
     [
-        "31) Which of the following refers to a behavioral segmentation variable that involvessegmenting markets into nonusers, ex-users, potential users, first-time users, and regular usersof a product?",
+        "31) Which of the following refers to a behavioral segmentation variable that involves segmenting markets into nonusers, ex-users, potential users, first-time users, and regular users of a product?",
         "A) user status",
         "B) usage rates",
         "C) gender status",
@@ -7480,7 +7480,7 @@ let data = [
         ]
     ],
     [
-        "33) In the context of behavioral segmentation, markets segmented by ________ can becategorized into light, medium, and heavy product users.",
+        "33) In the context of behavioral segmentation, markets segmented by ________ can be categorized into light, medium, and heavy product users.",
         "A) benefits sought",
         "B) loyalty status",
         "C) usage rate",
@@ -7491,7 +7491,7 @@ let data = [
         ]
     ],
     [
-        "34) A recent study conducted by Estelle Cosmetics Company showed that heavy users ofEstelle's products comprise a small percentage of the market. The study indicated that less than7 percent of all shoppers buy nearly 71 percent of Estelle's products in the United States. This isan example of ________.",
+        "34) A recent study conducted by Estelle Cosmetics Company showed that heavy users of Estelle's products comprise a small percentage of the market. The study indicated that less than 7 percent of all shoppers buy nearly 71 percent of Estelle's products in the United States. This is an example of ________.",
         "A) benefit segmentation",
         "B) segmentation by loyalty status",
         "C) segmentation by usage rate",
@@ -7502,7 +7502,7 @@ let data = [
         ]
     ],
     [
-        "35) Consumers who show their allegiance to brands, stores, or companies help marketers tosegment consumers by their ________.",
+        "35) Consumers who show their allegiance to brands, stores, or companies help marketers to segment consumers by their ________.",
         "A) user status",
         "B) degree of loyalty",
         "C) income",
@@ -7513,7 +7513,7 @@ let data = [
         ]
     ],
     [
-        "36) Which of the following is true about behavioral segmentation on the basis of the loyaltyvariable?",
+        "36) Which of the following is true about behavioral segmentation on the basis of the loyalty variable?",
         "A) Consumers tend to pay more for products that are targeted at their respective age group or",
         "B) By looking at customers who are shifting away from its brand, a company can learn about",
         "C) Highly loyal customers of a brand are less likely to engage in word-of-mouth publicity than",
@@ -7546,7 +7546,7 @@ let data = [
         ]
     ],
     [
-        "39) Which of the following is NOT a common variable used by both consumer and businessmarketers while segmenting markets?",
+        "39) Which of the following is NOT a common variable used by both consumer and business marketers while segmenting markets?",
         "A) operating characteristics",
         "B) loyalty status",
         "C) usage rate",
@@ -7557,7 +7557,7 @@ let data = [
         ]
     ],
     [
-        "40) Business marketers use geographic, demographic, benefit, user status, usage rate, andloyalty status to segment their markets. They also use ________, customer operatingcharacteristics, purchasing approaches, and situational factors.",
+        "40) Business marketers use geographic, demographic, benefit, user status, usage rate, and loyalty status to segment their markets. They also use ________, customer operating characteristics, purchasing approaches, and situational factors.",
         "A) weather patterns",
         "B) psychographics",
         "C) ethical traits",
@@ -7568,7 +7568,7 @@ let data = [
         ]
     ],
     [
-        "41) ________ segmentation assumes that nations close to one another will have many commontraits and behaviors.",
+        "41) ________ segmentation assumes that nations close to one another will have many common traits and behaviors.",
         "A) Geographic",
         "B) Occasion",
         "C) Psychographic",
@@ -7579,7 +7579,7 @@ let data = [
         ]
     ],
     [
-        "42) Double Drill Inc. segments its foreign markets by per capita income. This firm segmentsthe international markets based on ________.",
+        "42) Double Drill Inc. segments its foreign markets by per capita income. This firm segments the international markets based on ________.",
         "A) political factors",
         "B) legal factors",
         "C) geographic location",
@@ -7590,7 +7590,7 @@ let data = [
         ]
     ],
     [
-        "43) Pacific Fisheries divides its customers into different regional units, such as Asia, Australia,and the Americas. This is an example of ________ segmentation.",
+        "43) Pacific Fisheries divides its customers into different regional units, such as Asia, Australia, and the Americas. This is an example of ________ segmentation.",
         "A) demographic",
         "B) psychographic",
         "C) geographic",
@@ -7601,7 +7601,7 @@ let data = [
         ]
     ],
     [
-        "44) Marketers often segment international markets according to the type and stability ofgovernment. In such instances, they segment markets based on ________.",
+        "44) Marketers often segment international markets according to the type and stability of government. In such instances, they segment markets based on ________.",
         "A) geographic location",
         "B) economic factors",
         "C) cultural factors",
@@ -7612,7 +7612,7 @@ let data = [
         ]
     ],
     [
-        "45) Anchor Tractors focuses on selling its farm equipment in North America and Europe. It hasnot yet considered expanding into the Middle East. Which factor is likely most important in thisdecision regarding expansion?",
+        "45) Anchor Tractors focuses on selling its farm equipment in North America and Europe. It has not yet considered expanding into the Middle East. Which factor is likely most important in this decision regarding expansion?",
         "A) geographic",
         "B) political",
         "C) demographic",
@@ -7623,7 +7623,7 @@ let data = [
         ]
     ],
     [
-        "46) Which of the following refers to a cultural factor in the context of segmenting internationalmarkets?",
+        "46) Which of the following refers to a cultural factor in the context of segmenting international markets?",
         "A) receptivity of foreign firms",
         "B) economic development of the country",
         "C) population income levels",
@@ -7634,7 +7634,7 @@ let data = [
         ]
     ],
     [
-        "47) Using ________ segmentation, marketers form segments of consumers who have similarneeds and buying behaviors even though they are located in different countries.",
+        "47) Using ________ segmentation, marketers form segments of consumers who have similar needs and buying behaviors even though they are located in different countries.",
         "A) psychographic",
         "B) demographic",
         "C) occasion",
@@ -7645,7 +7645,7 @@ let data = [
         ]
     ],
     [
-        "48) Orion Inc. markets luxury watches. It targets the wealthy global elite segment, regardless oftheir geographic location. Orion most likely uses ________ segmentation.",
+        "48) Orion Inc. markets luxury watches. It targets the wealthy global elite segment, regardless of their geographic location. Orion most likely uses ________ segmentation.",
         "A) income",
         "B) age-group",
         "C) occasion",
@@ -7656,7 +7656,7 @@ let data = [
         ]
     ],
     [
-        "49) Teen Mania Inc., a company marketing adventure sports merchandise for teenagers, targetsthe world's teenagers, who have similar needs and buying behavior even though they arelocated in different countries. Which market segmentation is evident here?",
+        "49) Teen Mania Inc., a company marketing adventure sports merchandise for teenagers, targets the world's teenagers, who have similar needs and buying behavior even though they are located in different countries. Which market segmentation is evident here?",
         "A) income segmentation",
         "B) psychographic segmentation",
         "C) gender segmentation",
@@ -7667,7 +7667,7 @@ let data = [
         ]
     ],
     [
-        "50) An American cola-manufacturing company that primarily targets rebellious andadventurous people most likely uses ________ segmentation.",
+        "50) An American cola-manufacturing company that primarily targets rebellious and adventurous people most likely uses ________ segmentation.",
         "A) occasion",
         "B) geographic",
         "C) income",
@@ -7678,7 +7678,7 @@ let data = [
         ]
     ],
     [
-        "51) An Irish company that manufactures umbrellas and ponchos primarily targeting consumersduring the winter months is using ________ segmentation.",
+        "51) An Irish company that manufactures umbrellas and ponchos primarily targeting consumers during the winter months is using ________ segmentation.",
         "A) psychographic",
         "B) income",
         "C) geographic",
@@ -7689,7 +7689,7 @@ let data = [
         ]
     ],
     [
-        "52) Venus Inc., a company designing and marketing branded diamond jewelry, targets wealthyconsumers with similar needs and buying behaviors, even though the consumers are located indifferent countries. This is an example of ________ segmentation.",
+        "52) Venus Inc., a company designing and marketing branded diamond jewelry, targets wealthy consumers with similar needs and buying behaviors, even though the consumers are located in different countries. This is an example of ________ segmentation.",
         "A) intermarket",
         "B) loyalty",
         "C) life-cycle",
@@ -7700,7 +7700,7 @@ let data = [
         ]
     ],
     [
-        "53) Papillon, a popular retailer of chic women's clothing, segments its market according toconsumer lifestyles. Papillon most likely uses ________ segmentation for segmenting itsmarket.",
+        "53) Papillon, a popular retailer of chic women's clothing, segments its market according to consumer lifestyles. Papillon most likely uses ________ segmentation for segmenting its market.",
         "A) geographic",
         "B) psychographic",
         "C) benefit",
@@ -7711,7 +7711,7 @@ let data = [
         ]
     ],
     [
-        "54) Bailey's Burgers promotes the Bailey's Jumbo Burger as a fun snack for teens and youngadults. In this instance, Bailey's Burgers is practicing ________ segmentation.",
+        "54) Bailey's Burgers promotes the Bailey's Jumbo Burger as a fun snack for teens and young adults. In this instance, Bailey's Burgers is practicing ________ segmentation.",
         "A) benefit",
         "B) age and life-cycle",
         "C) psychographic",
@@ -7722,7 +7722,7 @@ let data = [
         ]
     ],
     [
-        "55) Business information services such as Experian Marketing Services and Nielsen helpmarketers to ________.",
+        "55) Business information services such as Experian Marketing Services and Nielsen help marketers to ________.",
         "A) save significant amounts of money on shipping products",
         "B) spend more time identifying potential customers",
         "C) learn more specific details from consumers about their products",
@@ -7733,7 +7733,7 @@ let data = [
         ]
     ],
     [
-        "56) When the size, purchasing power, and profile of a market segment can be calculated, themarket is ________.",
+        "56) When the size, purchasing power, and profile of a market segment can be calculated, the market is ________.",
         "A) measurable",
         "B) profitable",
         "C) substantial",
@@ -7755,7 +7755,7 @@ let data = [
         ]
     ],
     [
-        "58) When an effective program can be designed for attracting and serving a particular segment,the segment is best described as ________.",
+        "58) When an effective program can be designed for attracting and serving a particular segment, the segment is best described as ________.",
         "A) accessible",
         "B) measurable",
         "C) competitive",
@@ -7766,7 +7766,7 @@ let data = [
         ]
     ],
     [
-        "59) ________ segments are conceptually distinguishable and respond differently to differentmarketing mix elements and programs.",
+        "59) ________ segments are conceptually distinguishable and respond differently to different marketing mix elements and programs.",
         "A) Complex",
         "B) Measurable",
         "C) Competitive",
@@ -7788,7 +7788,7 @@ let data = [
         ]
     ],
     [
-        "61) Different soft drinks target different personalities. This is an example of ________segmentation.",
+        "61) Different soft drinks target different personalities. This is an example of ________ segmentation.",
         "A) psychographic",
         "B) demographic",
         "C) occasion",
@@ -7821,7 +7821,7 @@ let data = [
         ]
     ],
     [
-        "86) Which of the following is LEAST relevant when a firm evaluates different marketsegments?",
+        "86) Which of the following is LEAST relevant when a firm evaluates different market segments?",
         "A) segment size and growth",
         "B) company resources",
         "C) segment structural attractiveness",
@@ -7832,7 +7832,7 @@ let data = [
         ]
     ],
     [
-        "87) Which of the following is the reason a company may choose not to focus on the largest,fastest-growing segments?",
+        "87) Which of the following is the reason a company may choose not to focus on the largest, fastest-growing segments?",
         "A) The smaller segments may be more profitable to the firm.",
         "B) It may lack the skills to serve larger segments.",
         "C) The right size and growth characteristics don't match its goals.",
@@ -7854,7 +7854,7 @@ let data = [
         ]
     ],
     [
-        "89) Several structural factors affect long-run segment attractiveness. These include all of thefollowing EXCEPT ________.",
+        "89) Several structural factors affect long-run segment attractiveness. These include all of the following EXCEPT ________.",
         "A) easy entry by new competitors",
         "B) the segment does not match the company's long-run objectives",
         "C) strong and aggressive competitors",
@@ -7865,7 +7865,7 @@ let data = [
         ]
     ],
     [
-        "90) A ________ consists of a set of buyers who share common needs or characteristics that thecompany decides to serve.",
+        "90) A ________ consists of a set of buyers who share common needs or characteristics that the company decides to serve.",
         "A) marketing channel",
         "B) citizen-action group",
         "C) distribution channel",
@@ -7876,7 +7876,7 @@ let data = [
         ]
     ],
     [
-        "91) ________ refers to a market-coverage strategy in which a firm decides to ignore marketsegment differences and go after the whole market with one offer.",
+        "91) ________ refers to a market-coverage strategy in which a firm decides to ignore market segment differences and go after the whole market with one offer.",
         "A) Individual marketing",
         "B) Local marketing",
         "C) Niche marketing",
@@ -7887,7 +7887,7 @@ let data = [
         ]
     ],
     [
-        "92) Sanguine Services is a small company that uses a marketing strategy in which its limitedresources are employed to target a large share of two small market segments. Sanguine mostlikely uses which of the following marketing strategies?",
+        "92) Sanguine Services is a small company that uses a marketing strategy in which its limited resources are employed to target a large share of two small market segments. Sanguine most likely uses which of the following marketing strategies?",
         "A) individual marketing",
         "B) one-to-one marketing",
         "C) mass marketing",
@@ -7898,7 +7898,7 @@ let data = [
         ]
     ],
     [
-        "93) A market-coverage strategy in which a firm decides to target several market segments anddesigns separate offers for each is known as ________.",
+        "93) A market-coverage strategy in which a firm decides to target several market segments and designs separate offers for each is known as ________.",
         "A) mass marketing",
         "B) differentiated marketing",
         "C) concentrated marketing",
@@ -7920,7 +7920,7 @@ let data = [
         ]
     ],
     [
-        "95) With a(n) ________ marketing strategy, a firm goes after a large share of one or a fewsmaller niches.",
+        "95) With a(n) ________ marketing strategy, a firm goes after a large share of one or a few smaller niches.",
         "A) individual",
         "B) mass",
         "C) concentrated",
@@ -7942,7 +7942,7 @@ let data = [
         ]
     ],
     [
-        "97) ________ is the practice of tailoring products and marketing programs to suit the tastes ofspecific individuals and locations.",
+        "97) ________ is the practice of tailoring products and marketing programs to suit the tastes of specific individuals and locations.",
         "A) Mass marketing",
         "B) Trigger-based marketing",
         "C) Differentiated marketing",
@@ -7953,7 +7953,7 @@ let data = [
         ]
     ],
     [
-        "98) ________ marketing tailors brands and promotions to the needs and wants of regionalcustomer groups, such as cities, neighborhoods, and even specific stores.",
+        "98) ________ marketing tailors brands and promotions to the needs and wants of regional customer groups, such as cities, neighborhoods, and even specific stores.",
         "A) Undifferentiated",
         "B) Differentiated",
         "C) Niche",
@@ -7975,7 +7975,7 @@ let data = [
         ]
     ],
     [
-        "100) Andrew Levitt runs a retail store in Norristown. Andrew's store stocks cold weatherproducts as Norristown mostly has sub-zero temperatures. Which of the following is evidenthere?",
+        "100) Andrew Levitt runs a retail store in Norristown. Andrew's store stocks cold weather products as Norristown mostly has sub-zero temperatures. Which of the following is evident here?",
         "A) local marketing",
         "B) concentrated marketing",
         "C) segmented marketing",
@@ -7986,7 +7986,7 @@ let data = [
         ]
     ],
     [
-        "101) A public relations firm tailors its advertising and promotional services according to theneeds and preferences of specific customers. This exemplifies ________.",
+        "101) A public relations firm tailors its advertising and promotional services according to the needs and preferences of specific customers. This exemplifies ________.",
         "A) trigger-based marketing",
         "B) mass marketing",
         "C) segmented marketing",
@@ -7997,7 +7997,7 @@ let data = [
         ]
     ],
     [
-        "102) When a company customizes its merchandise store by store to meet shopper needs, it ispracticing ________ marketing.",
+        "102) When a company customizes its merchandise store by store to meet shopper needs, it is practicing ________ marketing.",
         "A) niche",
         "B) mass",
         "C) local",
@@ -8008,7 +8008,7 @@ let data = [
         ]
     ],
     [
-        "103) ________ is the process by which firms interact one-to-one with masses of customers todesign products and services tailor-made to individual needs.",
+        "103) ________ is the process by which firms interact one-to-one with masses of customers to design products and services tailor-made to individual needs.",
         "A) Product diversification",
         "B) Micromarketing",
         "C) Mass customization",
@@ -8019,7 +8019,7 @@ let data = [
         ]
     ],
     [
-        "104) When order requests come in, the designers of Titus Furniture often go to a client'slocation to note their requirements, budget, and expected date of delivery. In this way, TitusFurniture is successful in tailor-making products for its customers. This is an example of________.",
+        "104) When order requests come in, the designers of Titus Furniture often go to a client's location to note their requirements, budget, and expected date of delivery. In this way, Titus Furniture is successful in tailor-making products for its customers. This is an example of ________.",
         "A) market diversification",
         "B) undifferentiated marketing",
         "C) mass customization",
@@ -8030,7 +8030,7 @@ let data = [
         ]
     ],
     [
-        "105) Which of the following marketing strategies is most suitable for smaller firms with limitedresources?",
+        "105) Which of the following marketing strategies is most suitable for smaller firms with limited resources?",
         "A) mass marketing",
         "B) undifferentiated marketing",
         "C) niche marketing",
@@ -8041,7 +8041,7 @@ let data = [
         ]
     ],
     [
-        "106) Rex Steelworks makes steel sheets which the firm markets and sells to companies all overthe world. Which of the following marketing strategies is most suitable for Rex Steelworks?",
+        "106) Rex Steelworks makes steel sheets which the firm markets and sells to companies all over the world. Which of the following marketing strategies is most suitable for Rex Steelworks?",
         "A) one-to-one marketing",
         "B) undifferentiated marketing",
         "C) individual marketing",
@@ -8052,7 +8052,7 @@ let data = [
         ]
     ],
     [
-        "107) GamaPix makes point-and-shoot cameras and handycams for amateur photographers andhobbyists. It also has a separate line of cameras dedicated to professional photographers.Additionally, it designs separate offers for each segment. Which of the following marketingstrategies does GamaPix most likely use in this instance?",
+        "107) GamaPix makes point-and-shoot cameras and handycams for amateur photographers and hobbyists. It also has a separate line of cameras dedicated to professional photographers. Additionally, it designs separate offers for each segment. Which of the following marketing strategies does GamaPix most likely use in this instance?",
         "A) mass marketing",
         "B) differentiated marketing",
         "C) individual marketing",
@@ -8063,7 +8063,7 @@ let data = [
         ]
     ],
     [
-        "108) Jean Malone, a market researcher, recently found that most people in Bradburg Countypurchase automobiles with predominantly functional designs and prefer darker colors. Which ofthe following marketing strategies should Jean most likely recommend to an automobile dealerinterested in opening a dealership in Bradburg County?",
+        "108) Jean Malone, a market researcher, recently found that most people in Bradburg County purchase automobiles with predominantly functional designs and prefer darker colors. Which of the following marketing strategies should Jean most likely recommend to an automobile dealer interested in opening a dealership in Bradburg County?",
         "A) one-to-one marketing",
         "B) undifferentiated marketing",
         "C) segmented marketing",
@@ -8074,7 +8074,7 @@ let data = [
         ]
     ],
     [
-        "109) Shine Enterprises mass produces an all-purpose floor cleaner that is aimed at the wholemarket. This firm uses a(n) ________ marketing strategy.",
+        "109) Shine Enterprises mass produces an all-purpose floor cleaner that is aimed at the whole market. This firm uses a(n) ________ marketing strategy.",
         "A) segmented",
         "B) undifferentiated",
         "C) individual",
@@ -8107,7 +8107,7 @@ let data = [
         ]
     ],
     [
-        "112) A catalog retailer in the United States has identified African American professionalsbetween the ages of 35 and 45 as a group of potential customers for its products. The retailerplans to direct its marketing efforts toward this group of consumers. Which of the followingmarket segmentation variables did the catalog retailer most likely use?",
+        "112) A catalog retailer in the United States has identified African American professionals between the ages of 35 and 45 as a group of potential customers for its products. The retailer plans to direct its marketing efforts toward this group of consumers. Which of the following market segmentation variables did the catalog retailer most likely use?",
         "A) demographic",
         "B) psychographic",
         "C) user status",
@@ -8118,7 +8118,7 @@ let data = [
         ]
     ],
     [
-        "113) Market targeting can bring up concerns about privacy and abuse in all of the followingways EXCEPT ________.",
+        "113) Market targeting can bring up concerns about privacy and abuse in all of the following ways EXCEPT ________.",
         "A) when marketing toward children",
         "B) when entertainment and commercial content blend",
         "C) when customers opt in to receive focused content",
@@ -8129,7 +8129,7 @@ let data = [
         ]
     ],
     [
-        "114) In marketing his wooden pens and pencils to specialty-shop customers, Ruben was mostlikely using ________ marketing.",
+        "114) In marketing his wooden pens and pencils to specialty-shop customers, Ruben was most likely using ________ marketing.",
         "A) mass",
         "B) trigger-based",
         "C) concentrated",
@@ -8140,7 +8140,7 @@ let data = [
         ]
     ],
     [
-        "115) If Ruben interacted one-to-one with his customers to design his products and servicesaccording to individual needs, he would be practicing ________.",
+        "115) If Ruben interacted one-to-one with his customers to design his products and services according to individual needs, he would be practicing ________.",
         "A) concentrated marketing",
         "B) trigger-based marketing",
         "C) undifferentiated marketing",
@@ -8151,7 +8151,7 @@ let data = [
         ]
     ],
     [
-        "134) ________ refers to how a company will create differentiated value for targeted segmentsand what positions it wants to occupy in those segments.",
+        "134) ________ refers to how a company will create differentiated value for targeted segments and what positions it wants to occupy in those segments.",
         "A) Targeted marketing",
         "B) Market segmentation",
         "C) Product positioning",
@@ -8162,7 +8162,7 @@ let data = [
         ]
     ],
     [
-        "135) A ________ refers to the way a product is defined by consumers on important attributes—the place the product occupies in consumers' minds relative to competing products.",
+        "135) A ________ refers to the way a product is defined by consumers on important attributes— the place the product occupies in consumers' minds relative to competing products.",
         "A) core competency",
         "B) value stream",
         "C) value proposition",
@@ -8173,7 +8173,7 @@ let data = [
         ]
     ],
     [
-        "136) ________ show(s) consumer perceptions of a company's brands versus competingproducts on important buying dimensions.",
+        "136) ________ show(s) consumer perceptions of a company's brands versus competing products on important buying dimensions.",
         "A) Differentiation",
         "B) Positioning",
         "C) Market targeting",
@@ -8184,7 +8184,7 @@ let data = [
         ]
     ],
     [
-        "137) To the extent that a company can differentiate and position itself as providing superiorcustomer value, it gains ________.",
+        "137) To the extent that a company can differentiate and position itself as providing superior customer value, it gains ________.",
         "A) competitive advantage",
         "B) complementary assets",
         "C) service life",
@@ -8195,7 +8195,7 @@ let data = [
         ]
     ],
     [
-        "138) Through ________ differentiation, brands can be differentiated on features, performance,or style and design.",
+        "138) Through ________ differentiation, brands can be differentiated on features, performance, or style and design.",
         "A) services",
         "B) channel",
         "C) people",
@@ -8206,7 +8206,7 @@ let data = [
         ]
     ],
     [
-        "139) Even when competing offers look the same, buyers may perceive a difference based on________ differentiation.",
+        "139) Even when competing offers look the same, buyers may perceive a difference based on ________ differentiation.",
         "A) image",
         "B) people",
         "C) price",
@@ -8217,7 +8217,7 @@ let data = [
         ]
     ],
     [
-        "140) Harvey's Bookstore is a popular online bookstore that has differentiated itself throughsmooth-functioning delivery networks. This is an example of ________ differentiation.",
+        "140) Harvey's Bookstore is a popular online bookstore that has differentiated itself through smooth-functioning delivery networks. This is an example of ________ differentiation.",
         "A) product",
         "B) image",
         "C) price",
@@ -8228,7 +8228,7 @@ let data = [
         ]
     ],
     [
-        "141) All of the following are ways a company can differentiate itself or its product EXCEPT________.",
+        "141) All of the following are ways a company can differentiate itself or its product EXCEPT ________.",
         "A) services",
         "B) channels",
         "C) price",
@@ -8239,7 +8239,7 @@ let data = [
         ]
     ],
     [
-        "142) The full mix of benefits on which a brand is differentiated and positioned is known as thebrand's ________.",
+        "142) The full mix of benefits on which a brand is differentiated and positioned is known as the brand's ________.",
         "A) value proposition",
         "B) service life",
         "C) value stream",
@@ -8250,7 +8250,7 @@ let data = [
         ]
     ],
     [
-        "143) ________ positioning involves providing the most upscale product or service andcharging a higher price to cover the higher costs.",
+        "143) ________ positioning involves providing the most upscale product or service and charging a higher price to cover the higher costs.",
         "A) More for the same",
         "B) More for less",
         "C) Same for less",
@@ -8261,7 +8261,7 @@ let data = [
         ]
     ],
     [
-        "144) Stores such as Walmart, Best Buy, PetSmart, David's Bridal, and DSW Shoes use________ positioning.",
+        "144) Stores such as Walmart, Best Buy, PetSmart, David's Bridal, and DSW Shoes use ________ positioning.",
         "A) more for the same",
         "B) more for less",
         "C) same for less",
@@ -8272,7 +8272,7 @@ let data = [
         ]
     ],
     [
-        "145) ________ positioning involves meeting consumers' lower performance or qualityrequirements at a much lower price.",
+        "145) ________ positioning involves meeting consumers' lower performance or quality requirements at a much lower price.",
         "A) More for less",
         "B) Less for much less",
         "C) Same for less",
@@ -8283,7 +8283,7 @@ let data = [
         ]
     ],
     [
-        "146) While there may be many differences between brands, not all are meaningful or relevantto consumers. Which of the following is NOT a criterion for establishing the value of adifference to promote?",
+        "146) While there may be many differences between brands, not all are meaningful or relevant to consumers. Which of the following is NOT a criterion for establishing the value of a difference to promote?",
         "A) superior; the difference is superior to other ways that customers might obtain the same",
         "B) affordable; buyers can afford to pay the difference",
         "C) profitable; the company can introduce the difference profitably",
@@ -8294,7 +8294,7 @@ let data = [
         ]
     ],
     [
-        "147) Pierre's Mart, a grocery store in New Orleans, Louisiana, offers less merchandise selectionand fairly low levels of service. Despite the lackluster service and limited selection ofmerchandise, customers still flock to Pierre's because it charges rock-bottom prices. Pierre'sMart most likely uses the ________ positioning.",
+        "147) Pierre's Mart, a grocery store in New Orleans, Louisiana, offers less merchandise selection and fairly low levels of service. Despite the lackluster service and limited selection of merchandise, customers still flock to Pierre's because it charges rock-bottom prices. Pierre's Mart most likely uses the ________ positioning.",
         "A) more for the same",
         "B) more for less",
         "C) same for less",
@@ -8305,7 +8305,7 @@ let data = [
         ]
     ],
     [
-        "148) When it first opened stores across the United States, Bateman's, an office supply chainstore, had the best product selection, the best service, and the lowest prices compared to otheroffice supply chain stores. As a result, Bateman's captured a significant chunk of the market inthe short run. Which of the following positioning strategies did Bateman's most likely use?",
+        "148) When it first opened stores across the United States, Bateman's, an office supply chain store, had the best product selection, the best service, and the lowest prices compared to other office supply chain stores. As a result, Bateman's captured a significant chunk of the market in the short run. Which of the following positioning strategies did Bateman's most likely use?",
         "A) more for the same",
         "B) more for less",
         "C) same for less",
@@ -8327,7 +8327,7 @@ let data = [
         ]
     ],
     [
-        "150) Which of the following states the product's membership in a category and then shows itspoint of difference from other members of the category?",
+        "150) Which of the following states the product's membership in a category and then shows its point of difference from other members of the category?",
         "A) a mission statement",
         "B) a vision statement",
         "C) a general need description",
@@ -8338,7 +8338,7 @@ let data = [
         ]
     ],
     [
-        "151) \"To busy multitaskers who need help remembering things, Evernote is a digital contentmanagement application that makes it easy to capture and remember moments and ideas fromyour everyday life using your computer, phone, tablet, and the Web.\" This is an example of a(n)________.",
+        "151) \"To busy multitaskers who need help remembering things, Evernote is a digital content management application that makes it easy to capture and remember moments and ideas from your everyday life using your computer, phone, tablet, and the Web.\" This is an example of a(n) ________.",
         "A) positioning statement",
         "B) statement of purpose",
         "C) order-routine specification",
@@ -8349,7 +8349,7 @@ let data = [
         ]
     ],
     [
-        "152) Chronos Inc. designs and markets different brands of cycling watches. Each brand has asingle unique feature: the Chronos Cosmos has a heart rate monitor, the Chronos Acumen isdesigned for older cyclists who prefer a large display, and the Chronos Aegis has a GPSfunction. Which of the following is evident here?",
+        "152) Chronos Inc. designs and markets different brands of cycling watches. Each brand has a single unique feature: the Chronos Cosmos has a heart rate monitor, the Chronos Acumen is designed for older cyclists who prefer a large display, and the Chronos Aegis has a GPS function. Which of the following is evident here?",
         "A) channel differentiation",
         "B) service differentiation",
         "C) product differentiation",
@@ -8360,7 +8360,7 @@ let data = [
         ]
     ],
     [
-        "153) Apex describes its clothing line as, \"Elegance and attitude, now as one. For the dailyoffice-goer, who takes pride in what he or she wears everyday, Apex makes sure you getnoticed.\" This exemplifies a ________.",
+        "153) Apex describes its clothing line as, \"Elegance and attitude, now as one. For the daily office-goer, who takes pride in what he or she wears everyday, Apex makes sure you get noticed.\" This exemplifies a ________.",
         "A) statement of purpose",
         "B) vision statement",
         "C) positioning statement",
@@ -8371,7 +8371,7 @@ let data = [
         ]
     ],
     [
-        "154) The Jay Group hires better employees than its competition by conducting effective49searches and multi-tiered interviews. The company also provides high quality training to itsemployees, an aspect often neglected by competitors. The Jay Group is most likely to gain astrong competitive advantage through which type of differentiation?",
+        "154) The Jay Group hires better employees than its competition by conducting effective 49 searches and multi-tiered interviews. The company also provides high quality training to its employees, an aspect often neglected by competitors. The Jay Group is most likely to gain a strong competitive advantage through which type of differentiation?",
         "A) image differentiation",
         "B) people differentiation",
         "C) services differentiation",
@@ -8382,7 +8382,7 @@ let data = [
         ]
     ],
     [
-        "155) Symbols such as the McDonald's golden arches, the colorful Google logo, the Nikeswoosh, or Apple's \"bite mark\" logo provide strong company or brand recognition and areindicative of ________ differentiation.",
+        "155) Symbols such as the McDonald's golden arches, the colorful Google logo, the Nike swoosh, or Apple's \"bite mark\" logo provide strong company or brand recognition and are indicative of ________ differentiation.",
         "A) people",
         "B) image",
         "C) channel",
@@ -8393,7 +8393,7 @@ let data = [
         ]
     ],
     [
-        "156) Kinger Auto specializes in selling low-quality used vehicles that are priced a good deallower than other used cars. Which of the following value propositions is evident here?",
+        "156) Kinger Auto specializes in selling low-quality used vehicles that are priced a good deal lower than other used cars. Which of the following value propositions is evident here?",
         "A) more for the same",
         "B) more for less",
         "C) same for less",
@@ -8404,7 +8404,7 @@ let data = [
         ]
     ],
     [
-        "157) Ferrari sports cars claim superior quality, performance, and style. Ferrari provides\"perfection\" at a premium price to keep its brand image intact. Which type of value propositiondoes Ferrari most likely position its products with?",
+        "157) Ferrari sports cars claim superior quality, performance, and style. Ferrari provides \"perfection\" at a premium price to keep its brand image intact. Which type of value proposition does Ferrari most likely position its products with?",
         "A) more for the same",
         "B) more for more",
         "C) less for much less",
@@ -8426,7 +8426,7 @@ let data = [
         ]
     ],
     [
-        "159) While Jenkins Stationeries was selling branded stationery at premium prices, PembrokeStationeries, a store across the street, was selling the same branded stationery at discount prices.Which of the following value propositions best describes Pembroke's product positioning?",
+        "159) While Jenkins Stationeries was selling branded stationery at premium prices, Pembroke Stationeries, a store across the street, was selling the same branded stationery at discount prices. Which of the following value propositions best describes Pembroke's product positioning?",
         "A) more for less",
         "B) more for the same",
         "C) same for less",
@@ -8448,7 +8448,7 @@ let data = [
         ]
     ],
     [
-        "2) ________ are a form of product that consists of activities, benefits, or satisfactions offeredfor sale that are essentially intangible and do not result in the ownership of anything.",
+        "2) ________ are a form of product that consists of activities, benefits, or satisfactions offered for sale that are essentially intangible and do not result in the ownership of anything.",
         "A) Liabilities",
         "B) Services",
         "C) Brands",
@@ -8481,7 +8481,7 @@ let data = [
         ]
     ],
     [
-        "5) Market offering includes everything from pure tangible goods to pure services, as well ascombinations of goods and services. Which of the following is NOT a product or service?",
+        "5) Market offering includes everything from pure tangible goods to pure services, as well as combinations of goods and services. Which of the following is NOT a product or service?",
         "A) breakfast cereal",
         "B) rental car",
         "C) free concert",
@@ -8536,7 +8536,7 @@ let data = [
         ]
     ],
     [
-        "10) Product planners need to consider products and services on three levels. Each level addsmore customer value. The most basic level is ________, which addresses the question, \"What isthe buyer really buying?\"",
+        "10) Product planners need to consider products and services on three levels. Each level adds more customer value. The most basic level is ________, which addresses the question, \"What is the buyer really buying?\"",
         "A) an actual product",
         "B) an augmented product",
         "C) core customer value",
@@ -8547,7 +8547,7 @@ let data = [
         ]
     ],
     [
-        "11) Product planners need to consider products and services on three levels. At the secondlevel, product planners must ________.",
+        "11) Product planners need to consider products and services on three levels. At the second level, product planners must ________.",
         "A) offer additional product support and after-sale services",
         "B) identify the core customer value that consumers seek from the product",
         "C) turn the core benefit into an actual product",
@@ -8558,7 +8558,7 @@ let data = [
         ]
     ],
     [
-        "12) If a consumer purchases a new flat-screen \"smart\" television which can connect to serviceslike Netflix and Pandora, what is the core customer value involved?",
+        "12) If a consumer purchases a new flat-screen \"smart\" television which can connect to services like Netflix and Pandora, what is the core customer value involved?",
         "A) connection to entertainment and information",
         "B) state-of the art technology",
         "C) slick and attractive packaging",
@@ -8569,7 +8569,7 @@ let data = [
         ]
     ],
     [
-        "13) If a consumer purchases a new flat-screen \"smart\" television, what is the augmentedproduct involved?",
+        "13) If a consumer purchases a new flat-screen \"smart\" television, what is the augmented product involved?",
         "A) connection to the world of entertainment",
         "B) state-of the art technology",
         "C) slick and attractive packaging",
@@ -8580,7 +8580,7 @@ let data = [
         ]
     ],
     [
-        "14) Product planners need to consider products and services on three levels. At the third level,product planners must build ________.",
+        "14) Product planners need to consider products and services on three levels. At the third level, product planners must build ________.",
         "A) an actual product",
         "B) an augmented product",
         "C) core customer value",
@@ -8591,7 +8591,7 @@ let data = [
         ]
     ],
     [
-        "15) What is the core customer value a customer might purchase when buying Urban Decaycosmetics?",
+        "15) What is the core customer value a customer might purchase when buying Urban Decay cosmetics?",
         "A) variety of collections",
         "B) unique packaging",
         "C) unusual colors",
@@ -8624,7 +8624,7 @@ let data = [
         ]
     ],
     [
-        "18) ________ are consumer products and services that customers usually buy frequently,immediately, and with minimal comparison and buying effort.",
+        "18) ________ are consumer products and services that customers usually buy frequently, immediately, and with minimal comparison and buying effort.",
         "A) Unsought products",
         "B) Capital items",
         "C) Shopping products",
@@ -8646,7 +8646,7 @@ let data = [
         ]
     ],
     [
-        "20) ________ are less frequently purchased consumer products and services that customerscompare carefully on suitability, quality, price, and style.",
+        "20) ________ are less frequently purchased consumer products and services that customers compare carefully on suitability, quality, price, and style.",
         "A) Shopping products",
         "B) Convenience products",
         "C) Unsought products",
@@ -8668,7 +8668,7 @@ let data = [
         ]
     ],
     [
-        "22) Erica wants to replace her old washing machine with a new one. In order to get themaximum value for her money, she plans to spend substantial time and effort in gatheringinformation and making product comparisons before making the actual purchase. In thisinstance, Erica is planning to buy a(n) ________ product.",
+        "22) Erica wants to replace her old washing machine with a new one. In order to get the maximum value for her money, she plans to spend substantial time and effort in gathering information and making product comparisons before making the actual purchase. In this instance, Erica is planning to buy a(n) ________ product.",
         "A) convenience",
         "B) unsought",
         "C) specialty",
@@ -8679,7 +8679,7 @@ let data = [
         ]
     ],
     [
-        "23) ________ are consumer products and services with unique characteristics or brandidentification for which a significant group of buyers is willing to make a special purchaseeffort.",
+        "23) ________ are consumer products and services with unique characteristics or brand identification for which a significant group of buyers is willing to make a special purchase effort.",
         "A) Shopping products",
         "B) Unsought products",
         "C) Specialty products",
@@ -8690,7 +8690,7 @@ let data = [
         ]
     ],
     [
-        "24) A hickory rocking chair, handmade by an Amish woodcarver in Lancaster, Pennsylvania,from locally grown wood, is an example of a ________.",
+        "24) A hickory rocking chair, handmade by an Amish woodcarver in Lancaster, Pennsylvania, from locally grown wood, is an example of a ________.",
         "A) convenience product",
         "B) capital item",
         "C) service",
@@ -8701,7 +8701,7 @@ let data = [
         ]
     ],
     [
-        "25) ________ are consumer products that the consumer either does not know about or knowsabout but does not normally think about buying.",
+        "25) ________ are consumer products that the consumer either does not know about or knows about but does not normally think about buying.",
         "A) Specialty products",
         "B) Convenience products",
         "C) Unsought products",
@@ -8712,7 +8712,7 @@ let data = [
         ]
     ],
     [
-        "26) ________ products are those products purchased for further processing or for use inconducting a business.",
+        "26) ________ products are those products purchased for further processing or for use in conducting a business.",
         "A) Unsought",
         "B) Specialty",
         "C) Shopping",
@@ -8723,7 +8723,7 @@ let data = [
         ]
     ],
     [
-        "27) ________ are the major marketing factors in the sale of most manufactured materials andparts.",
+        "27) ________ are the major marketing factors in the sale of most manufactured materials and parts.",
         "A) Branding and advertising",
         "B) Price and service",
         "C) Sales promotion and advertising",
@@ -8734,7 +8734,7 @@ let data = [
         ]
     ],
     [
-        "28) ________ are industrial products that aid in the buyer's production or operations, includinginstallations and accessory equipment.",
+        "28) ________ are industrial products that aid in the buyer's production or operations, including installations and accessory equipment.",
         "A) Unsought products",
         "B) Convenience products",
         "C) Capital items",
@@ -8767,7 +8767,7 @@ let data = [
         ]
     ],
     [
-        "31) Industrial products and services include raw materials, buildings, fixed equipment, supplies,services, and ________.",
+        "31) Industrial products and services include raw materials, buildings, fixed equipment, supplies, services, and ________.",
         "A) computers and desks",
         "B) electricity",
         "C) groceries",
@@ -8778,7 +8778,7 @@ let data = [
         ]
     ],
     [
-        "32) ________ marketing consists of activities undertaken to create, maintain, or change theattitudes and behaviors of target consumers toward an organization.",
+        "32) ________ marketing consists of activities undertaken to create, maintain, or change the attitudes and behaviors of target consumers toward an organization.",
         "A) Social network",
         "B) Organization",
         "C) Niche",
@@ -8789,7 +8789,7 @@ let data = [
         ]
     ],
     [
-        "33) The advertising slogan, \"We bring good things to life,\" used by General Electric to marketitself, is an example of ________ marketing.",
+        "33) The advertising slogan, \"We bring good things to life,\" used by General Electric to market itself, is an example of ________ marketing.",
         "A) person",
         "B) corporate image",
         "C) internal",
@@ -8800,7 +8800,7 @@ let data = [
         ]
     ],
     [
-        "34) ________ marketing consists of activities undertaken to create, maintain, or changeattitudes toward particular people. People ranging from presidents, entertainers, and sportsfigures to professionals such as doctors, lawyers, and architects use it to build their reputations.",
+        "34) ________ marketing consists of activities undertaken to create, maintain, or change attitudes toward particular people. People ranging from presidents, entertainers, and sports figures to professionals such as doctors, lawyers, and architects use it to build their reputations.",
         "A) Corporate image",
         "B) Person",
         "C) Social",
@@ -8811,7 +8811,7 @@ let data = [
         ]
     ],
     [
-        "35) A company that uses well-known celebrities to help sell its products is using ________marketing.",
+        "35) A company that uses well-known celebrities to help sell its products is using ________ marketing.",
         "A) interactive",
         "B) internal",
         "C) social",
@@ -8822,7 +8822,7 @@ let data = [
         ]
     ],
     [
-        "36) ________ marketing involves activities undertaken to create, maintain, or change attitudestoward particular cities, states, or regions.",
+        "36) ________ marketing involves activities undertaken to create, maintain, or change attitudes toward particular cities, states, or regions.",
         "A) Idea",
         "B) Place",
         "C) Organization",
@@ -8833,7 +8833,7 @@ let data = [
         ]
     ],
     [
-        "37) Tourism Australia's global marketing campaign, \"There's nothing like Australia\" is anexample of ________ marketing.",
+        "37) Tourism Australia's global marketing campaign, \"There's nothing like Australia\" is an example of ________ marketing.",
         "A) corporate image",
         "B) person",
         "C) organization",
@@ -8844,7 +8844,7 @@ let data = [
         ]
     ],
     [
-        "38) Advertising campaigns involving issues ranging from health care, education, andenvironmental sustainability to human rights and personal safety can be classified under________ marketing.",
+        "38) Advertising campaigns involving issues ranging from health care, education, and environmental sustainability to human rights and personal safety can be classified under ________ marketing.",
         "A) corporate image",
         "B) internal",
         "C) social",
@@ -8855,7 +8855,7 @@ let data = [
         ]
     ],
     [
-        "39) Elmo Inc., a Michigan-based manufacturer of athletic shoes, uses professional athletes in itsad campaigns to help sell its products. This is an example of ________ marketing.",
+        "39) Elmo Inc., a Michigan-based manufacturer of athletic shoes, uses professional athletes in its ad campaigns to help sell its products. This is an example of ________ marketing.",
         "A) person",
         "B) place",
         "C) social",
@@ -8866,7 +8866,7 @@ let data = [
         ]
     ],
     [
-        "40) Public health campaigns designed to reduce alcoholism, drug abuse, smoking, and obesityare all examples of ________ marketing.",
+        "40) Public health campaigns designed to reduce alcoholism, drug abuse, smoking, and obesity are all examples of ________ marketing.",
         "A) internal",
         "B) social",
         "C) organization",
@@ -8877,7 +8877,7 @@ let data = [
         ]
     ],
     [
-        "41) Rhodia invites tourists from all over the world to experience its pristine nature, clear skies,and beautiful summertime climate. This exemplifies ________.",
+        "41) Rhodia invites tourists from all over the world to experience its pristine nature, clear skies, and beautiful summertime climate. This exemplifies ________.",
         "A) corporate image marketing",
         "B) social marketing",
         "C) place marketing",
@@ -8888,7 +8888,7 @@ let data = [
         ]
     ],
     [
-        "42) An easier, more comfortable, more stylish transfer of thought onto paper refers to the________ of Ruben's offerings.",
+        "42) An easier, more comfortable, more stylish transfer of thought onto paper refers to the ________ of Ruben's offerings.",
         "A) tangible element",
         "B) core customer value",
         "C) actual product",
@@ -8910,7 +8910,7 @@ let data = [
         ]
     ],
     [
-        "57) Developing a product or service involves defining the benefits that it will offer. Thesebenefits are communicated and delivered by ________.",
+        "57) Developing a product or service involves defining the benefits that it will offer. These benefits are communicated and delivered by ________.",
         "A) product labels",
         "B) product attributes",
         "C) support services",
@@ -8932,7 +8932,7 @@ let data = [
         ]
     ],
     [
-        "59) ________ refers to the characteristics of a product or service that bear on its ability tosatisfy stated or implied customer needs.",
+        "59) ________ refers to the characteristics of a product or service that bear on its ability to satisfy stated or implied customer needs.",
         "A) Brand equity",
         "B) Product quality",
         "C) Product labeling",
@@ -8943,7 +8943,7 @@ let data = [
         ]
     ],
     [
-        "60) ________ is an approach in which all the company's people are involved in constantlyimproving the quality of products, services, and business processes.",
+        "60) ________ is an approach in which all the company's people are involved in constantly improving the quality of products, services, and business processes.",
         "A) Business intelligence",
         "B) Quality function deployment",
         "C) Total quality management",
@@ -8965,7 +8965,7 @@ let data = [
         ]
     ],
     [
-        "62) ________ refers to freedom from defects and consistency in delivering a targeted level ofperformance.",
+        "62) ________ refers to freedom from defects and consistency in delivering a targeted level of performance.",
         "A) Performance quality",
         "B) Product style",
         "C) Branding",
@@ -8976,7 +8976,7 @@ let data = [
         ]
     ],
     [
-        "63) Features are a competitive tool for differentiating a company's product from competitors'products. Which question are companies LEAST likely to ask in a survey of buyers regardingproduct features?",
+        "63) Features are a competitive tool for differentiating a company's product from competitors' products. Which question are companies LEAST likely to ask in a survey of buyers regarding product features?",
         "A) Which features could we add to improve the product?",
         "B) Which specific features of the product do you like most?",
         "C) How much would (a certain new feature) be worth to you?",
@@ -9020,7 +9020,7 @@ let data = [
         ]
     ],
     [
-        "67) Which of the following questions is most important for product designers to consider whiledeveloping a product?",
+        "67) Which of the following questions is most important for product designers to consider while developing a product?",
         "A) Which specific features of the product do customers like most?",
         "B) How does the product appear to buyers?",
         "C) What are the product's technical specifications?",
@@ -9031,7 +9031,7 @@ let data = [
         ]
     ],
     [
-        "68) A ________ is a name, term, sign, symbol, design, or a combination of these, that identifiesthe maker or seller of a product or service.",
+        "68) A ________ is a name, term, sign, symbol, design, or a combination of these, that identifies the maker or seller of a product or service.",
         "A) feature",
         "B) brand",
         "C) line extension",
@@ -9053,7 +9053,7 @@ let data = [
         ]
     ],
     [
-        "70) A product's ________ identifies the product or brand, describes several things about theproduct, and promotes the brand.",
+        "70) A product's ________ identifies the product or brand, describes several things about the product, and promotes the brand.",
         "A) line extension",
         "B) portfolio",
         "C) label",
@@ -9108,7 +9108,7 @@ let data = [
         ]
     ],
     [
-        "75) A ________ is a group of products that are closely related because they function in a similarmanner, are sold to the same customer groups, are marketed through the same type of outlets,or fall within given price ranges.",
+        "75) A ________ is a group of products that are closely related because they function in a similar manner, are sold to the same customer groups, are marketed through the same type of outlets, or fall within given price ranges.",
         "A) product line",
         "B) line extension",
         "C) private brand",
@@ -9119,7 +9119,7 @@ let data = [
         ]
     ],
     [
-        "76) The major product line decision involves product ________, the number of items in theproduct line.",
+        "76) The major product line decision involves product ________, the number of items in the product line.",
         "A) features",
         "B) line depth",
         "C) line conformance",
@@ -9141,7 +9141,7 @@ let data = [
         ]
     ],
     [
-        "78) Titan Inc., an automobile manufacturer based in Utah, recently added two new models to itsexisting line of sedans in order to increase profits and satisfy dealers. This is an example of________.",
+        "78) Titan Inc., an automobile manufacturer based in Utah, recently added two new models to its existing line of sedans in order to increase profits and satisfy dealers. This is an example of ________.",
         "A) line filling",
         "B) social marketing",
         "C) market diversification",
@@ -9163,7 +9163,7 @@ let data = [
         ]
     ],
     [
-        "80) Proton Corp. is an automobile manufacturer known for producing efficient, durable, andlow-priced cars. Recently, the company launched a new range of luxury cars to broaden itsmarket appeal and to add prestige to its existing line of cars. This is an example of ________.",
+        "80) Proton Corp. is an automobile manufacturer known for producing efficient, durable, and low-priced cars. Recently, the company launched a new range of luxury cars to broaden its market appeal and to add prestige to its existing line of cars. This is an example of ________.",
         "A) social marketing",
         "B) product line filling",
         "C) product line stretching",
@@ -9196,7 +9196,7 @@ let data = [
         ]
     ],
     [
-        "83) Product mix ________ refers to the total number of items a company carries within itsproduct lines.",
+        "83) Product mix ________ refers to the total number of items a company carries within its product lines.",
         "A) length",
         "B) depth",
         "C) height",
@@ -9218,7 +9218,7 @@ let data = [
         ]
     ],
     [
-        "85) The ________ of the product mix refers to how closely related the various product lines arein end use, production requirements, distribution channels, or some other way.",
+        "85) The ________ of the product mix refers to how closely related the various product lines are in end use, production requirements, distribution channels, or some other way.",
         "A) length",
         "B) depth",
         "C) consistency",
@@ -9229,7 +9229,7 @@ let data = [
         ]
     ],
     [
-        "86) A well-known cosmetic company in New York City added new product lines in order toincrease its business. In other words, it ________.",
+        "86) A well-known cosmetic company in New York City added new product lines in order to increase its business. In other words, it ________.",
         "A) lengthened its existing product line",
         "B) decreased its product line consistency",
         "C) widened its product mix",
@@ -9240,7 +9240,7 @@ let data = [
         ]
     ],
     [
-        "87) The new felt-tip pens, multiple-cartridge pens, and quills offered by Ruben Delgado areexamples of ________.",
+        "87) The new felt-tip pens, multiple-cartridge pens, and quills offered by Ruben Delgado are examples of ________.",
         "A) product line filling",
         "B) multibranding",
         "C) megabranding",
@@ -9251,7 +9251,7 @@ let data = [
         ]
     ],
     [
-        "106) Service ________ means that services cannot be seen, tasted, felt, heard, or smelled beforethey are bought.",
+        "106) Service ________ means that services cannot be seen, tasted, felt, heard, or smelled before they are bought.",
         "A) inseparability",
         "B) variability",
         "C) intangibility",
@@ -9262,7 +9262,7 @@ let data = [
         ]
     ],
     [
-        "107) Which of the following actions is a restaurant owner most likely to take in order to reduceproblems associated with service intangibility?",
+        "107) Which of the following actions is a restaurant owner most likely to take in order to reduce problems associated with service intangibility?",
         "A) increase entree prices after 6:00 p.m.",
         "B) provide clean tablecloths and fresh napkins for each new customer",
         "C) empower employees to handle customer complaints",
@@ -9273,7 +9273,7 @@ let data = [
         ]
     ],
     [
-        "108) Tristan and Juliet, a newly married couple who intend to go to Egypt for their honeymoon,bought a Europe travel package on Jizo Inc., an online travel site. As they have never seenEurope or used the services of Jizo before, they were largely dependent on other customers'feedback and signals for service quality. Which of the following characteristics of service ishighlighted in this instance?",
+        "108) Tristan and Juliet, a newly married couple who intend to go to Egypt for their honeymoon, bought a Europe travel package on Jizo Inc., an online travel site. As they have never seen Europe or used the services of Jizo before, they were largely dependent on other customers' feedback and signals for service quality. Which of the following characteristics of service is highlighted in this instance?",
         "A) service intangibility",
         "B) service inseparability",
         "C) service variability",
@@ -9284,7 +9284,7 @@ let data = [
         ]
     ],
     [
-        "109) If a service employee provides the service, then the employee becomes a part of theservice. This is an example of service ________.",
+        "109) If a service employee provides the service, then the employee becomes a part of the service. This is an example of service ________.",
         "A) intangibility",
         "B) inseparability",
         "C) variability",
@@ -9295,7 +9295,7 @@ let data = [
         ]
     ],
     [
-        "110) Service ________ means that the quality of services depends on who provides them aswell as when, where, and how they are provided.",
+        "110) Service ________ means that the quality of services depends on who provides them as well as when, where, and how they are provided.",
         "A) intangibility",
         "B) inseparability",
         "C) variability",
@@ -9306,7 +9306,7 @@ let data = [
         ]
     ],
     [
-        "111) The customers of Parry's Hair Salon have noticed that the quality of a haircut depends onwho provides it as well as when, where, and how the service is provided. Which of thefollowing characteristics of service is evident in this instance?",
+        "111) The customers of Parry's Hair Salon have noticed that the quality of a haircut depends on who provides it as well as when, where, and how the service is provided. Which of the following characteristics of service is evident in this instance?",
         "A) service intangibility",
         "B) service inseparability",
         "C) service perishability",
@@ -9328,7 +9328,7 @@ let data = [
         ]
     ],
     [
-        "113) Alex Smith rents storage space to college students who go home for the summer but donot want to haul all of their property home and back. The business is profitable during thesummer months, but when the storage space is unoccupied in the off-season, Alex loses money.Which of the following characteristics of service is most likely the source of Alex's problem?",
+        "113) Alex Smith rents storage space to college students who go home for the summer but do not want to haul all of their property home and back. The business is profitable during the summer months, but when the storage space is unoccupied in the off-season, Alex loses money. Which of the following characteristics of service is most likely the source of Alex's problem?",
         "A) intangibility",
         "B) perishability",
         "C) inconsistency",
@@ -9350,7 +9350,7 @@ let data = [
         ]
     ],
     [
-        "115) The service profit chain includes internal service quality, satisfied and productive serviceemployees, greater service value, healthy service profits and growth, and ________.",
+        "115) The service profit chain includes internal service quality, satisfied and productive service employees, greater service value, healthy service profits and growth, and ________.",
         "A) higher market share",
         "B) better paid employees",
         "C) satisfied and loyal customers",
@@ -9361,7 +9361,7 @@ let data = [
         ]
     ],
     [
-        "116) Through ________, a service firm orients and motivates its customer-contact employeesand supporting service people to work as a team to provide customer satisfaction.",
+        "116) Through ________, a service firm orients and motivates its customer-contact employees and supporting service people to work as a team to provide customer satisfaction.",
         "A) service inseparability",
         "B) social marketing",
         "C) service variability",
@@ -9372,7 +9372,7 @@ let data = [
         ]
     ],
     [
-        "117) ________ means that service quality depends on the quality of buyer-seller interactionduring the service encounter.",
+        "117) ________ means that service quality depends on the quality of buyer-seller interaction during the service encounter.",
         "A) Interactive marketing",
         "B) Service differentiation",
         "C) Service productivity",
@@ -9405,7 +9405,7 @@ let data = [
         ]
     ],
     [
-        "120) Apollo Couriers, a company providing international express mail services, has a proactivecustomer communications team. The primary job of this team is to identify situations that led tocustomer dissatisfaction, and then provide quick remedies to fix the problems. To a greatextent, this has helped Apollo in winning customer loyalty. In this instance, Apollo hasbenefitted from ________.",
+        "120) Apollo Couriers, a company providing international express mail services, has a proactive customer communications team. The primary job of this team is to identify situations that led to customer dissatisfaction, and then provide quick remedies to fix the problems. To a great extent, this has helped Apollo in winning customer loyalty. In this instance, Apollo has benefitted from ________.",
         "A) product differentiation",
         "B) good service recovery",
         "C) multibranding",
@@ -9416,7 +9416,7 @@ let data = [
         ]
     ],
     [
-        "121) Service productivity can be increased by hiring new employees who will work harder, bygiving up some quality, or by ________.",
+        "121) Service productivity can be increased by hiring new employees who will work harder, by giving up some quality, or by ________.",
         "A) using technology more effectively",
         "B) outsourcing portions of the process to other firms",
         "C) creating more self-serve opportunities for customers",
@@ -9427,7 +9427,7 @@ let data = [
         ]
     ],
     [
-        "134) ________ represent(s) consumers' perceptions and feelings about a product and itsperformance.",
+        "134) ________ represent(s) consumers' perceptions and feelings about a product and its performance.",
         "A) Product lines",
         "B) Labeling",
         "C) Brands",
@@ -9438,7 +9438,7 @@ let data = [
         ]
     ],
     [
-        "135) Brand ________ is the differential effect that knowing the brand name has on customerresponse to the product and its marketing.",
+        "135) Brand ________ is the differential effect that knowing the brand name has on customer response to the product and its marketing.",
         "A) differentiation",
         "B) knowledge",
         "C) equity",
@@ -9449,7 +9449,7 @@ let data = [
         ]
     ],
     [
-        "136) BlueFin canned tuna has higher sales than its unbranded rival, even though the unbrandedtuna costs $0.45 less per can than BlueFin tuna. BlueFin most likely has ________.",
+        "136) BlueFin canned tuna has higher sales than its unbranded rival, even though the unbranded tuna costs $0.45 less per can than BlueFin tuna. BlueFin most likely has ________.",
         "A) an aggressive brand personality",
         "B) high brand equity",
         "C) no brand commitment",
@@ -9460,7 +9460,7 @@ let data = [
         ]
     ],
     [
-        "137) Which of the following is one of the four consumer perception dimensions used by adagency Young & Rubicam to measure brand strength?",
+        "137) Which of the following is one of the four consumer perception dimensions used by ad agency Young & Rubicam to measure brand strength?",
         "A) brand conformance",
         "B) brand consistency",
         "C) brand convenience",
@@ -9493,7 +9493,7 @@ let data = [
         ]
     ],
     [
-        "140) After a brief stay at a luxury hotel in Paris, Benjamin Sanders noted that the hotel had keptevery promise it made when he booked the room, meeting all his needs. He added that it was a\"thoroughly comfortable and opulent experience.\" According to Young & Rubicam's BrandAsset Valuator, this reflects brand ________.",
+        "140) After a brief stay at a luxury hotel in Paris, Benjamin Sanders noted that the hotel had kept every promise it made when he booked the room, meeting all his needs. He added that it was a \"thoroughly comfortable and opulent experience.\" According to Young & Rubicam's Brand Asset Valuator, this reflects brand ________.",
         "A) valuation",
         "B) esteem",
         "C) relevance",
@@ -9515,7 +9515,7 @@ let data = [
         ]
     ],
     [
-        "142) The fundamental asset underlying brand equity is ________, the value of customerrelationships that the brand creates.",
+        "142) The fundamental asset underlying brand equity is ________, the value of customer relationships that the brand creates.",
         "A) the customer mix",
         "B) customer equity",
         "C) the product experience",
@@ -9526,7 +9526,7 @@ let data = [
         ]
     ],
     [
-        "143) Which of the following is the lowest level on which marketers can position their brands intarget customers' minds?",
+        "143) Which of the following is the lowest level on which marketers can position their brands in target customers' minds?",
         "A) beliefs and values",
         "B) product benefits",
         "C) product attributes",
@@ -9548,7 +9548,7 @@ let data = [
         ]
     ],
     [
-        "145) Gainville Inc. manufactures Android phones. Each new Gainville phone launch advancesthe cause of democratizing technology. Gainville, an expert in fostering customer community,engages customers at a deep, emotional level, and has been ranked one of the BreakawayBrands by the brand consultancy, Kendell Associates. Gainville is most likely positioned on________.",
+        "145) Gainville Inc. manufactures Android phones. Each new Gainville phone launch advances the cause of democratizing technology. Gainville, an expert in fostering customer community, engages customers at a deep, emotional level, and has been ranked one of the Breakaway Brands by the brand consultancy, Kendell Associates. Gainville is most likely positioned on ________.",
         "A) basic product attributes",
         "B) short-term benefits",
         "C) service variability",
@@ -9570,7 +9570,7 @@ let data = [
         ]
     ],
     [
-        "147) An increasing number of retailers and wholesalers have created their own ________, alsocalled store brands.",
+        "147) An increasing number of retailers and wholesalers have created their own ________, also called store brands.",
         "A) national brand",
         "B) support brand",
         "C) private brand",
@@ -9603,7 +9603,7 @@ let data = [
         ]
     ],
     [
-        "150) Some companies obtain the rights to use the names or symbols previously created by othermanufacturers for a fee. This process is known as ________.",
+        "150) Some companies obtain the rights to use the names or symbols previously created by other manufacturers for a fee. This process is known as ________.",
         "A) multibranding",
         "B) positioning",
         "C) segmenting",
@@ -9614,7 +9614,7 @@ let data = [
         ]
     ],
     [
-        "151) ________ occurs when two established brand names of different companies are used onthe same product.",
+        "151) ________ occurs when two established brand names of different companies are used on the same product.",
         "A) Market diversification",
         "B) Niche marketing",
         "C) Co-branding",
@@ -9636,7 +9636,7 @@ let data = [
         ]
     ],
     [
-        "153) ________ occurs when a company introduces additional items in a given product categoryunder the same brand name, such as new flavors, forms, colors, ingredients, or package sizes.",
+        "153) ________ occurs when a company introduces additional items in a given product category under the same brand name, such as new flavors, forms, colors, ingredients, or package sizes.",
         "A) Line extension",
         "B) Megabranding",
         "C) Interactive marketing",
@@ -9647,7 +9647,7 @@ let data = [
         ]
     ],
     [
-        "154) ________ involves the use of a successful brand name for new or modified products in anew category.",
+        "154) ________ involves the use of a successful brand name for new or modified products in a new category.",
         "A) A line extension",
         "B) A product line",
         "C) A brand extension",
@@ -9658,7 +9658,7 @@ let data = [
         ]
     ],
     [
-        "155) Symmonds Inc., a company manufacturing breakfast cereals, has extended its specialCrispo cereal brand into a full line of breakfast cereals plus protein shakes, fruit and sandwichspreads, butter, and doughnuts. This is an example of ________.",
+        "155) Symmonds Inc., a company manufacturing breakfast cereals, has extended its special Crispo cereal brand into a full line of breakfast cereals plus protein shakes, fruit and sandwich spreads, butter, and doughnuts. This is an example of ________.",
         "A) line extension",
         "B) brand extension",
         "C) licensing",
@@ -9680,7 +9680,7 @@ let data = [
         ]
     ],
     [
-        "157) Which of the following strategies involves weeding out weaker brands and focusingmarketing dollars only on brands that can achieve the number one or number two market sharepositions with good growth prospects in their categories?",
+        "157) Which of the following strategies involves weeding out weaker brands and focusing marketing dollars only on brands that can achieve the number one or number two market share positions with good growth prospects in their categories?",
         "A) megabrand strategies",
         "B) niche marketing strategies",
         "C) social marketing strategies",
@@ -9691,7 +9691,7 @@ let data = [
         ]
     ],
     [
-        "158) While advertising campaigns can help create name recognition, brand knowledge, andperhaps even some brand preference, brands are not maintained by advertising but by________.",
+        "158) While advertising campaigns can help create name recognition, brand knowledge, and perhaps even some brand preference, brands are not maintained by advertising but by ________.",
         "A) brand differentiation",
         "B) line extensions",
         "C) brand experiences",
@@ -9724,7 +9724,7 @@ let data = [
         ]
     ],
     [
-        "3) Electron Corp. purchased Proton Corp. by buying all of its assets and ownership equity. Thisis an example of a(n) ________.",
+        "3) Electron Corp. purchased Proton Corp. by buying all of its assets and ownership equity. This is an example of a(n) ________.",
         "A) new product development",
         "B) acquisition",
         "C) joint venture",
@@ -9735,7 +9735,7 @@ let data = [
         ]
     ],
     [
-        "4) Product improvements, product modifications, and original products can all be classified as________.",
+        "4) Product improvements, product modifications, and original products can all be classified as ________.",
         "A) blueprints",
         "B) new products",
         "C) prototypes",
@@ -9757,7 +9757,7 @@ let data = [
         ]
     ],
     [
-        "6) A particular firm added three new products earlier this year to increase variety for customers.Two of the products failed to reach the minimal sales quota. Which of the following is LEASTlikely to have been the cause of their failure?",
+        "6) A particular firm added three new products earlier this year to increase variety for customers. Two of the products failed to reach the minimal sales quota. Which of the following is LEAST likely to have been the cause of their failure?",
         "A) The products were priced too high.",
         "B) The products were advertised incorrectly.",
         "C) Competitors fought back harder than expected.",
@@ -9768,7 +9768,7 @@ let data = [
         ]
     ],
     [
-        "7) The product life cycle presents challenges. Which of the following is LEAST likely torequire a company to adapt its marketing strategies?",
+        "7) The product life cycle presents challenges. Which of the following is LEAST likely to require a company to adapt its marketing strategies?",
         "A) developments in technology",
         "B) decreased manufacturing costs",
         "C) competition",
@@ -9779,7 +9779,7 @@ let data = [
         ]
     ],
     [
-        "12) New product development starts with ________.3",
+        "12) New product development starts with ________. 3",
         "A) concept development",
         "B) idea screening",
         "C) idea generation",
@@ -9790,7 +9790,7 @@ let data = [
         ]
     ],
     [
-        "13) John's fascination for his grandmother's sherbet recipes inspired him to come up with arecipe for SherBetter, a gourmet sherbet for the American market. Which of the followingstages of the new product development process does this exemplify?",
+        "13) John's fascination for his grandmother's sherbet recipes inspired him to come up with a recipe for SherBetter, a gourmet sherbet for the American market. Which of the following stages of the new product development process does this exemplify?",
         "A) idea screening",
         "B) idea generation",
         "C) concept testing",
@@ -9812,7 +9812,7 @@ let data = [
         ]
     ],
     [
-        "15) Many companies have developed ________ programs that encourage employees to developnew product ideas.",
+        "15) Many companies have developed ________ programs that encourage employees to develop new product ideas.",
         "A) management",
         "B) incentive",
         "C) entrepreneurial",
@@ -9856,7 +9856,7 @@ let data = [
         ]
     ],
     [
-        "19) Which of the following is the practice of inviting broad communities of customers,employees, independent researchers, and members of the public into the new productinnovation process?",
+        "19) Which of the following is the practice of inviting broad communities of customers, employees, independent researchers, and members of the public into the new product innovation process?",
         "A) brainstorming",
         "B) idea screening",
         "C) crowdsourcing",
@@ -9867,7 +9867,7 @@ let data = [
         ]
     ],
     [
-        "20) Which of the following statements is true of the idea generation stage in the new productdevelopment process?",
+        "20) Which of the following statements is true of the idea generation stage in the new product development process?",
         "A) The purpose of idea generation is to reduce the number of ideas to the least possible number.",
         "B) Truly innovative companies rely exclusively on a single source for new product ideas.",
         "C) Customers are the least important sources of new product ideas.",
@@ -9889,7 +9889,7 @@ let data = [
         ]
     ],
     [
-        "22) Executives at an automobile manufacturing company conducted a brainstorming session forselected employees. This session resulted in a large number of ideas for developing new carsafter extensive R&D. The executives then planned to filter out the best ideas during the________ stage.",
+        "22) Executives at an automobile manufacturing company conducted a brainstorming session for selected employees. This session resulted in a large number of ideas for developing new cars after extensive R&D. The executives then planned to filter out the best ideas during the ________ stage.",
         "A) business analysis",
         "B) idea generation",
         "C) concept testing",
@@ -9900,7 +9900,7 @@ let data = [
         ]
     ],
     [
-        "23) Which of the following would most likely be included in an executive's write up of a newproduct idea to be presented to a new product committee?",
+        "23) Which of the following would most likely be included in an executive's write up of a new product idea to be presented to a new product committee?",
         "A) the proposed customer value proposition",
         "B) the product image",
         "C) the marketing strategy",
@@ -9911,7 +9911,7 @@ let data = [
         ]
     ],
     [
-        "24) Which of the following is NOT likely to be a question asked in the new product screeningprocess?",
+        "24) Which of the following is NOT likely to be a question asked in the new product screening process?",
         "A) Is there a real need and desire for the product?",
         "B) Is there a clear product concept?",
         "C) Does the product offer a sustainable advantage?",
@@ -9922,7 +9922,7 @@ let data = [
         ]
     ],
     [
-        "25) Which of the following statements best explains why idea screening may be the mostimportant step of new product development?",
+        "25) Which of the following statements best explains why idea screening may be the most important step of new product development?",
         "A) It increases the number of ideas generated.",
         "B) It provides an opportunity for the marketer to test the prototype in a simulated market.",
         "C) It helps forecast the products' sales and profits accurately for a specific period.",
@@ -9944,7 +9944,7 @@ let data = [
         ]
     ],
     [
-        "27) A detailed version of a new idea stated in meaningful customer terms is called a product________.",
+        "27) A detailed version of a new idea stated in meaningful customer terms is called a product ________.",
         "A) solution",
         "B) concept",
         "C) image",
@@ -9977,7 +9977,7 @@ let data = [
         ]
     ],
     [
-        "30) JoAnn Fabrics Inc. has created a new combination of colors and fabric types. The firmwants to know how consumers will perceive the new product. The firm is concerned with theproduct ________.",
+        "30) JoAnn Fabrics Inc. has created a new combination of colors and fabric types. The firm wants to know how consumers will perceive the new product. The firm is concerned with the product ________.",
         "A) idea",
         "B) displacement",
         "C) image",
@@ -9988,7 +9988,7 @@ let data = [
         ]
     ],
     [
-        "31) Which of the following groups do marketers involve for the process of concept testing newproducts?",
+        "31) Which of the following groups do marketers involve for the process of concept testing new products?",
         "A) suppliers",
         "B) employees",
         "C) target consumers",
@@ -9999,7 +9999,7 @@ let data = [
         ]
     ],
     [
-        "32) For concept test, companies will frequently present customers with ________ of theconcept for a reliable concept test.",
+        "32) For concept test, companies will frequently present customers with ________ of the concept for a reliable concept test.",
         "A) a verbal description",
         "B) a PowerPoint slide",
         "C) a picture",
@@ -10010,7 +10010,7 @@ let data = [
         ]
     ],
     [
-        "33) Which of the following stages in the new product development would a firm engage inimmediately after the completion of concept testing?",
+        "33) Which of the following stages in the new product development would a firm engage in immediately after the completion of concept testing?",
         "A) idea screening",
         "B) marketing strategy development",
         "C) business analysis",
@@ -10054,7 +10054,7 @@ let data = [
         ]
     ],
     [
-        "37) A review of the sales, costs, and profit projections for a new product to find out whetherthey satisfy the company's objectives is called a ________.",
+        "37) A review of the sales, costs, and profit projections for a new product to find out whether they satisfy the company's objectives is called a ________.",
         "A) business feasibility plan",
         "B) marketing strategy development",
         "C) business analysis",
@@ -10065,7 +10065,7 @@ let data = [
         ]
     ],
     [
-        "38) Which stage of new product development requires management to estimate minimum andmaximum sales to assess the range of risk in launching a new product?",
+        "38) Which stage of new product development requires management to estimate minimum and maximum sales to assess the range of risk in launching a new product?",
         "A) concept testing",
         "B) marketing strategy development",
         "C) business analysis",
@@ -10076,7 +10076,7 @@ let data = [
         ]
     ],
     [
-        "39) Once managers of The Grecian Urn have decided on their product concept and marketingstrategy, they can evaluate the business attractiveness of the proposal in the ________ stage ofthe new product development process.",
+        "39) Once managers of The Grecian Urn have decided on their product concept and marketing strategy, they can evaluate the business attractiveness of the proposal in the ________ stage of the new product development process.",
         "A) business transformation",
         "B) test marketing",
         "C) business analysis",
@@ -10098,7 +10098,7 @@ let data = [
         ]
     ],
     [
-        "41) Neutron Inc. is conducting a business analysis to determine which of the many newlydeveloped apps should be released. To estimate sales, the company must ________.",
+        "41) Neutron Inc. is conducting a business analysis to determine which of the many newly developed apps should be released. To estimate sales, the company must ________.",
         "A) conduct surveys of competitors",
         "B) exclusively consider the government's opinions",
         "C) consider the sales history of similar products",
@@ -10120,7 +10120,7 @@ let data = [
         ]
     ],
     [
-        "43) Which of the following stages of the new product development process occurs immediatelyafter the completion of the business analysis for the product or service?",
+        "43) Which of the following stages of the new product development process occurs immediately after the completion of the business analysis for the product or service?",
         "A) idea screening",
         "B) product development",
         "C) product activation",
@@ -10142,7 +10142,7 @@ let data = [
         ]
     ],
     [
-        "45) In the ________ stage of the new product development process, products undergo rigoroustests to make sure that they perform safely and effectively, or that consumers will find value inthem.",
+        "45) In the ________ stage of the new product development process, products undergo rigorous tests to make sure that they perform safely and effectively, or that consumers will find value in them.",
         "A) product design",
         "B) idea generation",
         "C) concept development and testing",
@@ -10153,7 +10153,7 @@ let data = [
         ]
     ],
     [
-        "46) A group of business entrepreneurs who worried about their teenage children drinking anddriving decided there must be some way to approach this problem proactively. They came upwith an idea for a pair of blurry goggles. They believed looking through the goggles wouldsimulate what the world looks like when someone is seriously intoxicated. They developed acrude pair of blurry goggles to show prospective customers. This crude pair of goggles isknown as a ________.",
+        "46) A group of business entrepreneurs who worried about their teenage children drinking and driving decided there must be some way to approach this problem proactively. They came up with an idea for a pair of blurry goggles. They believed looking through the goggles would simulate what the world looks like when someone is seriously intoxicated. They developed a crude pair of blurry goggles to show prospective customers. This crude pair of goggles is known as a ________.",
         "A) prototype",
         "B) concept test",
         "C) product concept",
@@ -10164,7 +10164,7 @@ let data = [
         ]
     ],
     [
-        "47) Once the prototype of Wainwright Industries' new riding lawnmower, made especially forwomen, passes product tests, the next step is ________.",
+        "47) Once the prototype of Wainwright Industries' new riding lawnmower, made especially for women, passes product tests, the next step is ________.",
         "A) test marketing",
         "B) focus group surveys",
         "C) commercialization",
@@ -10175,7 +10175,7 @@ let data = [
         ]
     ],
     [
-        "48) In a ________, new products and marketing tactics are tested online in a virtual shopping15environment.",
+        "48) In a ________, new products and marketing tactics are tested online in a virtual shopping 15 environment.",
         "A) controlled test market",
         "B) simulated test market",
         "C) standard test market",
@@ -10186,7 +10186,7 @@ let data = [
         ]
     ],
     [
-        "49) Starbucks introduced a less-than-perfect mobile payments app, then worked out the flawsafter the launch. The company chose speed to market over a perfect app at introduction. Thisillustrates ________.",
+        "49) Starbucks introduced a less-than-perfect mobile payments app, then worked out the flaws after the launch. The company chose speed to market over a perfect app at introduction. This illustrates ________.",
         "A) why many companies engage in crowdsourcing",
         "B) the influence of fast-changing market developments",
         "C) why prototypes are so important",
@@ -10197,7 +10197,7 @@ let data = [
         ]
     ],
     [
-        "50) Yummy Peanut Butter created a new coconut-flavored peanut butter that it tested in a smallnumber of representative cities. The company plans to use the results to forecast national salesand profits. Which of the following did the firm use?",
+        "50) Yummy Peanut Butter created a new coconut-flavored peanut butter that it tested in a small number of representative cities. The company plans to use the results to forecast national sales and profits. Which of the following did the firm use?",
         "A) controlled test markets",
         "B) simulated test markets",
         "C) standard test markets",
@@ -10208,7 +10208,7 @@ let data = [
         ]
     ],
     [
-        "51) In a(n) ________, consumers interact with new products and marketing tactics in laboratorystores or virtual online shopping environments.",
+        "51) In a(n) ________, consumers interact with new products and marketing tactics in laboratory stores or virtual online shopping environments.",
         "A) standard test market",
         "B) focus group",
         "C) controlled test market",
@@ -10219,7 +10219,7 @@ let data = [
         ]
     ],
     [
-        "52) In a(n) ________, new products and marketing tactics are tested among specificallyidentified groups of customers and stores.",
+        "52) In a(n) ________, new products and marketing tactics are tested among specifically identified groups of customers and stores.",
         "A) controlled test market",
         "B) simulated test market",
         "C) standard test market",
@@ -10230,7 +10230,7 @@ let data = [
         ]
     ],
     [
-        "53) All of the following are disadvantages of test marketing EXCEPT that test marketing________.",
+        "53) All of the following are disadvantages of test marketing EXCEPT that test marketing ________.",
         "A) is typically expensive",
         "B) can be time consuming",
         "C) enables competitors to gain advantages",
@@ -10241,7 +10241,7 @@ let data = [
         ]
     ],
     [
-        "54) Which of the following is the most likely circumstance for a company to decide to do littleor no test marketing?",
+        "54) Which of the following is the most likely circumstance for a company to decide to do little or no test marketing?",
         "A) when the new product requires a major investment",
         "B) when management lacks confidence in the new product",
         "C) when management lacks confidence in the marketing strategy",
@@ -10263,7 +10263,7 @@ let data = [
         ]
     ],
     [
-        "56) The major purpose of test marketing is to provide management with the information neededto make a final decision about ________.",
+        "56) The major purpose of test marketing is to provide management with the information needed to make a final decision about ________.",
         "A) the entire marketing program",
         "B) which market to compete in",
         "C) whether to launch the new product",
@@ -10285,7 +10285,7 @@ let data = [
         ]
     ],
     [
-        "58) P&G introduced its Duncan Hines ready-to-spread frosting in a small geographic area.When General Mills became aware of the product, it rushed to market its own Betty Crockerready-to-spread frosting, which eclipsed the Duncan Hines product introduction. General Foodswas able to enter the ________ stage of the new product development process before P&Gcould.",
+        "58) P&G introduced its Duncan Hines ready-to-spread frosting in a small geographic area. When General Mills became aware of the product, it rushed to market its own Betty Crocker ready-to-spread frosting, which eclipsed the Duncan Hines product introduction. General Foods was able to enter the ________ stage of the new product development process before P&G could.",
         "A) commercialization",
         "B) co-marketing",
         "C) idea generation",
@@ -10296,7 +10296,7 @@ let data = [
         ]
     ],
     [
-        "59) Which of the following involves costs that most likely occur during the commercializationstage of new product development?",
+        "59) Which of the following involves costs that most likely occur during the commercialization stage of new product development?",
         "A) building or renting a manufacturing facility",
         "B) paying target customers for product feedback",
         "C) determining the product's planned distribution",
@@ -10307,7 +10307,7 @@ let data = [
         ]
     ],
     [
-        "60) A company getting ready to launch a new product must make several decisions. Thecompany must first decide on ________.",
+        "60) A company getting ready to launch a new product must make several decisions. The company must first decide on ________.",
         "A) whether to launch the product in a single location",
         "B) whether to launch the product in a region",
         "C) whether to launch the product into full national distribution",
@@ -10318,7 +10318,7 @@ let data = [
         ]
     ],
     [
-        "61) According to the commercialization stage of the new product development process,following the decision to introduce the new product at a particular time, a company must nextdecide ________.",
+        "61) According to the commercialization stage of the new product development process, following the decision to introduce the new product at a particular time, a company must next decide ________.",
         "A) where to launch the new product",
         "B) how to launch the new product",
         "C) why to launch the new product",
@@ -10329,7 +10329,7 @@ let data = [
         ]
     ],
     [
-        "62) Steelz Inc. has designed a process that manufactures an improved version of steel moreefficiently, which will save the firm both money and resources. In considering the launch of thisnew steel in the market, the firm must first decide on ________.",
+        "62) Steelz Inc. has designed a process that manufactures an improved version of steel more efficiently, which will save the firm both money and resources. In considering the launch of this new steel in the market, the firm must first decide on ________.",
         "A) timing",
         "B) location",
         "C) organizational structure",
@@ -10340,7 +10340,7 @@ let data = [
         ]
     ],
     [
-        "63) Which of the following focuses on finding new ways to solve customer problems and createmore customer-satisfying experiences?",
+        "63) Which of the following focuses on finding new ways to solve customer problems and create more customer-satisfying experiences?",
         "A) concept testing process",
         "B) customer value proposition",
         "C) customer-centered new product development",
@@ -10351,7 +10351,7 @@ let data = [
         ]
     ],
     [
-        "64) Skyrim Corp. lacks the capital and capacity to launch its new helicopter for full nationaland international distribution. If the test market results look promising, what should bemanagement's next step?",
+        "64) Skyrim Corp. lacks the capital and capacity to launch its new helicopter for full national and international distribution. If the test market results look promising, what should be management's next step?",
         "A) retest the product in additional markets",
         "B) develop a planned market rollout over time",
         "C) liquidate its assets to gain capital and capacity",
@@ -10362,7 +10362,7 @@ let data = [
         ]
     ],
     [
-        "65) ________ is a new product development approach in which one company departmentworks to complete its stage of the process before passing the new product along to the nextdepartment and stage.",
+        "65) ________ is a new product development approach in which one company department works to complete its stage of the process before passing the new product along to the next department and stage.",
         "A) Team-based product development",
         "B) Simultaneous product development",
         "C) Sequential product development",
@@ -10384,7 +10384,7 @@ let data = [
         ]
     ],
     [
-        "67) At Fantastic Flavors, a large regional chain of candy stores, employees from marketing,design, production, and finance work in cross-functional groups to save time and money in thenew product development process. Fantastic Flavors uses a ________ approach.",
+        "67) At Fantastic Flavors, a large regional chain of candy stores, employees from marketing, design, production, and finance work in cross-functional groups to save time and money in the new product development process. Fantastic Flavors uses a ________ approach.",
         "A) customer-centered new product development",
         "B) sequential product development",
         "C) team-based new product development",
@@ -10395,7 +10395,7 @@ let data = [
         ]
     ],
     [
-        "68) Which of the following is the goal of the team-based new product development approachwhen it uses cross-functional teams that overlap the steps in the process?",
+        "68) Which of the following is the goal of the team-based new product development approach when it uses cross-functional teams that overlap the steps in the process?",
         "A) gain a big competitive edge by getting the right new products to market",
         "B) save time and increase effectiveness",
         "C) increase production efficiency and customer satisfaction",
@@ -10406,7 +10406,7 @@ let data = [
         ]
     ],
     [
-        "69) Which of the following is a disadvantage of a team-based approach to new productdevelopment?",
+        "69) Which of the following is a disadvantage of a team-based approach to new product development?",
         "A) It takes longer for the development of a new product.",
         "B) The development effort is not as effective because of employee inexperience.",
         "C) It decreases the efficiency of the new product development process.",
@@ -10428,7 +10428,7 @@ let data = [
         ]
     ],
     [
-        "71) A company can install a(n) ________ management system to collect, review, evaluate, andmanage new product ideas.",
+        "71) A company can install a(n) ________ management system to collect, review, evaluate, and manage new product ideas.",
         "A) quality",
         "B) innovation",
         "C) content",
@@ -10439,7 +10439,7 @@ let data = [
         ]
     ],
     [
-        "72) The innovation management system approach yields two favorable outcomes: it helpscreate an innovation-oriented company culture, and it ________.",
+        "72) The innovation management system approach yields two favorable outcomes: it helps create an innovation-oriented company culture, and it ________.",
         "A) clearly assigns responsibility for the process to a single department",
         "B) yields a larger number of new product ideas",
         "C) guarantees successful products",
@@ -10461,7 +10461,7 @@ let data = [
         ]
     ],
     [
-        "74) Evelyn's ________ is the practical use of solar power in a vacuum cleaner that is designedto effortlessly vacuum clean the floors of on-the-go and elderly consumers.",
+        "74) Evelyn's ________ is the practical use of solar power in a vacuum cleaner that is designed to effortlessly vacuum clean the floors of on-the-go and elderly consumers.",
         "A) product placement",
         "B) product concept",
         "C) product image",
@@ -10472,7 +10472,7 @@ let data = [
         ]
     ],
     [
-        "75) Which of the following stages of new product development was Evelyn involved in whenshe set up a demonstration booth to learn about consumers' feelings toward her vacuumcleaner?",
+        "75) Which of the following stages of new product development was Evelyn involved in when she set up a demonstration booth to learn about consumers' feelings toward her vacuum cleaner?",
         "A) concept testing",
         "B) marketing strategy development",
         "C) idea screening",
@@ -10483,7 +10483,7 @@ let data = [
         ]
     ],
     [
-        "106) Which of the following refers to the course that a product's sales and profits take over itslifetime?",
+        "106) Which of the following refers to the course that a product's sales and profits take over its lifetime?",
         "A) total product process",
         "B) service life",
         "C) product mix",
@@ -10505,7 +10505,7 @@ let data = [
         ]
     ],
     [
-        "108) Which of the following statements characterizes the introduction stage of the PLC?33",
+        "108) Which of the following statements characterizes the introduction stage of the PLC? 33",
         "A) There are increased marketing outlays.",
         "B) Profits are nonexistent.",
         "C) The company incurs minimal expenses.",
@@ -10516,7 +10516,7 @@ let data = [
         ]
     ],
     [
-        "109) Which stage in the product life cycle is characterized by rapid market acceptance andincreasing profits?",
+        "109) Which stage in the product life cycle is characterized by rapid market acceptance and increasing profits?",
         "A) introduction",
         "B) maturity",
         "C) growth",
@@ -10538,7 +10538,7 @@ let data = [
         ]
     ],
     [
-        "111) ________ is the product life cycle period when sales growth slows because the producthas achieved acceptance. Profits level off because marketing costs increase in the face ofcompetition.",
+        "111) ________ is the product life cycle period when sales growth slows because the product has achieved acceptance. Profits level off because marketing costs increase in the face of competition.",
         "A) Decline",
         "B) Maturity",
         "C) Product development",
@@ -10549,7 +10549,7 @@ let data = [
         ]
     ],
     [
-        "112) Some products that have entered the decline stage have been cycled back to the growthstage through ________.",
+        "112) Some products that have entered the decline stage have been cycled back to the growth stage through ________.",
         "A) repositioning",
         "B) harvesting",
         "C) maintaining",
@@ -10582,7 +10582,7 @@ let data = [
         ]
     ],
     [
-        "115) The more formal \"business attire\" look of corporate dress of the 1980s and 1990s gaveway to the \"business casual\" look of the 2000s and 2010s. This is an example of a ________.",
+        "115) The more formal \"business attire\" look of corporate dress of the 1980s and 1990s gave way to the \"business casual\" look of the 2000s and 2010s. This is an example of a ________.",
         "A) style",
         "B) fashion",
         "C) fad",
@@ -10593,7 +10593,7 @@ let data = [
         ]
     ],
     [
-        "116) Apple's iPod has been called \"one of the greatest consumer electronics hits of all time.\"iPods have been sold in huge numbers, and Apple captures a large share of the music playermarket. This success has attracted many large, resourceful competitors. The iPod is in the________ stage of the product life cycle.",
+        "116) Apple's iPod has been called \"one of the greatest consumer electronics hits of all time.\" iPods have been sold in huge numbers, and Apple captures a large share of the music player market. This success has attracted many large, resourceful competitors. The iPod is in the ________ stage of the product life cycle.",
         "A) introduction",
         "B) growth",
         "C) maturity",
@@ -10604,7 +10604,7 @@ let data = [
         ]
     ],
     [
-        "117) Flurrbies, a brand of unique winter accessories that quickly fell in and out of favor withcustomers, is an example of a ________.",
+        "117) Flurrbies, a brand of unique winter accessories that quickly fell in and out of favor with customers, is an example of a ________.",
         "A) style",
         "B) fashion",
         "C) fad",
@@ -10615,7 +10615,7 @@ let data = [
         ]
     ],
     [
-        "118) The PLC concept can be applied by marketers as a useful framework for describing how________.",
+        "118) The PLC concept can be applied by marketers as a useful framework for describing how ________.",
         "A) competitors' moves are predicted",
         "B) marketing strategies are developed",
         "C) products and markets work",
@@ -10626,7 +10626,7 @@ let data = [
         ]
     ],
     [
-        "119) According to the PLC, the ________ stage is reached when sales plunge to zero, or whenthey drop to a low level where they continue for many years.",
+        "119) According to the PLC, the ________ stage is reached when sales plunge to zero, or when they drop to a low level where they continue for many years.",
         "A) laggard",
         "B) decline",
         "C) maturity",
@@ -10637,7 +10637,7 @@ let data = [
         ]
     ],
     [
-        "120) Which of the following stages of the PLC is characterized with high promotionalexpenditures that result from an effort to create consumer awareness?",
+        "120) Which of the following stages of the PLC is characterized with high promotional expenditures that result from an effort to create consumer awareness?",
         "A) growth",
         "B) product development",
         "C) maturity",
@@ -10648,7 +10648,7 @@ let data = [
         ]
     ],
     [
-        "121) A(n) ________ chooses a strategy consistent with the intended product positioning. Togain market leadership requires correct decisions from the beginning.",
+        "121) A(n) ________ chooses a strategy consistent with the intended product positioning. To gain market leadership requires correct decisions from the beginning.",
         "A) brand evangelist",
         "B) market pioneer",
         "C) early adopter",
@@ -10659,7 +10659,7 @@ let data = [
         ]
     ],
     [
-        "122) Which of the following stages of the PLC is characterized with the same level or slightlyhigher level of promotional expenditures in an attempt to respond to increasing competition?",
+        "122) Which of the following stages of the PLC is characterized with the same level or slightly higher level of promotional expenditures in an attempt to respond to increasing competition?",
         "A) growth",
         "B) decline",
         "C) maturity",
@@ -10670,7 +10670,7 @@ let data = [
         ]
     ],
     [
-        "123) Kellogg's begins to sell its cereals in new markets after conducting extensive marketingresearch. After the cereal begins to appear in these new markets, the company increases itspromotion expenditure to counteract competitive responses. Kellogg's is in the ________ stageof the product life cycle.",
+        "123) Kellogg's begins to sell its cereals in new markets after conducting extensive marketing research. After the cereal begins to appear in these new markets, the company increases its promotion expenditure to counteract competitive responses. Kellogg's is in the ________ stage of the product life cycle.",
         "A) introduction",
         "B) growth",
         "C) maturity",
@@ -10681,7 +10681,7 @@ let data = [
         ]
     ],
     [
-        "124) Big Moose Toys is a market pioneer introducing a modern version of Bubble the Moose, acharacter from an animated television series originally broadcast in the '50s and '60s. Thecompany's version of Sandy the Flying Squirrel, a character from the show targeted to babyboomers, was a strong success. Since the firm is a market pioneer, it needs to make the newlaunch strategy for Bubble the Moose consistent with the intended ________.",
+        "124) Big Moose Toys is a market pioneer introducing a modern version of Bubble the Moose, a character from an animated television series originally broadcast in the '50s and '60s. The company's version of Sandy the Flying Squirrel, a character from the show targeted to baby boomers, was a strong success. Since the firm is a market pioneer, it needs to make the new launch strategy for Bubble the Moose consistent with the intended ________.",
         "A) pricing",
         "B) product positioning",
         "C) brand extension",
@@ -10692,7 +10692,7 @@ let data = [
         ]
     ],
     [
-        "125) Which stage in the PLC normally lasts longest and poses strong challenges to marketingmanagers?",
+        "125) Which stage in the PLC normally lasts longest and poses strong challenges to marketing managers?",
         "A) growth",
         "B) decline",
         "C) maturity",
@@ -10703,7 +10703,7 @@ let data = [
         ]
     ],
     [
-        "126) At which stage in the PLC do profits increase as promotion costs are spread over a largevolume, and as the firm enters new market segments?",
+        "126) At which stage in the PLC do profits increase as promotion costs are spread over a large volume, and as the firm enters new market segments?",
         "A) maturity",
         "B) introduction",
         "C) decline",
@@ -10714,7 +10714,7 @@ let data = [
         ]
     ],
     [
-        "127) Which of the following would lead to greater competition in the maturity stage of thePLC?",
+        "127) Which of the following would lead to greater competition in the maturity stage of the PLC?",
         "A) overcapacity",
         "B) market pioneers",
         "C) poor management",
@@ -10736,7 +10736,7 @@ let data = [
         ]
     ],
     [
-        "129) Over the past few years, Binney and Smith's Crayola crayons has expanded to more than80 countries around the world. Crayola crayons are in the ________ stage of the PLC.",
+        "129) Over the past few years, Binney and Smith's Crayola crayons has expanded to more than 80 countries around the world. Crayola crayons are in the ________ stage of the PLC.",
         "A) introduction",
         "B) laggard",
         "C) maturity",
@@ -10747,7 +10747,7 @@ let data = [
         ]
     ],
     [
-        "130) When a product is in the maturity stage, the company should most likely consider________.",
+        "130) When a product is in the maturity stage, the company should most likely consider ________.",
         "A) harvesting the product or market",
         "B) modifying the product, market, or marketing mix",
         "C) divesting the product line",
@@ -10758,7 +10758,7 @@ let data = [
         ]
     ],
     [
-        "131) When Heinz introduced EZ Squirt packaging and new colors such as Blastin' Green andAwesome Orange to revitalize consumer buying, the company was modifying the ________.",
+        "131) When Heinz introduced EZ Squirt packaging and new colors such as Blastin' Green and Awesome Orange to revitalize consumer buying, the company was modifying the ________.",
         "A) market",
         "B) pricing strategy",
         "C) distribution",
@@ -10769,7 +10769,7 @@ let data = [
         ]
     ],
     [
-        "132) P&G has sold off a number of lesser or declining brands such as Folgers coffee and CoverGirl cosmetics. In these examples, management decided to ________ the products.",
+        "132) P&G has sold off a number of lesser or declining brands such as Folgers coffee and Cover Girl cosmetics. In these examples, management decided to ________ the products.",
         "A) modify",
         "B) maintain",
         "C) drop",
@@ -10780,7 +10780,7 @@ let data = [
         ]
     ],
     [
-        "133) Due to dropping sales, a company that manufactures soaps begins to sell them torestaurants and hotels to extend their product's life. The soap manufacturer is in the ________stage of PLC.",
+        "133) Due to dropping sales, a company that manufactures soaps begins to sell them to restaurants and hotels to extend their product's life. The soap manufacturer is in the ________ stage of PLC.",
         "A) introduction",
         "B) growth",
         "C) maturity",
@@ -10791,7 +10791,7 @@ let data = [
         ]
     ],
     [
-        "134) When Kraft focused on cost cutting with its older, established brands, leaving them towither without much investment or modification, Kraft decided to ________ the older products.",
+        "134) When Kraft focused on cost cutting with its older, established brands, leaving them to wither without much investment or modification, Kraft decided to ________ the older products.",
         "A) extend",
         "B) modify",
         "C) drop",
@@ -10824,7 +10824,7 @@ let data = [
         ]
     ],
     [
-        "151) Because of ________, a company cannot make its product illegally similar to acompetitor's already established product.",
+        "151) Because of ________, a company cannot make its product illegally similar to a competitor's already established product.",
         "A) anti-monopoly laws",
         "B) patent laws",
         "C) the Consumer Product Safety Act",
@@ -10835,7 +10835,7 @@ let data = [
         ]
     ],
     [
-        "152) CellTones, a new company selling several types of cellular phones, has closely modeledits products after successful products that are already in the marketplace. As it prepares to enterthe market with its new products and services, which of the following should concernCellTones the most?",
+        "152) CellTones, a new company selling several types of cellular phones, has closely modeled its products after successful products that are already in the marketplace. As it prepares to enter the market with its new products and services, which of the following should concern CellTones the most?",
         "A) legal obligations to suppliers and dealers",
         "B) patent laws",
         "C) distribution requirements",
@@ -10934,7 +10934,7 @@ let data = [
         ]
     ],
     [
-        "12) Effective ________ pricing involves understanding how much value consumers place onthe benefits they receive from the product and setting a price that captures that value.",
+        "12) Effective ________ pricing involves understanding how much value consumers place on the benefits they receive from the product and setting a price that captures that value.",
         "A) competition-oriented",
         "B) cost-based",
         "C) time-based",
@@ -10956,7 +10956,7 @@ let data = [
         ]
     ],
     [
-        "14) Factors a company considers in setting its price include all of the following EXCEPT________.",
+        "14) Factors a company considers in setting its price include all of the following EXCEPT ________.",
         "A) competitors' strategies and prices",
         "B) product costs",
         "C) overall marketing strategy and mix",
@@ -11000,7 +11000,7 @@ let data = [
         ]
     ],
     [
-        "18) A pharmaceutical company in Utah recently released a new and expensive anti-ulcer drugin the market. The company justifies the high price of the drug by claiming that it is highlyeffective for treating all kinds of ulcers. The company also claims that the new drug will helpbring down the need for invasive surgeries, an additional benefit for patients. Which of thefollowing pricing strategies is the pharmaceutical company most likely using in this instance?",
+        "18) A pharmaceutical company in Utah recently released a new and expensive anti-ulcer drug in the market. The company justifies the high price of the drug by claiming that it is highly effective for treating all kinds of ulcers. The company also claims that the new drug will help bring down the need for invasive surgeries, an additional benefit for patients. Which of the following pricing strategies is the pharmaceutical company most likely using in this instance?",
         "A) target pricing",
         "B) markup pricing",
         "C) cost-based pricing",
@@ -11011,7 +11011,7 @@ let data = [
         ]
     ],
     [
-        "19) A restaurant wants to use value-based pricing. It knows the costs of the ingredients in thefood. It must also factor in ________ in determining customer satisfaction and value.",
+        "19) A restaurant wants to use value-based pricing. It knows the costs of the ingredients in the food. It must also factor in ________ in determining customer satisfaction and value.",
         "A) wages of employees",
         "B) costs of utilities of the restaurant",
         "C) atmosphere and décor of the restaurant",
@@ -11044,7 +11044,7 @@ let data = [
         ]
     ],
     [
-        "22) The Great Recession of 2008 to 2009 triggered a shift in consumer attitudes toward________.",
+        "22) The Great Recession of 2008 to 2009 triggered a shift in consumer attitudes toward ________.",
         "A) variety and price",
         "B) perceptions of value",
         "C) locations of stores",
@@ -11055,7 +11055,7 @@ let data = [
         ]
     ],
     [
-        "23) Which of the following involves introducing less-expensive versions of established, brandname products?",
+        "23) Which of the following involves introducing less-expensive versions of established, brand name products?",
         "A) markup pricing",
         "B) good-value pricing",
         "C) time-based pricing",
@@ -11066,7 +11066,7 @@ let data = [
         ]
     ],
     [
-        "24) ________ pricing refers to offering just the right combination of quality and gratifyingservice at a fair price.",
+        "24) ________ pricing refers to offering just the right combination of quality and gratifying service at a fair price.",
         "A) Markup",
         "B) Good-value",
         "C) Cost-plus",
@@ -11077,7 +11077,7 @@ let data = [
         ]
     ],
     [
-        "25) When McDonald's and other fast food restaurants offer \"value menu\" items at surprisinglylow prices, they are most likely using ________ pricing.",
+        "25) When McDonald's and other fast food restaurants offer \"value menu\" items at surprisingly low prices, they are most likely using ________ pricing.",
         "A) break-even",
         "B) target profit",
         "C) good-value",
@@ -11088,7 +11088,7 @@ let data = [
         ]
     ],
     [
-        "26) Azure Air, an airline company, offers attractive prices to customers with tighter budgets. Ano-frills airline, it charges for all other additional services, such as baggage handling and in-flight refreshments. Which of the following best describes Azure Air's pricing method?",
+        "26) Azure Air, an airline company, offers attractive prices to customers with tighter budgets. A no-frills airline, it charges for all other additional services, such as baggage handling and in- flight refreshments. Which of the following best describes Azure Air's pricing method?",
         "A) target profit pricing",
         "B) good-value pricing",
         "C) cost-based pricing",
@@ -11099,7 +11099,7 @@ let data = [
         ]
     ],
     [
-        "27) Retailers such as Costco and Walmart charge a constant, daily low price with few or notemporary price discounts. This is an example of ________ pricing.",
+        "27) Retailers such as Costco and Walmart charge a constant, daily low price with few or no temporary price discounts. This is an example of ________ pricing.",
         "A) competition-based",
         "B) everyday low",
         "C) cost-plus",
@@ -11110,7 +11110,7 @@ let data = [
         ]
     ],
     [
-        "28) Bon Vivant offers an assortment of exclusive French wines at incredibly low prices. Theseprices are neither limited-time offers nor special discounts, but represent the daily prices ofproducts sold by Bon Vivant. This reflects Bon Vivant's ________ pricing strategy.",
+        "28) Bon Vivant offers an assortment of exclusive French wines at incredibly low prices. These prices are neither limited-time offers nor special discounts, but represent the daily prices of products sold by Bon Vivant. This reflects Bon Vivant's ________ pricing strategy.",
         "A) everyday low",
         "B) markup",
         "C) penetration",
@@ -11121,7 +11121,7 @@ let data = [
         ]
     ],
     [
-        "29) ________ pricing involves charging higher prices on an everyday basis but running9frequent promotions to lower prices temporarily on selected items.",
+        "29) ________ pricing involves charging higher prices on an everyday basis but running 9 frequent promotions to lower prices temporarily on selected items.",
         "A) High-low",
         "B) Everyday low",
         "C) Cost-plus",
@@ -11165,7 +11165,7 @@ let data = [
         ]
     ],
     [
-        "33) In an effort to differentiate its offerings from its competitors, Pegasus Computers decided toadd an extra USB port in all its laptops besides providing a free pair of Delphi power bassheadphones with every Pegasus laptop. Although the additional features increased the price ofthe laptops by $500, Pegasus was confident that the strategy would help boost demand for itslaptops substantially. This is an example of ________.",
+        "33) In an effort to differentiate its offerings from its competitors, Pegasus Computers decided to add an extra USB port in all its laptops besides providing a free pair of Delphi power bass headphones with every Pegasus laptop. Although the additional features increased the price of the laptops by $500, Pegasus was confident that the strategy would help boost demand for its laptops substantially. This is an example of ________.",
         "A) good-value pricing",
         "B) markup pricing",
         "C) break-even pricing",
@@ -11176,7 +11176,7 @@ let data = [
         ]
     ],
     [
-        "34) ________ involves setting prices based on the costs for producing, distributing, and sellingthe product plus a fair rate of return for effort and risk.",
+        "34) ________ involves setting prices based on the costs for producing, distributing, and selling the product plus a fair rate of return for effort and risk.",
         "A) Value-based pricing",
         "B) Competition-based pricing",
         "C) Cost-based pricing",
@@ -11209,7 +11209,7 @@ let data = [
         ]
     ],
     [
-        "37) A company must pay each month's bills for rent, heat, interest, and executive salariesregardless of the company's level of output. This exemplifies its ________ costs.",
+        "37) A company must pay each month's bills for rent, heat, interest, and executive salaries regardless of the company's level of output. This exemplifies its ________ costs.",
         "A) overhead",
         "B) variable",
         "C) target",
@@ -11264,7 +11264,7 @@ let data = [
         ]
     ],
     [
-        "42) In 2011, the fixed costs of a company were $500,000, and its variable costs equaled$150,000. In 2010, the company made an annual profit of $200,000. It has been predicted that,despite a steady growth, the company's variable costs will likely equal $300,000 by 2013. Thetotal costs of the company in 2011 were ________.",
+        "42) In 2011, the fixed costs of a company were $500,000, and its variable costs equaled $150,000. In 2010, the company made an annual profit of $200,000. It has been predicted that, despite a steady growth, the company's variable costs will likely equal $300,000 by 2013. The total costs of the company in 2011 were ________.",
         "A) $350,000",
         "B) $450,000",
         "C) $650,000",
@@ -11275,7 +11275,7 @@ let data = [
         ]
     ],
     [
-        "43) The total production costs at Kellner Machine Works are $87,000 out of which $45,000represent fixed costs. Which of the following is representative of the variable costs incurred bythe company?",
+        "43) The total production costs at Kellner Machine Works are $87,000 out of which $45,000 represent fixed costs. Which of the following is representative of the variable costs incurred by the company?",
         "A) $35,000",
         "B) $42,000",
         "C) $45,000",
@@ -11286,7 +11286,7 @@ let data = [
         ]
     ],
     [
-        "44) The fixed cost in manufacturing a single LED monitor is $40 and the variable cost is $12. Ifthe company expects to manufacture 5,000 monitors, the total costs would be ________.",
+        "44) The fixed cost in manufacturing a single LED monitor is $40 and the variable cost is $12. If the company expects to manufacture 5,000 monitors, the total costs would be ________.",
         "A) $60,000",
         "B) $200,000",
         "C) $260,000",
@@ -11308,7 +11308,7 @@ let data = [
         ]
     ],
     [
-        "46) A cell phone manufacturing firm produced 1,000 cell phones a day but believed that itcould reasonably step up production to 2,000 cell phones a day. Consequently, it built a largerplant and installed efficient machinery and work arrangements to realize the projected output.Which of the following can most likely be inferred from this information?",
+        "46) A cell phone manufacturing firm produced 1,000 cell phones a day but believed that it could reasonably step up production to 2,000 cell phones a day. Consequently, it built a larger plant and installed efficient machinery and work arrangements to realize the projected output. Which of the following can most likely be inferred from this information?",
         "A) The unit cost of producing 2,000 cell phones per day would be twice that of the unit cost of",
         "B) A production plant with the capacity of producing 5,000 cell phones a day would be most",
         "C) The unit cost of producing 2,000 cell phones per day would be lower than the unit cost of",
@@ -11330,7 +11330,7 @@ let data = [
         ]
     ],
     [
-        "48) A manufacturing plant is designed to produce 2000 flat-screen TVs per day. But demand ishigher than that. If the company tries to increase its production to 2500 TVs per day, theaverage costs will ________ because ________.",
+        "48) A manufacturing plant is designed to produce 2000 flat-screen TVs per day. But demand is higher than that. If the company tries to increase its production to 2500 TVs per day, the average costs will ________ because ________.",
         "A) decrease; the plant becomes more efficient",
         "B) stay the same; the plant becomes more efficient",
         "C) decrease; the plant becomes inefficient",
@@ -11352,7 +11352,7 @@ let data = [
         ]
     ],
     [
-        "50) As production workers become better organized and more familiar with equipment, theaverage cost per unit tends to decrease with the ________.",
+        "50) As production workers become better organized and more familiar with equipment, the average cost per unit tends to decrease with the ________.",
         "A) increase in the diseconomies of scale",
         "B) accumulated production experience",
         "C) decrease in the economies of scale",
@@ -11363,7 +11363,7 @@ let data = [
         ]
     ],
     [
-        "51) With accumulated production experience and a higher volume of production, companies not17only become more efficient but also ________.",
+        "51) With accumulated production experience and a higher volume of production, companies not 17 only become more efficient but also ________.",
         "A) gain economies of scale",
         "B) incur higher overhead costs",
         "C) create derived demand in the market",
@@ -11396,7 +11396,7 @@ let data = [
         ]
     ],
     [
-        "54) To take advantage of a downward-sloping experience curve, a company must do all of thefollowing EXCEPT ________.",
+        "54) To take advantage of a downward-sloping experience curve, a company must do all of the following EXCEPT ________.",
         "A) increase the product's price",
         "B) be able to sell the higher volume of product",
         "C) price its product lower",
@@ -11451,7 +11451,7 @@ let data = [
         ]
     ],
     [
-        "59) Lawyers, accountants, and other professionals typically price by adding a standard markupfor profit. This exemplifies ________.",
+        "59) Lawyers, accountants, and other professionals typically price by adding a standard markup for profit. This exemplifies ________.",
         "A) target pricing",
         "B) cost-plus pricing",
         "C) value-based pricing",
@@ -11462,7 +11462,7 @@ let data = [
         ]
     ],
     [
-        "60) Herbie Inc., a firm manufacturing sandwich makers, has fixed costs of $250,000, variablecosts of $20 per unit of output, and expected unit sales of 50,000 units. What is the unit cost ofa sandwich maker manufactured by Herbie?",
+        "60) Herbie Inc., a firm manufacturing sandwich makers, has fixed costs of $250,000, variable costs of $20 per unit of output, and expected unit sales of 50,000 units. What is the unit cost of a sandwich maker manufactured by Herbie?",
         "A) $15",
         "B) $25",
         "C) $30",
@@ -11473,7 +11473,7 @@ let data = [
         ]
     ],
     [
-        "61) Samsung Mobile plans to launch a new phone with a unit cost of $270 and wants to earn a10 percent markup on its sales. Samsung's markup price is ________.",
+        "61) Samsung Mobile plans to launch a new phone with a unit cost of $270 and wants to earn a 10 percent markup on its sales. Samsung's markup price is ________.",
         "A) $275",
         "B) $280",
         "C) $295",
@@ -11517,7 +11517,7 @@ let data = [
         ]
     ],
     [
-        "65) Target return pricing is a variation of which of the following cost-oriented pricingapproaches?",
+        "65) Target return pricing is a variation of which of the following cost-oriented pricing approaches?",
         "A) cost-plus pricing",
         "B) break-even pricing",
         "C) markup pricing",
@@ -11528,7 +11528,7 @@ let data = [
         ]
     ],
     [
-        "66) Target return pricing uses the concept of a(n) ________, which shows the total cost andtotal revenue expected at different sales volume levels.",
+        "66) Target return pricing uses the concept of a(n) ________, which shows the total cost and total revenue expected at different sales volume levels.",
         "A) BCG matrix",
         "B) break-even chart",
         "C) SWOT analysis",
@@ -11539,7 +11539,7 @@ let data = [
         ]
     ],
     [
-        "67) John assured his venture capitalists an earning of 25-percent return on equity when hebegan his IT startup. In order to achieve this result, he will most likely use which of thefollowing pricing approaches?",
+        "67) John assured his venture capitalists an earning of 25-percent return on equity when he began his IT startup. In order to achieve this result, he will most likely use which of the following pricing approaches?",
         "A) value-based pricing",
         "B) markup pricing",
         "C) EDLP",
@@ -11572,7 +11572,7 @@ let data = [
         ]
     ],
     [
-        "70) A company faces fixed costs of $100,000 and variable costs of $8 per unit. It plans todirectly sell its product in the market for $12. How many units must it produce and sell to breakeven?",
+        "70) A company faces fixed costs of $100,000 and variable costs of $8 per unit. It plans to directly sell its product in the market for $12. How many units must it produce and sell to break even?",
         "A) 20,000",
         "B) 25,000",
         "C) 30,000",
@@ -11594,7 +11594,7 @@ let data = [
         ]
     ],
     [
-        "72) Mansfield Pharmaceuticals markets Zipro, an antibiotic. The firm has fixed costs of$1,000,000 and variable costs of $2 per bottle of 50 tablets priced at $10 per bottle. What is thebreak-even volume?",
+        "72) Mansfield Pharmaceuticals markets Zipro, an antibiotic. The firm has fixed costs of $1,000,000 and variable costs of $2 per bottle of 50 tablets priced at $10 per bottle. What is the break-even volume?",
         "A) 25,000",
         "B) 55,000",
         "C) 100,000",
@@ -11605,7 +11605,7 @@ let data = [
         ]
     ],
     [
-        "73) A manufacturer has fixed costs of $100,000, a variable cost of $10 per unit of output, andbreak-even volume of 50,000 units. What should the manufacturer's unit cost be in order tobreak even?",
+        "73) A manufacturer has fixed costs of $100,000, a variable cost of $10 per unit of output, and break-even volume of 50,000 units. What should the manufacturer's unit cost be in order to break even?",
         "A) $10",
         "B) $12",
         "C) $14",
@@ -11616,7 +11616,7 @@ let data = [
         ]
     ],
     [
-        "74) When performing a break-even analysis, the manufacturer should consider all of thefollowing EXCEPT ________.",
+        "74) When performing a break-even analysis, the manufacturer should consider all of the following EXCEPT ________.",
         "A) probable demand",
         "B) likely profits",
         "C) competitors' pricing",
@@ -11627,7 +11627,7 @@ let data = [
         ]
     ],
     [
-        "75) Which of the following involves setting prices based on a rival firm's strategies, costs,25prices, and market offerings?",
+        "75) Which of the following involves setting prices based on a rival firm's strategies, costs, 25 prices, and market offerings?",
         "A) target return pricing",
         "B) good-value pricing",
         "C) competitor value-added pricing",
@@ -11649,7 +11649,7 @@ let data = [
         ]
     ],
     [
-        "77) Milt Alden says that his line workers \"know each product like the back of their hands,\" andthat this knowledge helps the company keep its prices low. This indicates that AldenManufacturing most likely benefits from the ________.",
+        "77) Milt Alden says that his line workers \"know each product like the back of their hands,\" and that this knowledge helps the company keep its prices low. This indicates that Alden Manufacturing most likely benefits from the ________.",
         "A) cost-plus pricing",
         "B) value-added pricing",
         "C) experience curve",
@@ -11704,7 +11704,7 @@ let data = [
         ]
     ],
     [
-        "113) Developing an effective integrated marketing mix program involves coordinating pricedecisions with product design, promotion, and ________ decisions.",
+        "113) Developing an effective integrated marketing mix program involves coordinating price decisions with product design, promotion, and ________ decisions.",
         "A) distribution",
         "B) production",
         "C) assembly",
@@ -11715,7 +11715,7 @@ let data = [
         ]
     ],
     [
-        "114) Elmo Inc., a global conglomerate, designed the ElBrush, an electric toothbrush. Sensingmarket demand for the electric toothbrush, Elmo started with an ideal selling price of $13 basedon customer value considerations and then targeted costs to ensure that the price was met. Thisexemplifies ________.",
+        "114) Elmo Inc., a global conglomerate, designed the ElBrush, an electric toothbrush. Sensing market demand for the electric toothbrush, Elmo started with an ideal selling price of $13 based on customer value considerations and then targeted costs to ensure that the price was met. This exemplifies ________.",
         "A) competition-based pricing",
         "B) cost-plus pricing",
         "C) target costing",
@@ -11726,7 +11726,7 @@ let data = [
         ]
     ],
     [
-        "115) PoolPak produces climate-control systems for large swimming pools. The company'scustomers are more concerned about service support for maintaining their systems than theinitial price of the product. PoolPak specializes in and differentiates itself through both cutting-edge technologies used to build its high-value climate control systems as well as seamlessquality service. PoolPak's prices are very high, but demand for its climate-control systemsseems to be forever on the rise. This exemplifies ________.",
+        "115) PoolPak produces climate-control systems for large swimming pools. The company's customers are more concerned about service support for maintaining their systems than the initial price of the product. PoolPak specializes in and differentiates itself through both cutting- edge technologies used to build its high-value climate control systems as well as seamless quality service. PoolPak's prices are very high, but demand for its climate-control systems seems to be forever on the rise. This exemplifies ________.",
         "A) target costing",
         "B) a pure monopoly",
         "C) cost-plus pricing",
@@ -11737,7 +11737,7 @@ let data = [
         ]
     ],
     [
-        "116) DivetheBlue, a company marketing deep-sea diving equipment, charges very high pricesfor its products. Despite the availability of many low-priced products in the market, customersseem to prefer DivetheBlue, which has earned a reputation for selling high-quality products.This exemplifies ________.",
+        "116) DivetheBlue, a company marketing deep-sea diving equipment, charges very high prices for its products. Despite the availability of many low-priced products in the market, customers seem to prefer DivetheBlue, which has earned a reputation for selling high-quality products. This exemplifies ________.",
         "A) a pure monopoly",
         "B) an oligopoly",
         "C) a nonprice position",
@@ -11748,7 +11748,7 @@ let data = [
         ]
     ],
     [
-        "117) A decision to position the product on high-performance quality will mean that the________.",
+        "117) A decision to position the product on high-performance quality will mean that the ________.",
         "A) seller must charge a higher price to cover higher costs",
         "B) seller must charge a lower price to attract more customers",
         "C) producer must step down production",
@@ -11781,7 +11781,7 @@ let data = [
         ]
     ],
     [
-        "120) In industrial markets, ________ typically has the final say in setting the pricing objectivesand policies of a company.",
+        "120) In industrial markets, ________ typically has the final say in setting the pricing objectives and policies of a company.",
         "A) the sales manager",
         "B) top management",
         "C) the production manager",
@@ -11792,7 +11792,7 @@ let data = [
         ]
     ],
     [
-        "121) In industries in which pricing is a key factor, ________ often set the best prices or helpothers in setting them.",
+        "121) In industries in which pricing is a key factor, ________ often set the best prices or help others in setting them.",
         "A) sales departments",
         "B) salespeople",
         "C) production managers",
@@ -11803,7 +11803,7 @@ let data = [
         ]
     ],
     [
-        "122) Departments or managers that have an influence on pricing include sales managers,finance managers, accountants, and ________.",
+        "122) Departments or managers that have an influence on pricing include sales managers, finance managers, accountants, and ________.",
         "A) engineering managers",
         "B) human resources managers",
         "C) production managers",
@@ -11814,7 +11814,7 @@ let data = [
         ]
     ],
     [
-        "123) Under ________, the market consists of many buyers and sellers trading in a uniformcommodity.",
+        "123) Under ________, the market consists of many buyers and sellers trading in a uniform commodity.",
         "A) pure competition",
         "B) monopolistic competition",
         "C) oligopolistic competition",
@@ -11847,7 +11847,7 @@ let data = [
         ]
     ],
     [
-        "126) In Viña del Mar, Chile, a large number of shops specialize in selling the same quality ofseafood products along the beach frequented by tourists. No individual shop dares charge morethan the going price without fearing loss of business to other shops. This exemplifies________.",
+        "126) In Viña del Mar, Chile, a large number of shops specialize in selling the same quality of seafood products along the beach frequented by tourists. No individual shop dares charge more than the going price without fearing loss of business to other shops. This exemplifies ________.",
         "A) pure competition",
         "B) monopolistic competition",
         "C) oligopolistic competition",
@@ -11858,7 +11858,7 @@ let data = [
         ]
     ],
     [
-        "127) Under ________, the market consists of many buyers and sellers who trade over a rangeof prices rather than a single market price.",
+        "127) Under ________, the market consists of many buyers and sellers who trade over a range of prices rather than a single market price.",
         "A) pure competition",
         "B) monopolistic competition",
         "C) oligopolistic competition",
@@ -11891,7 +11891,7 @@ let data = [
         ]
     ],
     [
-        "130) The movie industry in a country is controlled by six large studios that receive 90 percentof the annual revenues from movies. This is an example of a(n) ________.",
+        "130) The movie industry in a country is controlled by six large studios that receive 90 percent of the annual revenues from movies. This is an example of a(n) ________.",
         "A) pure competition",
         "B) monopolistic competition",
         "C) oligopolistic competition",
@@ -11924,7 +11924,7 @@ let data = [
         ]
     ],
     [
-        "133) Which of the following shows the number of units the market will buy in a given timeperiod, at different prices that might be charged?",
+        "133) Which of the following shows the number of units the market will buy in a given time period, at different prices that might be charged?",
         "A) demand curve",
         "B) supply curve",
         "C) learning curve",
@@ -11946,7 +11946,7 @@ let data = [
         ]
     ],
     [
-        "135) Bruno Servers has decided to decrease its prices on its popular higher-range servers. Thecompany can reasonably expect ________ to increase.",
+        "135) Bruno Servers has decided to decrease its prices on its popular higher-range servers. The company can reasonably expect ________ to increase.",
         "A) fixed costs",
         "B) variable costs",
         "C) demand",
@@ -11990,7 +11990,7 @@ let data = [
         ]
     ],
     [
-        "139) Dips in the economy and the instant price comparisons made possible by the Internet havecontributed to ________.",
+        "139) Dips in the economy and the instant price comparisons made possible by the Internet have contributed to ________.",
         "A) decreased consumer price sensitivity",
         "B) increased consumer price sensitivity",
         "C) a less direct relationship between supply and demand",
@@ -12012,7 +12012,7 @@ let data = [
         ]
     ],
     [
-        "141) Ways companies have avoided relying on price cuts in the new value-conscious erainclude all of the following EXCEPT ________.",
+        "141) Ways companies have avoided relying on price cuts in the new value-conscious era include all of the following EXCEPT ________.",
         "A) by adding more affordable product lines for the cost-conscious consumer",
         "B) by redefining the \"value\" in their value propositions",
         "C) by adding premium product lines for the higher end consumer",
@@ -12023,7 +12023,7 @@ let data = [
         ]
     ],
     [
-        "142) When companies set prices, the government and social concerns are ________ factorsaffecting pricing decisions.",
+        "142) When companies set prices, the government and social concerns are ________ factors affecting pricing decisions.",
         "A) external",
         "B) internal",
         "C) economic",
@@ -12045,7 +12045,7 @@ let data = [
         ]
     ],
     [
-        "144) If Milt Alden focuses on overall costs of manufacturing plus profit in setting productprices, which strategy would he employ?",
+        "144) If Milt Alden focuses on overall costs of manufacturing plus profit in setting product prices, which strategy would he employ?",
         "A) break-even pricing",
         "B) competition-based pricing",
         "C) value-added pricing",
@@ -12056,7 +12056,7 @@ let data = [
         ]
     ],
     [
-        "1) Companies set not a single price, but a pricing ________ that covers different items in itsline and changes over time as products move through their life cycles.",
+        "1) Companies set not a single price, but a pricing ________ that covers different items in its line and changes over time as products move through their life cycles.",
         "A) by-product",
         "B) structure",
         "C) loop",
@@ -12067,7 +12067,7 @@ let data = [
         ]
     ],
     [
-        "2) Companies facing the challenge of setting prices for the first time can choose between twobroad strategies: market-penetration pricing and ________ pricing.",
+        "2) Companies facing the challenge of setting prices for the first time can choose between two broad strategies: market-penetration pricing and ________ pricing.",
         "A) comparative",
         "B) competitive",
         "C) market-skimming",
@@ -12089,7 +12089,7 @@ let data = [
         ]
     ],
     [
-        "4) When a company sets a high price for a new product with the intention of reducing the pricein the future, it is using the ________ pricing strategy.",
+        "4) When a company sets a high price for a new product with the intention of reducing the price in the future, it is using the ________ pricing strategy.",
         "A) market-skimming",
         "B) cost-plus",
         "C) market-segmentation",
@@ -12100,7 +12100,7 @@ let data = [
         ]
     ],
     [
-        "5) Midnight Magic, a perfume manufacturing company, plans to release a new fragrance duringthe holiday season at $99 per bottle. The company intends to bring the price down to $49 withinsix months of its release to attract buyers who couldn't afford the initial price. Which of thefollowing pricing strategies is Midnight Magic using?",
+        "5) Midnight Magic, a perfume manufacturing company, plans to release a new fragrance during the holiday season at $99 per bottle. The company intends to bring the price down to $49 within six months of its release to attract buyers who couldn't afford the initial price. Which of the following pricing strategies is Midnight Magic using?",
         "A) market-penetration pricing",
         "B) market-skimming pricing",
         "C) competitive pricing",
@@ -12122,7 +12122,7 @@ let data = [
         ]
     ],
     [
-        "7) Companies that set a low price for a new product in order to attract a large number of buyersand a large market share are using the ________ strategy.",
+        "7) Companies that set a low price for a new product in order to attract a large number of buyers and a large market share are using the ________ strategy.",
         "A) market-skimming pricing",
         "B) market-penetration pricing",
         "C) cost-plus pricing",
@@ -12133,7 +12133,7 @@ let data = [
         ]
     ],
     [
-        "8) A market-penetration pricing policy should LEAST likely be used for a new product when________.",
+        "8) A market-penetration pricing policy should LEAST likely be used for a new product when ________.",
         "A) the market is highly price sensitive",
         "B) production and distribution costs fall as sales volume increases",
         "C) the product's quality and image support a high price",
@@ -12155,7 +12155,7 @@ let data = [
         ]
     ],
     [
-        "10) In a bid to attract more customers in a market that has several competitors, Barrymore'sBakery slashed the prices of all its products by 50 percent. Managers at the firm reasoned thatlower prices would draw in even more customers, making up for the reduction in price severaltimes over. Which of the following pricing strategies are they using?",
+        "10) In a bid to attract more customers in a market that has several competitors, Barrymore's Bakery slashed the prices of all its products by 50 percent. Managers at the firm reasoned that lower prices would draw in even more customers, making up for the reduction in price several times over. Which of the following pricing strategies are they using?",
         "A) market-skimming pricing",
         "B) market-penetration pricing",
         "C) captive-product pricing",
@@ -12166,7 +12166,7 @@ let data = [
         ]
     ],
     [
-        "11) Whizz Corp. wishes to introduce a new hybrid car into mature markets in developedcountries with the goal of gaining mass-market share quickly. Which of the following pricingstrategies would help the firm meet its goal?",
+        "11) Whizz Corp. wishes to introduce a new hybrid car into mature markets in developed countries with the goal of gaining mass-market share quickly. Which of the following pricing strategies would help the firm meet its goal?",
         "A) market-skimming pricing",
         "B) market-penetration pricing",
         "C) market-segmentation pricing",
@@ -12177,7 +12177,7 @@ let data = [
         ]
     ],
     [
-        "12) Electrowhip, a company that manufacturers blenders and electric whisks, has decided to usea market penetration pricing strategy. Which of the following, if true, proves their decision tobe a wise one?",
+        "12) Electrowhip, a company that manufacturers blenders and electric whisks, has decided to use a market penetration pricing strategy. Which of the following, if true, proves their decision to be a wise one?",
         "A) Electrowhip's competitors utilize social media for marketing their products.",
         "B) Electrowhip sells products whose image and quality support high prices.",
         "C) Electrowhip operates in a market with many competitors.",
@@ -12188,7 +12188,7 @@ let data = [
         ]
     ],
     [
-        "13) For a market penetration-price strategy to succeed, which of the following is LEAST likelyto be true?",
+        "13) For a market penetration-price strategy to succeed, which of the following is LEAST likely to be true?",
         "A) Production costs decrease as sales volume increases.",
         "B) A low price triggers market growth.",
         "C) Distribution costs decrease as sales volume increases.",
@@ -12210,7 +12210,7 @@ let data = [
         ]
     ],
     [
-        "22) Which of the following product mix pricing strategies involves setting prices across anentire product range based on cost differences between the products, customer evaluations ofdifferent features, and competitors' prices?",
+        "22) Which of the following product mix pricing strategies involves setting prices across an entire product range based on cost differences between the products, customer evaluations of different features, and competitors' prices?",
         "A) by-product pricing",
         "B) product bundle pricing",
         "C) optional product pricing",
@@ -12221,7 +12221,7 @@ let data = [
         ]
     ],
     [
-        "23) Go Zone plans to introduce four tablet models over the next year. These models range frombasic readers at $99 per unit, to more sophisticated tablets at $399 per unit. The more features amodel has, the more expensive it is. What pricing strategy is Tone Zone using for its range oftablets?",
+        "23) Go Zone plans to introduce four tablet models over the next year. These models range from basic readers at $99 per unit, to more sophisticated tablets at $399 per unit. The more features a model has, the more expensive it is. What pricing strategy is Tone Zone using for its range of tablets?",
         "A) product line pricing",
         "B) product bundle pricing",
         "C) captive product pricing",
@@ -12254,7 +12254,7 @@ let data = [
         ]
     ],
     [
-        "26) Which of the following product mix pricing strategies involves pricing additional oraccessory products sold along with the main product?",
+        "26) Which of the following product mix pricing strategies involves pricing additional or accessory products sold along with the main product?",
         "A) inclusive product pricing",
         "B) exclusive product pricing",
         "C) by-product pricing",
@@ -12276,7 +12276,7 @@ let data = [
         ]
     ],
     [
-        "28) Which of the following product mix pricing strategies involves pricing products that canonly be used with the main product?",
+        "28) Which of the following product mix pricing strategies involves pricing products that can only be used with the main product?",
         "A) by-product pricing",
         "B) product bundle pricing",
         "C) captive product pricing",
@@ -12287,7 +12287,7 @@ let data = [
         ]
     ],
     [
-        "29) Multiprint, a printer manufacturing firm, sells ink cartridges for each of its specific models.Only Multiprint cartridges are compatible with Multiprint printers, and no two models share thesame specifications. What type of pricing does Multiprint use?",
+        "29) Multiprint, a printer manufacturing firm, sells ink cartridges for each of its specific models. Only Multiprint cartridges are compatible with Multiprint printers, and no two models share the same specifications. What type of pricing does Multiprint use?",
         "A) product line pricing",
         "B) captive product pricing",
         "C) optional product pricing",
@@ -12298,7 +12298,7 @@ let data = [
         ]
     ],
     [
-        "30) Which of the following product mix pricing strategies did Polaroid use when it set thegeneral price range of its cameras low and the markup on its film high?",
+        "30) Which of the following product mix pricing strategies did Polaroid use when it set the general price range of its cameras low and the markup on its film high?",
         "A) product-segmented pricing",
         "B) by-product pricing",
         "C) customer-segmented pricing",
@@ -12331,7 +12331,7 @@ let data = [
         ]
     ],
     [
-        "33) When amusement parks charge customers for admission and later for food and beverages,they are following a ________ pricing strategy.",
+        "33) When amusement parks charge customers for admission and later for food and beverages, they are following a ________ pricing strategy.",
         "A) by-product",
         "B) product line",
         "C) penetration",
@@ -12342,7 +12342,7 @@ let data = [
         ]
     ],
     [
-        "34) Beach Heaven uses two-part pricing for its holiday resort charges. Because this is a service,the price is broken into a fixed fee for the room plus a(n) ________ usage rate for activities,including kite-sailing and child care.",
+        "34) Beach Heaven uses two-part pricing for its holiday resort charges. Because this is a service, the price is broken into a fixed fee for the room plus a(n) ________ usage rate for activities, including kite-sailing and child care.",
         "A) fixed",
         "B) variable",
         "C) standard",
@@ -12353,7 +12353,7 @@ let data = [
         ]
     ],
     [
-        "35) Using ________ pricing, companies are able to turn their trash into cash, allowing them tomake the price of their main product more competitive.",
+        "35) Using ________ pricing, companies are able to turn their trash into cash, allowing them to make the price of their main product more competitive.",
         "A) product bundle",
         "B) optional product",
         "C) captive product",
@@ -12364,7 +12364,7 @@ let data = [
         ]
     ],
     [
-        "36) A lumber mill takes in logs, turns them into 2 x 4's and other sizes needed for buildingconstruction. Wood chips created in the milling process are a(n) ________ that can be sold.",
+        "36) A lumber mill takes in logs, turns them into 2 x 4's and other sizes needed for building construction. Wood chips created in the milling process are a(n) ________ that can be sold.",
         "A) bundled product",
         "B) captive product",
         "C) by-product",
@@ -12375,7 +12375,7 @@ let data = [
         ]
     ],
     [
-        "37) Which of the following product mix pricing strategies involves pricing multiple products tobe sold together?",
+        "37) Which of the following product mix pricing strategies involves pricing multiple products to be sold together?",
         "A) product line pricing",
         "B) product bundle pricing",
         "C) optional product pricing",
@@ -12408,7 +12408,7 @@ let data = [
         ]
     ],
     [
-        "40) Noticing that themed envelopes aren't selling well, Charles Payton decides to offercustomers a special \"letter writing\" kit. He prices the kit—which comprises letter paper,matching envelopes, and pens—at $5, even though the combined prices of the individual itemsis $8. Which of the following pricing strategies is he using?",
+        "40) Noticing that themed envelopes aren't selling well, Charles Payton decides to offer customers a special \"letter writing\" kit. He prices the kit—which comprises letter paper, matching envelopes, and pens—at $5, even though the combined prices of the individual items is $8. Which of the following pricing strategies is he using?",
         "A) optional product pricing",
         "B) product bundle pricing",
         "C) by-product pricing",
@@ -12419,7 +12419,7 @@ let data = [
         ]
     ],
     [
-        "56) Which of the following is a price adjustment strategy?16",
+        "56) Which of the following is a price adjustment strategy? 16",
         "A) product bundle pricing",
         "B) by-product pricing",
         "C) product line pricing",
@@ -12430,7 +12430,7 @@ let data = [
         ]
     ],
     [
-        "57) Which of the following price adjustment strategies involves reducing prices to rewardcustomer responses such as volume purchases, paying early, or participating in sales-supportprograms?",
+        "57) Which of the following price adjustment strategies involves reducing prices to reward customer responses such as volume purchases, paying early, or participating in sales-support programs?",
         "A) product bundle pricing",
         "B) captive product pricing",
         "C) product line pricing",
@@ -12441,7 +12441,7 @@ let data = [
         ]
     ],
     [
-        "58) A(n) ________ is a straight reduction in price on purchases during a stated period of time orof larger quantities.",
+        "58) A(n) ________ is a straight reduction in price on purchases during a stated period of time or of larger quantities.",
         "A) allowance",
         "B) free sample",
         "C) discount",
@@ -12452,7 +12452,7 @@ let data = [
         ]
     ],
     [
-        "59) Solar Tanning Salon prices tanning sessions at $25 per visit. It also offers seasonal passesfor $175 that allow the customer to visit the salon multiple times in a year. This is an exampleof a ________.",
+        "59) Solar Tanning Salon prices tanning sessions at $25 per visit. It also offers seasonal passes for $175 that allow the customer to visit the salon multiple times in a year. This is an example of a ________.",
         "A) sample",
         "B) promotional allowance",
         "C) product bundle",
@@ -12463,7 +12463,7 @@ let data = [
         ]
     ],
     [
-        "60) Which of the following price adjustment strategies offers a price reduction to buyers whopay their bills promptly?",
+        "60) Which of the following price adjustment strategies offers a price reduction to buyers who pay their bills promptly?",
         "A) cash discount",
         "B) season discount",
         "C) quantity discount",
@@ -12474,7 +12474,7 @@ let data = [
         ]
     ],
     [
-        "61) Leicestershire Renovations has a history of problems with customers who do not pay theirbills on time. Leicestershire Renovations wants to improve its cash situation, reduce bad debts,and reduce credit-collection costs. Which of the following forms of pricing would most likelyhelp the firm achieve its goal?",
+        "61) Leicestershire Renovations has a history of problems with customers who do not pay their bills on time. Leicestershire Renovations wants to improve its cash situation, reduce bad debts, and reduce credit-collection costs. Which of the following forms of pricing would most likely help the firm achieve its goal?",
         "A) by-product pricing",
         "B) zone pricing",
         "C) cash discounts",
@@ -12496,7 +12496,7 @@ let data = [
         ]
     ],
     [
-        "63) A seller offers a ________ to trade-channel members who perform certain functions, suchas selling, storing, and record keeping.",
+        "63) A seller offers a ________ to trade-channel members who perform certain functions, such as selling, storing, and record keeping.",
         "A) functional discount",
         "B) storage allowance",
         "C) cash discount",
@@ -12507,7 +12507,7 @@ let data = [
         ]
     ],
     [
-        "64) The discount offered by Glamor Gifts to customers who bought Valentine-themedmerchandise the week following Valentine's Day is an example of a ________.",
+        "64) The discount offered by Glamor Gifts to customers who bought Valentine-themed merchandise the week following Valentine's Day is an example of a ________.",
         "A) functional discount",
         "B) seasonal discount",
         "C) trade discount",
@@ -12518,7 +12518,7 @@ let data = [
         ]
     ],
     [
-        "65) A(n) ________ refers to promotional money paid by manufacturers to retailers in return foran agreement to feature the manufacturer's products in some way.",
+        "65) A(n) ________ refers to promotional money paid by manufacturers to retailers in return for an agreement to feature the manufacturer's products in some way.",
         "A) allowance",
         "B) sample",
         "C) discount",
@@ -12529,7 +12529,7 @@ let data = [
         ]
     ],
     [
-        "66) ________ allowances are price reductions given for turning in an old item when buying anew one.",
+        "66) ________ allowances are price reductions given for turning in an old item when buying a new one.",
         "A) Promotional",
         "B) Trade-in",
         "C) Depreciation",
@@ -12551,7 +12551,7 @@ let data = [
         ]
     ],
     [
-        "68) Shoe Trends, a company that manufactures formal shoes for men and women, offers to giveits customers $10 for an old pair of shoes when they buy a new pair. In essence, they'rereducing the price of the new shoes by $10. What is this type of price adjustment called?",
+        "68) Shoe Trends, a company that manufactures formal shoes for men and women, offers to give its customers $10 for an old pair of shoes when they buy a new pair. In essence, they're reducing the price of the new shoes by $10. What is this type of price adjustment called?",
         "A) functional discount",
         "B) captive product pricing",
         "C) seasonal discount",
@@ -12562,7 +12562,7 @@ let data = [
         ]
     ],
     [
-        "69) ________ allowances are payments or price reductions that reward dealers for participatingin advertising and sales support programs.",
+        "69) ________ allowances are payments or price reductions that reward dealers for participating in advertising and sales support programs.",
         "A) Promotional",
         "B) Trade-in",
         "C) Segmented",
@@ -12573,7 +12573,7 @@ let data = [
         ]
     ],
     [
-        "70) In return for participating in Honda advertising and sales support programs, Hondadealerships are rewarded with payments or price reductions, which are known as ________.",
+        "70) In return for participating in Honda advertising and sales support programs, Honda dealerships are rewarded with payments or price reductions, which are known as ________.",
         "A) seasonal discounts",
         "B) functional allowances",
         "C) cash discounts",
@@ -12584,7 +12584,7 @@ let data = [
         ]
     ],
     [
-        "71) By definition, ________ pricing is used when a firm sells a product or service at two ormore prices, even though the difference in price is not based on differences in cost.",
+        "71) By definition, ________ pricing is used when a firm sells a product or service at two or more prices, even though the difference in price is not based on differences in cost.",
         "A) segmented",
         "B) variable",
         "C) flexible",
@@ -12595,7 +12595,7 @@ let data = [
         ]
     ],
     [
-        "72) The New Age Gallery has three admission prices for students, adults, and seniors, eventhough all three groups are entitled to the same services. This form of pricing is called________ pricing.",
+        "72) The New Age Gallery has three admission prices for students, adults, and seniors, even though all three groups are entitled to the same services. This form of pricing is called ________ pricing.",
         "A) psychological",
         "B) product form",
         "C) customer-segment",
@@ -12606,7 +12606,7 @@ let data = [
         ]
     ],
     [
-        "73) Under ________ pricing, different versions of the product are priced differently but notaccording to differences in their costs.",
+        "73) Under ________ pricing, different versions of the product are priced differently but not according to differences in their costs.",
         "A) product form",
         "B) optional product",
         "C) captive product",
@@ -12617,7 +12617,7 @@ let data = [
         ]
     ],
     [
-        "74) Sparkling Valley, a luxury resort, prices cottages facing the lake higher than cottages that donot, even though the cottages and services offered are identical in every other aspect. This formof pricing is called ________ pricing.",
+        "74) Sparkling Valley, a luxury resort, prices cottages facing the lake higher than cottages that do not, even though the cottages and services offered are identical in every other aspect. This form of pricing is called ________ pricing.",
         "A) location-based",
         "B) time-based",
         "C) by-product",
@@ -12628,7 +12628,7 @@ let data = [
         ]
     ],
     [
-        "75) When theaters vary seat prices due to audience preferences for seats in coveted rows, theyuse ________ pricing.",
+        "75) When theaters vary seat prices due to audience preferences for seats in coveted rows, they use ________ pricing.",
         "A) customer-segment",
         "B) location-based",
         "C) time-based",
@@ -12661,7 +12661,7 @@ let data = [
         ]
     ],
     [
-        "78) A movie theater offers a reduced price for an afternoon showing of a film. This type ofpricing is ________ pricing.",
+        "78) A movie theater offers a reduced price for an afternoon showing of a film. This type of pricing is ________ pricing.",
         "A) location-based",
         "B) customer-segmented",
         "C) cost-based",
@@ -12672,7 +12672,7 @@ let data = [
         ]
     ],
     [
-        "79) Which of the following is a price adjustment strategy that considers how a customer'sperception of a product is influenced by its price?",
+        "79) Which of the following is a price adjustment strategy that considers how a customer's perception of a product is influenced by its price?",
         "A) captive product pricing",
         "B) psychological pricing",
         "C) by-product pricing",
@@ -12683,7 +12683,7 @@ let data = [
         ]
     ],
     [
-        "80) Consumers are less likely to use price to judge the quality of a product when they________.",
+        "80) Consumers are less likely to use price to judge the quality of a product when they ________.",
         "A) have never tried the product before",
         "B) have little knowledge of the brand",
         "C) have experience with the product",
@@ -12694,7 +12694,7 @@ let data = [
         ]
     ],
     [
-        "81) Which term refers to prices that buyers carry in their minds and check with when they lookat a given product?",
+        "81) Which term refers to prices that buyers carry in their minds and check with when they look at a given product?",
         "A) product line prices",
         "B) reference prices",
         "C) location-based prices",
@@ -12716,7 +12716,7 @@ let data = [
         ]
     ],
     [
-        "83) ________ are formed by noting current prices, remembering past prices, or assessing thebuying situation.",
+        "83) ________ are formed by noting current prices, remembering past prices, or assessing the buying situation.",
         "A) Product line prices",
         "B) Seasonal prices",
         "C) Reference prices",
@@ -12727,7 +12727,7 @@ let data = [
         ]
     ],
     [
-        "84) La Belle released a cut glass bottle of perfume at $299 per item, even though its majorcompetitor prices its signature scent at $99 per item. La Belle reasons that customers in searchof luxury goods will prefer its product because they are likelier to believe that high priceindicates superior quality. What price adjustment strategy is evident in its reasoning?",
+        "84) La Belle released a cut glass bottle of perfume at $299 per item, even though its major competitor prices its signature scent at $99 per item. La Belle reasons that customers in search of luxury goods will prefer its product because they are likelier to believe that high price indicates superior quality. What price adjustment strategy is evident in its reasoning?",
         "A) seasonal pricing",
         "B) time-based pricing",
         "C) captive product pricing",
@@ -12738,7 +12738,7 @@ let data = [
         ]
     ],
     [
-        "85) A supermarket places its store brand of blackberry jam priced at $5 per jar in the fruitpreserves aisle, alongside the jam jars of a better known brand—whose products are priced at$8 apiece. Store managers reason that customers are more likely to choose the store brandinstead of the better-known brand when they realize the price difference. What price adjustmentstrategy is evident in the supermarket's reasoning?",
+        "85) A supermarket places its store brand of blackberry jam priced at $5 per jar in the fruit preserves aisle, alongside the jam jars of a better known brand—whose products are priced at $8 apiece. Store managers reason that customers are more likely to choose the store brand instead of the better-known brand when they realize the price difference. What price adjustment strategy is evident in the supermarket's reasoning?",
         "A) by-product pricing",
         "B) product bundle pricing",
         "C) captive product pricing",
@@ -12749,7 +12749,7 @@ let data = [
         ]
     ],
     [
-        "86) What type of pricing is being used when a company temporarily prices its product below26the list price or even below cost to create buying excitement and urgency?",
+        "86) What type of pricing is being used when a company temporarily prices its product below 26 the list price or even below cost to create buying excitement and urgency?",
         "A) segmented pricing",
         "B) international pricing",
         "C) reference pricing",
@@ -12760,7 +12760,7 @@ let data = [
         ]
     ],
     [
-        "87) Hearth & Home, a store which sells household products, has announced a one-week sale onits new carpet line. This is an example of ________.",
+        "87) Hearth & Home, a store which sells household products, has announced a one-week sale on its new carpet line. This is an example of ________.",
         "A) promotional pricing",
         "B) seasonal pricing",
         "C) by-product pricing",
@@ -12804,7 +12804,7 @@ let data = [
         ]
     ],
     [
-        "91) Which of the following involves adjusting prices to account for the physical location ofcustomers?",
+        "91) Which of the following involves adjusting prices to account for the physical location of customers?",
         "A) location-based pricing",
         "B) geographical pricing",
         "C) domestic pricing",
@@ -12826,7 +12826,7 @@ let data = [
         ]
     ],
     [
-        "93) Under which type of geographic pricing strategy does each customer take responsibility forthe freight charges for the product from the factory to its destination?",
+        "93) Under which type of geographic pricing strategy does each customer take responsibility for the freight charges for the product from the factory to its destination?",
         "A) zone pricing",
         "B) basing-point pricing",
         "C) uniform-delivered pricing",
@@ -12848,7 +12848,7 @@ let data = [
         ]
     ],
     [
-        "95) Which form of geographic pricing is a company using when it charges the same rate to shipa product anywhere in the United States?",
+        "95) Which form of geographic pricing is a company using when it charges the same rate to ship a product anywhere in the United States?",
         "A) uniform-delivered pricing",
         "B) psychological pricing",
         "C) zone pricing",
@@ -12859,7 +12859,7 @@ let data = [
         ]
     ],
     [
-        "96) If Detroit DLX charges the same price for the delivery of its product to customers locatedin the states near the Great Lakes, but a different price to customers elsewhere, the company isusing ________.",
+        "96) If Detroit DLX charges the same price for the delivery of its product to customers located in the states near the Great Lakes, but a different price to customers elsewhere, the company is using ________.",
         "A) psychological pricing",
         "B) promotional pricing",
         "C) zone pricing",
@@ -12870,7 +12870,7 @@ let data = [
         ]
     ],
     [
-        "97) Motorzone offers replacement parts for old Volkswagen Beetles. The company calculatesshipping charges based on shipping parts from Boston, even though some parts actually shipfrom St. Louis. Motorzone most likely practices ________ pricing.",
+        "97) Motorzone offers replacement parts for old Volkswagen Beetles. The company calculates shipping charges based on shipping parts from Boston, even though some parts actually ship from St. Louis. Motorzone most likely practices ________ pricing.",
         "A) FOB-origin",
         "B) basing-point",
         "C) zone",
@@ -12881,7 +12881,7 @@ let data = [
         ]
     ],
     [
-        "98) ________ is a pricing strategy in which the company sets up two or more clearly identifiedgeographic regions within which all customers pay the same total price.",
+        "98) ________ is a pricing strategy in which the company sets up two or more clearly identified geographic regions within which all customers pay the same total price.",
         "A) Freight-absorption pricing",
         "B) Zone pricing",
         "C) Uniform-delivered pricing",
@@ -12892,7 +12892,7 @@ let data = [
         ]
     ],
     [
-        "99) In which of the following geographic pricing strategies would customers located close tothe company pay the same amount as customers in distant locations?",
+        "99) In which of the following geographic pricing strategies would customers located close to the company pay the same amount as customers in distant locations?",
         "A) uniform-delivered pricing",
         "B) zone pricing",
         "C) FOB-origin pricing",
@@ -12903,7 +12903,7 @@ let data = [
         ]
     ],
     [
-        "100) With which pricing strategy does the seller take responsibility for part or all of the actualfreight charges in order to acquire the desired business?",
+        "100) With which pricing strategy does the seller take responsibility for part or all of the actual freight charges in order to acquire the desired business?",
         "A) FOB origin pricing",
         "B) freight-absorption pricing",
         "C) basing-point pricing",
@@ -12925,7 +12925,7 @@ let data = [
         ]
     ],
     [
-        "102) The Internet offers ________, where the price can easily be adjusted to meet changes indemand.",
+        "102) The Internet offers ________, where the price can easily be adjusted to meet changes in demand.",
         "A) captive pricing",
         "B) dynamic pricing",
         "C) basing-point pricing",
@@ -12936,7 +12936,7 @@ let data = [
         ]
     ],
     [
-        "103) Big Mike's Health Food Store sells nutritional energy foods. The price of the products soldvaries according to individual customer accounts and situations. For example, long-timecustomers receive discounts. This strategy is an example of ________.",
+        "103) Big Mike's Health Food Store sells nutritional energy foods. The price of the products sold varies according to individual customer accounts and situations. For example, long-time customers receive discounts. This strategy is an example of ________.",
         "A) time-based pricing",
         "B) seasonal pricing",
         "C) dynamic pricing",
@@ -12947,7 +12947,7 @@ let data = [
         ]
     ],
     [
-        "104) Stores can combat the current consumer practice of ________, in which consumers visitstores and then check online for price comparisons.",
+        "104) Stores can combat the current consumer practice of ________, in which consumers visit stores and then check online for price comparisons.",
         "A) discounting",
         "B) conferencing",
         "C) using Instagram to share purchases",
@@ -12958,7 +12958,7 @@ let data = [
         ]
     ],
     [
-        "105) Which of the following likely does NOT play into products being offered for differentprices in different countries?",
+        "105) Which of the following likely does NOT play into products being offered for different prices in different countries?",
         "A) additional costs of operations",
         "B) product commonality",
         "C) physical distribution",
@@ -13002,7 +13002,7 @@ let data = [
         ]
     ],
     [
-        "128) Which of the following is used in an attempt to dominate the market through a pricingstrategy?",
+        "128) Which of the following is used in an attempt to dominate the market through a pricing strategy?",
         "A) price increase",
         "B) match competitors' pricing",
         "C) price cuts",
@@ -13068,7 +13068,7 @@ let data = [
         ]
     ],
     [
-        "134) Questions a company should consider if a competitor initiates a price change include all ofthe following EXCEPT ________.",
+        "134) Questions a company should consider if a competitor initiates a price change include all of the following EXCEPT ________.",
         "A) \"Are other competitors going to respond?\"",
         "B) \"What will happen to the company's market share if it does not respond?\"",
         "C) \"Is the price change temporary or permanent?\"",
@@ -13079,7 +13079,7 @@ let data = [
         ]
     ],
     [
-        "135) When a competitor cuts its price, a company should ________ if it believes it will not losemuch market share or would lose too much profit by cutting its own prices.",
+        "135) When a competitor cuts its price, a company should ________ if it believes it will not lose much market share or would lose too much profit by cutting its own prices.",
         "A) reduce its production costs",
         "B) reduce its marketing costs",
         "C) maintain its current prices and profit margin",
@@ -13090,7 +13090,7 @@ let data = [
         ]
     ],
     [
-        "136) When faced with a competitor who has cut its product's price, which of the following isthe most cost-effective way for a company to maintain its own price but raise the perceivedvalue of its offer?",
+        "136) When faced with a competitor who has cut its product's price, which of the following is the most cost-effective way for a company to maintain its own price but raise the perceived value of its offer?",
         "A) by improving the quality of the product",
         "B) by introducing a higher-priced premium brand",
         "C) by altering the company's marketing communications",
@@ -13101,7 +13101,7 @@ let data = [
         ]
     ],
     [
-        "137) In response to price cuts from competitors, a cereal company with several more expensiveand higher quality cereals introduced a lower-priced option to its product line. This is anexample of which of the following responses to a competitor's price cut?",
+        "137) In response to price cuts from competitors, a cereal company with several more expensive and higher quality cereals introduced a lower-priced option to its product line. This is an example of which of the following responses to a competitor's price cut?",
         "A) raising the perceived value of a product",
         "B) improving product quality",
         "C) accepting a reduced market share",
@@ -13134,7 +13134,7 @@ let data = [
         ]
     ],
     [
-        "146) The Sherman, Clayton, and Robinson-Patman Acts are all federal laws that were enactedto curb the formation of ________.",
+        "146) The Sherman, Clayton, and Robinson-Patman Acts are all federal laws that were enacted to curb the formation of ________.",
         "A) monopolies",
         "B) global partnerships",
         "C) competitive markets",
@@ -13145,7 +13145,7 @@ let data = [
         ]
     ],
     [
-        "147) When sellers set prices after talking to competitors and engaging in collusion, they areinvolved in ________.",
+        "147) When sellers set prices after talking to competitors and engaging in collusion, they are involved in ________.",
         "A) interstate commerce",
         "B) comparative pricing",
         "C) price fixing",
@@ -13156,7 +13156,7 @@ let data = [
         ]
     ],
     [
-        "148) A number of top fashion-modeling agencies would most likely be charged with ________for jointly determining what commissions they charge for models.",
+        "148) A number of top fashion-modeling agencies would most likely be charged with ________ for jointly determining what commissions they charge for models.",
         "A) prestige pricing",
         "B) competitive pricing",
         "C) price bundling",
@@ -13178,7 +13178,7 @@ let data = [
         ]
     ],
     [
-        "150) If a large retailer sold numerous items below cost with the intention of punishing smallcompetitors and gaining higher long-run profits by putting those competitors out of business,the retailer would be guilty of ________.",
+        "150) If a large retailer sold numerous items below cost with the intention of punishing small competitors and gaining higher long-run profits by putting those competitors out of business, the retailer would be guilty of ________.",
         "A) price collusion",
         "B) price fixing",
         "C) predatory pricing",
@@ -13189,7 +13189,7 @@ let data = [
         ]
     ],
     [
-        "151) Savings for You, a discount retail chain, is highly competitive. When entering a newmarket, Savings for You often cuts prices so deeply that it sells below costs, effectively pushingsmaller companies with less purchasing power out of the market. Savings for You is most likelyguilty of ________.",
+        "151) Savings for You, a discount retail chain, is highly competitive. When entering a new market, Savings for You often cuts prices so deeply that it sells below costs, effectively pushing smaller companies with less purchasing power out of the market. Savings for You is most likely guilty of ________.",
         "A) market skimming",
         "B) price fixing",
         "C) deceptive pricing",
@@ -13211,7 +13211,7 @@ let data = [
         ]
     ],
     [
-        "153) The ________ seeks to prevent unfair price discrimination by ensuring that sellers offerthe same price terms to customers at a given price level.",
+        "153) The ________ seeks to prevent unfair price discrimination by ensuring that sellers offer the same price terms to customers at a given price level.",
         "A) FTC's \"Guides against Deceptive Pricing\"",
         "B) Robinson-Patman Act",
         "C) Sherman Act",
@@ -13233,7 +13233,7 @@ let data = [
         ]
     ],
     [
-        "155) Price discrimination may be used to match competition as long as the strategy istemporary, localized, and ________.",
+        "155) Price discrimination may be used to match competition as long as the strategy is temporary, localized, and ________.",
         "A) defensive",
         "B) offensive",
         "C) publicized",
@@ -13244,7 +13244,7 @@ let data = [
         ]
     ],
     [
-        "156) Mark's Markers, a manufacturer of white board markers, has required its dealers to chargea specified retail price for its markers. Mark's is most likely guilty of ________.",
+        "156) Mark's Markers, a manufacturer of white board markers, has required its dealers to charge a specified retail price for its markers. Mark's is most likely guilty of ________.",
         "A) captive pricing",
         "B) retail price maintenance",
         "C) price discrimination",
@@ -13255,7 +13255,7 @@ let data = [
         ]
     ],
     [
-        "157) ________ occurs when a seller states price savings that are not actually available toconsumers.",
+        "157) ________ occurs when a seller states price savings that are not actually available to consumers.",
         "A) Comparative pricing",
         "B) Scanner fraud",
         "C) Deceptive pricing",
@@ -13266,7 +13266,7 @@ let data = [
         ]
     ],
     [
-        "158) While comparison pricing claims are legal if they are truthful, the FTC warns sellers not toadvertise a) factory or wholesale prices unless such prices are what they claim to be, b)comparable value prices on imperfect goods, or c) ________.",
+        "158) While comparison pricing claims are legal if they are truthful, the FTC warns sellers not to advertise a) factory or wholesale prices unless such prices are what they claim to be, b) comparable value prices on imperfect goods, or c) ________.",
         "A) a sale unless the products are available in sufficient quantity to meet expected demand",
         "B) in a way which confuses potential buyers of the product",
         "C) a description of a product unless all versions of the product are offered with the same pricing",
@@ -13277,7 +13277,7 @@ let data = [
         ]
     ],
     [
-        "159) Failure to enter the current price into a retailer's system may result in charges of________.",
+        "159) Failure to enter the current price into a retailer's system may result in charges of ________.",
         "A) predatory pricing",
         "B) scanner fraud",
         "C) retail maintenance pricing",
@@ -13288,7 +13288,7 @@ let data = [
         ]
     ],
     [
-        "160) Reasons sellers go beyond what is required by pricing regulations include all of thefollowing EXCEPT that ________.",
+        "160) Reasons sellers go beyond what is required by pricing regulations include all of the following EXCEPT that ________.",
         "A) it is good business to treat customers fairly",
         "B) customers that fully understand prices and pricing terms are happy customers",
         "C) word-of-mouth from dissatisfied customers spreads rapidly",
@@ -13299,7 +13299,7 @@ let data = [
         ]
     ],
     [
-        "1) Producing a product or service and making it available to buyers requires buildingrelationships not only with customers but also with key suppliers and resellers in the company's________.",
+        "1) Producing a product or service and making it available to buyers requires building relationships not only with customers but also with key suppliers and resellers in the company's ________.",
         "A) upstream partnerships",
         "B) marketing channels",
         "C) inventory providers",
@@ -13310,7 +13310,7 @@ let data = [
         ]
     ],
     [
-        "2) The sets of firms that supply companies with the raw materials, components, parts,information, finances, and expertise needed to create products or services are known as________.",
+        "2) The sets of firms that supply companies with the raw materials, components, parts, information, finances, and expertise needed to create products or services are known as ________.",
         "A) retailers",
         "B) upstream partners",
         "C) distributors",
@@ -13321,7 +13321,7 @@ let data = [
         ]
     ],
     [
-        "3) Which of the following terms refers to the wholesalers and retailers that form a vital linkbetween the firm and its customers?",
+        "3) Which of the following terms refers to the wholesalers and retailers that form a vital link between the firm and its customers?",
         "A) factory-supply networks",
         "B) downstream partners",
         "C) resource banks",
@@ -13332,7 +13332,7 @@ let data = [
         ]
     ],
     [
-        "4) The term supply chain is considered limited because it ________.1",
+        "4) The term supply chain is considered limited because it ________. 1",
         "A) ignores the make-and-sell aspect of the market",
         "B) suggests that planning begins with raw materials and factory capacity",
         "C) takes a step-by-step, linear view of purchase-production-consumption activities",
@@ -13354,7 +13354,7 @@ let data = [
         ]
     ],
     [
-        "6) A view of the market that specifies that planning starts by identifying the needs of targetcustomers, to which the company responds by organizing a chain of resources and activitieswith the goal of creating customer value is a(n) ________ view.",
+        "6) A view of the market that specifies that planning starts by identifying the needs of target customers, to which the company responds by organizing a chain of resources and activities with the goal of creating customer value is a(n) ________ view.",
         "A) make-and-sell",
         "B) identify-and-target",
         "C) purchase-produce-and-consume",
@@ -13365,7 +13365,7 @@ let data = [
         ]
     ],
     [
-        "7) A ________ is made up of the company, suppliers, distributors, and customers who partnerto improve the performance of the entire system.",
+        "7) A ________ is made up of the company, suppliers, distributors, and customers who partner to improve the performance of the entire system.",
         "A) value delivery network",
         "B) horizontal channel",
         "C) consumer base",
@@ -13376,7 +13376,7 @@ let data = [
         ]
     ],
     [
-        "8) ________ play an important role in matching supply and demand by providing consumerswith a broad assortment of products in small quantities.",
+        "8) ________ play an important role in matching supply and demand by providing consumers with a broad assortment of products in small quantities.",
         "A) Virtual banks",
         "B) Intermediaries",
         "C) Price consultants",
@@ -13398,7 +13398,7 @@ let data = [
         ]
     ],
     [
-        "10) A ________ is a set of interdependent organizations that help make a product or serviceavailable for use or consumption by the consumer or business user.",
+        "10) A ________ is a set of interdependent organizations that help make a product or service available for use or consumption by the consumer or business user.",
         "A) product line",
         "B) product delivery network",
         "C) marketing channel",
@@ -13420,7 +13420,7 @@ let data = [
         ]
     ],
     [
-        "12) Distribution channel decisions frequently require long-term commitments between firms. Aprimary reason is that ________.",
+        "12) Distribution channel decisions frequently require long-term commitments between firms. A primary reason is that ________.",
         "A) advertising is not easy to change",
         "B) old products are difficult to discard and new products are difficult to introduce",
         "C) when they set up distribution through franchisees, independent dealers, or large retailers,",
@@ -13431,7 +13431,7 @@ let data = [
         ]
     ],
     [
-        "13) ________ play an important role in efficiently making products available to target marketsin the needed varieties and quantities.",
+        "13) ________ play an important role in efficiently making products available to target markets in the needed varieties and quantities.",
         "A) Virtual banks",
         "B) Intermediaries",
         "C) Price consultants",
@@ -13442,7 +13442,7 @@ let data = [
         ]
     ],
     [
-        "14) From the economic system's point of view, the role of ________ is to transform theassortments of products made by producers into the assortments wanted by consumers.",
+        "14) From the economic system's point of view, the role of ________ is to transform the assortments of products made by producers into the assortments wanted by consumers.",
         "A) upstream partners",
         "B) marketing intermediaries",
         "C) third-party logistics",
@@ -13453,7 +13453,7 @@ let data = [
         ]
     ],
     [
-        "15) A ________ is a layer of intermediaries that performs some work in bringing the productand its ownership closer to the final buyer.",
+        "15) A ________ is a layer of intermediaries that performs some work in bringing the product and its ownership closer to the final buyer.",
         "A) product platform",
         "B) channel level",
         "C) resource bank",
@@ -13464,7 +13464,7 @@ let data = [
         ]
     ],
     [
-        "16) In a(n) ________ channel, the same member both produces and distributes a product orservice to consumers.",
+        "16) In a(n) ________ channel, the same member both produces and distributes a product or service to consumers.",
         "A) tiered",
         "B) direct",
         "C) platform",
@@ -13497,7 +13497,7 @@ let data = [
         ]
     ],
     [
-        "19) A marketing channel that consists of one or more intermediaries is known as a(n) ________marketing channel.",
+        "19) A marketing channel that consists of one or more intermediaries is known as a(n) ________ marketing channel.",
         "A) cyclic",
         "B) upstream",
         "C) looped",
@@ -13508,7 +13508,7 @@ let data = [
         ]
     ],
     [
-        "20) Plasticine Palace supplies its products exclusively to Arts & Crafts, a chain of stationerystores across the country. The chain then makes the plasticine available to end consumers. Thisis an example of ________.",
+        "20) Plasticine Palace supplies its products exclusively to Arts & Crafts, a chain of stationery stores across the country. The chain then makes the plasticine available to end consumers. This is an example of ________.",
         "A) a direct marketing channel",
         "B) intensive distribution",
         "C) an indirect marketing channel",
@@ -13585,7 +13585,7 @@ let data = [
         ]
     ],
     [
-        "39) ________ are complex behavioral systems in which people and companies interact toaccomplish individual, company, and channel goals.",
+        "39) ________ are complex behavioral systems in which people and companies interact to accomplish individual, company, and channel goals.",
         "A) Customer relationship management systems",
         "B) Distribution channels",
         "C) Partner relationship systems",
@@ -13618,7 +13618,7 @@ let data = [
         ]
     ],
     [
-        "42) Conflict that occurs among firms at the same level of the marketing channel is known as________ conflict.",
+        "42) Conflict that occurs among firms at the same level of the marketing channel is known as ________ conflict.",
         "A) multitiered",
         "B) horizontal",
         "C) vertical",
@@ -13629,7 +13629,7 @@ let data = [
         ]
     ],
     [
-        "43) Conflict that occurs between different levels of the same marketing channel is known as________ conflict.",
+        "43) Conflict that occurs between different levels of the same marketing channel is known as ________ conflict.",
         "A) horizontal",
         "B) vertical",
         "C) multitiered",
@@ -13640,7 +13640,7 @@ let data = [
         ]
     ],
     [
-        "44) Managers at the Imperial Hotel-Chicago complained that the chain's overall image was hurtbecause Imperial Hotel-Dallas was overcharging guests and providing poor service. TheImperial Hotel was experiencing ________ conflict.",
+        "44) Managers at the Imperial Hotel-Chicago complained that the chain's overall image was hurt because Imperial Hotel-Dallas was overcharging guests and providing poor service. The Imperial Hotel was experiencing ________ conflict.",
         "A) equilateral",
         "B) vertical",
         "C) multitiered",
@@ -13651,7 +13651,7 @@ let data = [
         ]
     ],
     [
-        "45) The management of two Panizza restaurants has an ongoing disagreement over the discountrate given to students from the local high school. This is an example of ________ conflict.",
+        "45) The management of two Panizza restaurants has an ongoing disagreement over the discount rate given to students from the local high school. This is an example of ________ conflict.",
         "A) intensive",
         "B) selective",
         "C) exclusive",
@@ -13662,7 +13662,7 @@ let data = [
         ]
     ],
     [
-        "46) When KFC came into conflict with its franchisees over the brand's Unthink KFCrepositioning, which emphasized grilled chicken over its traditional Kentucky fried chicken,KFC experienced ________ conflict.",
+        "46) When KFC came into conflict with its franchisees over the brand's Unthink KFC repositioning, which emphasized grilled chicken over its traditional Kentucky fried chicken, KFC experienced ________ conflict.",
         "A) equilateral",
         "B) horizontal",
         "C) multitiered",
@@ -13684,7 +13684,7 @@ let data = [
         ]
     ],
     [
-        "48) A(n) ________ consists of one or more independent producers, wholesalers, and retailers,each seeking to maximize its own profits, sometimes even at the expense of the system as awhole.",
+        "48) A(n) ________ consists of one or more independent producers, wholesalers, and retailers, each seeking to maximize its own profits, sometimes even at the expense of the system as a whole.",
         "A) multitiered supply chain",
         "B) conventional distribution channel",
         "C) intrinsic market matrix",
@@ -13706,7 +13706,7 @@ let data = [
         ]
     ],
     [
-        "50) A(n) ________ marketing system consists of producers, wholesalers, and retailers acting asa unified system.",
+        "50) A(n) ________ marketing system consists of producers, wholesalers, and retailers acting as a unified system.",
         "A) horizontal",
         "B) communal",
         "C) multitiered",
@@ -13739,7 +13739,7 @@ let data = [
         ]
     ],
     [
-        "53) A ________ VMS integrates successive stages of production and distribution under singleownership.",
+        "53) A ________ VMS integrates successive stages of production and distribution under single ownership.",
         "A) contractual",
         "B) contingency",
         "C) corporate",
@@ -13750,7 +13750,7 @@ let data = [
         ]
     ],
     [
-        "54) A ________ VMS consists of independent firms at different levels of production anddistribution who join together through formal agreements to obtain more economies or salesimpact than each could achieve alone.",
+        "54) A ________ VMS consists of independent firms at different levels of production and distribution who join together through formal agreements to obtain more economies or sales impact than each could achieve alone.",
         "A) corporate",
         "B) contingency",
         "C) contractual",
@@ -13783,7 +13783,7 @@ let data = [
         ]
     ],
     [
-        "57) Fire Up makes fireproof clothing material and it licenses select stores around the world touse its material to make finished products with the Fire Up logo. Which of the following typesof franchising is evident here?",
+        "57) Fire Up makes fireproof clothing material and it licenses select stores around the world to use its material to make finished products with the Fire Up logo. Which of the following types of franchising is evident here?",
         "A) manufacturer-sponsored retailer franchise system",
         "B) manufacturer-sponsored wholesaler franchise system",
         "C) service-firm-sponsored retailer franchise system",
@@ -13794,7 +13794,7 @@ let data = [
         ]
     ],
     [
-        "58) In a(n) ________, leadership is assumed not through common ownership or contractual tiesbut through the size and power of one or a few dominant channel members.",
+        "58) In a(n) ________, leadership is assumed not through common ownership or contractual ties but through the size and power of one or a few dominant channel members.",
         "A) horizontal marketing system",
         "B) administered VMS",
         "C) corporate VMS",
@@ -13805,7 +13805,7 @@ let data = [
         ]
     ],
     [
-        "59) ________ VMS is a vertical marketing system that coordinates successive stages ofproduction and distribution through the size and power of one of the parties.",
+        "59) ________ VMS is a vertical marketing system that coordinates successive stages of production and distribution through the size and power of one of the parties.",
         "A) Contingent",
         "B) Aligned",
         "C) Corporate",
@@ -13816,7 +13816,7 @@ let data = [
         ]
     ],
     [
-        "60) In a(n) ________, two or more companies at one level join together to follow a newmarketing opportunity.",
+        "60) In a(n) ________, two or more companies at one level join together to follow a new marketing opportunity.",
         "A) administered vertical marketing system",
         "B) horizontal marketing system",
         "C) corporate vertical marketing system",
@@ -13849,7 +13849,7 @@ let data = [
         ]
     ],
     [
-        "63) A(n) ________ system involves a single firm setting up two or more marketing channels toreach one or more customer segments.",
+        "63) A(n) ________ system involves a single firm setting up two or more marketing channels to reach one or more customer segments.",
         "A) conventional distribution",
         "B) corporate vertical marketing",
         "C) horizontal marketing",
@@ -13860,7 +13860,7 @@ let data = [
         ]
     ],
     [
-        "64) Atlas Imports and Exports sells products directly to consumers via the Atlas Web site, andthrough local retailers as well. Which of the following is evident here?",
+        "64) Atlas Imports and Exports sells products directly to consumers via the Atlas Web site, and through local retailers as well. Which of the following is evident here?",
         "A) corporate vertical marketing system",
         "B) horizontal marketing system",
         "C) multichannel distribution system",
@@ -13871,7 +13871,7 @@ let data = [
         ]
     ],
     [
-        "65) Movie Giants offers DVD rentals through its Web site. It also offers DVD rentals via StarCity stores. This is an example of a(n)________ distribution system.",
+        "65) Movie Giants offers DVD rentals through its Web site. It also offers DVD rentals via Star City stores. This is an example of a(n)________ distribution system.",
         "A) conventional",
         "B) inclusive",
         "C) intensive",
@@ -13882,7 +13882,7 @@ let data = [
         ]
     ],
     [
-        "66) Which of the following is an advantage of adding new channels in a multichanneldistribution system?",
+        "66) Which of the following is an advantage of adding new channels in a multichannel distribution system?",
         "A) limiting market complexity",
         "B) reducing control over the system",
         "C) expanding sales and market coverage",
@@ -13893,7 +13893,7 @@ let data = [
         ]
     ],
     [
-        "67) Which of the following is a disadvantage of adding new channels in a multichanneldistribution system?",
+        "67) Which of the following is a disadvantage of adding new channels in a multichannel distribution system?",
         "A) decreasing complexity of markets",
         "B) decreasing control over the system",
         "C) reducing opportunities for franchising",
@@ -13904,7 +13904,7 @@ let data = [
         ]
     ],
     [
-        "68) ________ occurs when product or service producers cut out intermediaries and go directlyto final buyers or when radically new types of channel intermediaries displace traditional ones.",
+        "68) ________ occurs when product or service producers cut out intermediaries and go directly to final buyers or when radically new types of channel intermediaries displace traditional ones.",
         "A) Extensive distribution",
         "B) Multichannelization",
         "C) Disintermediation",
@@ -13915,7 +13915,7 @@ let data = [
         ]
     ],
     [
-        "69) The Bookworm began delivering books directly to customers through mail instead ofselling through brick-and-mortar companies. This is an example of ________.",
+        "69) The Bookworm began delivering books directly to customers through mail instead of selling through brick-and-mortar companies. This is an example of ________.",
         "A) indirect marketing",
         "B) disintermediation",
         "C) franchising",
@@ -13937,7 +13937,7 @@ let data = [
         ]
     ],
     [
-        "88) Which of the following should be a manufacturer's first step when designing an effectivemarketing channel?",
+        "88) Which of the following should be a manufacturer's first step when designing an effective marketing channel?",
         "A) set channel objectives",
         "B) analyze consumer needs",
         "C) identify channel alternatives",
@@ -13959,7 +13959,7 @@ let data = [
         ]
     ],
     [
-        "90) In designing the marketing channel, a company must balance customer needs and wantswith ________.",
+        "90) In designing the marketing channel, a company must balance customer needs and wants with ________.",
         "A) the need to make a profit",
         "B) the requirement to find channel members to fill all the steps",
         "C) the firm's position in the customers' minds",
@@ -13970,7 +13970,7 @@ let data = [
         ]
     ],
     [
-        "91) The company's channel objectives are influenced by all of the following EXCEPT________.",
+        "91) The company's channel objectives are influenced by all of the following EXCEPT ________.",
         "A) the company's marketing intermediaries",
         "B) the company's competitors",
         "C) the age of the company",
@@ -13981,7 +13981,7 @@ let data = [
         ]
     ],
     [
-        "92) Which of the following is an environmental factor that affects channel objectives anddesign?",
+        "92) Which of the following is an environmental factor that affects channel objectives and design?",
         "A) economic conditions",
         "B) factory staffing",
         "C) organizational objectives",
@@ -13992,7 +13992,7 @@ let data = [
         ]
     ],
     [
-        "93) ________ distribution is a strategy in which producers of convenience products andcommon raw materials stock their products in as many outlets as possible.",
+        "93) ________ distribution is a strategy in which producers of convenience products and common raw materials stock their products in as many outlets as possible.",
         "A) Direct",
         "B) Intensive",
         "C) Inclusive",
@@ -14003,7 +14003,7 @@ let data = [
         ]
     ],
     [
-        "94) For which of the following products would the intensive distribution strategy most likely beused?",
+        "94) For which of the following products would the intensive distribution strategy most likely be used?",
         "A) high-end cameras",
         "B) luxury cars",
         "C) lawn mowers",
@@ -14014,7 +14014,7 @@ let data = [
         ]
     ],
     [
-        "95) Whitelight sells its toothpastes in many convenience stores across the country. This is anexample of ________ distribution.",
+        "95) Whitelight sells its toothpastes in many convenience stores across the country. This is an example of ________ distribution.",
         "A) exclusive",
         "B) selective",
         "C) hybrid",
@@ -14025,7 +14025,7 @@ let data = [
         ]
     ],
     [
-        "96) With which of the following strategies would a company give only a limited number ofdealers the right to distribute its products in their territories?",
+        "96) With which of the following strategies would a company give only a limited number of dealers the right to distribute its products in their territories?",
         "A) exclusive distribution",
         "B) extensive distribution",
         "C) moderate distribution",
@@ -14047,7 +14047,7 @@ let data = [
         ]
     ],
     [
-        "98) Ocean Spray sells its air fresheners only through Ray's Drugs. This is an example of________ distribution.",
+        "98) Ocean Spray sells its air fresheners only through Ray's Drugs. This is an example of ________ distribution.",
         "A) exclusive",
         "B) selective",
         "C) intensive",
@@ -14058,7 +14058,7 @@ let data = [
         ]
     ],
     [
-        "99) ________ distribution involves the use of more than one but fewer than all of theintermediaries who are willing to carry a company's products.",
+        "99) ________ distribution involves the use of more than one but fewer than all of the intermediaries who are willing to carry a company's products.",
         "A) Exclusive",
         "B) Selective",
         "C) Intensive",
@@ -14069,7 +14069,7 @@ let data = [
         ]
     ],
     [
-        "100) Craftsman Furniture Company offers its bedroom and living room furniture throughindependent and smaller chain furniture stores, not through every store that sells furniture. Ituses ________ distribution.",
+        "100) Craftsman Furniture Company offers its bedroom and living room furniture through independent and smaller chain furniture stores, not through every store that sells furniture. It uses ________ distribution.",
         "A) intensive",
         "B) direct",
         "C) corporate",
@@ -14091,7 +14091,7 @@ let data = [
         ]
     ],
     [
-        "102) When the seller allows only certain outlets to carry its products, this strategy is called________.",
+        "102) When the seller allows only certain outlets to carry its products, this strategy is called ________.",
         "A) exclusive distribution",
         "B) subjective dealing",
         "C) selective distribution",
@@ -14113,7 +14113,7 @@ let data = [
         ]
     ],
     [
-        "104) Which of the following is NOT a criterion a company will use to evaluate the majorchannel alternatives?",
+        "104) Which of the following is NOT a criterion a company will use to evaluate the major channel alternatives?",
         "A) adaptability",
         "B) control",
         "C) commitment",
@@ -14124,7 +14124,7 @@ let data = [
         ]
     ],
     [
-        "105) Why do firms have difficulty accessing potential market areas in developing countries,such as China and India?",
+        "105) Why do firms have difficulty accessing potential market areas in developing countries, such as China and India?",
         "A) inadequate distribution systems",
         "B) anti-globalization efforts",
         "C) highly centralized rural markets",
@@ -14135,7 +14135,7 @@ let data = [
         ]
     ],
     [
-        "115) ________ management calls for selecting, managing, and motivating individual channelmembers and evaluating their performance over time.",
+        "115) ________ management calls for selecting, managing, and motivating individual channel members and evaluating their performance over time.",
         "A) Inventory",
         "B) Marketing channel",
         "C) Brand image",
@@ -14146,7 +14146,7 @@ let data = [
         ]
     ],
     [
-        "116) To help recruit, train, organize, manage, motivate, and evaluate relationships with channelpartners, companies are now installing integrated high-tech ________ systems.",
+        "116) To help recruit, train, organize, manage, motivate, and evaluate relationships with channel partners, companies are now installing integrated high-tech ________ systems.",
         "A) advertiser funded programming",
         "B) customer segmentation network",
         "C) brand content management",
@@ -14168,7 +14168,7 @@ let data = [
         ]
     ],
     [
-        "118) When a seller requires its dealers to abstain from handling competitors' products, it iscalled ________.",
+        "118) When a seller requires its dealers to abstain from handling competitors' products, it is called ________.",
         "A) subjective distribution",
         "B) exclusive dealing",
         "C) selective distribution",
@@ -14190,7 +14190,7 @@ let data = [
         ]
     ],
     [
-        "120) Which of the following involves the producer agreeing not to sell to other dealers in agiven area, or the buyer agreeing to sell only in its own region?",
+        "120) Which of the following involves the producer agreeing not to sell to other dealers in a given area, or the buyer agreeing to sell only in its own region?",
         "A) closed loop marketing",
         "B) uniform-delivery pricing",
         "C) exclusive territorial agreement",
@@ -14201,7 +14201,7 @@ let data = [
         ]
     ],
     [
-        "121) Producers of strong brands sometimes sell to dealers only on the condition that dealerstake some or all of the rest of a product line. This practice is known as ________.",
+        "121) Producers of strong brands sometimes sell to dealers only on the condition that dealers take some or all of the rest of a product line. This practice is known as ________.",
         "A) product line franchising",
         "B) selective dealing",
         "C) cross merchandising",
@@ -14212,7 +14212,7 @@ let data = [
         ]
     ],
     [
-        "129) Smart Shoppers, an online store that delivers its products to homes in and aroundCalifornia, recently switched its entire fleet to biodiesel trucks that run on used cooking oilrather than gas. Smart Shoppers has most likely developed a(n) ________.",
+        "129) Smart Shoppers, an online store that delivers its products to homes in and around California, recently switched its entire fleet to biodiesel trucks that run on used cooking oil rather than gas. Smart Shoppers has most likely developed a(n) ________.",
         "A) vertical marketing channel",
         "B) green supply chain",
         "C) multitiered marketing channel",
@@ -14223,7 +14223,7 @@ let data = [
         ]
     ],
     [
-        "130) ________ involves planning, implementing, and controlling the physical flow of goods,services, and related information from points of origin to points of consumption to meetcustomer requirements at a profit.",
+        "130) ________ involves planning, implementing, and controlling the physical flow of goods, services, and related information from points of origin to points of consumption to meet customer requirements at a profit.",
         "A) Advertising",
         "B) Product positioning",
         "C) Mass customization",
@@ -14245,7 +14245,7 @@ let data = [
         ]
     ],
     [
-        "132) ________ logistics starts with the marketplace and works backward to the factory or evento sources of supply.",
+        "132) ________ logistics starts with the marketplace and works backward to the factory or even to sources of supply.",
         "A) Outbound",
         "B) Customer-centered",
         "C) Upstream",
@@ -14256,7 +14256,7 @@ let data = [
         ]
     ],
     [
-        "133) ________ logistics involves moving products from the factory to resellers and ultimatelyto customers.",
+        "133) ________ logistics involves moving products from the factory to resellers and ultimately to customers.",
         "A) Customer-centered",
         "B) Reverse",
         "C) Upstream",
@@ -14267,7 +14267,7 @@ let data = [
         ]
     ],
     [
-        "134) ________ logistics refers to moving products and materials from the suppliers to thefactory.",
+        "134) ________ logistics refers to moving products and materials from the suppliers to the factory.",
         "A) Outbound",
         "B) Diverse",
         "C) Inbound",
@@ -14278,7 +14278,7 @@ let data = [
         ]
     ],
     [
-        "135) Reusing, recycling, refurbishing, or disposing of broken, unwanted, or excess productsreturned by consumers or resellers is known as ________.",
+        "135) Reusing, recycling, refurbishing, or disposing of broken, unwanted, or excess products returned by consumers or resellers is known as ________.",
         "A) cross merchandising",
         "B) reverse logistics",
         "C) disintermediation",
@@ -14289,7 +14289,7 @@ let data = [
         ]
     ],
     [
-        "136) ________ management refers to the management of upstream and downstream value-added flows of materials, final goods, and related information among suppliers, the company,resellers, and final consumers.",
+        "136) ________ management refers to the management of upstream and downstream value- added flows of materials, final goods, and related information among suppliers, the company, resellers, and final consumers.",
         "A) Cross",
         "B) Price",
         "C) Supply chain",
@@ -14311,7 +14311,7 @@ let data = [
         ]
     ],
     [
-        "138) Logistics has grown in importance for all of the following reasons EXCEPT that________.",
+        "138) Logistics has grown in importance for all of the following reasons EXCEPT that ________.",
         "A) companies that become channel members want to continue to grow and expand.",
         "B) companies can gain a powerful competitive advantage by using improved logistics to give",
         "C) improved logistics can yield tremendous cost savings to both a company and its customers.",
@@ -14322,7 +14322,7 @@ let data = [
         ]
     ],
     [
-        "139) Major logistics functions are logistics information management, inventory management,transportation, and ________.",
+        "139) Major logistics functions are logistics information management, inventory management, transportation, and ________.",
         "A) advertising",
         "B) product design",
         "C) financial projections",
@@ -14333,7 +14333,7 @@ let data = [
         ]
     ],
     [
-        "140) ________ are large and highly automated warehouses designed to receive goods fromvarious plants and suppliers, take orders, fill them efficiently, and deliver goods to customers asquickly as possible.",
+        "140) ________ are large and highly automated warehouses designed to receive goods from various plants and suppliers, take orders, fill them efficiently, and deliver goods to customers as quickly as possible.",
         "A) Loading docks",
         "B) Open warehouses",
         "C) Distribution centers",
@@ -14344,7 +14344,7 @@ let data = [
         ]
     ],
     [
-        "141) ________ or smart tag technology helps companies locate a product's exact positionwithin its supply chain.",
+        "141) ________ or smart tag technology helps companies locate a product's exact position within its supply chain.",
         "A) RFID",
         "B) PRM",
         "C) VMS",
@@ -14388,7 +14388,7 @@ let data = [
         ]
     ],
     [
-        "145) ________ are a specialized means of shipping petroleum, natural gas, and chemicals fromsources to markets.",
+        "145) ________ are a specialized means of shipping petroleum, natural gas, and chemicals from sources to markets.",
         "A) Air tunnels",
         "B) Rail flatcars",
         "C) Steam ships",
@@ -14399,7 +14399,7 @@ let data = [
         ]
     ],
     [
-        "146) Which of the following is true about using air carriers as a transportation mode whenshipping products?",
+        "146) Which of the following is true about using air carriers as a transportation mode when shipping products?",
         "A) Air carriers are the most cost-effective way to ship non-perishable goods over short",
         "B) Air carriers are the slowest and least reliable modes of transport.",
         "C) Air carriers provide in-transit services such as the processing of goods en route.",
@@ -14410,7 +14410,7 @@ let data = [
         ]
     ],
     [
-        "147) In intermodal transportation, which of the following describes the use of both rail andtrucks for transportation?",
+        "147) In intermodal transportation, which of the following describes the use of both rail and trucks for transportation?",
         "A) fishyback",
         "B) drawbar",
         "C) trainship",
@@ -14421,7 +14421,7 @@ let data = [
         ]
     ],
     [
-        "148) In intermodal transportation, which of the following describes the use of both water andtrucks for transportation?",
+        "148) In intermodal transportation, which of the following describes the use of both water and trucks for transportation?",
         "A) fishyback",
         "B) drawbar",
         "C) trainship",
@@ -14432,7 +14432,7 @@ let data = [
         ]
     ],
     [
-        "149) Which of the following is the most effective way for a company to ship bulky, non-perishable products if its key requirement is low price?",
+        "149) Which of the following is the most effective way for a company to ship bulky, non- perishable products if its key requirement is low price?",
         "A) pipelines",
         "B) air transport",
         "C) trucks",
@@ -14443,7 +14443,7 @@ let data = [
         ]
     ],
     [
-        "150) Heart of Midnight sells blue orchids to major florists around the world. Their keyrequirement is speed. Which of the following modes of transport will help them?",
+        "150) Heart of Midnight sells blue orchids to major florists around the world. Their key requirement is speed. Which of the following modes of transport will help them?",
         "A) rail transport",
         "B) air carriers",
         "C) trucks",
@@ -14454,7 +14454,7 @@ let data = [
         ]
     ],
     [
-        "151) Using ________, retailers can share real-time data on sales and current inventory levelswith suppliers.",
+        "151) Using ________, retailers can share real-time data on sales and current inventory levels with suppliers.",
         "A) automated storage and retrieval systems (ASRS)",
         "B) vendor-managed inventory (VMI) systems",
         "C) transportation management systems (TMS)",
@@ -14465,7 +14465,7 @@ let data = [
         ]
     ],
     [
-        "152) ________ management is the logistics concept that emphasizes teamwork—both insidethe company and among all the marketing channel organizations—to maximize theperformance of the entire distribution system.",
+        "152) ________ management is the logistics concept that emphasizes teamwork—both inside the company and among all the marketing channel organizations—to maximize the performance of the entire distribution system.",
         "A) Logistics inventory",
         "B) Integrated logistics",
         "C) Logistics information",
@@ -14476,7 +14476,7 @@ let data = [
         ]
     ],
     [
-        "153) Roland is the logistics manager of Giant Beanstalks. Which of the following is NOT anarea of responsibility for him?",
+        "153) Roland is the logistics manager of Giant Beanstalks. Which of the following is NOT an area of responsibility for him?",
         "A) the transportation of the canned vegetables to Greenleaf",
         "B) the storage of the unprocessed vegetables",
         "C) the advertising of the final product",
@@ -14487,7 +14487,7 @@ let data = [
         ]
     ],
     [
-        "154) Which of the following modes of transport should Roland choose to transport theunprocessed vegetables from Riverdale's farms to the Giant Beanstalks' factory quickly andwith minimum cost?",
+        "154) Which of the following modes of transport should Roland choose to transport the unprocessed vegetables from Riverdale's farms to the Giant Beanstalks' factory quickly and with minimum cost?",
         "A) air carrier",
         "B) pipeline",
         "C) truck",
@@ -14509,7 +14509,7 @@ let data = [
         ]
     ],
     [
-        "156) When one of the stores complains that the jewelry they're being given is inferior to thejewelry Kimberly sells to other stores, Kimberly experiences ________ conflict.",
+        "156) When one of the stores complains that the jewelry they're being given is inferior to the jewelry Kimberly sells to other stores, Kimberly experiences ________ conflict.",
         "A) horizontal",
         "B) multitiered",
         "C) vertical",
@@ -14520,7 +14520,7 @@ let data = [
         ]
     ],
     [
-        "157) Kimberly decides to alter its distribution strategy so that its jewelry is accessible to thepublic only through one distributor. The strategy they're considering is known as ________distribution.",
+        "157) Kimberly decides to alter its distribution strategy so that its jewelry is accessible to the public only through one distributor. The strategy they're considering is known as ________ distribution.",
         "A) elusive",
         "B) extensive",
         "C) exclusive",
@@ -14531,7 +14531,7 @@ let data = [
         ]
     ],
     [
-        "158) What mode of transport should Kimberly use to ship its goods over long distances as48quickly as possible?",
+        "158) What mode of transport should Kimberly use to ship its goods over long distances as 48 quickly as possible?",
         "A) flatcars",
         "B) water transport",
         "C) air transport",
@@ -14542,7 +14542,7 @@ let data = [
         ]
     ],
     [
-        "1) ________ includes all the activities involved in selling products or services directly to finalconsumers for their personal, nonbusiness use.",
+        "1) ________ includes all the activities involved in selling products or services directly to final consumers for their personal, nonbusiness use.",
         "A) Franchising",
         "B) Retailing",
         "C) Brokering",
@@ -14575,7 +14575,7 @@ let data = [
         ]
     ],
     [
-        "4) ________ involves using in-store promotions and advertising to extend brand equity to \"thelast mile\" and encourage favorable point-of-purchase decisions.",
+        "4) ________ involves using in-store promotions and advertising to extend brand equity to \"the last mile\" and encourage favorable point-of-purchase decisions.",
         "A) Differentiation",
         "B) Shopper marketing",
         "C) Social media marketing",
@@ -14586,7 +14586,7 @@ let data = [
         ]
     ],
     [
-        "5) ________ creates a seamless cross-channel buying experience that integrates in-store, online,and mobile shopping.",
+        "5) ________ creates a seamless cross-channel buying experience that integrates in-store, online, and mobile shopping.",
         "A) Shopper marketing",
         "B) Point-of-purchase marketing",
         "C) Social media marketing",
@@ -14597,7 +14597,7 @@ let data = [
         ]
     ],
     [
-        "6) Retailers are classified on characteristics including the amount of service they offer, thebreadth and depth of their product lines, how they are organized, and ________.",
+        "6) Retailers are classified on characteristics including the amount of service they offer, the breadth and depth of their product lines, how they are organized, and ________.",
         "A) the relative prices they charge",
         "B) the number of locations they have",
         "C) the strength of their Internet presence",
@@ -14608,7 +14608,7 @@ let data = [
         ]
     ],
     [
-        "7) At Neiman Marcus, a first-class department store, customers shop for high-end products andthey are assisted in every phase of the shopping process. Neiman Marcus is a ________.",
+        "7) At Neiman Marcus, a first-class department store, customers shop for high-end products and they are assisted in every phase of the shopping process. Neiman Marcus is a ________.",
         "A) full-service retailer",
         "B) limited-service retailer",
         "C) self-service retailer",
@@ -14619,7 +14619,7 @@ let data = [
         ]
     ],
     [
-        "8) ________ is a type of service offered by those retailers who serve customers that are willingto perform their own \"locate-compare-select\" process in order to save money.",
+        "8) ________ is a type of service offered by those retailers who serve customers that are willing to perform their own \"locate-compare-select\" process in order to save money.",
         "A) Limited-service",
         "B) Self-service",
         "C) Full-service",
@@ -14630,7 +14630,7 @@ let data = [
         ]
     ],
     [
-        "9) ________ are retailers that offer sales assistance because they carry more shopping goodsabout which customers might need information.",
+        "9) ________ are retailers that offer sales assistance because they carry more shopping goods about which customers might need information.",
         "A) Self-service retailers",
         "B) Full-service retailers",
         "C) Off-price retailers",
@@ -14641,7 +14641,7 @@ let data = [
         ]
     ],
     [
-        "10) Which type of retailer usually carries more specialty goods at high prices and is more likelyto provide customers with assistance in every phase of the shopping process?",
+        "10) Which type of retailer usually carries more specialty goods at high prices and is more likely to provide customers with assistance in every phase of the shopping process?",
         "A) self-service retailer",
         "B) limited-service retailer",
         "C) full-service retailer",
@@ -14652,7 +14652,7 @@ let data = [
         ]
     ],
     [
-        "11) At JCPenney, a mid-level department store, customers shop for moderately priced productsand they are assisted in some phases of the shopping process. JCPenney is a ________.",
+        "11) At JCPenney, a mid-level department store, customers shop for moderately priced products and they are assisted in some phases of the shopping process. JCPenney is a ________.",
         "A) full-service retailer",
         "B) limited-service retailer",
         "C) self-service retailer",
@@ -14663,7 +14663,7 @@ let data = [
         ]
     ],
     [
-        "12) Which type of retailer is most likely to require its employees to focus most on assistingcustomers as they shop?",
+        "12) Which type of retailer is most likely to require its employees to focus most on assisting customers as they shop?",
         "A) self-service retailer",
         "B) full-service retailer",
         "C) off-price retailer",
@@ -14674,7 +14674,7 @@ let data = [
         ]
     ],
     [
-        "13) Today, ________ are flourishing due to the increased use of market segmentation andmarket targeting.",
+        "13) Today, ________ are flourishing due to the increased use of market segmentation and market targeting.",
         "A) chain stores",
         "B) specialty stores",
         "C) superstores",
@@ -14696,7 +14696,7 @@ let data = [
         ]
     ],
     [
-        "15) Which type of store carries a wide variety of product lines and has been squeezed in recentyears between more focused and flexible specialty stores on the one hand and more efficient,lower-priced discounters on the other?",
+        "15) Which type of store carries a wide variety of product lines and has been squeezed in recent years between more focused and flexible specialty stores on the one hand and more efficient, lower-priced discounters on the other?",
         "A) warehouse clubs",
         "B) department store",
         "C) factory outlet",
@@ -14707,7 +14707,7 @@ let data = [
         ]
     ],
     [
-        "16) ________ are facing slow sales growth because of slower population growth, increasedcompetition, and the rapid growth of out-of-home eating.",
+        "16) ________ are facing slow sales growth because of slower population growth, increased competition, and the rapid growth of out-of-home eating.",
         "A) Warehouse clubs",
         "B) Off-price retailers",
         "C) Discount stores",
@@ -14729,7 +14729,7 @@ let data = [
         ]
     ],
     [
-        "18) A ________ is a small store, located near a residential area that is open long hours sevendays a week and carries a limited line of high-turnover goods.",
+        "18) A ________ is a small store, located near a residential area that is open long hours seven days a week and carries a limited line of high-turnover goods.",
         "A) convenience store",
         "B) chain store",
         "C) department store",
@@ -14740,7 +14740,7 @@ let data = [
         ]
     ],
     [
-        "19) Which type of store is much larger than regular supermarkets and offers a large assortmentof routinely purchased food products, nonfood items, and services?",
+        "19) Which type of store is much larger than regular supermarkets and offers a large assortment of routinely purchased food products, nonfood items, and services?",
         "A) off-price retailer",
         "B) specialty store",
         "C) factory outlet",
@@ -14751,7 +14751,7 @@ let data = [
         ]
     ],
     [
-        "20) Which type of store carries a deep assortment of a particular product line, hasknowledgeable staff, and can be viewed as a giant specialty store?",
+        "20) Which type of store carries a deep assortment of a particular product line, has knowledgeable staff, and can be viewed as a giant specialty store?",
         "A) category killer",
         "B) convenience store",
         "C) factory outlet",
@@ -14795,7 +14795,7 @@ let data = [
         ]
     ],
     [
-        "24) ________ sell standard merchandise at lower prices by accepting lower margins and sellinghigher volume.",
+        "24) ________ sell standard merchandise at lower prices by accepting lower margins and selling higher volume.",
         "A) Merchant wholesalers",
         "B) Discount stores",
         "C) Full-service retailers",
@@ -14806,7 +14806,7 @@ let data = [
         ]
     ],
     [
-        "25) The early ________ cut expenses by offering few services and operating in warehouse-likefacilities in low-rent, heavily traveled districts.",
+        "25) The early ________ cut expenses by offering few services and operating in warehouse-like facilities in low-rent, heavily traveled districts.",
         "A) department stores",
         "B) hypermarkets",
         "C) discount stores",
@@ -14817,7 +14817,7 @@ let data = [
         ]
     ],
     [
-        "26) As discount stores traded up, ________ have filled the ultra low-price, high-volume gap bybuying at less-than-regular wholesale prices and charging consumers less than retail.",
+        "26) As discount stores traded up, ________ have filled the ultra low-price, high-volume gap by buying at less-than-regular wholesale prices and charging consumers less than retail.",
         "A) off-price retailers",
         "B) specialty stores",
         "C) convenience stores",
@@ -14839,7 +14839,7 @@ let data = [
         ]
     ],
     [
-        "28) ________ are manufacturer-owned and operated stores that offer prices as low as 50percent below retail on a wide range of mostly surplus, discounted, or irregular items.",
+        "28) ________ are manufacturer-owned and operated stores that offer prices as low as 50 percent below retail on a wide range of mostly surplus, discounted, or irregular items.",
         "A) Category killers",
         "B) Factory outlets",
         "C) Specialty stores",
@@ -14850,7 +14850,7 @@ let data = [
         ]
     ],
     [
-        "29) Which of the following is an off-price retailer that operates in a huge, warehouse-likefacility and offers few frills?",
+        "29) Which of the following is an off-price retailer that operates in a huge, warehouse-like facility and offers few frills?",
         "A) warehouse club",
         "B) service retailer",
         "C) convenience store",
@@ -14872,7 +14872,7 @@ let data = [
         ]
     ],
     [
-        "31) As a result of the great success of corporate chains, many independent stores choose toband together in either a voluntary chain or a ________.",
+        "31) As a result of the great success of corporate chains, many independent stores choose to band together in either a voluntary chain or a ________.",
         "A) factory outlet",
         "B) retailer cooperative",
         "C) wholesale club",
@@ -14883,7 +14883,7 @@ let data = [
         ]
     ],
     [
-        "32) A ________ is a wholesaler-sponsored group of independent retailers that engages in groupbuying and common merchandising.",
+        "32) A ________ is a wholesaler-sponsored group of independent retailers that engages in group buying and common merchandising.",
         "A) voluntary chain",
         "B) retailer cooperative",
         "C) franchise",
@@ -14905,7 +14905,7 @@ let data = [
         ]
     ],
     [
-        "34) Which of the following kind of organization best represents a contractual association basedon some unique product or service, a method of doing business, or a trade name or goodwill?",
+        "34) Which of the following kind of organization best represents a contractual association based on some unique product or service, a method of doing business, or a trade name or goodwill?",
         "A) corporate chain",
         "B) franchise",
         "C) voluntary chain",
@@ -14938,7 +14938,7 @@ let data = [
         ]
     ],
     [
-        "37) GameStop sells only video games and systems, offering a narrow product line with a deepassortment within that line. GameStop is a(n) ________.",
+        "37) GameStop sells only video games and systems, offering a narrow product line with a deep assortment within that line. GameStop is a(n) ________.",
         "A) department store",
         "B) convenience store",
         "C) category killer",
@@ -14960,7 +14960,7 @@ let data = [
         ]
     ],
     [
-        "39) Which of the following terms best describes a large, low-cost, low-margin, high-volume,self-service store that carries a wide variety of grocery and household products?",
+        "39) Which of the following terms best describes a large, low-cost, low-margin, high-volume, self-service store that carries a wide variety of grocery and household products?",
         "A) convenience store",
         "B) supermarket",
         "C) specialty store",
@@ -14971,7 +14971,7 @@ let data = [
         ]
     ],
     [
-        "40) Overstock.com, a Web seller that buys furniture, clothing, electronics, and more from avariety of producers at less-than-regular wholesale prices and then charges customers less thanretail, is a(n) ________.",
+        "40) Overstock.com, a Web seller that buys furniture, clothing, electronics, and more from a variety of producers at less-than-regular wholesale prices and then charges customers less than retail, is a(n) ________.",
         "A) specialty store",
         "B) off-price retailer",
         "C) factory outlet",
@@ -14993,7 +14993,7 @@ let data = [
         ]
     ],
     [
-        "42) Retailers can also be classified by the length and breadth of their product assortments. Interms of product line, what kind of retailer is Indiana Wood?",
+        "42) Retailers can also be classified by the length and breadth of their product assortments. In terms of product line, what kind of retailer is Indiana Wood?",
         "A) supermarket",
         "B) specialty store",
         "C) category killer",
@@ -15026,7 +15026,7 @@ let data = [
         ]
     ],
     [
-        "76) Daizy's is a shop that carries only plus-size clothing. According to this information, Daizy'sdifferentiates itself from its competitors based on ________.",
+        "76) Daizy's is a shop that carries only plus-size clothing. According to this information, Daizy's differentiates itself from its competitors based on ________.",
         "A) service mix",
         "B) pricing",
         "C) product assortment",
@@ -15048,7 +15048,7 @@ let data = [
         ]
     ],
     [
-        "78) A large retailer of home improvement and construction products offers \"how-to\" classes for24do-it-yourselfers, featuring instructions on how to complete home improvement projects usingproducts sold at its stores. This is an example of how the retailer has differentiated itselfthrough its ________.",
+        "78) A large retailer of home improvement and construction products offers \"how-to\" classes for 24 do-it-yourselfers, featuring instructions on how to complete home improvement projects using products sold at its stores. This is an example of how the retailer has differentiated itself through its ________.",
         "A) product assortment",
         "B) services mix",
         "C) segmentation",
@@ -15059,7 +15059,7 @@ let data = [
         ]
     ],
     [
-        "79) Until retailers ________ their markets, they cannot make consistent decisions about productassortment, services, pricing, or advertising.",
+        "79) Until retailers ________ their markets, they cannot make consistent decisions about product assortment, services, pricing, or advertising.",
         "A) create",
         "B) communicate with",
         "C) divide up",
@@ -15070,7 +15070,7 @@ let data = [
         ]
     ],
     [
-        "80) A ________ contains from 50 to 100 stores, is like a covered mini-downtown, and attractscustomers from a wide area.",
+        "80) A ________ contains from 50 to 100 stores, is like a covered mini-downtown, and attracts customers from a wide area.",
         "A) community shopping center",
         "B) neighborhood shopping center",
         "C) central business district",
@@ -15081,7 +15081,7 @@ let data = [
         ]
     ],
     [
-        "81) Upon determining who will want the product, retailers must determine in more detail howto ________ in those markets.",
+        "81) Upon determining who will want the product, retailers must determine in more detail how to ________ in those markets.",
         "A) differentiate and position themselves",
         "B) market themselves",
         "C) entice customers to them",
@@ -15092,7 +15092,7 @@ let data = [
         ]
     ],
     [
-        "82) A ________ contains between 15 and 50 retail stores, including a department or variety store,a supermarket, specialty stores, professional offices, and sometimes a bank.",
+        "82) A ________ contains between 15 and 50 retail stores, including a department or variety store, a supermarket, specialty stores, professional offices, and sometimes a bank.",
         "A) community shopping center",
         "B) neighborhood shopping center",
         "C) strip mall",
@@ -15103,7 +15103,7 @@ let data = [
         ]
     ],
     [
-        "83) In addition to segmenting and targeting the correct market, which of the following is NOTan area in which marketers must make decisions?",
+        "83) In addition to segmenting and targeting the correct market, which of the following is NOT an area in which marketers must make decisions?",
         "A) product assortment",
         "B) services mix",
         "C) store's atmosphere",
@@ -15114,7 +15114,7 @@ let data = [
         ]
     ],
     [
-        "84) A ________ generally contains between 5 and 15 stores. It is close and convenient forconsumers, usually contains a supermarket, perhaps a discount store, and several service storessuch as a dry cleaner, a drugstore, and a hardware store.",
+        "84) A ________ generally contains between 5 and 15 stores. It is close and convenient for consumers, usually contains a supermarket, perhaps a discount store, and several service stores such as a dry cleaner, a drugstore, and a hardware store.",
         "A) regional shopping center",
         "B) community shopping center",
         "C) neighborhood shopping center",
@@ -15125,7 +15125,7 @@ let data = [
         ]
     ],
     [
-        "85) An ideal price policy scenario for retailers would be to achieve ________ while earning________.",
+        "85) An ideal price policy scenario for retailers would be to achieve ________ while earning ________.",
         "A) low volume; high markups",
         "B) low volume; low markups",
         "C) high volume; high markups",
@@ -15158,7 +15158,7 @@ let data = [
         ]
     ],
     [
-        "88) Press conferences, speeches, store openings, special events, newsletters, and storemagazines are examples of ________ activities used by retailers to promote themselves.",
+        "88) Press conferences, speeches, store openings, special events, newsletters, and store magazines are examples of ________ activities used by retailers to promote themselves.",
         "A) public relations",
         "B) sales promotions",
         "C) personal selling",
@@ -15169,7 +15169,7 @@ let data = [
         ]
     ],
     [
-        "89) Digital promotions have grown in usage and include e-mail, social media, Web sites, and________.",
+        "89) Digital promotions have grown in usage and include e-mail, social media, Web sites, and ________.",
         "A) demonstrations",
         "B) displays",
         "C) store flyers",
@@ -15191,7 +15191,7 @@ let data = [
         ]
     ],
     [
-        "91) A ________ is a group of retail businesses built on a site that is planned, developed, owned,and managed as a unit.",
+        "91) A ________ is a group of retail businesses built on a site that is planned, developed, owned, and managed as a unit.",
         "A) warehouse club",
         "B) franchise",
         "C) shopping center",
@@ -15213,7 +15213,7 @@ let data = [
         ]
     ],
     [
-        "93) ________ are huge unenclosed shopping centers consisting of a long strip of retail stores,including at least one large, freestanding anchor store like Walmart. Each store has its ownentrance with parking directly in front for shoppers who wish to visit only one store.",
+        "93) ________ are huge unenclosed shopping centers consisting of a long strip of retail stores, including at least one large, freestanding anchor store like Walmart. Each store has its own entrance with parking directly in front for shoppers who wish to visit only one store.",
         "A) Shopping malls",
         "B) Power centers",
         "C) Superstores",
@@ -15224,7 +15224,7 @@ let data = [
         ]
     ],
     [
-        "94) A small, open-air mall with upscale stores, convenient locations, and nonretail activities,such as a playground, skating rink, hotel, dining establishments, and a movie theater, is anexample of a ________.",
+        "94) A small, open-air mall with upscale stores, convenient locations, and nonretail activities, such as a playground, skating rink, hotel, dining establishments, and a movie theater, is an example of a ________.",
         "A) regional shopping center",
         "B) lifestyle center",
         "C) community shopping center",
@@ -15235,7 +15235,7 @@ let data = [
         ]
     ],
     [
-        "95) Springfield, a convenience store, has recently begun to redesign and restock its stores tooffer a more upscale environment with products such as house wines and fresh foods. Thisinformation indicates that Springfield has most likely changed its ________.",
+        "95) Springfield, a convenience store, has recently begun to redesign and restock its stores to offer a more upscale environment with products such as house wines and fresh foods. This information indicates that Springfield has most likely changed its ________.",
         "A) positioning",
         "B) price strategy",
         "C) service level",
@@ -15246,7 +15246,7 @@ let data = [
         ]
     ],
     [
-        "96) Cabela's stores are as much natural history museums for outdoor enthusiasts as they areretail outlets. This information indicates that Cabela's is practicing ________.",
+        "96) Cabela's stores are as much natural history museums for outdoor enthusiasts as they are retail outlets. This information indicates that Cabela's is practicing ________.",
         "A) wholesaling",
         "B) nonstore retailing",
         "C) shopper marketing",
@@ -15257,7 +15257,7 @@ let data = [
         ]
     ],
     [
-        "97) Big and Tall Men's Shop carries men's clothing in larger sizes; this allows the store to________ other stores.",
+        "97) Big and Tall Men's Shop carries men's clothing in larger sizes; this allows the store to ________ other stores.",
         "A) align itself with",
         "B) differentiate itself from",
         "C) cluster with",
@@ -15268,7 +15268,7 @@ let data = [
         ]
     ],
     [
-        "98) The lighting in Jake's Steak Restaurant is dim. The chairs are covered in leather and eachtable is covered with a white linen cloth. The colors are limited to earth tones with anoccasional splash of red. Patrons cannot hear any kitchen noises, only a pleasant melody thatseems familiar but unrecognizable. The smells are extraordinarily varied. This is a descriptionof the restaurant's ________.",
+        "98) The lighting in Jake's Steak Restaurant is dim. The chairs are covered in leather and each table is covered with a white linen cloth. The colors are limited to earth tones with an occasional splash of red. Patrons cannot hear any kitchen noises, only a pleasant melody that seems familiar but unrecognizable. The smells are extraordinarily varied. This is a description of the restaurant's ________.",
         "A) promotions",
         "B) target",
         "C) atmosphere",
@@ -15290,7 +15290,7 @@ let data = [
         ]
     ],
     [
-        "100) Macy's department stores carry a wide range of product lines, including clothing, jewelry,kitchenware, and home furnishings. Macy's typically charges a relatively high markup, but alsoholds frequent sales and price promotions, in particular offering discounts to customers who usea Macy's credit card. Macy's uses ________.",
+        "100) Macy's department stores carry a wide range of product lines, including clothing, jewelry, kitchenware, and home furnishings. Macy's typically charges a relatively high markup, but also holds frequent sales and price promotions, in particular offering discounts to customers who use a Macy's credit card. Macy's uses ________.",
         "A) self-service retailing",
         "B) experiential retailing",
         "C) high-low pricing",
@@ -15301,7 +15301,7 @@ let data = [
         ]
     ],
     [
-        "101) Which of the following is most likely true about shoppers who prefer to shop at \"lifestylecenters\"?",
+        "101) Which of the following is most likely true about shoppers who prefer to shop at \"lifestyle centers\"?",
         "A) They use coupons.",
         "B) They prefer upscale stores.",
         "C) They prefer indoor shopping locations.",
@@ -15323,7 +15323,7 @@ let data = [
         ]
     ],
     [
-        "115) Many retailers are now experimenting with limited-time shops that allow them to promotetheir brands to seasonal shoppers and create buzz in busy areas. Which of the following termsbest represents such shops?",
+        "115) Many retailers are now experimenting with limited-time shops that allow them to promote their brands to seasonal shoppers and create buzz in busy areas. Which of the following terms best represents such shops?",
         "A) power centers",
         "B) strip malls",
         "C) pop-up stores",
@@ -15334,7 +15334,7 @@ let data = [
         ]
     ],
     [
-        "116) Target recently opened temporary shops to celebrate limited-run collections by Jason Wuin Toronto and Missoni in New York. These temporary shops are examples of ________.",
+        "116) Target recently opened temporary shops to celebrate limited-run collections by Jason Wu in Toronto and Missoni in New York. These temporary shops are examples of ________.",
         "A) lifestyle centers",
         "B) pop-up stores",
         "C) warehouse clubs",
@@ -15356,7 +15356,7 @@ let data = [
         ]
     ],
     [
-        "118) When different types of retailers sell the same products at the same prices to the samecustomers, thanks in part to the price transparency of the Internet, the retail forms appear to be________.",
+        "118) When different types of retailers sell the same products at the same prices to the same customers, thanks in part to the price transparency of the Internet, the retail forms appear to be ________.",
         "A) converging",
         "B) differentiating",
         "C) repositioning",
@@ -15367,7 +15367,7 @@ let data = [
         ]
     ],
     [
-        "119) With their size and buying power, ________ can offer better merchandise selections, goodservice, and strong price savings to consumers.",
+        "119) With their size and buying power, ________ can offer better merchandise selections, good service, and strong price savings to consumers.",
         "A) convenience stores",
         "B) franchises",
         "C) megaretailers",
@@ -15389,7 +15389,7 @@ let data = [
         ]
     ],
     [
-        "121) Which term refers to looking at merchandise at a traditional store and then purchasing themerchandise online?",
+        "121) Which term refers to looking at merchandise at a traditional store and then purchasing the merchandise online?",
         "A) pop-up shopping",
         "B) wheel-of-retailing",
         "C) off-price retailing",
@@ -15411,7 +15411,7 @@ let data = [
         ]
     ],
     [
-        "123) Touchscreen kiosks, handheld shopping assistants, interactive dressing-room mirrors andvirtual sales associates are all examples of how retailers use technology to ________.",
+        "123) Touchscreen kiosks, handheld shopping assistants, interactive dressing-room mirrors and virtual sales associates are all examples of how retailers use technology to ________.",
         "A) maintain inventory costs",
         "B) send information between stores",
         "C) meet consumers' expectations",
@@ -15422,7 +15422,7 @@ let data = [
         ]
     ],
     [
-        "124) Store retailers must master ________, integrating store and online channels into a singleshopper experience.",
+        "124) Store retailers must master ________, integrating store and online channels into a single shopper experience.",
         "A) showrooming",
         "B) single-channel retailing",
         "C) omni-channel retailing",
@@ -15433,7 +15433,7 @@ let data = [
         ]
     ],
     [
-        "125) Today's retailers increasingly adopt environmentally sustainable practices. Which of thefollowing is NOT one of these practices?",
+        "125) Today's retailers increasingly adopt environmentally sustainable practices. Which of the following is NOT one of these practices?",
         "A) working with channel partners to reduce their environmental impact",
         "B) cutting back on recycling programs",
         "C) greening up their stores and operations",
@@ -15455,7 +15455,7 @@ let data = [
         ]
     ],
     [
-        "137) ________ includes all activities involved in selling goods and services to those buying forresale or business use.",
+        "137) ________ includes all activities involved in selling goods and services to those buying for resale or business use.",
         "A) Wholesaling",
         "B) Retailing",
         "C) Franchising",
@@ -15477,7 +15477,7 @@ let data = [
         ]
     ],
     [
-        "139) Which of the following wholesaler's channel functions is demonstrated when awholesaler's sales force helps a manufacturer to reach many small customers at a low cost?42",
+        "139) Which of the following wholesaler's channel functions is demonstrated when a wholesaler's sales force helps a manufacturer to reach many small customers at a low cost? 42",
         "A) bulk-breaking",
         "B) selling and promoting",
         "C) buying and assortment building",
@@ -15499,7 +15499,7 @@ let data = [
         ]
     ],
     [
-        "141) Which of the following wholesaler's channel functions is demonstrated when a wholesalerholds inventories and thereby reduces inventory holding costs and risks of suppliers andcustomers?",
+        "141) Which of the following wholesaler's channel functions is demonstrated when a wholesaler holds inventories and thereby reduces inventory holding costs and risks of suppliers and customers?",
         "A) financing",
         "B) transporting",
         "C) buying and assortment building",
@@ -15510,7 +15510,7 @@ let data = [
         ]
     ],
     [
-        "142) Which of the following wholesaler's channel functions is demonstrated when a buyerreceives quicker delivery because wholesalers are located closer than producers?",
+        "142) Which of the following wholesaler's channel functions is demonstrated when a buyer receives quicker delivery because wholesalers are located closer than producers?",
         "A) financing",
         "B) transportation",
         "C) buying and assortment building",
@@ -15521,7 +15521,7 @@ let data = [
         ]
     ],
     [
-        "143) Which of the following wholesaler's channel functions is exemplified by buying in carloadlots and then dividing these lots into small quantities?",
+        "143) Which of the following wholesaler's channel functions is exemplified by buying in carload lots and then dividing these lots into small quantities?",
         "A) warehousing",
         "B) transportation",
         "C) risk bearing",
@@ -15532,7 +15532,7 @@ let data = [
         ]
     ],
     [
-        "144) ________ are the largest group of wholesalers. They include two broad types: full-servicewholesalers and limited-service wholesalers.",
+        "144) ________ are the largest group of wholesalers. They include two broad types: full-service wholesalers and limited-service wholesalers.",
         "A) Brokers",
         "B) Manufacturer sellers",
         "C) Manufacturers' agents",
@@ -15554,7 +15554,7 @@ let data = [
         ]
     ],
     [
-        "146) ________ and ________ do not take title to goods, and they perform only a few channelfunctions.",
+        "146) ________ and ________ do not take title to goods, and they perform only a few channel functions.",
         "A) Full-service wholesalers; limited-service wholesalers",
         "B) Brokers; agents",
         "C) Industrial distributors; cash-and-carry wholesalers",
@@ -15576,7 +15576,7 @@ let data = [
         ]
     ],
     [
-        "148) A(n) ________ does not take title to goods and represents buyers or sellers on a morepermanent basis than a broker.",
+        "148) A(n) ________ does not take title to goods and represents buyers or sellers on a more permanent basis than a broker.",
         "A) full-service wholesaler",
         "B) industrial distributor",
         "C) agent",
@@ -15598,7 +15598,7 @@ let data = [
         ]
     ],
     [
-        "150) ________ are a type of limited-service wholesaler who carries a limited line ofsemiperishable merchandise (such as milk, bread, and snack foods), which is sold for cash asdeliveries are made to supermarkets, small groceries, or hotels.",
+        "150) ________ are a type of limited-service wholesaler who carries a limited line of semiperishable merchandise (such as milk, bread, and snack foods), which is sold for cash as deliveries are made to supermarkets, small groceries, or hotels.",
         "A) Industrial distributors",
         "B) Wholesale merchants",
         "C) Full-service wholesalers",
@@ -15609,7 +15609,7 @@ let data = [
         ]
     ],
     [
-        "151) ________ are a type of limited-service wholesaler who does not carry inventory or handlea product. They typically operate in bulk industries, such as coal, lumber, and heavy equipment.",
+        "151) ________ are a type of limited-service wholesaler who does not carry inventory or handle a product. They typically operate in bulk industries, such as coal, lumber, and heavy equipment.",
         "A) Wholesale merchants",
         "B) Industrial distributors",
         "C) Cash-and-carry wholesalers",
@@ -15620,7 +15620,7 @@ let data = [
         ]
     ],
     [
-        "152) ________ are agents who take physical possession of products and negotiate sales. Theydeal mostly with agricultural marketing.",
+        "152) ________ are agents who take physical possession of products and negotiate sales. They deal mostly with agricultural marketing.",
         "A) Industrial distributors",
         "B) Cash-and-carry wholesalers",
         "C) Purchasing officers",
@@ -15631,7 +15631,7 @@ let data = [
         ]
     ],
     [
-        "153) ________ are wholesalers who serve grocery and drug retailers, mostly in nonfood items.They price the goods, keep them fresh, set up point-of-purchase displays, and keep inventoryrecords.",
+        "153) ________ are wholesalers who serve grocery and drug retailers, mostly in nonfood items. They price the goods, keep them fresh, set up point-of-purchase displays, and keep inventory records.",
         "A) Purchasing agents",
         "B) Rack jobbers",
         "C) Drop shippers",
@@ -15642,7 +15642,7 @@ let data = [
         ]
     ],
     [
-        "154) Today's large, progressive wholesalers have successfully reacted to rising costs by________.",
+        "154) Today's large, progressive wholesalers have successfully reacted to rising costs by ________.",
         "A) relocating to low-rent, low-tax areas",
         "B) investing in information technology systems",
         "C) investing less money in expensive machinery",
@@ -15653,7 +15653,7 @@ let data = [
         ]
     ],
     [
-        "155) Carey David's wholesale company helps retailers train salesclerks, improve store layoutsand displays, and set up inventory control systems. According to this information, which of thefollowing wholesaler's channel functions does Carey David provide?",
+        "155) Carey David's wholesale company helps retailers train salesclerks, improve store layouts and displays, and set up inventory control systems. According to this information, which of the following wholesaler's channel functions does Carey David provide?",
         "A) buying and assortment building",
         "B) selling and promotion services",
         "C) risk bearing services",
@@ -15664,7 +15664,7 @@ let data = [
         ]
     ],
     [
-        "156) You own a small independent retail store in your neighborhood. You want to offer freshseafood, milk, and bread in your store. In this case, which of the following types of wholesalerswill serve you the best?",
+        "156) You own a small independent retail store in your neighborhood. You want to offer fresh seafood, milk, and bread in your store. In this case, which of the following types of wholesalers will serve you the best?",
         "A) truck jobber",
         "B) independent distributor",
         "C) drop shipper",
@@ -15675,7 +15675,7 @@ let data = [
         ]
     ],
     [
-        "157) You own a neighborhood grocery store and would like to have non-food items delivered,priced, displayed and inventoried by a wholesaler. You do not want to purchase title to thegoods. Which type of wholesaler best fits your needs?",
+        "157) You own a neighborhood grocery store and would like to have non-food items delivered, priced, displayed and inventoried by a wholesaler. You do not want to purchase title to the goods. Which type of wholesaler best fits your needs?",
         "A) cash-and-carry wholesaler",
         "B) rack jobber",
         "C) drop shipper",
@@ -15686,7 +15686,7 @@ let data = [
         ]
     ],
     [
-        "158) Tony Pool Chemical Co. purchased 144 buckets of chlorine tablets over the Internet fromChemical Inc. Then Chemical Inc. placed the order with the manufacturer, and themanufacturer then transported the tablets directly to the Tony Pool store. In this case, ChemicalInc. is an example of a ________.",
+        "158) Tony Pool Chemical Co. purchased 144 buckets of chlorine tablets over the Internet from Chemical Inc. Then Chemical Inc. placed the order with the manufacturer, and the manufacturer then transported the tablets directly to the Tony Pool store. In this case, Chemical Inc. is an example of a ________.",
         "A) drop shipper",
         "B) truck jobber",
         "C) rack jobber",
@@ -15697,7 +15697,7 @@ let data = [
         ]
     ],
     [
-        "159) ________ perform a role similar to that of brokers or agents but are part of the buyer'sorganization.",
+        "159) ________ perform a role similar to that of brokers or agents but are part of the buyer's organization.",
         "A) Truck jobbers",
         "B) Merchant wholesalers",
         "C) Purchasing officers",
@@ -15719,7 +15719,7 @@ let data = [
         ]
     ],
     [
-        "1) A company's total marketing communications mix consists of a specific blend of advertising,sales promotion, public relations, personal selling, and direct-marketing tools that the companyuses to communicate customer value and build customer relationships. Which of the followingterms best describes this set of communications tools?",
+        "1) A company's total marketing communications mix consists of a specific blend of advertising, sales promotion, public relations, personal selling, and direct-marketing tools that the company uses to communicate customer value and build customer relationships. Which of the following terms best describes this set of communications tools?",
         "A) the product mix",
         "B) product line filling",
         "C) the promotion mix",
@@ -15741,7 +15741,7 @@ let data = [
         ]
     ],
     [
-        "3) Any paid form of nonpersonal presentation and promotion of ideas, goods, or services by anidentified sponsor is called ________ and includes broadcast, mobile, print, and online forms.",
+        "3) Any paid form of nonpersonal presentation and promotion of ideas, goods, or services by an identified sponsor is called ________ and includes broadcast, mobile, print, and online forms.",
         "A) sales promotion",
         "B) advertising",
         "C) direct and digital marketing",
@@ -15752,7 +15752,7 @@ let data = [
         ]
     ],
     [
-        "4) The use of short-term incentives to encourage the purchase or sale of a product or service iscalled ________.",
+        "4) The use of short-term incentives to encourage the purchase or sale of a product or service is called ________.",
         "A) direct and digital marketing",
         "B) sales promotion",
         "C) personal selling",
@@ -15763,7 +15763,7 @@ let data = [
         ]
     ],
     [
-        "5) Which of the following promotion tools involves building up a good corporate image andhandling unfavorable stories and events?",
+        "5) Which of the following promotion tools involves building up a good corporate image and handling unfavorable stories and events?",
         "A) sales promotion",
         "B) personal selling",
         "C) direct and digital marketing",
@@ -15774,7 +15774,7 @@ let data = [
         ]
     ],
     [
-        "6) Which of the following promotion categories is most likely to include the use of displays,discounts, coupons, and demonstrations?",
+        "6) Which of the following promotion categories is most likely to include the use of displays, discounts, coupons, and demonstrations?",
         "A) sales promotion",
         "B) direct and digital marketing",
         "C) horizontal diversification",
@@ -15796,7 +15796,7 @@ let data = [
         ]
     ],
     [
-        "8) Extel Inc., a home appliance manufacturer, uses sales representatives to sell its products towholesalers and individual customers. This is an example of ________.",
+        "8) Extel Inc., a home appliance manufacturer, uses sales representatives to sell its products to wholesalers and individual customers. This is an example of ________.",
         "A) sales promotion",
         "B) personal selling",
         "C) public relations",
@@ -15807,7 +15807,7 @@ let data = [
         ]
     ],
     [
-        "9) Which major promotion category uses catalogs, direct mail, e-mail, mobile marketing andsocial media?",
+        "9) Which major promotion category uses catalogs, direct mail, e-mail, mobile marketing and social media?",
         "A) sales promotion",
         "B) direct and digital marketing",
         "C) horizontal diversification",
@@ -15818,7 +15818,7 @@ let data = [
         ]
     ],
     [
-        "10) Which of the following promotion categories is most likely to use the promotion tools ofpress releases, sponsorships, events, and Web pages?",
+        "10) Which of the following promotion categories is most likely to use the promotion tools of press releases, sponsorships, events, and Web pages?",
         "A) sales promotion",
         "B) direct and digital marketing",
         "C) advertising",
@@ -15829,7 +15829,7 @@ let data = [
         ]
     ],
     [
-        "11) In addition to the specific promotion tools, marketing communication requires ________for greatest impact.",
+        "11) In addition to the specific promotion tools, marketing communication requires ________ for greatest impact.",
         "A) the engineering and manufacturing departments work together",
         "B) the sales force lead the communication process",
         "C) the advertising be developed with the manufacturers' representatives",
@@ -15840,7 +15840,7 @@ let data = [
         ]
     ],
     [
-        "17) Changes to the marketing communications model include that consumers are changing andare better informed, that marketing strategies are changing and are moving from massmarketing, and that ________.",
+        "17) Changes to the marketing communications model include that consumers are changing and are better informed, that marketing strategies are changing and are moving from mass marketing, and that ________.",
         "A) manufacturing processes are becoming more efficient",
         "B) distribution of products worldwide is more feasible and cost-effective",
         "C) segmenting and targeting of consumers are more detailed than ever before",
@@ -15851,7 +15851,7 @@ let data = [
         ]
     ],
     [
-        "18) Today's consumers do not need to rely on marketer-supplied information about productsand services because they can use ________ to seek out a wealth of information.",
+        "18) Today's consumers do not need to rely on marketer-supplied information about products and services because they can use ________ to seek out a wealth of information.",
         "A) push strategies",
         "B) direct and digital marketing",
         "C) the Internet",
@@ -15873,7 +15873,7 @@ let data = [
         ]
     ],
     [
-        "20) Shifting away from mass marketing, marketers are developing ________ which aredesigned to build relationships with customers in more narrowly defined micromarkets.",
+        "20) Shifting away from mass marketing, marketers are developing ________ which are designed to build relationships with customers in more narrowly defined micromarkets.",
         "A) focused marketing programs",
         "B) horizontal diversification programs",
         "C) backward integration strategies",
@@ -15884,7 +15884,7 @@ let data = [
         ]
     ],
     [
-        "21) Which of the following is a specialized and highly targeted media selection that anadvertiser might use to reach smaller customer segments with personalized content?",
+        "21) Which of the following is a specialized and highly targeted media selection that an advertiser might use to reach smaller customer segments with personalized content?",
         "A) radio",
         "B) magazines",
         "C) newspapers",
@@ -15895,7 +15895,7 @@ let data = [
         ]
     ],
     [
-        "22) Companies are doing less ________ and more ________ as a result of the explosivedevelopments in communication technologies to better target smaller customer segments.",
+        "22) Companies are doing less ________ and more ________ as a result of the explosive developments in communication technologies to better target smaller customer segments.",
         "A) personal selling; digital activities",
         "B) public relations activities; digital activities",
         "C) digital activities; mass marketing",
@@ -15906,7 +15906,7 @@ let data = [
         ]
     ],
     [
-        "23) Which of the following statements is true regarding the old mass-media communicationsmodel?",
+        "23) Which of the following statements is true regarding the old mass-media communications model?",
         "A) Mass-media costs are decreasing.",
         "B) Mass-media audiences are increasing.",
         "C) Many viewers are gaining control of message exposure through DVRs and video streaming.",
@@ -15928,7 +15928,7 @@ let data = [
         ]
     ],
     [
-        "25) The key is to ________ traditional mass media with online, mobile and social media to bestengage customers, communicate the brand message, and enhance the customer's brandexperiences.",
+        "25) The key is to ________ traditional mass media with online, mobile and social media to best engage customers, communicate the brand message, and enhance the customer's brand experiences.",
         "A) prioritize",
         "B) integrate",
         "C) utilize",
@@ -15939,7 +15939,7 @@ let data = [
         ]
     ],
     [
-        "26) Marketers now view themselves as ________ that create and share brand messages andconversations with and among customers across a mix of paid, owned, earned, and sharedcommunication channels.",
+        "26) Marketers now view themselves as ________ that create and share brand messages and conversations with and among customers across a mix of paid, owned, earned, and shared communication channels.",
         "A) promotion managers",
         "B) public relations managers",
         "C) sales managers",
@@ -15961,7 +15961,7 @@ let data = [
         ]
     ],
     [
-        "28) Consumers today receive commercial messages from a broad range of sources. However,consumers ________ the way marketers do.",
+        "28) Consumers today receive commercial messages from a broad range of sources. However, consumers ________ the way marketers do.",
         "A) don't distinguish between message sources",
         "B) never pay attention to sales promotions",
         "C) don't care about buzz marketing",
@@ -15972,7 +15972,7 @@ let data = [
         ]
     ],
     [
-        "29) Today, most companies are adopting the concept of ________, which carefully combinesand coordinates the company's many communication channels to deliver a clear, consistent, andcompelling message about the organization and its brands.",
+        "29) Today, most companies are adopting the concept of ________, which carefully combines and coordinates the company's many communication channels to deliver a clear, consistent, and compelling message about the organization and its brands.",
         "A) integrated marketing communications",
         "B) pull strategy",
         "C) vertical diversification",
@@ -15983,7 +15983,7 @@ let data = [
         ]
     ],
     [
-        "30) Integrated marketing communications require a company's mass-market advertisements,Web site, e-mail, and personal selling communications to all ________.",
+        "30) Integrated marketing communications require a company's mass-market advertisements, Web site, e-mail, and personal selling communications to all ________.",
         "A) have equal portions of the advertising budget",
         "B) use independent communications directors",
         "C) develop separate marketing objectives",
@@ -15994,7 +15994,7 @@ let data = [
         ]
     ],
     [
-        "31) Delia's is a clothing retailer that targets teenage girls. The company runs coordinatedpromotions for its catalogs, Web site, and retail outlets. It uses the same models in its catalog,print ads, and Web site. Delia's works to make sure its public relations activities as well as itssales promotions harmonize with its advertising in all aspects. From this information, we caninfer that Delia's is using ________.",
+        "31) Delia's is a clothing retailer that targets teenage girls. The company runs coordinated promotions for its catalogs, Web site, and retail outlets. It uses the same models in its catalog, print ads, and Web site. Delia's works to make sure its public relations activities as well as its sales promotions harmonize with its advertising in all aspects. From this information, we can infer that Delia's is using ________.",
         "A) buzz marketing",
         "B) experiential marketing",
         "C) integrated marketing communication",
@@ -16005,7 +16005,7 @@ let data = [
         ]
     ],
     [
-        "32) Excel Enterprises uses a Web site, online social networks, and print advertisements topromote its products. Since Excel Enterprises practices integrated marketing communications,all these different brand contacts maintain ________ in design and tone.",
+        "32) Excel Enterprises uses a Web site, online social networks, and print advertisements to promote its products. Since Excel Enterprises practices integrated marketing communications, all these different brand contacts maintain ________ in design and tone.",
         "A) variety",
         "B) simplicity",
         "C) creativity",
@@ -16016,7 +16016,7 @@ let data = [
         ]
     ],
     [
-        "33) To carefully integrate and coordinate the company's many communications channels andproduce greater sales impact, some companies appoint a(n) ________.",
+        "33) To carefully integrate and coordinate the company's many communications channels and produce greater sales impact, some companies appoint a(n) ________.",
         "A) idea champion",
         "B) marketing communications director",
         "C) sales representative",
@@ -16027,7 +16027,7 @@ let data = [
         ]
     ],
     [
-        "46) In order to avoid shortsightedness, today marketers are moving toward viewingcommunications as managing the ________.",
+        "46) In order to avoid shortsightedness, today marketers are moving toward viewing communications as managing the ________.",
         "A) organizational culture",
         "B) nonpersonal communication channels",
         "C) word-of-mouth influence",
@@ -16038,7 +16038,7 @@ let data = [
         ]
     ],
     [
-        "47) Communications programs need to be developed for specific niches, individuals, and________.",
+        "47) Communications programs need to be developed for specific niches, individuals, and ________.",
         "A) genders",
         "B) countries",
         "C) departments",
@@ -16049,7 +16049,7 @@ let data = [
         ]
     ],
     [
-        "48) While using integrated marketing communications, the communications process shouldstart with a(n) ________.",
+        "48) While using integrated marketing communications, the communications process should start with a(n) ________.",
         "A) advertising strategy",
         "B) competitive-parity analysis",
         "C) long-term public relations plan",
@@ -16082,7 +16082,7 @@ let data = [
         ]
     ],
     [
-        "51) HP's advertising agency assembles words and illustrations into an advertisement thatconveys the company's intended brand message. In the context of the communication process,HP is ________.",
+        "51) HP's advertising agency assembles words and illustrations into an advertisement that conveys the company's intended brand message. In the context of the communication process, HP is ________.",
         "A) messaging",
         "B) decoding",
         "C) sending",
@@ -16093,7 +16093,7 @@ let data = [
         ]
     ],
     [
-        "52) The decision to use an NBA star player to communicate the desirability of Nike basketballshoes represents the ________ process of the communication model.",
+        "52) The decision to use an NBA star player to communicate the desirability of Nike basketball shoes represents the ________ process of the communication model.",
         "A) sourcing",
         "B) messaging",
         "C) acknowledging",
@@ -16115,7 +16115,7 @@ let data = [
         ]
     ],
     [
-        "54) In the communication process, an actual HP printer/fax machine advertisement would beconsidered ________.",
+        "54) In the communication process, an actual HP printer/fax machine advertisement would be considered ________.",
         "A) encoding",
         "B) decoding",
         "C) the product",
@@ -16126,7 +16126,7 @@ let data = [
         ]
     ],
     [
-        "55) Which of the following terms best represents the communication channel that a companyuses to move its advertising messages from sender to receiver?",
+        "55) Which of the following terms best represents the communication channel that a company uses to move its advertising messages from sender to receiver?",
         "A) decoder",
         "B) media",
         "C) encoder",
@@ -16137,7 +16137,7 @@ let data = [
         ]
     ],
     [
-        "56) In a communication process, a receiver assigns meaning to the symbols encoded by acompany in its advertisements through a process known as ________.",
+        "56) In a communication process, a receiver assigns meaning to the symbols encoded by a company in its advertisements through a process known as ________.",
         "A) integrating",
         "B) reciprocating",
         "C) acknowledging",
@@ -16148,7 +16148,7 @@ let data = [
         ]
     ],
     [
-        "57) In the communication process, the reaction of the receiver after being exposed to a messageis called the ________.",
+        "57) In the communication process, the reaction of the receiver after being exposed to a message is called the ________.",
         "A) response",
         "B) disturbance",
         "C) noise",
@@ -16159,7 +16159,7 @@ let data = [
         ]
     ],
     [
-        "58) When a customer lets a producer know something about its products or advertising, thecustomer is providing ________.",
+        "58) When a customer lets a producer know something about its products or advertising, the customer is providing ________.",
         "A) decoding",
         "B) noise",
         "C) feedback",
@@ -16170,7 +16170,7 @@ let data = [
         ]
     ],
     [
-        "59) A consumer is reading a magazine with an advertisement, but due to a loud sound he isdistracted from reading the advertisement and is not able to grasp its key points. In the contextof the communication process, this unplanned static or distortion is called ________.",
+        "59) A consumer is reading a magazine with an advertisement, but due to a loud sound he is distracted from reading the advertisement and is not able to grasp its key points. In the context of the communication process, this unplanned static or distortion is called ________.",
         "A) noise",
         "B) encoding",
         "C) feedback",
@@ -16181,7 +16181,7 @@ let data = [
         ]
     ],
     [
-        "60) An ad for Maybelline age-minimizing makeup in Ladies' Home Journal magazine featuredactress Gigi Hadid and offered readers a $2-off coupon when they tried the new makeup. Interms of the communication model, the sender of this message is ________.",
+        "60) An ad for Maybelline age-minimizing makeup in Ladies' Home Journal magazine featured actress Gigi Hadid and offered readers a $2-off coupon when they tried the new makeup. In terms of the communication model, the sender of this message is ________.",
         "A) Gigi Hadid",
         "B) Ladies' Home Journal",
         "C) readers who redeem the $2-off coupon",
@@ -16192,7 +16192,7 @@ let data = [
         ]
     ],
     [
-        "61) An ad for Maybelline age-minimizing makeup in Ladies' Home Journal magazine featuredactress Gigi Hadid and offered readers a $2-off coupon when they tried the new makeup. Interms of the communication model, the medium of this ad is ________.",
+        "61) An ad for Maybelline age-minimizing makeup in Ladies' Home Journal magazine featured actress Gigi Hadid and offered readers a $2-off coupon when they tried the new makeup. In terms of the communication model, the medium of this ad is ________.",
         "A) Gigi Hadid",
         "B) Ladies' Home Journal",
         "C) readers who redeem the $2-off coupon",
@@ -16203,7 +16203,7 @@ let data = [
         ]
     ],
     [
-        "62) An ad for Maybelline age-minimizing makeup in Ladies' Home Journal magazine featuredactress Gigi Hadid and offered readers a $2-off coupon when they tried the new makeup. In thecontext of the communication model, measuring which of the following would be the best wayfor the source to measure feedback?",
+        "62) An ad for Maybelline age-minimizing makeup in Ladies' Home Journal magazine featured actress Gigi Hadid and offered readers a $2-off coupon when they tried the new makeup. In the context of the communication model, measuring which of the following would be the best way for the source to measure feedback?",
         "A) the number of subscribers to Ladies' Home Journal",
         "B) the number of people who make up the target market",
         "C) the number of people who redeem the coupon",
@@ -16214,7 +16214,7 @@ let data = [
         ]
     ],
     [
-        "63) In the communication process, the more the sender's field of experience ________ that ofthe receiver, the more ________ the message is likely to be.",
+        "63) In the communication process, the more the sender's field of experience ________ that of the receiver, the more ________ the message is likely to be.",
         "A) varies from; distinguishable",
         "B) overlaps with; effective",
         "C) connects with; ineffective",
@@ -16247,7 +16247,7 @@ let data = [
         ]
     ],
     [
-        "66) Marketing communicators must be good at ________ messages that take into account howthe target audience ________ them.",
+        "66) Marketing communicators must be good at ________ messages that take into account how the target audience ________ them.",
         "A) delivering; encodes",
         "B) sending; encodes",
         "C) encoding; decodes",
@@ -16269,7 +16269,7 @@ let data = [
         ]
     ],
     [
-        "68) Which of the following is the first step in developing an effective integratedcommunications and promotion program?",
+        "68) Which of the following is the first step in developing an effective integrated communications and promotion program?",
         "A) designing a message",
         "B) identifying the target audience",
         "C) determining the communication objectives",
@@ -16280,7 +16280,7 @@ let data = [
         ]
     ],
     [
-        "69) While developing an effective integrated communication, once the target audience has beendefined, marketers must do all these steps EXCEPT ________.",
+        "69) While developing an effective integrated communication, once the target audience has been defined, marketers must do all these steps EXCEPT ________.",
         "A) determine the desired response",
         "B) collect feedback",
         "C) choose the media through which to send a message",
@@ -16291,7 +16291,7 @@ let data = [
         ]
     ],
     [
-        "70) Based on the target audience, the communicator makes decisions regarding what will besaid, who will say it, when it will be said, where it will be said, and ________.",
+        "70) Based on the target audience, the communicator makes decisions regarding what will be said, who will say it, when it will be said, where it will be said, and ________.",
         "A) whether it will be said",
         "B) how it will be said",
         "C) what noise to anticipate",
@@ -16302,7 +16302,7 @@ let data = [
         ]
     ],
     [
-        "71) In which step of the communication process does the marketing communicator need toknow the buyer-readiness stage of the target audience?",
+        "71) In which step of the communication process does the marketing communicator need to know the buyer-readiness stage of the target audience?",
         "A) designing the message",
         "B) choosing the media through which to send the message",
         "C) determining communication objectives",
@@ -16313,7 +16313,7 @@ let data = [
         ]
     ],
     [
-        "72) The six stages consumers normally pass through on their way to making a purchase areknown as the ________ stages.",
+        "72) The six stages consumers normally pass through on their way to making a purchase are known as the ________ stages.",
         "A) personal-readiness",
         "B) buyer-readiness",
         "C) objective-readiness",
@@ -16335,7 +16335,7 @@ let data = [
         ]
     ],
     [
-        "74) Boson Corp. is introducing consumers to its new car with the help of an advertisementcampaign. This introductory campaign most likely aims to affect the ________ stage of buyer-readiness.",
+        "74) Boson Corp. is introducing consumers to its new car with the help of an advertisement campaign. This introductory campaign most likely aims to affect the ________ stage of buyer- readiness.",
         "A) liking",
         "B) awareness",
         "C) preference",
@@ -16346,7 +16346,7 @@ let data = [
         ]
     ],
     [
-        "75) Which buyer-readiness stage are consumers in when they are feeling favorable about theproduct?",
+        "75) Which buyer-readiness stage are consumers in when they are feeling favorable about the product?",
         "A) preference",
         "B) conviction",
         "C) knowledge",
@@ -16357,7 +16357,7 @@ let data = [
         ]
     ],
     [
-        "76) Using the AIDA model, an effective marketing message should get attention, hold interest,________, and obtain action.",
+        "76) Using the AIDA model, an effective marketing message should get attention, hold interest, ________, and obtain action.",
         "A) create differences",
         "B) enhance doubts",
         "C) double interest levels",
@@ -16379,7 +16379,7 @@ let data = [
         ]
     ],
     [
-        "78) A message showing a product's quality, economy, value, or performance is an example ofa(n) ________ appeal.",
+        "78) A message showing a product's quality, economy, value, or performance is an example of a(n) ________ appeal.",
         "A) structural",
         "B) rational",
         "C) emotional",
@@ -16390,7 +16390,7 @@ let data = [
         ]
     ],
     [
-        "79) An appeal that attempts to stir up either negative or positive sentiments that can motivatepurchase is called a(n) ________ appeal.",
+        "79) An appeal that attempts to stir up either negative or positive sentiments that can motivate purchase is called a(n) ________ appeal.",
         "A) rational",
         "B) structural",
         "C) emotional",
@@ -16401,7 +16401,7 @@ let data = [
         ]
     ],
     [
-        "80) ________ involves cultivating opinion leaders and getting them to spread information abouta product or a service to others in their communities.",
+        "80) ________ involves cultivating opinion leaders and getting them to spread information about a product or a service to others in their communities.",
         "A) Sales promotion",
         "B) Indirect marketing",
         "C) Buzz marketing",
@@ -16412,7 +16412,7 @@ let data = [
         ]
     ],
     [
-        "81) Which of the following appeals is based on the idea that consumers often feel before theythink?",
+        "81) Which of the following appeals is based on the idea that consumers often feel before they think?",
         "A) emotional appeal",
         "B) rational appeal",
         "C) structural appeal",
@@ -16434,7 +16434,7 @@ let data = [
         ]
     ],
     [
-        "83) A charitable trust's appeal which states, \"While you are trying to figure out what to get theman who has everything, don't forget the man who has nothing\" is an example of a(n)________ appeal.",
+        "83) A charitable trust's appeal which states, \"While you are trying to figure out what to get the man who has everything, don't forget the man who has nothing\" is an example of a(n) ________ appeal.",
         "A) structural",
         "B) awareness",
         "C) rational",
@@ -16467,7 +16467,7 @@ let data = [
         ]
     ],
     [
-        "86) A(n) ________ argument is most likely to be effective when the audience is highlyeducated or likely to hear opposing claims.",
+        "86) A(n) ________ argument is most likely to be effective when the audience is highly educated or likely to hear opposing claims.",
         "A) one-sided",
         "B) two-sided",
         "C) moral",
@@ -16489,7 +16489,7 @@ let data = [
         ]
     ],
     [
-        "88) A marketer making decisions about the headline, copy, illustration, and colors for a print adis determining the message ________.",
+        "88) A marketer making decisions about the headline, copy, illustration, and colors for a print ad is determining the message ________.",
         "A) structure",
         "B) content",
         "C) medium",
@@ -16500,7 +16500,7 @@ let data = [
         ]
     ],
     [
-        "89) Which of the following terms best describes the channels through which two or morepeople communicate directly with each other, including face-to-face, mail, e-mail, texting, or anInternet chat?",
+        "89) Which of the following terms best describes the channels through which two or more people communicate directly with each other, including face-to-face, mail, e-mail, texting, or an Internet chat?",
         "A) shared communication channel",
         "B) earned communication channel",
         "C) personal communication channel",
@@ -16511,7 +16511,7 @@ let data = [
         ]
     ],
     [
-        "90) Communication through a telephone call is considered a part of a(n) ________communication channel.",
+        "90) Communication through a telephone call is considered a part of a(n) ________ communication channel.",
         "A) online",
         "B) nonverbal",
         "C) personal",
@@ -16522,7 +16522,7 @@ let data = [
         ]
     ],
     [
-        "91) Personal communications about a product between target buyers and neighbors, friends,family members, associates, and other consumers, are known as ________.",
+        "91) Personal communications about a product between target buyers and neighbors, friends, family members, associates, and other consumers, are known as ________.",
         "A) personal selling",
         "B) direct marketing",
         "C) public relations",
@@ -16533,7 +16533,7 @@ let data = [
         ]
     ],
     [
-        "92) A manufacturer of a variety of technological devices asked its marketing department todevelop inexpensive methods of building and maintaining brand awareness and excitement.The marketing department then recruited consumers who were early adopters of technologicaldevices to spread the word about the company's new products. This is an example of ________.",
+        "92) A manufacturer of a variety of technological devices asked its marketing department to develop inexpensive methods of building and maintaining brand awareness and excitement. The marketing department then recruited consumers who were early adopters of technological devices to spread the word about the company's new products. This is an example of ________.",
         "A) a reverse marketing activity",
         "B) nonpersonal marketing",
         "C) sales promotion",
@@ -16555,7 +16555,7 @@ let data = [
         ]
     ],
     [
-        "94) Many firms hire celebrities to appear in their advertisements. Which step of thecommunication process is represented?",
+        "94) Many firms hire celebrities to appear in their advertisements. Which step of the communication process is represented?",
         "A) collecting feedback",
         "B) designing a message",
         "C) selecting the message source",
@@ -16566,7 +16566,7 @@ let data = [
         ]
     ],
     [
-        "95) To ________, a marketer would most likely ask target audience members whether theyremember the message, how many times they saw it, and what points they remember.",
+        "95) To ________, a marketer would most likely ask target audience members whether they remember the message, how many times they saw it, and what points they remember.",
         "A) select a message source",
         "B) collect feedback",
         "C) select a message channel",
@@ -16577,7 +16577,7 @@ let data = [
         ]
     ],
     [
-        "96) In a recent radio spot, John and Barb gave a quick explanation of Sparkle's cleaning processand a description of the value consumers receive for their money. This is an example of a(n)________ appeal.",
+        "96) In a recent radio spot, John and Barb gave a quick explanation of Sparkle's cleaning process and a description of the value consumers receive for their money. This is an example of a(n) ________ appeal.",
         "A) emotional",
         "B) standard",
         "C) rational",
@@ -16588,7 +16588,7 @@ let data = [
         ]
     ],
     [
-        "97) John and Barb could have drawn attention to their services in several ways by usingeffective integrated marketing communications. Which of the following is NOT a part of anIMC strategy?",
+        "97) John and Barb could have drawn attention to their services in several ways by using effective integrated marketing communications. Which of the following is NOT a part of an IMC strategy?",
         "A) public relations",
         "B) personal selling",
         "C) direct marketing",
@@ -16599,7 +16599,7 @@ let data = [
         ]
     ],
     [
-        "119) While using the ________ method for setting an advertising budget, a company starts withtotal revenues, deducts operating expenses and capital outlays, and then devotes some portionof the remaining funds to advertising.",
+        "119) While using the ________ method for setting an advertising budget, a company starts with total revenues, deducts operating expenses and capital outlays, and then devotes some portion of the remaining funds to advertising.",
         "A) integrated",
         "B) moving-average",
         "C) competitive-parity",
@@ -16610,7 +16610,7 @@ let data = [
         ]
     ],
     [
-        "120) Which of the following statements is true regarding the affordable method for setting apromotion budget?",
+        "120) Which of the following statements is true regarding the affordable method for setting a promotion budget?",
         "A) It is mostly used by large businesses.",
         "B) It completely ignores the effects of promotion on sales.",
         "C) It tends to place promotion first among spending priorities.",
@@ -16621,7 +16621,7 @@ let data = [
         ]
     ],
     [
-        "121) Though the ________ method of setting an advertising budget is simple to use and helpsmanagement think about the relationships among promotion spending, selling price, and profitper unit, it wrongly views sales as the cause of promotion rather than the result.",
+        "121) Though the ________ method of setting an advertising budget is simple to use and helps management think about the relationships among promotion spending, selling price, and profit per unit, it wrongly views sales as the cause of promotion rather than the result.",
         "A) percentage-of-sales",
         "B) integrated",
         "C) competitive-parity",
@@ -16632,7 +16632,7 @@ let data = [
         ]
     ],
     [
-        "122) Which of the following methods is used by companies to set their advertising budgetsbased on the industry average?",
+        "122) Which of the following methods is used by companies to set their advertising budgets based on the industry average?",
         "A) percentage-of-sales method",
         "B) affordable method",
         "C) competitive-parity method",
@@ -16643,7 +16643,7 @@ let data = [
         ]
     ],
     [
-        "123) Sam, the owner of a small company, learned that a competitor was planning to spend$150,000 on promotion in the next financial year. As soon as he learned this, Sam called hisfinance manager and said, \"I want to spend $150,000 on promotion next year.\" In this case,which method of promotional budgeting does Sam use?",
+        "123) Sam, the owner of a small company, learned that a competitor was planning to spend $150,000 on promotion in the next financial year. As soon as he learned this, Sam called his finance manager and said, \"I want to spend $150,000 on promotion next year.\" In this case, which method of promotional budgeting does Sam use?",
         "A) the objective-and-task method",
         "B) the competitive-parity method",
         "C) the percentage-of-sales method",
@@ -16654,7 +16654,7 @@ let data = [
         ]
     ],
     [
-        "124) Which of the following statements is most likely true regarding the competitive-paritymethod?",
+        "124) Which of the following statements is most likely true regarding the competitive-parity method?",
         "A) This method involves starting with total revenues, deducting operating expenses and capital",
         "B) It is based on the availability of funds rather than on opportunities.",
         "C) It wrongly views sales as the cause of promotion rather than as the result.",
@@ -16676,7 +16676,7 @@ let data = [
         ]
     ],
     [
-        "126) Which budgeting method entails defining specific promotion goals, determining thenecessary tasks, and estimating the costs to determine a promotion budget?",
+        "126) Which budgeting method entails defining specific promotion goals, determining the necessary tasks, and estimating the costs to determine a promotion budget?",
         "A) percentage-of-sales method",
         "B) objective-and-task method",
         "C) affordable method",
@@ -16687,7 +16687,7 @@ let data = [
         ]
     ],
     [
-        "127) Which of the following statements is most likely true regarding the objective-and-taskmethod of budget setting?",
+        "127) Which of the following statements is most likely true regarding the objective-and-task method of budget setting?",
         "A) It forces management to spell out its assumptions about the relationship between the money",
         "B) It is the simplest and least time consuming method to use.",
         "C) It is the least logical budget-setting method.",
@@ -16698,7 +16698,7 @@ let data = [
         ]
     ],
     [
-        "128) Using a(n) ________ strategy, the producer directs its marketing activities toward finalconsumers to induce them to buy the product.",
+        "128) Using a(n) ________ strategy, the producer directs its marketing activities toward final consumers to induce them to buy the product.",
         "A) pull",
         "B) blitz",
         "C) push",
@@ -16742,7 +16742,7 @@ let data = [
         ]
     ],
     [
-        "132) Which of the following promotional tools is the most effective in building up buyers'preferences, convictions, and actions?",
+        "132) Which of the following promotional tools is the most effective in building up buyers' preferences, convictions, and actions?",
         "A) mass-market advertising",
         "B) sales promotion",
         "C) segmented advertising",
@@ -16753,7 +16753,7 @@ let data = [
         ]
     ],
     [
-        "133) ________ consists of strong short-term incentives that invite and reward quick responsesfrom customers.",
+        "133) ________ consists of strong short-term incentives that invite and reward quick responses from customers.",
         "A) Public relations",
         "B) Personal selling",
         "C) Advertising",
@@ -16764,7 +16764,7 @@ let data = [
         ]
     ],
     [
-        "134) Suppose Amazon.com has offered you free shipping on your next purchase of more than$35. This offer is an example of ________.",
+        "134) Suppose Amazon.com has offered you free shipping on your next purchase of more than $35. This offer is an example of ________.",
         "A) sales promotion",
         "B) personal selling",
         "C) a public relations strategy",
@@ -16775,7 +16775,7 @@ let data = [
         ]
     ],
     [
-        "135) ________ is very believable because news stories, features, sponsorships, and events seemmore real and believable to readers than ads do.",
+        "135) ________ is very believable because news stories, features, sponsorships, and events seem more real and believable to readers than ads do.",
         "A) Differentiated marketing",
         "B) Public relations",
         "C) Direct marketing",
@@ -16786,7 +16786,7 @@ let data = [
         ]
     ],
     [
-        "136) A newspaper article announced that Connect Wireless, the sixth-largest wireless carrier ina country, was changing its name to M-Mobile and that to begin the makeover process it hadreplaced spokesperson Robert Garmon with Catherine Naylor. Which of the following elementsof a promotion mix is represented in this example?",
+        "136) A newspaper article announced that Connect Wireless, the sixth-largest wireless carrier in a country, was changing its name to M-Mobile and that to begin the makeover process it had replaced spokesperson Robert Garmon with Catherine Naylor. Which of the following elements of a promotion mix is represented in this example?",
         "A) sales promotion",
         "B) advertising",
         "C) public relations",
@@ -16808,7 +16808,7 @@ let data = [
         ]
     ],
     [
-        "138) Under which promotional mix strategy does the producer direct its marketing activitiestoward channel members to induce them to carry the product and promote it to finalconsumers?",
+        "138) Under which promotional mix strategy does the producer direct its marketing activities toward channel members to induce them to carry the product and promote it to final consumers?",
         "A) pull strategy",
         "B) blitz strategy",
         "C) push strategy",
@@ -16819,7 +16819,7 @@ let data = [
         ]
     ],
     [
-        "139) The manufacturer of Crest toothpaste provides free samples of its toothpaste to dentistsand encourages them to distribute these samples to their patients and to inform the patientsabout advantages of using Crest. The manufacturer of Crest toothpaste is using ________.",
+        "139) The manufacturer of Crest toothpaste provides free samples of its toothpaste to dentists and encourages them to distribute these samples to their patients and to inform the patients about advantages of using Crest. The manufacturer of Crest toothpaste is using ________.",
         "A) sales promotion",
         "B) direct marketing",
         "C) a push strategy",
@@ -16830,7 +16830,7 @@ let data = [
         ]
     ],
     [
-        "140) Glasis is a type of paint made specifically for use on cars. An ad in Motor Trend magazineadvising consumers to request their auto body shops to use Glasis paint is an example of how acompany uses ________.",
+        "140) Glasis is a type of paint made specifically for use on cars. An ad in Motor Trend magazine advising consumers to request their auto body shops to use Glasis paint is an example of how a company uses ________.",
         "A) word-of-mouth influence",
         "B) public relations",
         "C) buzz marketing",
@@ -16841,7 +16841,7 @@ let data = [
         ]
     ],
     [
-        "141) Business-to-consumer companies are more likely to emphasize a ________ promotionstrategy, while business-to-business companies are more likely to emphasize a ________promotion strategy.",
+        "141) Business-to-consumer companies are more likely to emphasize a ________ promotion strategy, while business-to-business companies are more likely to emphasize a ________ promotion strategy.",
         "A) pull; push",
         "B) push; pull",
         "C) pulse; pull",
@@ -16852,7 +16852,7 @@ let data = [
         ]
     ],
     [
-        "142) John Deere does very little promoting of its lawn mowers and garden tractors to finalconsumers. Instead, John Deere's sales force works with Lowe's, Home Depot, independentdealers, and other channel members, who in turn sell John Deere products to final consumers.According to this information, which of the following promotion mix strategies is being usedby John Deere?",
+        "142) John Deere does very little promoting of its lawn mowers and garden tractors to final consumers. Instead, John Deere's sales force works with Lowe's, Home Depot, independent dealers, and other channel members, who in turn sell John Deere products to final consumers. According to this information, which of the following promotion mix strategies is being used by John Deere?",
         "A) public relations strategy",
         "B) direct marketing strategy",
         "C) push strategy",
@@ -16896,7 +16896,7 @@ let data = [
         ]
     ],
     [
-        "146) When starting their business, John and Barb would most likely have benefitted fromunderstanding ________.",
+        "146) When starting their business, John and Barb would most likely have benefitted from understanding ________.",
         "A) social media",
         "B) buzz marketing",
         "C) public relations campaigns",
@@ -16907,7 +16907,7 @@ let data = [
         ]
     ],
     [
-        "1) Any paid form of nonpersonal presentation and promotion of ideas, goods, or services by anidentified sponsor is called ________.",
+        "1) Any paid form of nonpersonal presentation and promotion of ideas, goods, or services by an identified sponsor is called ________.",
         "A) sales promotion",
         "B) direct marketing",
         "C) advertising",
@@ -16929,7 +16929,7 @@ let data = [
         ]
     ],
     [
-        "3) Marketing management must make important decisions when developing an advertisingprogram. Which of the following is NOT one of those decisions?",
+        "3) Marketing management must make important decisions when developing an advertising program. Which of the following is NOT one of those decisions?",
         "A) evaluating advertising effectiveness",
         "B) developing advertising strategy",
         "C) setting advertising objectives",
@@ -16951,7 +16951,7 @@ let data = [
         ]
     ],
     [
-        "8) The decisions about impact and engagement of an advertisement fall into the category of________ decisions.",
+        "8) The decisions about impact and engagement of an advertisement fall into the category of ________ decisions.",
         "A) sales objectives",
         "B) budget",
         "C) message",
@@ -16962,7 +16962,7 @@ let data = [
         ]
     ],
     [
-        "9) An advertising objective is classified by its primary purpose, which is to inform, persuade, or________.",
+        "9) An advertising objective is classified by its primary purpose, which is to inform, persuade, or ________.",
         "A) reciprocate",
         "B) compete",
         "C) remind",
@@ -17006,7 +17006,7 @@ let data = [
         ]
     ],
     [
-        "13) When P&G developed the Mr. Clean Magic Eraser, the company needed to explain how theproduct cleans grime from walls without removing paint. What type of campaign was mostlikely used by P&G for the Mr. Clean Magic Eraser?",
+        "13) When P&G developed the Mr. Clean Magic Eraser, the company needed to explain how the product cleans grime from walls without removing paint. What type of campaign was most likely used by P&G for the Mr. Clean Magic Eraser?",
         "A) informative advertising",
         "B) persuasive advertising",
         "C) reminder advertising",
@@ -17017,7 +17017,7 @@ let data = [
         ]
     ],
     [
-        "14) When the advertising objective is to build primary demand for a new product category,________ advertising will most likely be used.",
+        "14) When the advertising objective is to build primary demand for a new product category, ________ advertising will most likely be used.",
         "A) persuasive",
         "B) informative",
         "C) comparative",
@@ -17039,7 +17039,7 @@ let data = [
         ]
     ],
     [
-        "16) ________ becomes more important as competition increases. With this type of advertising,a company's objective is to build selective demand.",
+        "16) ________ becomes more important as competition increases. With this type of advertising, a company's objective is to build selective demand.",
         "A) Institutional advertising",
         "B) Informative advertising",
         "C) Reminder advertising",
@@ -17050,7 +17050,7 @@ let data = [
         ]
     ],
     [
-        "17) Persuasive advertising becomes ________ advertising when a company directly orindirectly compares its brand with one or more other brands.",
+        "17) Persuasive advertising becomes ________ advertising when a company directly or indirectly compares its brand with one or more other brands.",
         "A) informative",
         "B) reminder",
         "C) attack",
@@ -17072,7 +17072,7 @@ let data = [
         ]
     ],
     [
-        "19) When Verizon Wireless began offering the iPhone, it used its \"Can you hear me now?\"slogan to attack AT&T's rumored spotty service. This example best illustrates ________.",
+        "19) When Verizon Wireless began offering the iPhone, it used its \"Can you hear me now?\" slogan to attack AT&T's rumored spotty service. This example best illustrates ________.",
         "A) informative advertising",
         "B) reminder advertising",
         "C) comparative advertising",
@@ -17083,7 +17083,7 @@ let data = [
         ]
     ],
     [
-        "20) Encouraging customers to switch brands is most likely the objective of ________advertising.",
+        "20) Encouraging customers to switch brands is most likely the objective of ________ advertising.",
         "A) informative",
         "B) reminder",
         "C) covert",
@@ -17116,7 +17116,7 @@ let data = [
         ]
     ],
     [
-        "23) Keeping the brand in a customer's mind during off-seasons is most likely a goal of________ advertising.",
+        "23) Keeping the brand in a customer's mind during off-seasons is most likely a goal of ________ advertising.",
         "A) reminder",
         "B) attack",
         "C) informative",
@@ -17160,7 +17160,7 @@ let data = [
         ]
     ],
     [
-        "27) After determining its advertising objectives, a company's next step in developing anadvertising program is to ________.",
+        "27) After determining its advertising objectives, a company's next step in developing an advertising program is to ________.",
         "A) set an advertising budget",
         "B) determine the media vehicle",
         "C) use cash rebate offers",
@@ -17193,7 +17193,7 @@ let data = [
         ]
     ],
     [
-        "30) Which of the following brands most likely requires heavy advertising in order to be setapart from similar products?",
+        "30) Which of the following brands most likely requires heavy advertising in order to be set apart from similar products?",
         "A) undifferentiated brands",
         "B) specialty brands",
         "C) international brands",
@@ -17215,7 +17215,7 @@ let data = [
         ]
     ],
     [
-        "32) Which of the following would be the most likely result of slashing ad spending for aproduct?",
+        "32) Which of the following would be the most likely result of slashing ad spending for a product?",
         "A) increased popularity",
         "B) reduced long-term market share",
         "C) improved brand image",
@@ -17248,7 +17248,7 @@ let data = [
         ]
     ],
     [
-        "35) Which of the following statements is true regarding the vital importance of the media-planning function?",
+        "35) Which of the following statements is true regarding the vital importance of the media- planning function?",
         "A) With changing technologies, media costs are declining.",
         "B) Brand content is usually created in-house by the company.",
         "C) Which media to use is sometimes more critical than the creative elements of the messaging.",
@@ -17259,7 +17259,7 @@ let data = [
         ]
     ],
     [
-        "36) To break through the clutter, many marketers have subscribed to a new merging ofadvertising and entertainment, dubbed ________.",
+        "36) To break through the clutter, many marketers have subscribed to a new merging of advertising and entertainment, dubbed ________.",
         "A) Madison & Vine",
         "B) Wall St. & Fifth Ave",
         "C) buzz marketing",
@@ -17270,7 +17270,7 @@ let data = [
         ]
     ],
     [
-        "37) The aim of ________ is to make an advertisement so useful or entertaining that people wantto watch it.",
+        "37) The aim of ________ is to make an advertisement so useful or entertaining that people want to watch it.",
         "A) branded entertainment",
         "B) advertainment",
         "C) viral marketing",
@@ -17314,7 +17314,7 @@ let data = [
         ]
     ],
     [
-        "41) Which term refers to the general idea that will be communicated to consumers through anadvertisement?",
+        "41) Which term refers to the general idea that will be communicated to consumers through an advertisement?",
         "A) advertising appeal",
         "B) message strategy",
         "C) consumer-generated message",
@@ -17336,7 +17336,7 @@ let data = [
         ]
     ],
     [
-        "43) Developing an effective message strategy begins with identifying ________ that can beused as advertising appeals.",
+        "43) Developing an effective message strategy begins with identifying ________ that can be used as advertising appeals.",
         "A) consumer trends",
         "B) competitors' weaknesses",
         "C) competitors' strengths",
@@ -17347,7 +17347,7 @@ let data = [
         ]
     ],
     [
-        "44) ________ tend to be straightforward outlines of benefits and positioning points that theadvertiser wants to stress.",
+        "44) ________ tend to be straightforward outlines of benefits and positioning points that the advertiser wants to stress.",
         "A) Promotion mix plans",
         "B) Message strategy statements",
         "C) Creative concept strategies",
@@ -17358,7 +17358,7 @@ let data = [
         ]
     ],
     [
-        "45) After creating a message strategy statement, the advertiser must develop a compelling________ that will bring the message strategy to life in a distinctive and memorable way.",
+        "45) After creating a message strategy statement, the advertiser must develop a compelling ________ that will bring the message strategy to life in a distinctive and memorable way.",
         "A) creative concept",
         "B) customer strategy",
         "C) customer benefit",
@@ -17380,7 +17380,7 @@ let data = [
         ]
     ],
     [
-        "47) In its advertisements, Timex promotes its affordable and sturdy watches. Fossil emphasizesstyle and fashion in its advertisements, and Rolex stresses luxury and status. These are allexamples of ________ appeals.",
+        "47) In its advertisements, Timex promotes its affordable and sturdy watches. Fossil emphasizes style and fashion in its advertisements, and Rolex stresses luxury and status. These are all examples of ________ appeals.",
         "A) rational",
         "B) reminder",
         "C) believable",
@@ -17391,7 +17391,7 @@ let data = [
         ]
     ],
     [
-        "48) The advertiser must find the best approach, style, words, format, and ________ forexecuting the message.",
+        "48) The advertiser must find the best approach, style, words, format, and ________ for executing the message.",
         "A) media",
         "B) cost",
         "C) visuals",
@@ -17402,7 +17402,7 @@ let data = [
         ]
     ],
     [
-        "49) Which message execution style depicts average people using a product in an everydaysetting?",
+        "49) Which message execution style depicts average people using a product in an everyday setting?",
         "A) lifestyle",
         "B) scientific evidence",
         "C) slice of life",
@@ -17413,7 +17413,7 @@ let data = [
         ]
     ],
     [
-        "50) An ad for a new convection oven shows a busy professional woman using the convectionoven to cook dinner for her family. Which of the following message execution styles isillustrated in this example?",
+        "50) An ad for a new convection oven shows a busy professional woman using the convection oven to cook dinner for her family. Which of the following message execution styles is illustrated in this example?",
         "A) testimonial evidence",
         "B) slice of life",
         "C) fantasy",
@@ -17424,7 +17424,7 @@ let data = [
         ]
     ],
     [
-        "51) An ad for Athleta active wear shows a woman in a complex yoga pose and states: \"If yourbody is your temple, build it one piece at a time.\" This ad uses the ________ execution style.",
+        "51) An ad for Athleta active wear shows a woman in a complex yoga pose and states: \"If your body is your temple, build it one piece at a time.\" This ad uses the ________ execution style.",
         "A) slice of life",
         "B) lifestyle",
         "C) fantasy",
@@ -17435,7 +17435,7 @@ let data = [
         ]
     ],
     [
-        "52) Which of the following message execution styles focuses on the company's skill andknowledge in making the product?",
+        "52) Which of the following message execution styles focuses on the company's skill and knowledge in making the product?",
         "A) endorsement",
         "B) scientific evidence",
         "C) slice of life",
@@ -17446,7 +17446,7 @@ let data = [
         ]
     ],
     [
-        "53) A pharmaceutical ad features a world-renowned heart surgeon describing the benefits of amedication. Which of the following message execution styles is illustrated in this example?",
+        "53) A pharmaceutical ad features a world-renowned heart surgeon describing the benefits of a medication. Which of the following message execution styles is illustrated in this example?",
         "A) mood or image",
         "B) fantasy",
         "C) personality symbol",
@@ -17457,7 +17457,7 @@ let data = [
         ]
     ],
     [
-        "54) An IKEA ad shows consumers creating fanciful room designs with IKEA furniture, such as\"a bedroom for a queen made by Bree and her sister, designed by IKEA.\" Which of thefollowing message execution styles is illustrated in this example?",
+        "54) An IKEA ad shows consumers creating fanciful room designs with IKEA furniture, such as \"a bedroom for a queen made by Bree and her sister, designed by IKEA.\" Which of the following message execution styles is illustrated in this example?",
         "A) mood or image",
         "B) musical",
         "C) fantasy",
@@ -17468,7 +17468,7 @@ let data = [
         ]
     ],
     [
-        "55) Apple used an album by the band U2 to promote the Apple Watch announcement. Which ofthe following message execution styles is illustrated in this example?",
+        "55) Apple used an album by the band U2 to promote the Apple Watch announcement. Which of the following message execution styles is illustrated in this example?",
         "A) personality symbol",
         "B) musical",
         "C) fantasy",
@@ -17479,7 +17479,7 @@ let data = [
         ]
     ],
     [
-        "56) The advertisements that use the Aflac duck or the GEICO gecko are using the messageexecution style of ________.",
+        "56) The advertisements that use the Aflac duck or the GEICO gecko are using the message execution style of ________.",
         "A) lifestyle",
         "B) technical expertise",
         "C) testimonial evidence",
@@ -17490,7 +17490,7 @@ let data = [
         ]
     ],
     [
-        "57) Progressive Insurance uses Flo to represent its product. Which of the following messageexecution styles was used by Progressive Insurance?",
+        "57) Progressive Insurance uses Flo to represent its product. Which of the following message execution styles was used by Progressive Insurance?",
         "A) mood or image",
         "B) fantasy",
         "C) personality symbol",
@@ -17501,7 +17501,7 @@ let data = [
         ]
     ],
     [
-        "58) Which message execution style involves presenting survey data indicating that a brand isbetter than other brands?",
+        "58) Which message execution style involves presenting survey data indicating that a brand is better than other brands?",
         "A) scientific evidence",
         "B) testimonial evidence",
         "C) endorsement",
@@ -17512,7 +17512,7 @@ let data = [
         ]
     ],
     [
-        "59) Which of the following message execution styles features a highly believable or likablesource endorsing the product?",
+        "59) Which of the following message execution styles features a highly believable or likable source endorsing the product?",
         "A) musical",
         "B) mood or image",
         "C) testimonial evidence",
@@ -17523,7 +17523,7 @@ let data = [
         ]
     ],
     [
-        "60) Maybelline used Gigi Hadid, a model, to endorse a new range of cosmetics. This messageexecution style is referred to as ________.",
+        "60) Maybelline used Gigi Hadid, a model, to endorse a new range of cosmetics. This message execution style is referred to as ________.",
         "A) lifestyle",
         "B) testimonial evidence",
         "C) image",
@@ -17534,7 +17534,7 @@ let data = [
         ]
     ],
     [
-        "61) The McDonald's fast-food restaurant chain uses Ronald McDonald, a clown, as its primarycharacter. Which message execution style is used by McDonald's?",
+        "61) The McDonald's fast-food restaurant chain uses Ronald McDonald, a clown, as its primary character. Which message execution style is used by McDonald's?",
         "A) technical expertise",
         "B) lifestyle",
         "C) personality symbol",
@@ -17578,7 +17578,7 @@ let data = [
         ]
     ],
     [
-        "65) Which of the following is illustrated by an amateur 30-second video, developed by aconsumer, telling the story of the online crafts marketplace, Etsy.com?",
+        "65) Which of the following is illustrated by an amateur 30-second video, developed by a consumer, telling the story of the online crafts marketplace, Etsy.com?",
         "A) personal selling",
         "B) consumer-generated messages",
         "C) consumer ethnocentrism",
@@ -17622,7 +17622,7 @@ let data = [
         ]
     ],
     [
-        "69) ________ is a measure of the percentage of people in a target market who are exposed to anad campaign during a given period of time.",
+        "69) ________ is a measure of the percentage of people in a target market who are exposed to an ad campaign during a given period of time.",
         "A) Frequency",
         "B) Qualitative value",
         "C) Impact",
@@ -17644,7 +17644,7 @@ let data = [
         ]
     ],
     [
-        "71) You receive a report that 68 percent of your target market has been exposed to your adcampaign during a given period of time. Which of the following aspects of media selection isrepresented by this information?",
+        "71) You receive a report that 68 percent of your target market has been exposed to your ad campaign during a given period of time. Which of the following aspects of media selection is represented by this information?",
         "A) frequency",
         "B) reach",
         "C) impact",
@@ -17666,7 +17666,7 @@ let data = [
         ]
     ],
     [
-        "73) The number of times an average person in the target market is exposed to a message isknown as the ________ of the message.",
+        "73) The number of times an average person in the target market is exposed to a message is known as the ________ of the message.",
         "A) quantitative value",
         "B) reach",
         "C) frequency",
@@ -17721,7 +17721,7 @@ let data = [
         ]
     ],
     [
-        "78) Which of the following is a digital medium that is used by advertisers to reach consumersdirectly?",
+        "78) Which of the following is a digital medium that is used by advertisers to reach consumers directly?",
         "A) smartphone",
         "B) direct mail",
         "C) newspapers",
@@ -17743,7 +17743,7 @@ let data = [
         ]
     ],
     [
-        "80) You want to advertise your new product. You want good mass marketing coverage and lowcost per exposure. You also want to combine sight, sound, and motion and make theadvertisement appealing to the senses. You should choose ________ as your advertising media.",
+        "80) You want to advertise your new product. You want good mass marketing coverage and low cost per exposure. You also want to combine sight, sound, and motion and make the advertisement appealing to the senses. You should choose ________ as your advertising media.",
         "A) newspaper",
         "B) radio",
         "C) magazines",
@@ -17754,7 +17754,7 @@ let data = [
         ]
     ],
     [
-        "81) Snappy Cameras is launching a new advertising campaign to demonstrate the high qualityof its digital cameras. Which media option would give the audience the most control overexposure to the ads and interactive capabilities?",
+        "81) Snappy Cameras is launching a new advertising campaign to demonstrate the high quality of its digital cameras. Which media option would give the audience the most control over exposure to the ads and interactive capabilities?",
         "A) the Internet",
         "B) newspaper",
         "C) TV",
@@ -17765,7 +17765,7 @@ let data = [
         ]
     ],
     [
-        "82) Rather than measuring click-through rates, companies now want to track ________ as amore accurate measure of the engagement of the consumers in the message.",
+        "82) Rather than measuring click-through rates, companies now want to track ________ as a more accurate measure of the engagement of the consumers in the message.",
         "A) ratings",
         "B) consumer expressions",
         "C) listenership",
@@ -17776,7 +17776,7 @@ let data = [
         ]
     ],
     [
-        "83) While traditional mass media still make up a majority of today's media mixes, companieshave added digital, mobile, and social media that cost less, target more effectively, and________.",
+        "83) While traditional mass media still make up a majority of today's media mixes, companies have added digital, mobile, and social media that cost less, target more effectively, and ________.",
         "A) are quicker to create",
         "B) involve more departments in the company",
         "C) must be chosen carefully, since there are so many options",
@@ -17787,7 +17787,7 @@ let data = [
         ]
     ],
     [
-        "84) Finding ads on shopping carts, ATMs, transit buses, and even municipal garbage cans isknown as ________.",
+        "84) Finding ads on shopping carts, ATMs, transit buses, and even municipal garbage cans is known as ________.",
         "A) paid media",
         "B) earned media",
         "C) shared media",
@@ -17798,7 +17798,7 @@ let data = [
         ]
     ],
     [
-        "85) A Spanish-language channel runs its ads only in Hispanic neighborhoods. This is anexample of ________.",
+        "85) A Spanish-language channel runs its ads only in Hispanic neighborhoods. This is an example of ________.",
         "A) broadcasting",
         "B) buzz marketing",
         "C) narrow programming",
@@ -17820,7 +17820,7 @@ let data = [
         ]
     ],
     [
-        "87) Modern Family and The Wall Street Journal are both examples of ________—specificmedia within each general media type.",
+        "87) Modern Family and The Wall Street Journal are both examples of ________—specific media within each general media type.",
         "A) alternative media",
         "B) major media",
         "C) media vehicles",
@@ -17831,7 +17831,7 @@ let data = [
         ]
     ],
     [
-        "88) When selecting a media vehicle, the media planner looks both at the total cost of using amedium and at the ________.",
+        "88) When selecting a media vehicle, the media planner looks both at the total cost of using a medium and at the ________.",
         "A) cost per thousand persons reached",
         "B) cost of premium offers",
         "C) cost of the magazine it is using",
@@ -17842,7 +17842,7 @@ let data = [
         ]
     ],
     [
-        "89) When a media planner determines whether an advertisement for diapers should be placed inParents magazine or Sports Illustrated magazine, the planner is evaluating the media vehicle's________.",
+        "89) When a media planner determines whether an advertisement for diapers should be placed in Parents magazine or Sports Illustrated magazine, the planner is evaluating the media vehicle's ________.",
         "A) profit margin",
         "B) flexibility",
         "C) rate of depreciation",
@@ -17853,7 +17853,7 @@ let data = [
         ]
     ],
     [
-        "90) Audience quality, audience engagement, and editorial quality are most likely to beconsidered when a media planner ________.",
+        "90) Audience quality, audience engagement, and editorial quality are most likely to be considered when a media planner ________.",
         "A) decides on media timing",
         "B) selects an execution style",
         "C) selects a media vehicle",
@@ -17864,7 +17864,7 @@ let data = [
         ]
     ],
     [
-        "91) In the context of media timing, ________ means making decisions on scheduling ads eitherfollowing the seasonal pattern, opposing the seasonal pattern, or being the same all year.",
+        "91) In the context of media timing, ________ means making decisions on scheduling ads either following the seasonal pattern, opposing the seasonal pattern, or being the same all year.",
         "A) routing",
         "B) continuity",
         "C) sequencing",
@@ -17875,7 +17875,7 @@ let data = [
         ]
     ],
     [
-        "92) To measure the ________ effects of an ad after it has aired, the advertiser can evaluate howthe ad affected consumer recall, product awareness, attitude changes, and preference.",
+        "92) To measure the ________ effects of an ad after it has aired, the advertiser can evaluate how the ad affected consumer recall, product awareness, attitude changes, and preference.",
         "A) sales",
         "B) profit",
         "C) communication",
@@ -17897,7 +17897,7 @@ let data = [
         ]
     ],
     [
-        "94) Which of the following media options would be the LEAST costly for Second Avenue'spromotional efforts?",
+        "94) Which of the following media options would be the LEAST costly for Second Avenue's promotional efforts?",
         "A) periodic advertising in a local newspaper that follows a regular monthly schedule",
         "B) daily advertisements on a cable television station",
         "C) daily commercials during the local evening news",
@@ -17908,7 +17908,7 @@ let data = [
         ]
     ],
     [
-        "95) Second Avenue has just developed a 30-second television ad that features three differentshoppers enthusiastically shopping in the store and appreciating its products. This ad uses the________ execution style.",
+        "95) Second Avenue has just developed a 30-second television ad that features three different shoppers enthusiastically shopping in the store and appreciating its products. This ad uses the ________ execution style.",
         "A) slice of life",
         "B) technical expertise",
         "C) personality symbol",
@@ -17919,7 +17919,7 @@ let data = [
         ]
     ],
     [
-        "137) Which of the following promotion tools involves building up a positive corporate imageand handling unfavorable stories and events?",
+        "137) Which of the following promotion tools involves building up a positive corporate image and handling unfavorable stories and events?",
         "A) sales promotion",
         "B) personal selling",
         "C) direct marketing",
@@ -17930,7 +17930,7 @@ let data = [
         ]
     ],
     [
-        "138) Kathy Champe, a public relations specialist for a regional chain of pharmacies, regularlycontacts members of the local and statewide media with information about community eventsand charity fundraisers sponsored by her company. This is an example of the ________function of public relations.",
+        "138) Kathy Champe, a public relations specialist for a regional chain of pharmacies, regularly contacts members of the local and statewide media with information about community events and charity fundraisers sponsored by her company. This is an example of the ________ function of public relations.",
         "A) press relations",
         "B) product publicity",
         "C) investor relations",
@@ -17941,7 +17941,7 @@ let data = [
         ]
     ],
     [
-        "139) One of the functions performed by a PR department is ________, which involves buildingand maintaining relations with legislators and government officials to influence legislation andregulation.",
+        "139) One of the functions performed by a PR department is ________, which involves building and maintaining relations with legislators and government officials to influence legislation and regulation.",
         "A) direct marketing",
         "B) press relations management",
         "C) investor relations management",
@@ -17952,7 +17952,7 @@ let data = [
         ]
     ],
     [
-        "140) One of the functions performed by a PR department is ________, which involves workingwith donors or members of nonprofit organizations to gain financial or volunteer support.",
+        "140) One of the functions performed by a PR department is ________, which involves working with donors or members of nonprofit organizations to gain financial or volunteer support.",
         "A) direct marketing",
         "B) press relations management",
         "C) investor relations management",
@@ -17963,7 +17963,7 @@ let data = [
         ]
     ],
     [
-        "141) The National Pork Board developed \"Pork. The Other White Meat\" campaign. Thecampaign provided nutritional information and pork recipes in an attempt to encourage peopleto view pork as a tasty alternative to poultry and fish. Which of the following functions was thegoal of this public relations campaign?",
+        "141) The National Pork Board developed \"Pork. The Other White Meat\" campaign. The campaign provided nutritional information and pork recipes in an attempt to encourage people to view pork as a tasty alternative to poultry and fish. Which of the following functions was the goal of this public relations campaign?",
         "A) influencing government regulations on pork",
         "B) gaining financial support for pork producers",
         "C) creating newsworthy information about pork",
@@ -17974,7 +17974,7 @@ let data = [
         ]
     ],
     [
-        "142) Which of the following public relations functions involves maintaining relationships withshareholders and those in the financial community?",
+        "142) Which of the following public relations functions involves maintaining relationships with shareholders and those in the financial community?",
         "A) direct marketing",
         "B) press relations management",
         "C) investor relations management",
@@ -18007,7 +18007,7 @@ let data = [
         ]
     ],
     [
-        "145) Which of the following is NOT one of the publics to which a public relations departmentmust answer?",
+        "145) Which of the following is NOT one of the publics to which a public relations department must answer?",
         "A) stockholders",
         "B) legislators",
         "C) the press",
@@ -18018,7 +18018,7 @@ let data = [
         ]
     ],
     [
-        "146) Which of the following best explains why public relations is often overlooked as a tool forsupporting product marketing objectives?",
+        "146) Which of the following best explains why public relations is often overlooked as a tool for supporting product marketing objectives?",
         "A) Public relations departments are typically large divisions within corporations.",
         "B) The time and costs associated with public relations prohibit its extensive use.",
         "C) Public relations specialists lack the skills necessary to work with marketing experts.",
@@ -18029,7 +18029,7 @@ let data = [
         ]
     ],
     [
-        "147) The owner of Second Avenue wants to establish a community clothing drive to collectclothes for a local children's shelter. The owner is planning to set up collection barrels outsideSecond Avenue. In this case, which of the following public relations tools is being used by theowner?",
+        "147) The owner of Second Avenue wants to establish a community clothing drive to collect clothes for a local children's shelter. The owner is planning to set up collection barrels outside Second Avenue. In this case, which of the following public relations tools is being used by the owner?",
         "A) press relations",
         "B) product publicity",
         "C) lobbying",
@@ -18062,7 +18062,7 @@ let data = [
         ]
     ],
     [
-        "157) News conferences, press tours, and grand openings are examples of ________, a type oftool commonly used by public relations professionals.",
+        "157) News conferences, press tours, and grand openings are examples of ________, a type of tool commonly used by public relations professionals.",
         "A) public service activities",
         "B) special events",
         "C) social networking",
@@ -18073,7 +18073,7 @@ let data = [
         ]
     ],
     [
-        "158) Which of the following would most likely be included in the written materials prepared byPR professionals to reach and influence target markets?",
+        "158) Which of the following would most likely be included in the written materials prepared by PR professionals to reach and influence target markets?",
         "A) employee code of conduct",
         "B) annual reports",
         "C) memorandum of association",
@@ -18095,7 +18095,7 @@ let data = [
         ]
     ],
     [
-        "160) Logos, uniforms, brochures, and company trucks are all examples of ________ materialsthat can be used to help a company create a visual image which the public can immediatelyrecognize.",
+        "160) Logos, uniforms, brochures, and company trucks are all examples of ________ materials that can be used to help a company create a visual image which the public can immediately recognize.",
         "A) direct marketing",
         "B) social marketing",
         "C) public service",
@@ -18106,7 +18106,7 @@ let data = [
         ]
     ],
     [
-        "161) In an attempt to set the company apart from its competitors, Central Parcel Service (CPS)has its employees wear brown uniforms and drive brown trucks. What type of public relationstool is being used by CPS?",
+        "161) In an attempt to set the company apart from its competitors, Central Parcel Service (CPS) has its employees wear brown uniforms and drive brown trucks. What type of public relations tool is being used by CPS?",
         "A) buzz marketing",
         "B) corporate logos",
         "C) corporate identity materials",
@@ -18117,7 +18117,7 @@ let data = [
         ]
     ],
     [
-        "162) Steps involved in determining when and how to use product public relations include________, choosing the PR message and media, implementing the PR plan, and evaluating theresults, plus integrating with the full marketing communications effort.",
+        "162) Steps involved in determining when and how to use product public relations include ________, choosing the PR message and media, implementing the PR plan, and evaluating the results, plus integrating with the full marketing communications effort.",
         "A) defining the budget",
         "B) hiring the media creators",
         "C) collecting feedback",
@@ -18139,7 +18139,7 @@ let data = [
         ]
     ],
     [
-        "2) A(n) ________ is an individual who represents a company to customers by prospecting,communicating, selling, servicing, information gathering, and/or relationship building.",
+        "2) A(n) ________ is an individual who represents a company to customers by prospecting, communicating, selling, servicing, information gathering, and/or relationship building.",
         "A) auditor",
         "B) trainer",
         "C) salesperson",
@@ -18161,7 +18161,7 @@ let data = [
         ]
     ],
     [
-        "4) Which of the following is NOT a position that a salesperson covers?1",
+        "4) Which of the following is NOT a position that a salesperson covers? 1",
         "A) order taker",
         "B) creative seller",
         "C) order getter",
@@ -18183,7 +18183,7 @@ let data = [
         ]
     ],
     [
-        "6) Which of the following would most likely improve coordination between marketing andsales?",
+        "6) Which of the following would most likely improve coordination between marketing and sales?",
         "A) Salespeople should directly participate in the development of new products.",
         "B) Salespeople should participate in marketing planning sessions by sharing firsthand customer",
         "C) The sales force should strategize promotional strategies and be the primary decision makers",
@@ -18205,7 +18205,7 @@ let data = [
         ]
     ],
     [
-        "8) At Price & Wallace Inc., a pharmaceuticals company, members of the sales force andmarketing department tend to have disagreements when things go wrong with a customer. Themarketers blame the salespeople for poorly executing their strategies, while the salespeopleblame the marketers for being out of touch with customers. Which of the following steps shouldupper management at Price & Wallace take to help bring the sales and marketing functionscloser together?",
+        "8) At Price & Wallace Inc., a pharmaceuticals company, members of the sales force and marketing department tend to have disagreements when things go wrong with a customer. The marketers blame the salespeople for poorly executing their strategies, while the salespeople blame the marketers for being out of touch with customers. Which of the following steps should upper management at Price & Wallace take to help bring the sales and marketing functions closer together?",
         "A) establish a customer sales force structure and make sure that sales quotas are easily",
         "B) establish a complex sales force structure",
         "C) emphasize traditional methods of selling",
@@ -18216,7 +18216,7 @@ let data = [
         ]
     ],
     [
-        "14) ________ is defined as analyzing, planning, implementing, and controlling sales forceactivities.",
+        "14) ________ is defined as analyzing, planning, implementing, and controlling sales force activities.",
         "A) Benchmarking",
         "B) Sales force management",
         "C) Business intelligence",
@@ -18238,7 +18238,7 @@ let data = [
         ]
     ],
     [
-        "16) Which of the following questions is NOT asked when designing a sales force strategy andstructure?",
+        "16) Which of the following questions is NOT asked when designing a sales force strategy and structure?",
         "A) Should salespeople sell in the field, by phone, or using online and social media?",
         "B) Should salespeople work alone or in teams with other company employees?",
         "C) How big should the sales force be?",
@@ -18249,7 +18249,7 @@ let data = [
         ]
     ],
     [
-        "17) In the ________, each salesperson is assigned to an exclusive geographic area and sells thecompany's full line of products or services to all customers in that region.",
+        "17) In the ________, each salesperson is assigned to an exclusive geographic area and sells the company's full line of products or services to all customers in that region.",
         "A) territorial sales force structure",
         "B) digital marketing system",
         "C) product sales force structure",
@@ -18271,7 +18271,7 @@ let data = [
         ]
     ],
     [
-        "19) Ultra Tech Inc., a company manufacturing gardening tools, has decided to switch to aterritorial sales force structure. Which of the following benefits is the company most likely togain as a result of this decision?",
+        "19) Ultra Tech Inc., a company manufacturing gardening tools, has decided to switch to a territorial sales force structure. Which of the following benefits is the company most likely to gain as a result of this decision?",
         "A) The cost of training new recruits would be eliminated.",
         "B) An increased focus on short-term customer relationships would boost local sales of",
         "C) Each salesperson would be assigned to sell a single product in which he/she specializes.",
@@ -18282,7 +18282,7 @@ let data = [
         ]
     ],
     [
-        "20) If a company ________, it should adopt a product sales force structure, in which the salesforce specializes along product lines.",
+        "20) If a company ________, it should adopt a product sales force structure, in which the sales force specializes along product lines.",
         "A) specializes in a single product",
         "B) manufactures a small number of simple products",
         "C) maintains that product specialization is counterproductive",
@@ -18326,7 +18326,7 @@ let data = [
         ]
     ],
     [
-        "24) Johnson Business Solutions maintains one sales force for its copy machines and a separatesales force for its computer systems. Johnson Business Solutions utilizes a ________.",
+        "24) Johnson Business Solutions maintains one sales force for its copy machines and a separate sales force for its computer systems. Johnson Business Solutions utilizes a ________.",
         "A) product sales force structure",
         "B) customer sales force structure",
         "C) territorial sales force structure",
@@ -18348,7 +18348,7 @@ let data = [
         ]
     ],
     [
-        "26) Morrill Motors splits the United States of America into 10 sales regions. Within each ofthose regions, the company has separate sales personnel selling the company's full line ofproducts. Morrill Motors uses a ________ sales force structure.",
+        "26) Morrill Motors splits the United States of America into 10 sales regions. Within each of those regions, the company has separate sales personnel selling the company's full line of products. Morrill Motors uses a ________ sales force structure.",
         "A) territorial",
         "B) complex",
         "C) customer",
@@ -18381,7 +18381,7 @@ let data = [
         ]
     ],
     [
-        "29) Sigma Inc. has 2,000 Type-A accounts, each requiring 35 calls per year, and 1,000 Type-Baccounts, each requiring 15 calls per year. What is the sales force's workload?",
+        "29) Sigma Inc. has 2,000 Type-A accounts, each requiring 35 calls per year, and 1,000 Type-B accounts, each requiring 15 calls per year. What is the sales force's workload?",
         "A) 15,000 calls",
         "B) 35,000 calls",
         "C) 70,000 calls",
@@ -18392,7 +18392,7 @@ let data = [
         ]
     ],
     [
-        "30) Stahl Inc. has 1,000 A-level accounts, each requiring 30 calls per year, and 3,000 B-levelaccounts, each requiring 10 calls per year. If each salesperson at Stahl Inc. can make 1,500sales calls per year, how many salespeople would be needed to meet the total workload?",
+        "30) Stahl Inc. has 1,000 A-level accounts, each requiring 30 calls per year, and 3,000 B-level accounts, each requiring 10 calls per year. If each salesperson at Stahl Inc. can make 1,500 sales calls per year, how many salespeople would be needed to meet the total workload?",
         "A) 25",
         "B) 35",
         "C) 40",
@@ -18403,7 +18403,7 @@ let data = [
         ]
     ],
     [
-        "31) Kevin is a salesperson working for a company that manufactures gardening tools. He isinvolved in door-to-door sales and travels every day to call on customers. In his company,Kevin is most likely a part of the ________.",
+        "31) Kevin is a salesperson working for a company that manufactures gardening tools. He is involved in door-to-door sales and travels every day to call on customers. In his company, Kevin is most likely a part of the ________.",
         "A) top management",
         "B) inside sales force",
         "C) product designing team",
@@ -18414,7 +18414,7 @@ let data = [
         ]
     ],
     [
-        "32) Robin works in a manufacturing company in Ohio. She sells products and handles customerrequests via the company's online live chat feature. In her company, Robin is most likely a partof the ________.",
+        "32) Robin works in a manufacturing company in Ohio. She sells products and handles customer requests via the company's online live chat feature. In her company, Robin is most likely a part of the ________.",
         "A) outside sales force",
         "B) inside sales force",
         "C) product designing team",
@@ -18436,7 +18436,7 @@ let data = [
         ]
     ],
     [
-        "34) Kelly works as a sales representative at Ginner Machine Works. She uses the phone and theInternet to identify prospects and make sales. Kelly calls customers and explains the productsoffered by Ginner and the advantages of using them. If requested, she also mails the customerproduct information brochures. Which of the following is most likely Kelly involved in?",
+        "34) Kelly works as a sales representative at Ginner Machine Works. She uses the phone and the Internet to identify prospects and make sales. Kelly calls customers and explains the products offered by Ginner and the advantages of using them. If requested, she also mails the customer product information brochures. Which of the following is most likely Kelly involved in?",
         "A) outside selling",
         "B) technical sales support",
         "C) telemarketing and online selling",
@@ -18458,7 +18458,7 @@ let data = [
         ]
     ],
     [
-        "36) Travis Computing Systems earns most of its revenue from sales and in-person computerservices. The sales force at Travis recently began telemarketing and online selling. How wouldtelemarketing and online selling most likely benefit Travis?",
+        "36) Travis Computing Systems earns most of its revenue from sales and in-person computer services. The sales force at Travis recently began telemarketing and online selling. How would telemarketing and online selling most likely benefit Travis?",
         "A) The need for an outside sales force would be completely eliminated through telemarketing.",
         "B) Travis sales reps would be able to engage in more frequent face-to-face interaction with",
         "C) Travis sales reps would be able to service hard-to-reach customers more effectively.",
@@ -18469,7 +18469,7 @@ let data = [
         ]
     ],
     [
-        "37) Amanda Perkins is a senior sales manager in Arlington Steelworks. As the customer base ofher company has grown larger and more demanding over the last few years, Amanda insists on________, or using groups of people from various departments such as sales, technical support,engineering, and even upper management to service complex accounts.",
+        "37) Amanda Perkins is a senior sales manager in Arlington Steelworks. As the customer base of her company has grown larger and more demanding over the last few years, Amanda insists on ________, or using groups of people from various departments such as sales, technical support, engineering, and even upper management to service complex accounts.",
         "A) cross selling",
         "B) e-procurement",
         "C) team selling",
@@ -18480,7 +18480,7 @@ let data = [
         ]
     ],
     [
-        "38) Which of the following best explains why companies are adopting the team sellingapproach to service large, complex accounts?",
+        "38) Which of the following best explains why companies are adopting the team selling approach to service large, complex accounts?",
         "A) Products have become too complicated for one salesperson to handle a large company's",
         "B) Customers prefer dealing with many salespeople rather than one sales representative.",
         "C) Job rotation, an integral part of team selling, keeps workers motivated and boosts their",
@@ -18513,7 +18513,7 @@ let data = [
         ]
     ],
     [
-        "41) Hannah Adams is a senior sales manager in Elmo Corp., a rapidly growing companymanufacturing personal computers and printers. In order to handle sales effectively, Hannahinsists on using the services of different groups of people from different departments within thecompany such as the sales, marketing, technical support, and finance departments. In thisinstance, Hannah makes use of ________.",
+        "41) Hannah Adams is a senior sales manager in Elmo Corp., a rapidly growing company manufacturing personal computers and printers. In order to handle sales effectively, Hannah insists on using the services of different groups of people from different departments within the company such as the sales, marketing, technical support, and finance departments. In this instance, Hannah makes use of ________.",
         "A) team selling",
         "B) competitive marketing intelligence",
         "C) hybrid selling",
@@ -18524,7 +18524,7 @@ let data = [
         ]
     ],
     [
-        "42) All of the following are problems associated with the poor selection of salespeopleEXCEPT ________.",
+        "42) All of the following are problems associated with the poor selection of salespeople EXCEPT ________.",
         "A) lower sales",
         "B) costly turnover",
         "C) less productivity",
@@ -18535,7 +18535,7 @@ let data = [
         ]
     ],
     [
-        "43) Eric Brown is a human resource manager in a company selling and manufacturing personalcomputers. Who among the following is Eric most likely to hire as a salesperson if his objectiveis to minimize training costs post recruitment?",
+        "43) Eric Brown is a human resource manager in a company selling and manufacturing personal computers. Who among the following is Eric most likely to hire as a salesperson if his objective is to minimize training costs post recruitment?",
         "A) Samantha, a fresh college graduate",
         "B) Richard, a product developer from a competing firm",
         "C) Nancy, an experienced engineer with no prior experience in personal selling",
@@ -18546,7 +18546,7 @@ let data = [
         ]
     ],
     [
-        "44) Which of the following abilities would LEAST likely be measured when recruiting andtesting applicants for a sales position?",
+        "44) Which of the following abilities would LEAST likely be measured when recruiting and testing applicants for a sales position?",
         "A) sales aptitude",
         "B) work style",
         "C) accounting skills",
@@ -18557,7 +18557,7 @@ let data = [
         ]
     ],
     [
-        "45) The purpose of a training program for salespeople is to teach them about all of thefollowing EXCEPT ________.",
+        "45) The purpose of a training program for salespeople is to teach them about all of the following EXCEPT ________.",
         "A) customers' buying habits",
         "B) customers' buying motives",
         "C) competitor strategies",
@@ -18568,7 +18568,7 @@ let data = [
         ]
     ],
     [
-        "46) Which of the following is a primary reason that companies use e-learning to conduct salestraining programs?",
+        "46) Which of the following is a primary reason that companies use e-learning to conduct sales training programs?",
         "A) Customer needs and habits can be unambiguously conveyed through online training",
         "B) Sales training programs that do not use e-learning are mostly ineffective.",
         "C) E-learning eliminates employee attrition.",
@@ -18590,7 +18590,7 @@ let data = [
         ]
     ],
     [
-        "48) All of the following are basic types of compensation plans for salespeople EXCEPT________.",
+        "48) All of the following are basic types of compensation plans for salespeople EXCEPT ________.",
         "A) straight commission",
         "B) straight salary",
         "C) salary plus commission",
@@ -18601,7 +18601,7 @@ let data = [
         ]
     ],
     [
-        "49) More and more companies are moving away from high-commission plans because________.",
+        "49) More and more companies are moving away from high-commission plans because ________.",
         "A) outside salespeople tend to undermine the efforts of the inside sales team",
         "B) high-commission plans require salespeople to work overtime",
         "C) salespeople tend to become pushy which affects customer relationships",
@@ -18612,7 +18612,7 @@ let data = [
         ]
     ],
     [
-        "50) Which of the following is most likely a true statement about sales compensation ineconomically tough circumstances?",
+        "50) Which of the following is most likely a true statement about sales compensation in economically tough circumstances?",
         "A) Cutting sales force compensation is usually a last resort for firms that want to maintain",
         "B) Morale is boosted by distributing commissions equally among low and high sales",
         "C) Online selling is discontinued to improve customer relations.",
@@ -18623,7 +18623,7 @@ let data = [
         ]
     ],
     [
-        "51) A(n) ________ shows how much time is spent selling, traveling, waiting, taking breaks,and doing administrative chores by the salesperson.",
+        "51) A(n) ________ shows how much time is spent selling, traveling, waiting, taking breaks, and doing administrative chores by the salesperson.",
         "A) customer relationship management tool",
         "B) corporate social networking site",
         "C) time-and-duty analysis tool",
@@ -18645,7 +18645,7 @@ let data = [
         ]
     ],
     [
-        "53) Which of the following involves computerized, digitized sales force operations that letsalespeople work more effectively anytime, anywhere?",
+        "53) Which of the following involves computerized, digitized sales force operations that let salespeople work more effectively anytime, anywhere?",
         "A) SWOT analysis",
         "B) BCG matrix",
         "C) digital marketing system",
@@ -18667,7 +18667,7 @@ let data = [
         ]
     ],
     [
-        "55) ________ refers to the standard that establishes the amount each salesperson should selland how sales should be divided among the company's products.",
+        "55) ________ refers to the standard that establishes the amount each salesperson should sell and how sales should be divided among the company's products.",
         "A) Conditional sale",
         "B) A bill of sale",
         "C) A sales quota",
@@ -18678,7 +18678,7 @@ let data = [
         ]
     ],
     [
-        "56) Which of the following refers to a positive incentive intended to increase the sales forceeffort?",
+        "56) Which of the following refers to a positive incentive intended to increase the sales force effort?",
         "A) sales contests",
         "B) prospecting",
         "C) telecommuting",
@@ -18689,7 +18689,7 @@ let data = [
         ]
     ],
     [
-        "57) Mary Conti, a sales manager at National Computer Training, wants to evaluate theperformance of her sales force in the New England territory. Which of the following wouldMary most likely use?",
+        "57) Mary Conti, a sales manager at National Computer Training, wants to evaluate the performance of her sales force in the New England territory. Which of the following would Mary most likely use?",
         "A) SWOT analysis",
         "B) breakeven analysis",
         "C) sales forecast",
@@ -18700,7 +18700,7 @@ let data = [
         ]
     ],
     [
-        "58) At the beginning of each year, the management of Dee Decor states the exact amount asalesperson should sell. This specific sales target is also known as a ________.",
+        "58) At the beginning of each year, the management of Dee Decor states the exact amount a salesperson should sell. This specific sales target is also known as a ________.",
         "A) sales lead",
         "B) prospect",
         "C) bill of sale",
@@ -18722,7 +18722,7 @@ let data = [
         ]
     ],
     [
-        "60) For sales managers to understand how the members of the Reliable Tools sales force spendtheir time, the salespeople must submit a(n) ________.",
+        "60) For sales managers to understand how the members of the Reliable Tools sales force spend their time, the salespeople must submit a(n) ________.",
         "A) expense report",
         "B) time-and-duty analysis",
         "C) mobile conferencing schedule",
@@ -18733,7 +18733,7 @@ let data = [
         ]
     ],
     [
-        "61) Several compensation plans are available to reward and motivate Reliable Tool'ssalespeople. Since generating new leads and new business can be a goal for the sales force,which compensation plan approach is MOST likely to motivate and direct the salespeople inthat direction?",
+        "61) Several compensation plans are available to reward and motivate Reliable Tool's salespeople. Since generating new leads and new business can be a goal for the sales force, which compensation plan approach is MOST likely to motivate and direct the salespeople in that direction?",
         "A) straight commission",
         "B) salary plus bonus",
         "C) straight salary",
@@ -18744,7 +18744,7 @@ let data = [
         ]
     ],
     [
-        "62) Purposes of social selling, the use of online, mobile, and social media, are to do all of thefollowing EXCEPT ________.",
+        "62) Purposes of social selling, the use of online, mobile, and social media, are to do all of the following EXCEPT ________.",
         "A) augment sales performance",
         "B) eliminate person-to-person selling",
         "C) build stronger customer relationships",
@@ -18788,7 +18788,7 @@ let data = [
         ]
     ],
     [
-        "97) In the ________ stage of the selling process, a company first identifies qualified potentialcustomers.",
+        "97) In the ________ stage of the selling process, a company first identifies qualified potential customers.",
         "A) preapproach",
         "B) follow-up",
         "C) prospecting",
@@ -18799,7 +18799,7 @@ let data = [
         ]
     ],
     [
-        "98) Prospects can be qualified by looking at all of the following characteristics EXCEPT________.",
+        "98) Prospects can be qualified by looking at all of the following characteristics EXCEPT ________.",
         "A) occupational mobility",
         "B) financial ability",
         "C) volume of business",
@@ -18810,7 +18810,7 @@ let data = [
         ]
     ],
     [
-        "99) During the prospecting stage, a salesperson needs to identify the good leads and screen outthe poor ones through a process known as ________.",
+        "99) During the prospecting stage, a salesperson needs to identify the good leads and screen out the poor ones through a process known as ________.",
         "A) closing",
         "B) satisficing",
         "C) presenting",
@@ -18821,7 +18821,7 @@ let data = [
         ]
     ],
     [
-        "100) Salespeople can draw prospective leads by referrals from all of the following EXCEPT________.",
+        "100) Salespeople can draw prospective leads by referrals from all of the following EXCEPT ________.",
         "A) current customers",
         "B) suppliers",
         "C) dealers",
@@ -18832,7 +18832,7 @@ let data = [
         ]
     ],
     [
-        "101) Before calling on a prospect, the salesperson should learn as much as possible about theorganization and its buyers. This step is known as ________.",
+        "101) Before calling on a prospect, the salesperson should learn as much as possible about the organization and its buyers. This step is known as ________.",
         "A) preapproach",
         "B) closing",
         "C) approach",
@@ -18865,7 +18865,7 @@ let data = [
         ]
     ],
     [
-        "104) In which of the following steps of the selling process is a salesperson most likely to meetthe customer for the first time?",
+        "104) In which of the following steps of the selling process is a salesperson most likely to meet the customer for the first time?",
         "A) prospecting",
         "B) preapproach",
         "C) follow-up",
@@ -18887,7 +18887,7 @@ let data = [
         ]
     ],
     [
-        "106) During the ________ step of the selling process, the salesperson tells the value story to thebuyer, showing how the company's product or service solves the customer's problems.",
+        "106) During the ________ step of the selling process, the salesperson tells the value story to the buyer, showing how the company's product or service solves the customer's problems.",
         "A) prospecting",
         "B) preapproach",
         "C) presentation",
@@ -18931,7 +18931,7 @@ let data = [
         ]
     ],
     [
-        "110) Which of the following steps in the selling process is most focused on ensuring customersatisfaction and repeat business?",
+        "110) Which of the following steps in the selling process is most focused on ensuring customer satisfaction and repeat business?",
         "A) preapproach",
         "B) demonstration",
         "C) handling objections",
@@ -18953,7 +18953,7 @@ let data = [
         ]
     ],
     [
-        "112) A salesperson of a manufacturing company has qualified a number of leads. Which of thefollowing is most likely the next step in the selling process?",
+        "112) A salesperson of a manufacturing company has qualified a number of leads. Which of the following is most likely the next step in the selling process?",
         "A) calling on all the prospects one by one",
         "B) closing the deal with the most promising prospect",
         "C) learning as much as possible about the qualified prospects",
@@ -18964,7 +18964,7 @@ let data = [
         ]
     ],
     [
-        "113) Melissa Price is a member of the sales force at Urban Fashions, a Houston-basedmanufacturer of women's apparel. Melissa is preparing for a first meeting with a wholesalerwho is a potential customer. She is learning as much as she can about her prospect and hisorganization. Melissa is in the ________ step of the personal selling process.",
+        "113) Melissa Price is a member of the sales force at Urban Fashions, a Houston-based manufacturer of women's apparel. Melissa is preparing for a first meeting with a wholesaler who is a potential customer. She is learning as much as she can about her prospect and his organization. Melissa is in the ________ step of the personal selling process.",
         "A) prospecting",
         "B) qualifying",
         "C) preapproach",
@@ -18986,7 +18986,7 @@ let data = [
         ]
     ],
     [
-        "115) Richard, a salesperson, works for Wellington Steelworks. After researching a qualifiedlead, Richard is preparing opening lines for meeting the customer for the first time. Which stepof the selling process is he about to enter?",
+        "115) Richard, a salesperson, works for Wellington Steelworks. After researching a qualified lead, Richard is preparing opening lines for meeting the customer for the first time. Which step of the selling process is he about to enter?",
         "A) follow-up",
         "B) handling objections",
         "C) approach",
@@ -18997,7 +18997,7 @@ let data = [
         ]
     ],
     [
-        "116) Capitalizing on the customer's complaints about the previous detergents she has used,Sheila, a salesperson, explains to the customer why her company's detergent Swish is better andhow it can be a one-stop solution for everyday washing. In which of the following steps of theselling process is Sheila?",
+        "116) Capitalizing on the customer's complaints about the previous detergents she has used, Sheila, a salesperson, explains to the customer why her company's detergent Swish is better and how it can be a one-stop solution for everyday washing. In which of the following steps of the selling process is Sheila?",
         "A) follow-up",
         "B) handling objections",
         "C) preapproach",
@@ -19008,7 +19008,7 @@ let data = [
         ]
     ],
     [
-        "117) After successfully overcoming a potential customer's objection to buying the vacuumcleaner he was selling, Terrence, a salesperson, asked the customer for an order. Terrence is inthe ________ stage of the selling process.",
+        "117) After successfully overcoming a potential customer's objection to buying the vacuum cleaner he was selling, Terrence, a salesperson, asked the customer for an order. Terrence is in the ________ stage of the selling process.",
         "A) follow-up",
         "B) approach",
         "C) preapproach",
@@ -19019,7 +19019,7 @@ let data = [
         ]
     ],
     [
-        "118) Right after closing, Joshua, a senior sales manager at Halcyon Technologies, called up thecustomer to ensure that she was satisfied with Halcyon's products. By calling the customer,Joshua also wanted to ensure repeat business. In this instance, Joshua is in the ________ stageof the selling process.",
+        "118) Right after closing, Joshua, a senior sales manager at Halcyon Technologies, called up the customer to ensure that she was satisfied with Halcyon's products. By calling the customer, Joshua also wanted to ensure repeat business. In this instance, Joshua is in the ________ stage of the selling process.",
         "A) follow-up",
         "B) handling objections",
         "C) preapproach",
@@ -19030,7 +19030,7 @@ let data = [
         ]
     ],
     [
-        "130) ________ consists of short-term incentives to encourage the purchase of a product orservice.",
+        "130) ________ consists of short-term incentives to encourage the purchase of a product or service.",
         "A) Value selling",
         "B) Conditional sale",
         "C) Advertising",
@@ -19041,7 +19041,7 @@ let data = [
         ]
     ],
     [
-        "131) Which of the following factors has most likely contributed to the rapid growth of salespromotion, particularly in consumer markets?",
+        "131) Which of the following factors has most likely contributed to the rapid growth of sales promotion, particularly in consumer markets?",
         "A) declining interest in quality",
         "B) declining advertising efficiency",
         "C) rising hostility toward large firms",
@@ -19052,7 +19052,7 @@ let data = [
         ]
     ],
     [
-        "132) Sales promotions are targeted toward members of the sales force, business customers,retailers, wholesalers, and ________.",
+        "132) Sales promotions are targeted toward members of the sales force, business customers, retailers, wholesalers, and ________.",
         "A) final buyers",
         "B) employees",
         "C) manufacturers",
@@ -19074,7 +19074,7 @@ let data = [
         ]
     ],
     [
-        "134) Which of the following is the most effective—but most expensive—way to introduce anew product or create new excitement for an existing one?",
+        "134) Which of the following is the most effective—but most expensive—way to introduce a new product or create new excitement for an existing one?",
         "A) coupons",
         "B) sampling",
         "C) cash refunds",
@@ -19096,7 +19096,7 @@ let data = [
         ]
     ],
     [
-        "136) ________ are like coupons except that the price reduction occurs after the purchase ratherthan at the retail outlet.",
+        "136) ________ are like coupons except that the price reduction occurs after the purchase rather than at the retail outlet.",
         "A) Rebates",
         "B) Promotional products",
         "C) Premiums",
@@ -19107,7 +19107,7 @@ let data = [
         ]
     ],
     [
-        "137) Which consumer promotion tool requires the consumer to provide a proof of purchase tothe manufacturer?",
+        "137) Which consumer promotion tool requires the consumer to provide a proof of purchase to the manufacturer?",
         "A) price packs",
         "B) coupons",
         "C) samples",
@@ -19118,7 +19118,7 @@ let data = [
         ]
     ],
     [
-        "138) In ________, the producer marks the reduced prices directly on the label or package.These offer consumers savings off the regular price of a product and are very effective instimulating short-term sales.",
+        "138) In ________, the producer marks the reduced prices directly on the label or package. These offer consumers savings off the regular price of a product and are very effective in stimulating short-term sales.",
         "A) promotional products",
         "B) coupons",
         "C) cents-off deals",
@@ -19129,7 +19129,7 @@ let data = [
         ]
     ],
     [
-        "139) ________ are goods offered either free or at low cost as an incentive to buy a product,ranging from toys included with kids' products to phone cards and DVDs.",
+        "139) ________ are goods offered either free or at low cost as an incentive to buy a product, ranging from toys included with kids' products to phone cards and DVDs.",
         "A) Coupons",
         "B) Premiums",
         "C) Price packs",
@@ -19140,7 +19140,7 @@ let data = [
         ]
     ],
     [
-        "140) ________ are useful articles imprinted with an advertiser's name, logo, or message that aregiven as gifts to consumers.",
+        "140) ________ are useful articles imprinted with an advertiser's name, logo, or message that are given as gifts to consumers.",
         "A) Rebates",
         "B) Cents-off deals",
         "C) Premiums",
@@ -19162,7 +19162,7 @@ let data = [
         ]
     ],
     [
-        "142) A ________ calls for consumers to submit an entry to be judged by a panel that will selectthe best entries.",
+        "142) A ________ calls for consumers to submit an entry to be judged by a panel that will select the best entries.",
         "A) contest",
         "B) sweepstake",
         "C) sample",
@@ -19173,7 +19173,7 @@ let data = [
         ]
     ],
     [
-        "143) Creating a brand-marketing event or serving as a sole or participating sponsor of eventscreated by others is known as ________.",
+        "143) Creating a brand-marketing event or serving as a sole or participating sponsor of events created by others is known as ________.",
         "A) point-of-purchase promotions",
         "B) sweepstakes",
         "C) team selling",
@@ -19184,7 +19184,7 @@ let data = [
         ]
     ],
     [
-        "144) ________ refer to sales promotion tools used to persuade resellers to carry a brand, give it45shelf space, promote it in advertising, and push it to consumers.",
+        "144) ________ refer to sales promotion tools used to persuade resellers to carry a brand, give it 45 shelf space, promote it in advertising, and push it to consumers.",
         "A) Point-of-purchase promotions",
         "B) Frequency marketing programs",
         "C) Trade promotions",
@@ -19195,7 +19195,7 @@ let data = [
         ]
     ],
     [
-        "145) A manufacturer that offers cash or gifts to dealers for encouraging the purchase of itsproducts is using ________.",
+        "145) A manufacturer that offers cash or gifts to dealers for encouraging the purchase of its products is using ________.",
         "A) coupons",
         "B) push money",
         "C) promotional products",
@@ -19206,7 +19206,7 @@ let data = [
         ]
     ],
     [
-        "146) Which of the following is used to generate business leads, stimulate purchases, rewardcustomers, and motivate salespeople?",
+        "146) Which of the following is used to generate business leads, stimulate purchases, reward customers, and motivate salespeople?",
         "A) business plan",
         "B) SWOT analysis",
         "C) POP promotion",
@@ -19228,7 +19228,7 @@ let data = [
         ]
     ],
     [
-        "148) Which of the following questions would help a marketer evaluate the return on a salespromotion investment?",
+        "148) Which of the following questions would help a marketer evaluate the return on a sales promotion investment?",
         "A) Was the sales force successful in filtering out the good prospects from the poor ones?",
         "B) Did customers enjoy the events associated with the promotion?",
         "C) Did customers receive high-quality promotional products?",
@@ -19250,7 +19250,7 @@ let data = [
         ]
     ],
     [
-        "150) Bose offers $50 cash back to customers who purchase a new speaker and send in a proofof purchase. This is an example of a ________.",
+        "150) Bose offers $50 cash back to customers who purchase a new speaker and send in a proof of purchase. This is an example of a ________.",
         "A) rebate",
         "B) POP promotion",
         "C) price pack",
@@ -19261,7 +19261,7 @@ let data = [
         ]
     ],
     [
-        "151) Monty Boyd, an account manager, travels frequently on West Coast Airlines. Monty earnspoints for every mile he flies, and he will soon have enough points to receive a free airlineticket. West Coast Airlines is attempting to build a strong customer relationship with Montythrough a ________.",
+        "151) Monty Boyd, an account manager, travels frequently on West Coast Airlines. Monty earns points for every mile he flies, and he will soon have enough points to receive a free airline ticket. West Coast Airlines is attempting to build a strong customer relationship with Monty through a ________.",
         "A) trade promotion",
         "B) promotional product",
         "C) rebate offer",
@@ -19272,7 +19272,7 @@ let data = [
         ]
     ],
     [
-        "152) Renee's, a company selling winter clothing in Chicago, ran a preseason promotion onsome of its fur jackets, offering cash refunds if the snowfall in the customer's market areaturned out to be below average. This exemplifies ________.",
+        "152) Renee's, a company selling winter clothing in Chicago, ran a preseason promotion on some of its fur jackets, offering cash refunds if the snowfall in the customer's market area turned out to be below average. This exemplifies ________.",
         "A) puffery",
         "B) satisficing",
         "C) prospecting",
@@ -19283,7 +19283,7 @@ let data = [
         ]
     ],
     [
-        "153) A five-foot high cardboard display of Terry the polar bear, mascot of Terry's protein shake,next to the shelf containing Terry's products in a supermarket is an example of a(n) ________.",
+        "153) A five-foot high cardboard display of Terry the polar bear, mascot of Terry's protein shake, next to the shelf containing Terry's products in a supermarket is an example of a(n) ________.",
         "A) sample",
         "B) point-of-purchase promotion",
         "C) business promotion",
@@ -19294,7 +19294,7 @@ let data = [
         ]
     ],
     [
-        "154) Kirk Wilkins renewed his cell phone contract with Zip Wireless Services and purchased anew cell phone through the Zip Web site. If Kirk mails Zip Wireless Services his transactionreceipt, he would be eligible to receive $50 as cash refund. Which of the following types ofsales promotion is evident here?",
+        "154) Kirk Wilkins renewed his cell phone contract with Zip Wireless Services and purchased a new cell phone through the Zip Web site. If Kirk mails Zip Wireless Services his transaction receipt, he would be eligible to receive $50 as cash refund. Which of the following types of sales promotion is evident here?",
         "A) point-of-purchase promotion",
         "B) advertising specialty",
         "C) premium",
@@ -19305,7 +19305,7 @@ let data = [
         ]
     ],
     [
-        "155) Happy Pet is a large pet food company that has convinced the retailers and the wholesalersof the New England area to resell its products. Happy Pet promises to reimburse the advertisingcosts to its retailers and wholesalers for advertising its products. This is an example of a(n)________.",
+        "155) Happy Pet is a large pet food company that has convinced the retailers and the wholesalers of the New England area to resell its products. Happy Pet promises to reimburse the advertising costs to its retailers and wholesalers for advertising its products. This is an example of a(n) ________.",
         "A) trade promotion",
         "B) point-of-purchase promotion",
         "C) sweepstake",
@@ -19316,7 +19316,7 @@ let data = [
         ]
     ],
     [
-        "156) Orion is planning to give away free mouse pads imprinted with the company logo andname to anyone who enters their store on the day they launch their new laser mouse. What kindof sales promotion is Orion planning?",
+        "156) Orion is planning to give away free mouse pads imprinted with the company logo and name to anyone who enters their store on the day they launch their new laser mouse. What kind of sales promotion is Orion planning?",
         "A) promotional products",
         "B) rebate",
         "C) price packs",
@@ -19327,7 +19327,7 @@ let data = [
         ]
     ],
     [
-        "157) Waldo Stores will reward an all-expense-paid trip to Hawaii to anyone who correctlyguesses the date on which Waldo Stores was first established in the Boston area. Which type ofsales promotion is evident here?",
+        "157) Waldo Stores will reward an all-expense-paid trip to Hawaii to anyone who correctly guesses the date on which Waldo Stores was first established in the Boston area. Which type of sales promotion is evident here?",
         "A) contest",
         "B) sample",
         "C) premium",
@@ -19338,7 +19338,7 @@ let data = [
         ]
     ],
     [
-        "158) Blue Fizz Inc. sponsors every race that takes place at the Sears Racing Track in OrangeCounty, California. The high-octane racing at Sears is perfect for Blue Fizz to sell its energydrinks and to establish the desired brand image of the company. Which type of promotion isevident here?",
+        "158) Blue Fizz Inc. sponsors every race that takes place at the Sears Racing Track in Orange County, California. The high-octane racing at Sears is perfect for Blue Fizz to sell its energy drinks and to establish the desired brand image of the company. Which type of promotion is evident here?",
         "A) event marketing",
         "B) mass marketing",
         "C) point-of-purchase promotion",
@@ -19349,7 +19349,7 @@ let data = [
         ]
     ],
     [
-        "159) Which of the following promotions would be most appropriate for Reliable Tools to use inits attempt to promote its products and generate new business leads?",
+        "159) Which of the following promotions would be most appropriate for Reliable Tools to use in its attempt to promote its products and generate new business leads?",
         "A) rebates and price packs",
         "B) premiums",
         "C) specialty advertising",
@@ -19360,7 +19360,7 @@ let data = [
         ]
     ],
     [
-        "1) Amazon.com and GEICO approach customers via Web sites or mobile apps. This is anexample of ________ marketing.",
+        "1) Amazon.com and GEICO approach customers via Web sites or mobile apps. This is an example of ________ marketing.",
         "A) mass",
         "B) niche",
         "C) individual",
@@ -19382,7 +19382,7 @@ let data = [
         ]
     ],
     [
-        "3) Advantages of direct and digital marketing for sellers include all of the following EXCEPT________.",
+        "3) Advantages of direct and digital marketing for sellers include all of the following EXCEPT ________.",
         "A) low cost",
         "B) efficiency",
         "C) speed",
@@ -19404,7 +19404,7 @@ let data = [
         ]
     ],
     [
-        "5) With direct marketing, companies can interact with customers in all of the following waysEXCEPT ________.",
+        "5) With direct marketing, companies can interact with customers in all of the following ways EXCEPT ________.",
         "A) in person",
         "B) learning more about customers' needs",
         "C) personalizing products and services",
@@ -19470,7 +19470,7 @@ let data = [
         ]
     ],
     [
-        "22) Companies such as Amazon.com and Expedia.com that sell products and services directlyto final buyers exclusively over the Internet are known as ________.",
+        "22) Companies such as Amazon.com and Expedia.com that sell products and services directly to final buyers exclusively over the Internet are known as ________.",
         "A) transaction sites",
         "B) content sites",
         "C) search engines and portals",
@@ -19503,7 +19503,7 @@ let data = [
         ]
     ],
     [
-        "25) Online marketing includes marketing via the Internet using company Web sites, e-mailmarketing, blogs, and ________.",
+        "25) Online marketing includes marketing via the Internet using company Web sites, e-mail marketing, blogs, and ________.",
         "A) direct mail brochures",
         "B) live demonstrations",
         "C) samples",
@@ -19514,7 +19514,7 @@ let data = [
         ]
     ],
     [
-        "26) ________ are designed to engage consumers in interactions that will move them closer to adirect purchase or other marketing outcome.",
+        "26) ________ are designed to engage consumers in interactions that will move them closer to a direct purchase or other marketing outcome.",
         "A) Online magazines",
         "B) Marketing Web sites",
         "C) Search engines",
@@ -19525,7 +19525,7 @@ let data = [
         ]
     ],
     [
-        "27) Gant Hardware is a huge chain of hardware stores. GantHardware.com helps customersconduct product research and also lets them order directly online or redirects them to thenearest Gant retail store. Which of the following best describes GantHardware.com?",
+        "27) Gant Hardware is a huge chain of hardware stores. GantHardware.com helps customers conduct product research and also lets them order directly online or redirects them to the nearest Gant retail store. Which of the following best describes GantHardware.com?",
         "A) marketing Web site",
         "B) digital catalog",
         "C) social network",
@@ -19536,7 +19536,7 @@ let data = [
         ]
     ],
     [
-        "28) A(n) ________ is designed to present brand content that engages consumers and createscustomer-brand community.",
+        "28) A(n) ________ is designed to present brand content that engages consumers and creates customer-brand community.",
         "A) podcast",
         "B) branded community Web site",
         "C) search engine",
@@ -19547,7 +19547,7 @@ let data = [
         ]
     ],
     [
-        "29) Oscarz Aviation's Web site, GoOscarzAv.com, informs customers about a wide variety ofservices offered by the firm. It also has a guestbook where customers can provide feedback ontheir experiences with Oscarz Aviation. They can also view videos Oscarz Aviation posts, aswell as read and respond to blogs and ask questions. GoOscarzAv.com is an example of a(n)________.",
+        "29) Oscarz Aviation's Web site, GoOscarzAv.com, informs customers about a wide variety of services offered by the firm. It also has a guestbook where customers can provide feedback on their experiences with Oscarz Aviation. They can also view videos Oscarz Aviation posts, as well as read and respond to blogs and ask questions. GoOscarzAv.com is an example of a(n) ________.",
         "A) online social network",
         "B) blog",
         "C) kiosk",
@@ -19558,7 +19558,7 @@ let data = [
         ]
     ],
     [
-        "30) Spartan Sportsgear is a company that sells sports equipment for adventure sports. It recentlylaunched ExtremeSpartan.com to showcase products and provide testimonials of famousadventure sports athletes who use Spartan's products. It also includes videos and blogs. Whichof the following best describes ExtremeSpartan.com?",
+        "30) Spartan Sportsgear is a company that sells sports equipment for adventure sports. It recently launched ExtremeSpartan.com to showcase products and provide testimonials of famous adventure sports athletes who use Spartan's products. It also includes videos and blogs. Which of the following best describes ExtremeSpartan.com?",
         "A) branded community Web site",
         "B) digital catalog",
         "C) social network",
@@ -19569,7 +19569,7 @@ let data = [
         ]
     ],
     [
-        "31) Runner Sprintz, a particular brand of shoes, has its own Web site, myrunnersprintz.com thatwelcomes consumers to \"the Runner Sprintz Century,\" invites readers to post their RunnerSprintz stories, and offers a wide variety of shoes for direct purchase. The site even allowscustomers to individually design their own shoes and share them among their circles on theWeb site. Which of the following best describes myrunnersprintz.com?",
+        "31) Runner Sprintz, a particular brand of shoes, has its own Web site, myrunnersprintz.com that welcomes consumers to \"the Runner Sprintz Century,\" invites readers to post their Runner Sprintz stories, and offers a wide variety of shoes for direct purchase. The site even allows customers to individually design their own shoes and share them among their circles on the Web site. Which of the following best describes myrunnersprintz.com?",
         "A) Web directory",
         "B) blog",
         "C) corporate Web site",
@@ -19591,7 +19591,7 @@ let data = [
         ]
     ],
     [
-        "33) Companies must attract visitors to their Web sites. Which of the following is a methodcompanies use to entice visitors not just to visit but also to return to a site?",
+        "33) Companies must attract visitors to their Web sites. Which of the following is a method companies use to entice visitors not just to visit but also to return to a site?",
         "A) using flashy graphics, bright colors and vivid pictures",
         "B) aggressively promoting the site in broadcast advertising and through ads and links on other",
         "C) offering prizes for visiting the site",
@@ -19602,7 +19602,7 @@ let data = [
         ]
     ],
     [
-        "34) Effective Web sites contain interactive tools that help find and evaluate content of interest,links to other related sites, useful information, changing promotional offers, and ________.",
+        "34) Effective Web sites contain interactive tools that help find and evaluate content of interest, links to other related sites, useful information, changing promotional offers, and ________.",
         "A) celebrity endorsers",
         "B) respected columnists",
         "C) advertising for unrelated products",
@@ -19624,7 +19624,7 @@ let data = [
         ]
     ],
     [
-        "36) In ________, text-based ads and links appear alongside search engine results on sites suchas Google, Yahoo!, and Bing.",
+        "36) In ________, text-based ads and links appear alongside search engine results on sites such as Google, Yahoo!, and Bing.",
         "A) content sponsorships",
         "B) digital billboards",
         "C) digital catalogs",
@@ -19635,7 +19635,7 @@ let data = [
         ]
     ],
     [
-        "37) While comparing hotel rates on Google's search engine, Brenda came across text-based adsand links alongside the search results. This form of advertising is known as ________.",
+        "37) While comparing hotel rates on Google's search engine, Brenda came across text-based ads and links alongside the search results. This form of advertising is known as ________.",
         "A) contextual advertising",
         "B) rich media ads",
         "C) content sponsorship",
@@ -19657,7 +19657,7 @@ let data = [
         ]
     ],
     [
-        "39) A ________ is an unsolicited, unwanted commercial e-mail message that clogs up e-mailboxes.",
+        "39) A ________ is an unsolicited, unwanted commercial e-mail message that clogs up e- mailboxes.",
         "A) catalog",
         "B) spam",
         "C) podcast",
@@ -19679,7 +19679,7 @@ let data = [
         ]
     ],
     [
-        "41) After selecting a sweater on the Land's End Web site, Kelly was asked to fill in details forthe customer database. Kelly was given a form that required her to fill in her name, date ofbirth, and e-mail address. Kelly then checked a box that was next to the following statement:\"Yes, I would like to receive weekly promotional information from Land's End online.\" Whichof the following practices is evident from this scenario?",
+        "41) After selecting a sweater on the Land's End Web site, Kelly was asked to fill in details for the customer database. Kelly was given a form that required her to fill in her name, date of birth, and e-mail address. Kelly then checked a box that was next to the following statement: \"Yes, I would like to receive weekly promotional information from Land's End online.\" Which of the following practices is evident from this scenario?",
         "A) e-mail hosting service",
         "B) e-mail spoofing",
         "C) catalog marketing",
@@ -19690,7 +19690,7 @@ let data = [
         ]
     ],
     [
-        "42) Randy keeps getting unwanted and annoying e-mails from several marketing firmsunknown to him. The number of these e-mails is alarmingly high in his inbox. Which of thefollowing best describes these e-mails?",
+        "42) Randy keeps getting unwanted and annoying e-mails from several marketing firms unknown to him. The number of these e-mails is alarmingly high in his inbox. Which of the following best describes these e-mails?",
         "A) malware",
         "B) adware",
         "C) Trojan",
@@ -19701,7 +19701,7 @@ let data = [
         ]
     ],
     [
-        "43) ________ involves creating a video, e-mail, mobile message, advertisement, or othermarketing event that is so infectious that customers will seek it out or pass it along to theirfriends.",
+        "43) ________ involves creating a video, e-mail, mobile message, advertisement, or other marketing event that is so infectious that customers will seek it out or pass it along to their friends.",
         "A) Telemarketing",
         "B) Omni-channel marketing",
         "C) Integrated marketing",
@@ -19712,7 +19712,7 @@ let data = [
         ]
     ],
     [
-        "44) Uptown-Clean Crew is a company that provides house-cleaning services in major urbanand suburban areas. Marketers at Uptown-Clean Crew developed a short, humorous videopromoting the company's services and posted it online. Soon the video was a rage as customerswho saw the video found it hilarious and they passed it on to their friends and colleaguescalling it the \"Uptown comedy.\" Which form of marketing is illustrated from this scenario?",
+        "44) Uptown-Clean Crew is a company that provides house-cleaning services in major urban and suburban areas. Marketers at Uptown-Clean Crew developed a short, humorous video promoting the company's services and posted it online. Soon the video was a rage as customers who saw the video found it hilarious and they passed it on to their friends and colleagues calling it the \"Uptown comedy.\" Which form of marketing is illustrated from this scenario?",
         "A) telemarketing",
         "B) viral marketing",
         "C) integrated marketing",
@@ -19734,7 +19734,7 @@ let data = [
         ]
     ],
     [
-        "46) Which of the following is NOT a deception or fraud concern for Internet users andmarketers?",
+        "46) Which of the following is NOT a deception or fraud concern for Internet users and marketers?",
         "A) phishing",
         "B) viral marketing",
         "C) malware",
@@ -19789,7 +19789,7 @@ let data = [
         ]
     ],
     [
-        "51) ________ are communities over the Internet where people congregate, socialize, andexchange views and information.",
+        "51) ________ are communities over the Internet where people congregate, socialize, and exchange views and information.",
         "A) Corporate Web sites",
         "B) Interactive television",
         "C) Digital catalogs",
@@ -19800,7 +19800,7 @@ let data = [
         ]
     ],
     [
-        "52) ________ are online journals where people post their thoughts, usually on a narrowlydefined topic.",
+        "52) ________ are online journals where people post their thoughts, usually on a narrowly defined topic.",
         "A) Social networks",
         "B) Blogs",
         "C) Forums",
@@ -19866,7 +19866,7 @@ let data = [
         ]
     ],
     [
-        "76) Runners can compare performances, set up profiles, meet new people, and shareinformation on Nike's Nike+ Web site. Nike+ is an example of a(n) ________.",
+        "76) Runners can compare performances, set up profiles, meet new people, and share information on Nike's Nike+ Web site. Nike+ is an example of a(n) ________.",
         "A) podcast",
         "B) blog",
         "C) online community",
@@ -19910,7 +19910,7 @@ let data = [
         ]
     ],
     [
-        "80) An integrated social marketing campaign likely could include all of the following EXCEPT________.",
+        "80) An integrated social marketing campaign likely could include all of the following EXCEPT ________.",
         "A) Facebook pages",
         "B) Twitter postings",
         "C) Instagram photos",
@@ -19921,7 +19921,7 @@ let data = [
         ]
     ],
     [
-        "81) ________ marketing features marketing messages and promotions delivered to on-the-goconsumers through their handheld devices.",
+        "81) ________ marketing features marketing messages and promotions delivered to on-the-go consumers through their handheld devices.",
         "A) Kiosk",
         "B) Ambush",
         "C) Direct-mail",
@@ -19932,7 +19932,7 @@ let data = [
         ]
     ],
     [
-        "82) Mobile marketing is used to enrich the brand experience, stimulate immediate buying, or________.",
+        "82) Mobile marketing is used to enrich the brand experience, stimulate immediate buying, or ________.",
         "A) decrease advertising costs",
         "B) help friends contact friends",
         "C) make shopping easier",
@@ -19943,7 +19943,7 @@ let data = [
         ]
     ],
     [
-        "83) Joanna uses her smartphone to accomplish many tasks everyday. She is also an avidshopper. Which online marketing tool will benefit Joanna the most to help her shop?",
+        "83) Joanna uses her smartphone to accomplish many tasks everyday. She is also an avid shopper. Which online marketing tool will benefit Joanna the most to help her shop?",
         "A) e-mail messages from sites to which she subscribes",
         "B) banking app for her bank",
         "C) instant deals and digital coupons",
@@ -19954,7 +19954,7 @@ let data = [
         ]
     ],
     [
-        "84) Kirk's Comic Store has its own mobile app that users can download for free. The app letsusers know about special events, discounts, and merchandise currently available in the store.Which of the following forms of marketing is exemplified from this scenario?",
+        "84) Kirk's Comic Store has its own mobile app that users can download for free. The app lets users know about special events, discounts, and merchandise currently available in the store. Which of the following forms of marketing is exemplified from this scenario?",
         "A) social media marketing",
         "B) kiosk marketing",
         "C) direct-response television marketing",
@@ -19965,7 +19965,7 @@ let data = [
         ]
     ],
     [
-        "85) James is looking for a new suit for a job interview. He is shopping at Smith & Jones, awell-regarded menswear store. While he looks at various styles and uses his smartphone to scancodes, the menswear shopping app provides him with suggestions for shirts, ties, and shoes thatwould complete the ensemble he needs to make a strong, positive impact at his interview. Theability of the app to provide this information serves to ________.",
+        "85) James is looking for a new suit for a job interview. He is shopping at Smith & Jones, a well-regarded menswear store. While he looks at various styles and uses his smartphone to scan codes, the menswear shopping app provides him with suggestions for shirts, ties, and shoes that would complete the ensemble he needs to make a strong, positive impact at his interview. The ability of the app to provide this information serves to ________.",
         "A) enrich the shopping experience",
         "B) annoy James",
         "C) complicate the shopping experience",
@@ -19976,7 +19976,7 @@ let data = [
         ]
     ],
     [
-        "93) ________ involves sending an offer, announcement, reminder, or other item to a person at aparticular address.",
+        "93) ________ involves sending an offer, announcement, reminder, or other item to a person at a particular address.",
         "A) Kiosk marketing",
         "B) Online marketing",
         "C) Ambush marketing",
@@ -19998,7 +19998,7 @@ let data = [
         ]
     ],
     [
-        "95) Which of the following types of marketing involves sending out letters, brochures, samples,and DVDs to consumers' addresses?",
+        "95) Which of the following types of marketing involves sending out letters, brochures, samples, and DVDs to consumers' addresses?",
         "A) direct-response marketing",
         "B) direct-mail marketing",
         "C) direct digital marketing",
@@ -20009,7 +20009,7 @@ let data = [
         ]
     ],
     [
-        "96) Why does direct-mail marketing most likely remain a popular promotional tool formarketers?",
+        "96) Why does direct-mail marketing most likely remain a popular promotional tool for marketers?",
         "A) It does not disturb consumers enrolled in the Do Not Call Registry.",
         "B) It provides something tangible for people to keep.",
         "C) It builds long-term customer relationships.",
@@ -20020,7 +20020,7 @@ let data = [
         ]
     ],
     [
-        "97) SparkClean is a company that specializes in producing cleaning products for automobiles.In order to promote its products, SparkClean sends a complimentary sample of its products toauto enthusiasts. Which form of marketing is SparkClean involved in?",
+        "97) SparkClean is a company that specializes in producing cleaning products for automobiles. In order to promote its products, SparkClean sends a complimentary sample of its products to auto enthusiasts. Which form of marketing is SparkClean involved in?",
         "A) online marketing",
         "B) viral marketing",
         "C) telemarketing",
@@ -20031,7 +20031,7 @@ let data = [
         ]
     ],
     [
-        "98) Fiona Lambrech is the marketing director of a newly established detergent company. Inorder to introduce her product effectively into the market, Fiona sends samples of the detergentto a select group of individuals. Which of the following forms of marketing was most likelyused by Fiona?",
+        "98) Fiona Lambrech is the marketing director of a newly established detergent company. In order to introduce her product effectively into the market, Fiona sends samples of the detergent to a select group of individuals. Which of the following forms of marketing was most likely used by Fiona?",
         "A) direct-mail marketing",
         "B) catalog marketing",
         "C) telephone marketing",
@@ -20042,7 +20042,7 @@ let data = [
         ]
     ],
     [
-        "99) While shopping at KelfanDesigns.com, Shelly came across a checkbox beside which astatement said, \"I want to receive promotional offers from KelfanDesigns.com.\" Which of thefollowing types of marketing is illustrated in this example?",
+        "99) While shopping at KelfanDesigns.com, Shelly came across a checkbox beside which a statement said, \"I want to receive promotional offers from KelfanDesigns.com.\" Which of the following types of marketing is illustrated in this example?",
         "A) telemarketing",
         "B) viral marketing",
         "C) direct response television marketing",
@@ -20086,7 +20086,7 @@ let data = [
         ]
     ],
     [
-        "103) Why are historically online shops such as Zappos.com adding catalogs to their marketingmethods?",
+        "103) Why are historically online shops such as Zappos.com adding catalogs to their marketing methods?",
         "A) to meet the increased demand in print catalogs",
         "B) to reduce the costs involved in online marketing",
         "C) to connect with customers in hard-to-reach places",
@@ -20119,7 +20119,7 @@ let data = [
         ]
     ],
     [
-        "106) Sales executives at Keiron Air Conditioners use phone directories to call customers andconvince them to buy their air conditioners. Which form of direct marketing is used here?",
+        "106) Sales executives at Keiron Air Conditioners use phone directories to call customers and convince them to buy their air conditioners. Which form of direct marketing is used here?",
         "A) telemarketing",
         "B) direct-mail marketing",
         "C) catalog marketing",
@@ -20130,7 +20130,7 @@ let data = [
         ]
     ],
     [
-        "107) Which of the following is an advantage of a well-designed and targeted telemarketingplan?",
+        "107) Which of the following is an advantage of a well-designed and targeted telemarketing plan?",
         "A) exemption from the National Do Not Call Registry",
         "B) ability to portray wider merchandise",
         "C) purchasing convenience for customers",
@@ -20141,7 +20141,7 @@ let data = [
         ]
     ],
     [
-        "108) Geller Insurance calls qualified prospects to sell insurance. Which of the following formsof marketing is evident from this example?",
+        "108) Geller Insurance calls qualified prospects to sell insurance. Which of the following forms of marketing is evident from this example?",
         "A) catalog marketing",
         "B) kiosk marketing",
         "C) direct-response television marketing",
@@ -20152,7 +20152,7 @@ let data = [
         ]
     ],
     [
-        "109) Marketers publicize inbound toll-free numbers to consumers in television and print ads,direct mail, and catalogs. The benefit to sellers is that it presents an opportunity for consumersto order products and for the seller to build the relationship. A benefit to consumers is________.",
+        "109) Marketers publicize inbound toll-free numbers to consumers in television and print ads, direct mail, and catalogs. The benefit to sellers is that it presents an opportunity for consumers to order products and for the seller to build the relationship. A benefit to consumers is ________.",
         "A) increased convenience",
         "B) increased telemarketing calls",
         "C) decreased telemarketing calls",
@@ -20185,7 +20185,7 @@ let data = [
         ]
     ],
     [
-        "112) Neal Murphy sells his company's unique products on television programs. He hosts a 30-minute show in which he demonstrates and explains the advantages of the product. At the endof the show, a toll-free number is displayed on the screen that can be used by viewers to placetheir orders for the product. Which of the following forms of advertising is evident here?",
+        "112) Neal Murphy sells his company's unique products on television programs. He hosts a 30- minute show in which he demonstrates and explains the advantages of the product. At the end of the show, a toll-free number is displayed on the screen that can be used by viewers to place their orders for the product. Which of the following forms of advertising is evident here?",
         "A) direct-response television advertising",
         "B) telemarketing",
         "C) interactive television marketing",
@@ -20196,7 +20196,7 @@ let data = [
         ]
     ],
     [
-        "113) Which of the following terms refers to a 30-minute television advertising program thatmarkets a single product?",
+        "113) Which of the following terms refers to a 30-minute television advertising program that markets a single product?",
         "A) social media",
         "B) digital catalog",
         "C) telemarketing",
@@ -20207,7 +20207,7 @@ let data = [
         ]
     ],
     [
-        "114) Donello Equipment hosts infomercials on television and at the same time allows itsviewers to interact with its advertisements. Viewers can request more details and order via theirInternet-ready smart televisions. Which of the following forms of marketing is evident here?",
+        "114) Donello Equipment hosts infomercials on television and at the same time allows its viewers to interact with its advertisements. Viewers can request more details and order via their Internet-ready smart televisions. Which of the following forms of marketing is evident here?",
         "A) catalog marketing",
         "B) telemarketing",
         "C) interactive television",
@@ -20218,7 +20218,7 @@ let data = [
         ]
     ],
     [
-        "115) ________ allows consumers to gain additional information about a product through theuse of a remote control.",
+        "115) ________ allows consumers to gain additional information about a product through the use of a remote control.",
         "A) Telemarketing",
         "B) Kiosk marketing",
         "C) Podcasting",
@@ -20229,7 +20229,7 @@ let data = [
         ]
     ],
     [
-        "116) Even large companies use infomercials for all the following reasons EXCEPT to________.",
+        "116) Even large companies use infomercials for all the following reasons EXCEPT to ________.",
         "A) recruit members",
         "B) refer customers to retailers",
         "C) attract buyers to online, mobile, and social media sites",
@@ -20240,7 +20240,7 @@ let data = [
         ]
     ],
     [
-        "117) What is the most likely reason that direct-response television marketing has increased inrecent years?",
+        "117) What is the most likely reason that direct-response television marketing has increased in recent years?",
         "A) uses of social media",
         "B) shifts in demographics",
         "C) increases in global demand",
@@ -20251,7 +20251,7 @@ let data = [
         ]
     ],
     [
-        "118) Using interactive TV can allow consumers to perform all the following tasks during acompany's ad EXCEPT ________.",
+        "118) Using interactive TV can allow consumers to perform all the following tasks during a company's ad EXCEPT ________.",
         "A) see what other sizes or colors are available",
         "B) identify a nearby location at which the product is available",
         "C) access additional product information",
@@ -20262,7 +20262,7 @@ let data = [
         ]
     ],
     [
-        "119) Which term refers to an in-store machine that allows a customer to order merchandise notcarried in the store?",
+        "119) Which term refers to an in-store machine that allows a customer to order merchandise not carried in the store?",
         "A) kiosk",
         "B) automated teller machine",
         "C) virtual catalog",
@@ -20273,7 +20273,7 @@ let data = [
         ]
     ],
     [
-        "120) Green Gardens is a click-and-mortar company that sells gardening and landscaping goodsand equipment. When customers are unable to find a product they need on the shelves of theirlocal Green Gardens store, customers order the product online with the help of the in-storeordering machine. Which of the following best describes the ordering machine?",
+        "120) Green Gardens is a click-and-mortar company that sells gardening and landscaping goods and equipment. When customers are unable to find a product they need on the shelves of their local Green Gardens store, customers order the product online with the help of the in-store ordering machine. Which of the following best describes the ordering machine?",
         "A) kiosk",
         "B) digital catalog",
         "C) podcast",
@@ -20284,7 +20284,7 @@ let data = [
         ]
     ],
     [
-        "121) Marbles Inc. has placed vending machines in most of its retail stores in Florida.Consumers can order a pack of marbles by just selecting their requirements on the touch screen.Which term best describes such machines?",
+        "121) Marbles Inc. has placed vending machines in most of its retail stores in Florida. Consumers can order a pack of marbles by just selecting their requirements on the touch screen. Which term best describes such machines?",
         "A) POP",
         "B) kiosk",
         "C) virtual catalog",
@@ -20295,7 +20295,7 @@ let data = [
         ]
     ],
     [
-        "122) Music Mogul has arrangements with several stores and retail chains to place their DVDsand digital music machines in prime spots such as near billing counters and at store entrances.Consumers can buy DVDs by depositing payment or they can buy music online via thetouchscreen interface on the machine. Which form of marketing is illustrated in this scenario?",
+        "122) Music Mogul has arrangements with several stores and retail chains to place their DVDs and digital music machines in prime spots such as near billing counters and at store entrances. Consumers can buy DVDs by depositing payment or they can buy music online via the touchscreen interface on the machine. Which form of marketing is illustrated in this scenario?",
         "A) direct-response television advertising",
         "B) telemarketing",
         "C) interactive television",
@@ -20306,7 +20306,7 @@ let data = [
         ]
     ],
     [
-        "123) Charlie Putnam received an e-mail promoting a new financial services institution thatoffers surprisingly low mortgage rates. The e-mail simply asked customers to provide theiraddress, date of birth, social security number, and current mortgage information in order toreceive a free loan quote. Suspicious of the offer, Charlie researched the company anddiscovered that the e-mail was a fraud. This is an example of ________.",
+        "123) Charlie Putnam received an e-mail promoting a new financial services institution that offers surprisingly low mortgage rates. The e-mail simply asked customers to provide their address, date of birth, social security number, and current mortgage information in order to receive a free loan quote. Suspicious of the offer, Charlie researched the company and discovered that the e-mail was a fraud. This is an example of ________.",
         "A) cyberbullying",
         "B) phishing",
         "C) adware",
@@ -20317,7 +20317,7 @@ let data = [
         ]
     ],
     [
-        "124) Buyers with low sales resistance can often be tempted by all the following commonfeatures of infomercials EXCEPT ________.",
+        "124) Buyers with low sales resistance can often be tempted by all the following common features of infomercials EXCEPT ________.",
         "A) elaborately staged demonstrations",
         "B) \"while they last\" time limitations",
         "C) free shipping",
@@ -20328,7 +20328,7 @@ let data = [
         ]
     ],
     [
-        "125) Josh received an e-mail stating that he had won a lottery of $500,000 from Lottors40Corporation. The e-mail asked Josh to send his bank account details and social security numberto transfer cash directly to his account. Josh did not remember buying any lottery tickets, and sowas apprehensive about providing his bank details without verification. Which of the followingis illustrated from this scenario?",
+        "125) Josh received an e-mail stating that he had won a lottery of $500,000 from Lottors 40 Corporation. The e-mail asked Josh to send his bank account details and social security number to transfer cash directly to his account. Josh did not remember buying any lottery tickets, and so was apprehensive about providing his bank details without verification. Which of the following is illustrated from this scenario?",
         "A) adware",
         "B) viral marketing",
         "C) telemarketing",
@@ -20339,7 +20339,7 @@ let data = [
         ]
     ],
     [
-        "126) Which of the following is a type of identity theft that uses deceptive e-mails andfraudulent Web sites to fool consumers into revealing their personal data?",
+        "126) Which of the following is a type of identity theft that uses deceptive e-mails and fraudulent Web sites to fool consumers into revealing their personal data?",
         "A) bait-and-switch",
         "B) cyber spying",
         "C) viral marketing",
@@ -20361,7 +20361,7 @@ let data = [
         ]
     ],
     [
-        "128) What action do consumers continue to perform even though a majority are concerned withidentify theft?",
+        "128) What action do consumers continue to perform even though a majority are concerned with identify theft?",
         "A) shopping online",
         "B) searching for product information",
         "C) reading reviews from friends on Facebook",
@@ -20372,7 +20372,7 @@ let data = [
         ]
     ],
     [
-        "129) Consumers' names and additional information likely become part of ________ wheneverthey enter a sweepstakes, apply for a credit card, visit a Web site, or send a tweet.",
+        "129) Consumers' names and additional information likely become part of ________ whenever they enter a sweepstakes, apply for a credit card, visit a Web site, or send a tweet.",
         "A) other consumers' contact lists",
         "B) telemarketers' lists",
         "C) their computer's cookie history",
@@ -20383,7 +20383,7 @@ let data = [
         ]
     ],
     [
-        "130) To decrease direct marketing abuses, government agencies are investigating do-not-calllists, do-not-mail lists, do-not-track-online lists, and ________.",
+        "130) To decrease direct marketing abuses, government agencies are investigating do-not-call lists, do-not-mail lists, do-not-track-online lists, and ________.",
         "A) claimed fraudulent credit card charges",
         "B) Can Spam legislation",
         "C) possibly deceptive television advertising",
@@ -20394,7 +20394,7 @@ let data = [
         ]
     ],
     [
-        "131) To enable customers to opt out of seeing particular ads, marketers use a(n) ________. Thisis added to behaviorally targeted online ads to tell consumers why they are seeing a particularad.",
+        "131) To enable customers to opt out of seeing particular ads, marketers use a(n) ________. This is added to behaviorally targeted online ads to tell consumers why they are seeing a particular ad.",
         "A) advertising option icon",
         "B) opt-in question",
         "C) X to close the ad",
@@ -20405,7 +20405,7 @@ let data = [
         ]
     ],
     [
-        "132) Which of the following acts requires that Web site operators obtain parental consentbefore collecting personal information about children under the age of 13?",
+        "132) Which of the following acts requires that Web site operators obtain parental consent before collecting personal information about children under the age of 13?",
         "A) Safe Children's Act of 2001",
         "B) Children's Online Privacy Protection Act",
         "C) Children's Online Protection Act",
@@ -20416,7 +20416,7 @@ let data = [
         ]
     ],
     [
-        "133) TRUSTe, a nonprofit self-regulatory organization, works with other companies to auditonline privacy and security measures. It lends its TRUSTe privacy seal to all the followingcommunication channels that meet its privacy and security standards EXCEPT ________.",
+        "133) TRUSTe, a nonprofit self-regulatory organization, works with other companies to audit online privacy and security measures. It lends its TRUSTe privacy seal to all the following communication channels that meet its privacy and security standards EXCEPT ________.",
         "A) mobile apps",
         "B) e-mail marketing",
         "C) telemarketing",
@@ -20438,7 +20438,7 @@ let data = [
         ]
     ],
     [
-        "135) According to the \"Privacy Promise to American Consumers\" program, DMA membersneed to comply with which of the following consumer privacy rules?",
+        "135) According to the \"Privacy Promise to American Consumers\" program, DMA members need to comply with which of the following consumer privacy rules?",
         "A) agree to notify customers when any personal information is rented, sold, or exchanged with",
         "B) offer to register all customers in the National Do Not Call Registry",
         "C) make sure that consumers are adhering to the Children's Online Privacy Protection Act",
@@ -20449,7 +20449,7 @@ let data = [
         ]
     ],
     [
-        "136) Gary sends samples of sheet music to schools for demonstration or presentation. Which ofthe following types of marketing is being illustrated from this statement?",
+        "136) Gary sends samples of sheet music to schools for demonstration or presentation. Which of the following types of marketing is being illustrated from this statement?",
         "A) kiosk marketing",
         "B) viral marketing",
         "C) direct-mail marketing",
@@ -20460,7 +20460,7 @@ let data = [
         ]
     ],
     [
-        "137) In addition to sending samples of sheet music to schools, Gary sends school musicdirectors messages with links to sample digital clips of the compositions. What kind ofmarketing is this?",
+        "137) In addition to sending samples of sheet music to schools, Gary sends school music directors messages with links to sample digital clips of the compositions. What kind of marketing is this?",
         "A) e-mail marketing",
         "B) viral marketing",
         "C) kiosk marketing",
@@ -20471,7 +20471,7 @@ let data = [
         ]
     ],
     [
-        "138) Gary wants to expand the reach of his business. An effective approach to reaching themost likely potential customers would be ________ marketing. The message will include a linkto Treble Clef's Web site.",
+        "138) Gary wants to expand the reach of his business. An effective approach to reaching the most likely potential customers would be ________ marketing. The message will include a link to Treble Clef's Web site.",
         "A) e-mail",
         "B) viral",
         "C) kiosk",
@@ -20482,7 +20482,7 @@ let data = [
         ]
     ],
     [
-        "1) A competitor analysis requires the assessment of all of the following EXCEPT thecompetitors' ________.",
+        "1) A competitor analysis requires the assessment of all of the following EXCEPT the competitors' ________.",
         "A) objectives",
         "B) organizational hierarchy",
         "C) strategies",
@@ -20493,7 +20493,7 @@ let data = [
         ]
     ],
     [
-        "2) Strategies that strongly position a company against competitors and that give the companythe best possible strategic advantage are ________ strategies.",
+        "2) Strategies that strongly position a company against competitors and that give the company the best possible strategic advantage are ________ strategies.",
         "A) competitor analysis",
         "B) customer relationship",
         "C) competitive marketing",
@@ -20504,7 +20504,7 @@ let data = [
         ]
     ],
     [
-        "3) Gaining ________ requires delivering more value and satisfaction to target consumers thancompetitors do.",
+        "3) Gaining ________ requires delivering more value and satisfaction to target consumers than competitors do.",
         "A) competitive advantage",
         "B) first-mover advantage",
         "C) economies of scale",
@@ -20526,7 +20526,7 @@ let data = [
         ]
     ],
     [
-        "5) ________ involves first identifying and assessing competitors and then selecting whichcompetitors to attack or avoid.",
+        "5) ________ involves first identifying and assessing competitors and then selecting which competitors to attack or avoid.",
         "A) Competitor analysis",
         "B) Self-competition",
         "C) Blue ocean strategy",
@@ -20537,7 +20537,7 @@ let data = [
         ]
     ],
     [
-        "6) To plan effective marketing strategies, a company needs to find out all it can about itscompetitors. It must constantly compare its marketing strategies, products, prices, channels, andpromotions with those of close competitors. This is an example of ________.",
+        "6) To plan effective marketing strategies, a company needs to find out all it can about its competitors. It must constantly compare its marketing strategies, products, prices, channels, and promotions with those of close competitors. This is an example of ________.",
         "A) blue ocean strategy",
         "B) competitor analysis",
         "C) organizational evaluation",
@@ -20570,7 +20570,7 @@ let data = [
         ]
     ],
     [
-        "9) Companies can identify competitors from a(n) ________ point of view by definingcompetitors as companies that are trying to satisfy the same customer need or buildrelationships with the same customer group.",
+        "9) Companies can identify competitors from a(n) ________ point of view by defining competitors as companies that are trying to satisfy the same customer need or build relationships with the same customer group.",
         "A) customer",
         "B) blue ocean",
         "C) market",
@@ -20592,7 +20592,7 @@ let data = [
         ]
     ],
     [
-        "11) If a company identifies its competitors from an industry point of view, it must understand________ if it hopes to be an effective player in that industry.",
+        "11) If a company identifies its competitors from an industry point of view, it must understand ________ if it hopes to be an effective player in that industry.",
         "A) the trends in the industry",
         "B) the primary customers",
         "C) the impact of technological changes",
@@ -20603,7 +20603,7 @@ let data = [
         ]
     ],
     [
-        "12) A company is guilty of ________ if the company forgets latent competitors and onlyfocuses on current competitors.",
+        "12) A company is guilty of ________ if the company forgets latent competitors and only focuses on current competitors.",
         "A) perfect competition",
         "B) self-competition",
         "C) Cournot competition",
@@ -20614,7 +20614,7 @@ let data = [
         ]
     ],
     [
-        "13) Kodak's film business didn't lose out to direct competitor Fujifilm; it lost out to Sony,Canon, and other digital camera makers, along with a host of digital image developers andonline image sharing services. This is an example of ________.",
+        "13) Kodak's film business didn't lose out to direct competitor Fujifilm; it lost out to Sony, Canon, and other digital camera makers, along with a host of digital image developers and online image sharing services. This is an example of ________.",
         "A) a blue ocean strategy",
         "B) competitor backlinking",
         "C) self-competition",
@@ -20625,7 +20625,7 @@ let data = [
         ]
     ],
     [
-        "14) Fosters and Mason House, two major coffee brands, competed neck and neck based on theirproduct attributes and price promotions. They were soon blindsided by the arrival ofStarcoffeez, which focused more on the coffee experience rather than the coffee. This resultedin major losses for the two companies. This is an example of ________.",
+        "14) Fosters and Mason House, two major coffee brands, competed neck and neck based on their product attributes and price promotions. They were soon blindsided by the arrival of Starcoffeez, which focused more on the coffee experience rather than the coffee. This resulted in major losses for the two companies. This is an example of ________.",
         "A) self-competition",
         "B) competitor myopia",
         "C) competitor backlinking",
@@ -20636,7 +20636,7 @@ let data = [
         ]
     ],
     [
-        "15) From a(n) ________ point of view, Pepsi might see its competition as Coca-Cola, DrPepper, 7UP, and the makers of other soft drink brands. From a(n) ________ point of view,however, the customer really wants \"thirst quenching.\"",
+        "15) From a(n) ________ point of view, Pepsi might see its competition as Coca-Cola, Dr Pepper, 7UP, and the makers of other soft drink brands. From a(n) ________ point of view, however, the customer really wants \"thirst quenching.\"",
         "A) market; industry",
         "B) market; consumer",
         "C) industry; competitive",
@@ -20647,7 +20647,7 @@ let data = [
         ]
     ],
     [
-        "16) Nintendo, producer of the Wii video game console, might define its competitors as othermakers of physically interactive video games. But from a(n) ________ point of view, it wouldinclude all firms making physically interactive recreational products.",
+        "16) Nintendo, producer of the Wii video game console, might define its competitors as other makers of physically interactive video games. But from a(n) ________ point of view, it would include all firms making physically interactive recreational products.",
         "A) industry",
         "B) market",
         "C) segment",
@@ -20658,7 +20658,7 @@ let data = [
         ]
     ],
     [
-        "17) From a market point of view, Universal Pictures film studio might see its competition as________.",
+        "17) From a market point of view, Universal Pictures film studio might see its competition as ________.",
         "A) Paramount Pictures",
         "B) Warner Bros. Pictures",
         "C) Walt Disney Pictures",
@@ -20669,7 +20669,7 @@ let data = [
         ]
     ],
     [
-        "18) From an industry point of view, Universal Pictures film studio might see its competition as________.",
+        "18) From an industry point of view, Universal Pictures film studio might see its competition as ________.",
         "A) West End theatre",
         "B) Columbia Pictures",
         "C) Tomorrowland",
@@ -20691,7 +20691,7 @@ let data = [
         ]
     ],
     [
-        "20) Each competitor has a mix of objectives. The company wants to know the relativeimportance that a competitor places on all of the following EXCEPT ________.",
+        "20) Each competitor has a mix of objectives. The company wants to know the relative importance that a competitor places on all of the following EXCEPT ________.",
         "A) company history",
         "B) current profitability",
         "C) market share growth",
@@ -20713,7 +20713,7 @@ let data = [
         ]
     ],
     [
-        "22) A company that pursues ________ will react much more strongly to a competitor's costreducing manufacturing breakthrough than to the same competitor's advertising increase.",
+        "22) A company that pursues ________ will react much more strongly to a competitor's cost reducing manufacturing breakthrough than to the same competitor's advertising increase.",
         "A) product differentiation",
         "B) low-cost leadership",
         "C) customer intimacy",
@@ -20724,7 +20724,7 @@ let data = [
         ]
     ],
     [
-        "23) In the context of identifying competitors' strategies, the more that one firm's strategyresembles another firm's strategy, the more likely the two firms are to ________.",
+        "23) In the context of identifying competitors' strategies, the more that one firm's strategy resembles another firm's strategy, the more likely the two firms are to ________.",
         "A) merge",
         "B) compete",
         "C) globalize",
@@ -20735,7 +20735,7 @@ let data = [
         ]
     ],
     [
-        "24) Companies need to know each competitor's product quality, features, and mix; customerservices; pricing policy; distribution coverage; sales force strategy; and advertising and salespromotion programs. These are all the dimensions that identify ________ groups within theindustry.",
+        "24) Companies need to know each competitor's product quality, features, and mix; customer services; pricing policy; distribution coverage; sales force strategy; and advertising and sales promotion programs. These are all the dimensions that identify ________ groups within the industry.",
         "A) target",
         "B) focus",
         "C) control",
@@ -20746,7 +20746,7 @@ let data = [
         ]
     ],
     [
-        "25) An analysis conducted to determine what benefits target customers value and how they ratethe relative value of various competitors' offers is known as ________.",
+        "25) An analysis conducted to determine what benefits target customers value and how they rate the relative value of various competitors' offers is known as ________.",
         "A) customer lifetime value",
         "B) customer value analysis",
         "C) quantitative analysis",
@@ -20768,7 +20768,7 @@ let data = [
         ]
     ],
     [
-        "27) Country Kitchen and Perkins are both a chain of family restaurants featuring diner-likemenus with reasonably priced items. These companies are in the same ________.",
+        "27) Country Kitchen and Perkins are both a chain of family restaurants featuring diner-like menus with reasonably priced items. These companies are in the same ________.",
         "A) focus group",
         "B) control group",
         "C) strategic group",
@@ -20790,7 +20790,7 @@ let data = [
         ]
     ],
     [
-        "29) ________ is the process of comparing the company's products and processes to those ofcompetitors or leading firms in other industries to find ways to improve quality andperformance.",
+        "29) ________ is the process of comparing the company's products and processes to those of competitors or leading firms in other industries to find ways to improve quality and performance.",
         "A) Segmenting",
         "B) Positioning",
         "C) Sales promotion",
@@ -20834,7 +20834,7 @@ let data = [
         ]
     ],
     [
-        "33) Marketers need an in-depth understanding of ________ if they want to anticipate how thatcompetitor will act.",
+        "33) Marketers need an in-depth understanding of ________ if they want to anticipate how that competitor will act.",
         "A) the industry",
         "B) a competitor's mentality",
         "C) a competitor's strengths and weaknesses",
@@ -20856,7 +20856,7 @@ let data = [
         ]
     ],
     [
-        "35) A firm should compete with ________ competitors in order to sharpen its abilities.Succeeding against these competitors often provides greater returns.",
+        "35) A firm should compete with ________ competitors in order to sharpen its abilities. Succeeding against these competitors often provides greater returns.",
         "A) strong",
         "B) international",
         "C) weak",
@@ -20867,7 +20867,7 @@ let data = [
         ]
     ],
     [
-        "36) In conducting ________, the company first identifies the major attributes that customersvalue and the importance customers place on these attributes. Next, it assesses its performanceagainst competitors on those valued attributes.",
+        "36) In conducting ________, the company first identifies the major attributes that customers value and the importance customers place on these attributes. Next, it assesses its performance against competitors on those valued attributes.",
         "A) a customer value analysis",
         "B) benchmarking",
         "C) entrepreneurial marketing",
@@ -20878,7 +20878,7 @@ let data = [
         ]
     ],
     [
-        "37) A market research firm conducts a survey of soft-drink consumers to assess Pepsi's andCoke's strengths and weaknesses in attributes valued by both company's target customers. Themarket research firm is using a ________.",
+        "37) A market research firm conducts a survey of soft-drink consumers to assess Pepsi's and Coke's strengths and weaknesses in attributes valued by both company's target customers. The market research firm is using a ________.",
         "A) customer lifetime value estimation",
         "B) global marketing strategy",
         "C) competitive marketing strategy",
@@ -20889,7 +20889,7 @@ let data = [
         ]
     ],
     [
-        "38) If a company's offer delivers greater value by exceeding the competitor's offer on importantattributes, the company can charge a higher price and ________, or it can charge the same priceand ________.",
+        "38) If a company's offer delivers greater value by exceeding the competitor's offer on important attributes, the company can charge a higher price and ________, or it can charge the same price and ________.",
         "A) earn lower profits; gain higher profits",
         "B) earn higher profits; lose profits",
         "C) earn higher profits; gain more market share",
@@ -20922,7 +20922,7 @@ let data = [
         ]
     ],
     [
-        "41) Most competitors in the music download industry see Apple's iTunes Music Store as a________ because it created a closed system with mass appeal.",
+        "41) Most competitors in the music download industry see Apple's iTunes Music Store as a ________ because it created a closed system with mass appeal.",
         "A) good competitor",
         "B) marginal competitor",
         "C) weak competitor",
@@ -20933,7 +20933,7 @@ let data = [
         ]
     ],
     [
-        "42) Rather than competing head to head with established competitors, many companies seekout unoccupied positions in uncontested market spaces. They try to create products and servicesfor which there are no direct competitors. This is called a ________.",
+        "42) Rather than competing head to head with established competitors, many companies seek out unoccupied positions in uncontested market spaces. They try to create products and services for which there are no direct competitors. This is called a ________.",
         "A) horizontal integration approach",
         "B) commercialization process",
         "C) guerrilla marketing technique",
@@ -20955,7 +20955,7 @@ let data = [
         ]
     ],
     [
-        "44) Tomorrow's leading companies will succeed by seeking out unoccupied positions inuncontested market spaces. Such strategic moves, termed ________, create powerful leaps invalue for both the firm and its buyers, creating new demand for new products.",
+        "44) Tomorrow's leading companies will succeed by seeking out unoccupied positions in uncontested market spaces. Such strategic moves, termed ________, create powerful leaps in value for both the firm and its buyers, creating new demand for new products.",
         "A) customer lifetime value",
         "B) customer equity",
         "C) value innovation",
@@ -20977,7 +20977,7 @@ let data = [
         ]
     ],
     [
-        "46) The competitive intelligence system continuously collects information from the fieldthrough ________.",
+        "46) The competitive intelligence system continuously collects information from the field through ________.",
         "A) government publications",
         "B) online monitoring",
         "C) speeches",
@@ -20999,7 +20999,7 @@ let data = [
         ]
     ],
     [
-        "48) Essential-Beauty considers one of its most important competitors to be Look-Lovely,another marketer of high-end makeup and skin care products sold in drug stores. Based on this,it is most accurate to say that Look-Lovely and Essential-Beauty are both ________.",
+        "48) Essential-Beauty considers one of its most important competitors to be Look-Lovely, another marketer of high-end makeup and skin care products sold in drug stores. Based on this, it is most accurate to say that Look-Lovely and Essential-Beauty are both ________.",
         "A) niche marketers",
         "B) in the same strategic group",
         "C) distant competitors",
@@ -21010,7 +21010,7 @@ let data = [
         ]
     ],
     [
-        "49) Essential-Beauty e-mailed a survey to a group of its most frequent, loyal customers. Thesurvey asked what makeup and skin care characteristics were most important to them. Thecompany's marketing staff then ranked the performance of Essential-Beauty products in each ofthese categories. Essentials was conducting a(n) ________.",
+        "49) Essential-Beauty e-mailed a survey to a group of its most frequent, loyal customers. The survey asked what makeup and skin care characteristics were most important to them. The company's marketing staff then ranked the performance of Essential-Beauty products in each of these categories. Essentials was conducting a(n) ________.",
         "A) customer lifetime value survey",
         "B) entrepreneurial marketing strategy",
         "C) intrepreneurial marketing strategy",
@@ -21032,7 +21032,7 @@ let data = [
         ]
     ],
     [
-        "81) Companies that operate large marketing departments, conduct expensive marketingresearch, spell out elaborate competitive strategies, and spend huge sums on advertising areusing ________ marketing strategies.",
+        "81) Companies that operate large marketing departments, conduct expensive marketing research, spell out elaborate competitive strategies, and spend huge sums on advertising are using ________ marketing strategies.",
         "A) informal",
         "B) formulated",
         "C) entrepreneurial",
@@ -21043,7 +21043,7 @@ let data = [
         ]
     ],
     [
-        "82) What are the stages that the approaches to marketing strategy and practice usually passthrough?",
+        "82) What are the stages that the approaches to marketing strategy and practice usually pass through?",
         "A) ambush marketing, multi-level marketing, and guerrilla marketing",
         "B) guerrilla marketing, ambush marketing, and affinity marketing",
         "C) multi-level marketing, undercover marketing, and evangelism marketing",
@@ -21054,7 +21054,7 @@ let data = [
         ]
     ],
     [
-        "83) Most companies are started by individuals who live by their wits. They visualize anopportunity, take risks, and knock on every door to gain attention. Which of the followingstages in marketing strategy is being illustrated here?",
+        "83) Most companies are started by individuals who live by their wits. They visualize an opportunity, take risks, and knock on every door to gain attention. Which of the following stages in marketing strategy is being illustrated here?",
         "A) exponential marketing",
         "B) formulated marketing",
         "C) entrepreneurial marketing",
@@ -21065,7 +21065,7 @@ let data = [
         ]
     ],
     [
-        "84) When Gary Hirshberg started the Stonyfield Farm yogurt company, he stated that hiscompany could do better with less advertising, less marketing research, and more guerrillamarketing. He came up with innovative marketing ideas to promote his products such as havingsales personnel dress up as large yogurt cartons to distribute free yogurt samples. Which of thefollowing marketing strategies was being implemented by Hirshberg?",
+        "84) When Gary Hirshberg started the Stonyfield Farm yogurt company, he stated that his company could do better with less advertising, less marketing research, and more guerrilla marketing. He came up with innovative marketing ideas to promote his products such as having sales personnel dress up as large yogurt cartons to distribute free yogurt samples. Which of the following marketing strategies was being implemented by Hirshberg?",
         "A) formulated marketing",
         "B) entrepreneurial marketing",
         "C) ambush marketing",
@@ -21076,7 +21076,7 @@ let data = [
         ]
     ],
     [
-        "85) As small companies achieve success, they inevitably move toward more ________marketing. They adopt more-developed marketing tools and adhere to them closely.",
+        "85) As small companies achieve success, they inevitably move toward more ________ marketing. They adopt more-developed marketing tools and adhere to them closely.",
         "A) ambush",
         "B) formulated",
         "C) entrepreneurial",
@@ -21087,7 +21087,7 @@ let data = [
         ]
     ],
     [
-        "86) Companies that have been in existence for some time often lose the marketing creativityand passion that they had at the start. They often need to refresh their marketing strategies andtry new approaches, known as ________.",
+        "86) Companies that have been in existence for some time often lose the marketing creativity and passion that they had at the start. They often need to refresh their marketing strategies and try new approaches, known as ________.",
         "A) multi-level marketing",
         "B) formulated marketing",
         "C) ambush marketing",
@@ -21098,7 +21098,7 @@ let data = [
         ]
     ],
     [
-        "87) Many approaches to developing effective competitive marketing strategies exist. There maybe ________ between the formulated side of marketing and the creative side, as creativity andpassion help build and maintain success.",
+        "87) Many approaches to developing effective competitive marketing strategies exist. There may be ________ between the formulated side of marketing and the creative side, as creativity and passion help build and maintain success.",
         "A) collaboration",
         "B) strong disagreements",
         "C) managerial conflicts",
@@ -21120,7 +21120,7 @@ let data = [
         ]
     ],
     [
-        "89) Dell produces and delivers PCs of competitive quality at lower costs. The companyconstantly aims to achieve low production and distribution costs to win a large market share.Dell utilizes a(n) ________ strategy very effectively.",
+        "89) Dell produces and delivers PCs of competitive quality at lower costs. The company constantly aims to achieve low production and distribution costs to win a large market share. Dell utilizes a(n) ________ strategy very effectively.",
         "A) overall cost leadership",
         "B) differentiation",
         "C) focus",
@@ -21131,7 +21131,7 @@ let data = [
         ]
     ],
     [
-        "90) Porsche is a German automobile manufacturer that competes against BMW and Audi, butonly in the sports car and SUV segments of the automobile market. Porsche utilizes a(n)________ strategy.",
+        "90) Porsche is a German automobile manufacturer that competes against BMW and Audi, but only in the sports car and SUV segments of the automobile market. Porsche utilizes a(n) ________ strategy.",
         "A) overall cost leadership",
         "B) focus",
         "C) middle-of-the-roaders",
@@ -21142,7 +21142,7 @@ let data = [
         ]
     ],
     [
-        "91) Bosch is a German firm that manufactures home appliances such as dishwashers, ovens,and ranges. It competes with companies such as GE Elite and LG. Bosch is perceived as theclass of the industry. Bosch pursues a(n) ________ strategy.",
+        "91) Bosch is a German firm that manufactures home appliances such as dishwashers, ovens, and ranges. It competes with companies such as GE Elite and LG. Bosch is perceived as the class of the industry. Bosch pursues a(n) ________ strategy.",
         "A) focus",
         "B) blue ocean",
         "C) overall cost leadership",
@@ -21153,7 +21153,7 @@ let data = [
         ]
     ],
     [
-        "92) Companies that pursue a clear strategy will likely perform well. Firms that do not pursue aclear strategy are called ________.",
+        "92) Companies that pursue a clear strategy will likely perform well. Firms that do not pursue a clear strategy are called ________.",
         "A) jack-of-all-trades",
         "B) middle-of-the-roaders",
         "C) niches",
@@ -21164,7 +21164,7 @@ let data = [
         ]
     ],
     [
-        "93) Sears and Holiday Inn encountered difficult times because they did not stand out as thelowest in cost, highest in perceived value, or best in service of their primary target marketsegment. Both companies are ________.",
+        "93) Sears and Holiday Inn encountered difficult times because they did not stand out as the lowest in cost, highest in perceived value, or best in service of their primary target market segment. Both companies are ________.",
         "A) niches",
         "B) jack-of-all-trades",
         "C) middle-of the roaders",
@@ -21186,7 +21186,7 @@ let data = [
         ]
     ],
     [
-        "95) When a company provides superior value by leading its industry in price and convenience,it has obtained ________.",
+        "95) When a company provides superior value by leading its industry in price and convenience, it has obtained ________.",
         "A) product leadership",
         "B) focus",
         "C) operational excellence",
@@ -21197,7 +21197,7 @@ let data = [
         ]
     ],
     [
-        "96) Walmart, Costco, and Southwest Airlines serve customers who want reliable, good-qualityproducts or services that are also reasonable and easily available. These companies are allknown for pursuing a value discipline known as ________.",
+        "96) Walmart, Costco, and Southwest Airlines serve customers who want reliable, good-quality products or services that are also reasonable and easily available. These companies are all known for pursuing a value discipline known as ________.",
         "A) operational excellence",
         "B) customer intimacy",
         "C) product differentiation",
@@ -21208,7 +21208,7 @@ let data = [
         ]
     ],
     [
-        "97) When companies serve customers who are willing to pay a premium to get precisely whatthey want and the company responds quickly to satisfy these customers' needs, the companyhas achieved ________.",
+        "97) When companies serve customers who are willing to pay a premium to get precisely what they want and the company responds quickly to satisfy these customers' needs, the company has achieved ________.",
         "A) customer intimacy",
         "B) product differentiation",
         "C) operational excellence",
@@ -21219,7 +21219,7 @@ let data = [
         ]
     ],
     [
-        "98) American Express will do almost anything to build long-term customer loyalty and tocapture customer lifetime value. Which of the following competitive marketing strategies isbeing pursued by American Express?",
+        "98) American Express will do almost anything to build long-term customer loyalty and to capture customer lifetime value. Which of the following competitive marketing strategies is being pursued by American Express?",
         "A) consumer capitalism",
         "B) customer equity",
         "C) product differentiation",
@@ -21230,7 +21230,7 @@ let data = [
         ]
     ],
     [
-        "99) If a company's aim is to make its own and competing products obsolete and servecustomers who want state-of-the-art products and services, it is using a value discipline called________.",
+        "99) If a company's aim is to make its own and competing products obsolete and serve customers who want state-of-the-art products and services, it is using a value discipline called ________.",
         "A) overall cost leadership",
         "B) product activation",
         "C) product binning",
@@ -21241,7 +21241,7 @@ let data = [
         ]
     ],
     [
-        "100) Samsung and Apple actively generate new ideas, relentlessly pursue new solutions, andquickly work to get new products to market. They serve customers who want state-of-the-artproducts and services, regardless of the costs in terms of price or inconvenience. Which of thefollowing value disciplines is illustrated from this example?",
+        "100) Samsung and Apple actively generate new ideas, relentlessly pursue new solutions, and quickly work to get new products to market. They serve customers who want state-of-the-art products and services, regardless of the costs in terms of price or inconvenience. Which of the following value disciplines is illustrated from this example?",
         "A) operational excellence",
         "B) customer intimacy",
         "C) product leadership",
@@ -21252,7 +21252,7 @@ let data = [
         ]
     ],
     [
-        "101) Some companies successfully pursue more than one of the three value disciplines at thesame time. For example, FedEx excels at operational excellence as well as customer intimacy.However, more companies focus on excelling at a single value discipline while ________ theother two.",
+        "101) Some companies successfully pursue more than one of the three value disciplines at the same time. For example, FedEx excels at operational excellence as well as customer intimacy. However, more companies focus on excelling at a single value discipline while ________ the other two.",
         "A) choosing a second one to also focus on",
         "B) meeting industry standards on",
         "C) ignoring",
@@ -21263,7 +21263,7 @@ let data = [
         ]
     ],
     [
-        "102) Which of the following is a competitive position or role that firms play in the targetmarket?",
+        "102) Which of the following is a competitive position or role that firms play in the target market?",
         "A) surrogate consumer",
         "B) market analyst",
         "C) market maven",
@@ -21285,7 +21285,7 @@ let data = [
         ]
     ],
     [
-        "104) ________ are those runner-up firms that are working to increase their market share in anindustry.",
+        "104) ________ are those runner-up firms that are working to increase their market share in an industry.",
         "A) Market leaders",
         "B) Market challengers",
         "C) Market followers",
@@ -21296,7 +21296,7 @@ let data = [
         ]
     ],
     [
-        "105) Fifty percent of the market is in the hands of Company A, 30 percent is in the hands ofCompany B, 15 percent is in the hands of Company C, and the remaining 5 percent is in thehands of Company D. Based on these hypothetical numbers, Company B is the market________.",
+        "105) Fifty percent of the market is in the hands of Company A, 30 percent is in the hands of Company B, 15 percent is in the hands of Company C, and the remaining 5 percent is in the hands of Company D. Based on these hypothetical numbers, Company B is the market ________.",
         "A) leader",
         "B) challenger",
         "C) follower",
@@ -21307,7 +21307,7 @@ let data = [
         ]
     ],
     [
-        "106) A runner-up firm that wants to hold its share in an industry without rocking the boat is a________.",
+        "106) A runner-up firm that wants to hold its share in an industry without rocking the boat is a ________.",
         "A) market follower",
         "B) market maven",
         "C) market challenger",
@@ -21329,7 +21329,7 @@ let data = [
         ]
     ],
     [
-        "108) Fifty percent of the market is in the hands of Company A, 30 percent is in the hands ofCompany B, 15 percent is in the hands of Company C, and the remaining 5 percent is in thehands of Company D. Based on these hypothetical numbers, Company D is the market________.",
+        "108) Fifty percent of the market is in the hands of Company A, 30 percent is in the hands of Company B, 15 percent is in the hands of Company C, and the remaining 5 percent is in the hands of Company D. Based on these hypothetical numbers, Company D is the market ________.",
         "A) leader",
         "B) challenger",
         "C) follower",
@@ -21340,7 +21340,7 @@ let data = [
         ]
     ],
     [
-        "109) If a company is a market leader in one category, and a market challenger or market nicherin other categories, it will follow ________ strategies for each category.",
+        "109) If a company is a market leader in one category, and a market challenger or market nicher in other categories, it will follow ________ strategies for each category.",
         "A) different",
         "B) the same",
         "C) unique",
@@ -21373,7 +21373,7 @@ let data = [
         ]
     ],
     [
-        "112) To remain number one, leading firms can take any of three actions. First, they can findways to expand total demand. Second, they can protect their current market share through gooddefensive and offensive actions. Third, they can ________.",
+        "112) To remain number one, leading firms can take any of three actions. First, they can find ways to expand total demand. Second, they can protect their current market share through good defensive and offensive actions. Third, they can ________.",
         "A) focus exclusively on divestment",
         "B) evaluate current employees and reduce costs through downsizing",
         "C) run smaller companies out of business, causing them to sell out to larger firms",
@@ -21428,7 +21428,7 @@ let data = [
         ]
     ],
     [
-        "117) Lovelies is the leading workout and fitness center for women. The regional chain of gymshas traditionally catered to women age 40 and older who are interested in strength andcardiovascular training. Lovelies has recently begun promotions to bring younger women intoits gyms. This is an example of how the market leader ________.",
+        "117) Lovelies is the leading workout and fitness center for women. The regional chain of gyms has traditionally catered to women age 40 and older who are interested in strength and cardiovascular training. Lovelies has recently begun promotions to bring younger women into its gyms. This is an example of how the market leader ________.",
         "A) competes with mature products",
         "B) changes its product line",
         "C) develops new rules",
@@ -21461,7 +21461,7 @@ let data = [
         ]
     ],
     [
-        "120) ________ can adopt one of two competitive strategies: they can challenge the leader orthey can play along with competitors and not rock the boat.",
+        "120) ________ can adopt one of two competitive strategies: they can challenge the leader or they can play along with competitors and not rock the boat.",
         "A) Runner-up firms",
         "B) Market nichers",
         "C) Global investors",
@@ -21472,7 +21472,7 @@ let data = [
         ]
     ],
     [
-        "121) Although it might seem that the market leader has the most going for it, challengers oftenhave what some strategists call a(n) ________. The challenger observes what has made theleader successful and improves upon it.",
+        "121) Although it might seem that the market leader has the most going for it, challengers often have what some strategists call a(n) ________. The challenger observes what has made the leader successful and improves upon it.",
         "A) \"marketing myopia\"",
         "B) \"second mover advantage\"",
         "C) \"absolute advantage\"",
@@ -21483,7 +21483,7 @@ let data = [
         ]
     ],
     [
-        "122) A market challenger that matches the competitor's product, advertising, price, anddistribution efforts is most likely ________.",
+        "122) A market challenger that matches the competitor's product, advertising, price, and distribution efforts is most likely ________.",
         "A) creating multiple niches",
         "B) pursuing an indirect attack",
         "C) launching a full frontal attack",
@@ -21494,7 +21494,7 @@ let data = [
         ]
     ],
     [
-        "123) Rather than challenging head on, a challenger can make a(n) ________ attack on thecompetitor's weaknesses or on gaps in the competitor's market coverage.",
+        "123) Rather than challenging head on, a challenger can make a(n) ________ attack on the competitor's weaknesses or on gaps in the competitor's market coverage.",
         "A) bypass",
         "B) frontal",
         "C) indirect",
@@ -21505,7 +21505,7 @@ let data = [
         ]
     ],
     [
-        "124) Which of the following conditions would enable higher market share to produce higherprofits?",
+        "124) Which of the following conditions would enable higher market share to produce higher profits?",
         "A) when unit costs drop as market share increases",
         "B) when unit costs increase as market share increases",
         "C) when production volume drops as market share increases",
@@ -21516,7 +21516,7 @@ let data = [
         ]
     ],
     [
-        "125) Cozy Country Market entered the candle business with a unique product: a line of candlesmade from soy that produces less smoke and lasts up to twice as long as other candles. The firmsold this unique product exclusively to a few niches. The candles were priced at twice the costcharged for normal candles. The product was also sold online and in unconventional outlets notdominated by market leaders. In this case, Cozy Country Market was using a(n) ________against the market leaders.",
+        "125) Cozy Country Market entered the candle business with a unique product: a line of candles made from soy that produces less smoke and lasts up to twice as long as other candles. The firm sold this unique product exclusively to a few niches. The candles were priced at twice the cost charged for normal candles. The product was also sold online and in unconventional outlets not dominated by market leaders. In this case, Cozy Country Market was using a(n) ________ against the market leaders.",
         "A) preemptive attack",
         "B) guerrilla attack",
         "C) counter offensive attack",
@@ -21538,7 +21538,7 @@ let data = [
         ]
     ],
     [
-        "127) Almost every industry includes firms that specialize in serving target subsegments calledmarket ________.",
+        "127) Almost every industry includes firms that specialize in serving target subsegments called market ________.",
         "A) niches",
         "B) mavens",
         "C) baskets",
@@ -21560,7 +21560,7 @@ let data = [
         ]
     ],
     [
-        "129) Whereas the mass marketer achieves ________, the nicher achieves ________.41",
+        "129) Whereas the mass marketer achieves ________, the nicher achieves ________. 41",
         "A) low margins; low volume",
         "B) low volume; high margins",
         "C) high volume; high margins",
@@ -21571,7 +21571,7 @@ let data = [
         ]
     ],
     [
-        "130) Computer mouse and interface device maker AdvTechPRO is only a fraction the size ofsoftware giant Terminal Time Software Inc. AdvTechPRO manufactures every variation ofcomputer mouse imaginable (for left-handed people, wireless mice, shaped like actual mice,LED mice, etc.). Through skillful ________, the firm dominates the PC mouse market, withTerminal Time Software as its runner up.",
+        "130) Computer mouse and interface device maker AdvTechPRO is only a fraction the size of software giant Terminal Time Software Inc. AdvTechPRO manufactures every variation of computer mouse imaginable (for left-handed people, wireless mice, shaped like actual mice, LED mice, etc.). Through skillful ________, the firm dominates the PC mouse market, with Terminal Time Software as its runner up.",
         "A) centralization techniques",
         "B) niching",
         "C) brand imaging",
@@ -21593,7 +21593,7 @@ let data = [
         ]
     ],
     [
-        "132) A market nicher can most likely specialize along all of the following lines EXCEPT________.",
+        "132) A market nicher can most likely specialize along all of the following lines EXCEPT ________.",
         "A) specific end users",
         "B) unique products",
         "C) customized services",
@@ -21604,7 +21604,7 @@ let data = [
         ]
     ],
     [
-        "133) The market subsegment that a company exclusively caters to may dry up, or it might growto the point that it attracts larger competitors. This is why such companies practice ________.",
+        "133) The market subsegment that a company exclusively caters to may dry up, or it might grow to the point that it attracts larger competitors. This is why such companies practice ________.",
         "A) multiple niching",
         "B) mass marketing",
         "C) overall cost leadership",
@@ -21615,7 +21615,7 @@ let data = [
         ]
     ],
     [
-        "134) Before deciding to launch the new line of products, Essential-Beauty conducted extensivemarket research to make sure the products were optimally positioned. A complete marketingplan including mobile advertising, magazine advertising, event sponsorship, and salespromotions was established long before the products themselves were ready for market. In thiscase, Essential-Beauty was using ________.",
+        "134) Before deciding to launch the new line of products, Essential-Beauty conducted extensive market research to make sure the products were optimally positioned. A complete marketing plan including mobile advertising, magazine advertising, event sponsorship, and sales promotions was established long before the products themselves were ready for market. In this case, Essential-Beauty was using ________.",
         "A) cost leadership",
         "B) entrepreneurial marketing",
         "C) intrepreneurial marketing",
@@ -21626,7 +21626,7 @@ let data = [
         ]
     ],
     [
-        "151) A company can become so ________ centered that it loses its even more important focuson maintaining profitable ________ relationships.",
+        "151) A company can become so ________ centered that it loses its even more important focus on maintaining profitable ________ relationships.",
         "A) customer; competitor",
         "B) competitor; customer",
         "C) market; customer",
@@ -21659,7 +21659,7 @@ let data = [
         ]
     ],
     [
-        "154) A company that focuses on customer developments in designing its marketing strategiesand on delivering superior value to its target customers is a ________ company.",
+        "154) A company that focuses on customer developments in designing its marketing strategies and on delivering superior value to its target customers is a ________ company.",
         "A) market-centered",
         "B) cost-centered",
         "C) competitor-centered",
@@ -21670,7 +21670,7 @@ let data = [
         ]
     ],
     [
-        "155) A company that is in a good position to identify new opportunities is a ________company.",
+        "155) A company that is in a good position to identify new opportunities is a ________ company.",
         "A) market-centered",
         "B) cost-centered",
         "C) competitor-centered",
@@ -21692,7 +21692,7 @@ let data = [
         ]
     ],
     [
-        "157) When companies watch both their buyers and their competitors, they are called ________companies.",
+        "157) When companies watch both their buyers and their competitors, they are called ________ companies.",
         "A) product-centered",
         "B) market-centered",
         "C) customer-centered",
@@ -21725,7 +21725,7 @@ let data = [
         ]
     ],
     [
-        "160) Greener-grass Inc. is a lawn care company providing landscaping and lawn maintenanceservices to customers in and around Kansas City. The marketing team at Greener-grasscarefully tracks the moves of competing companies, watching for shifting strategies and newpromotions. The marketing team is also in constant touch with customers, using surveys andother feedback methods to find out what kind of services customers value the most. Greener-grass is most accurately described as having a ________ orientation.",
+        "160) Greener-grass Inc. is a lawn care company providing landscaping and lawn maintenance services to customers in and around Kansas City. The marketing team at Greener-grass carefully tracks the moves of competing companies, watching for shifting strategies and new promotions. The marketing team is also in constant touch with customers, using surveys and other feedback methods to find out what kind of services customers value the most. Greener- grass is most accurately described as having a ________ orientation.",
         "A) market",
         "B) product",
         "C) customer",
@@ -21747,7 +21747,7 @@ let data = [
         ]
     ],
     [
-        "2) According to the text, what location does Coca-Cola consider a promising long-term growthopportunity?",
+        "2) According to the text, what location does Coca-Cola consider a promising long-term growth opportunity?",
         "A) Russia",
         "B) Brazil",
         "C) China",
@@ -21758,7 +21758,7 @@ let data = [
         ]
     ],
     [
-        "3) Which of the following is most likely to be the consequence of increased growth of globaltrade?",
+        "3) Which of the following is most likely to be the consequence of increased growth of global trade?",
         "A) Home markets become richer in opportunities.",
         "B) Foreign firms expand aggressively into new international markets.",
         "C) Global competition is curbed.",
@@ -21813,7 +21813,7 @@ let data = [
         ]
     ],
     [
-        "8) A ________ firm is one that, by operating in more than one country, gains marketing,production, research and development, and financial advantages that are not available to purelydomestic competitors.",
+        "8) A ________ firm is one that, by operating in more than one country, gains marketing, production, research and development, and financial advantages that are not available to purely domestic competitors.",
         "A) global",
         "B) domestic",
         "C) federally chartered",
@@ -21824,7 +21824,7 @@ let data = [
         ]
     ],
     [
-        "9) Since the global company sees the world as one market, it raises capital, obtains componentsand materials, and manufactures and markets its goods ________.",
+        "9) Since the global company sees the world as one market, it raises capital, obtains components and materials, and manufactures and markets its goods ________.",
         "A) at home",
         "B) in the lowest-cost country near where each product will be sold",
         "C) in each country in which it does business",
@@ -21835,7 +21835,7 @@ let data = [
         ]
     ],
     [
-        "10) Which question should most likely be answered by all companies due to the rapid movetoward globalization?",
+        "10) Which question should most likely be answered by all companies due to the rapid move toward globalization?",
         "A) How should we eliminate domestic competition?",
         "B) Should we diversify in a new business area in the home country?",
         "C) Who will our global competitors be, and what are their strategies and resources?",
@@ -21846,7 +21846,7 @@ let data = [
         ]
     ],
     [
-        "11) Before a company decides to go global, it must evaluate all of the following environmentsEXCEPT the ________ environment.",
+        "11) Before a company decides to go global, it must evaluate all of the following environments EXCEPT the ________ environment.",
         "A) cultural",
         "B) natural",
         "C) political-legal",
@@ -21857,7 +21857,7 @@ let data = [
         ]
     ],
     [
-        "12) Which of the following major decisions should a company make immediately after itdecides to operate internationally?",
+        "12) Which of the following major decisions should a company make immediately after it decides to operate internationally?",
         "A) deciding which markets to enter",
         "B) deciding how to enter the market",
         "C) deciding on the global marketing organization",
@@ -21868,7 +21868,7 @@ let data = [
         ]
     ],
     [
-        "13) Immediately after deciding which markets to enter, the company should determine________.",
+        "13) Immediately after deciding which markets to enter, the company should determine ________.",
         "A) the most suitable global communication program",
         "B) how to price its products in different markets",
         "C) the global marketing organization",
@@ -21879,7 +21879,7 @@ let data = [
         ]
     ],
     [
-        "14) Which of the following terms refers to a tax levied by a foreign government against certainimported products to raise revenue or to protect domestic firms?",
+        "14) Which of the following terms refers to a tax levied by a foreign government against certain imported products to raise revenue or to protect domestic firms?",
         "A) embargo",
         "B) tariff",
         "C) excise",
@@ -21901,7 +21901,7 @@ let data = [
         ]
     ],
     [
-        "16) A(n) ________ is a limit on the amount of goods that an importing country will accept incertain product categories.",
+        "16) A(n) ________ is a limit on the amount of goods that an importing country will accept in certain product categories.",
         "A) embargo",
         "B) tariff",
         "C) benchmark",
@@ -21912,7 +21912,7 @@ let data = [
         ]
     ],
     [
-        "17) A(n) ________ serves to limit the amount of foreign exchange and the exchange rateagainst other currencies.",
+        "17) A(n) ________ serves to limit the amount of foreign exchange and the exchange rate against other currencies.",
         "A) exchange premium",
         "B) free trade zone",
         "C) quota",
@@ -21945,7 +21945,7 @@ let data = [
         ]
     ],
     [
-        "20) Foreign businesses in India appear to receive unusually close scrutiny and specialregulations, aimed at protecting the local businesses. This is an example of a(n) ________.",
+        "20) Foreign businesses in India appear to receive unusually close scrutiny and special regulations, aimed at protecting the local businesses. This is an example of a(n) ________.",
         "A) nontariff trade barrier",
         "B) tariff",
         "C) boycott",
@@ -21956,7 +21956,7 @@ let data = [
         ]
     ],
     [
-        "21) The ________, established in 1947 and modified in 1994, was designed to promote worldtrade by reducing tariffs and other international trade barriers.",
+        "21) The ________, established in 1947 and modified in 1994, was designed to promote world trade by reducing tariffs and other international trade barriers.",
         "A) WTO",
         "B) NAFTA",
         "C) EU",
@@ -21967,7 +21967,7 @@ let data = [
         ]
     ],
     [
-        "22) ________ was established to replace GATT in 1995 and now oversees the original GATTprovisions.",
+        "22) ________ was established to replace GATT in 1995 and now oversees the original GATT provisions.",
         "A) The WTO",
         "B) The EU",
         "C) NAFTA",
@@ -21989,7 +21989,7 @@ let data = [
         ]
     ],
     [
-        "24) Growing Green, a U.S. company that markets organic and environmentally friendlygardening and landscaping supplies and equipment, wants to expand the businessinternationally. Growing Green managers are currently examining the rules imposed by theWTO and the agreements made by NAFTA and the EU. In which stage of the internationalmarketing process is Growing Green?",
+        "24) Growing Green, a U.S. company that markets organic and environmentally friendly gardening and landscaping supplies and equipment, wants to expand the business internationally. Growing Green managers are currently examining the rules imposed by the WTO and the agreements made by NAFTA and the EU. In which stage of the international marketing process is Growing Green?",
         "A) deciding on the global pricing strategies",
         "B) deciding which markets to enter",
         "C) deciding how to enter the market",
@@ -22000,7 +22000,7 @@ let data = [
         ]
     ],
     [
-        "25) A(n) ________ community is a group of nations organized to work toward common goalsin the regulation of international trade.",
+        "25) A(n) ________ community is a group of nations organized to work toward common goals in the regulation of international trade.",
         "A) joint venture",
         "B) strategic marketing",
         "C) economic",
@@ -22033,7 +22033,7 @@ let data = [
         ]
     ],
     [
-        "28) Formed in 1957, ________ set out to create a single European market by reducing barriersto the free flow of products, services, finances, and labor among member countries anddeveloping policies on trade with nonmember nations.",
+        "28) Formed in 1957, ________ set out to create a single European market by reducing barriers to the free flow of products, services, finances, and labor among member countries and developing policies on trade with nonmember nations.",
         "A) the Uruguay Round",
         "B) the European Union",
         "C) the European Organization",
@@ -22055,7 +22055,7 @@ let data = [
         ]
     ],
     [
-        "30) The EU helped unify Europe by adopting the euro as a common currency. Adopting acommon currency has caused problems as stronger economic countries have had to prop up allthe following European countries EXCEPT ________.",
+        "30) The EU helped unify Europe by adopting the euro as a common currency. Adopting a common currency has caused problems as stronger economic countries have had to prop up all the following European countries EXCEPT ________.",
         "A) Cyprus",
         "B) Portugal",
         "C) France",
@@ -22066,7 +22066,7 @@ let data = [
         ]
     ],
     [
-        "31) In 1994, ________ established a free trade zone among the United States, Canada, andMexico.",
+        "31) In 1994, ________ established a free trade zone among the United States, Canada, and Mexico.",
         "A) GATT",
         "B) the WTO",
         "C) NAFTA",
@@ -22077,7 +22077,7 @@ let data = [
         ]
     ],
     [
-        "32) Trusted Wholesalers is a company that purchases products produced in Mexico and sellsthem to companies based in the United States and Canada. Management at Trusted Wholesalerswould most likely be interested in becoming experts in the policies developed by ________.",
+        "32) Trusted Wholesalers is a company that purchases products produced in Mexico and sells them to companies based in the United States and Canada. Management at Trusted Wholesalers would most likely be interested in becoming experts in the policies developed by ________.",
         "A) the EU",
         "B) NAFTA",
         "C) CAFTA-DR",
@@ -22088,7 +22088,7 @@ let data = [
         ]
     ],
     [
-        "33) In 2005, ________ established a free trade zone between the United States and Costa Rica,the Dominican Republic, El Salvador, Guatemala, Honduras, and Nicaragua.",
+        "33) In 2005, ________ established a free trade zone between the United States and Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, and Nicaragua.",
         "A) CAFTA-DR",
         "B) FTAA",
         "C) CAN",
@@ -22099,7 +22099,7 @@ let data = [
         ]
     ],
     [
-        "34) Trusted Wholesalers is a company that currently purchases products made in Mexico andsells them to companies based in the United States and Canada. Trusted Wholesalers isconsidering whether to also purchase products produced in Costa Rica and the DominicanRepublic. To make their decision, members of management at Trusted Wholesalers will mostlikely evaluate the agreements made by ________.",
+        "34) Trusted Wholesalers is a company that currently purchases products made in Mexico and sells them to companies based in the United States and Canada. Trusted Wholesalers is considering whether to also purchase products produced in Costa Rica and the Dominican Republic. To make their decision, members of management at Trusted Wholesalers will most likely evaluate the agreements made by ________.",
         "A) the EU",
         "B) NAFTA",
         "C) CAFTA-DR",
@@ -22110,7 +22110,7 @@ let data = [
         ]
     ],
     [
-        "35) Formed in 2004 and formalized in 2008, ________ makes up the largest trading block afterNAFTA and the European Union.",
+        "35) Formed in 2004 and formalized in 2008, ________ makes up the largest trading block after NAFTA and the European Union.",
         "A) CAFTA-DR",
         "B) FTAA",
         "C) UNASUR",
@@ -22121,7 +22121,7 @@ let data = [
         ]
     ],
     [
-        "36) The two key economic factors reflecting a country's attractiveness as a market are itsindustrial structure and its ________.",
+        "36) The two key economic factors reflecting a country's attractiveness as a market are its industrial structure and its ________.",
         "A) communication adaptation",
         "B) nontariff trade barriers",
         "C) exchange controls",
@@ -22132,7 +22132,7 @@ let data = [
         ]
     ],
     [
-        "37) A country's ________ shapes its product and service needs, income levels, and employmentlevels.",
+        "37) A country's ________ shapes its product and service needs, income levels, and employment levels.",
         "A) international trade system",
         "B) income distribution",
         "C) industrial structure",
@@ -22154,7 +22154,7 @@ let data = [
         ]
     ],
     [
-        "39) In a(n) ________, the vast majority of people engage in simple agriculture and consumemost of their output.",
+        "39) In a(n) ________, the vast majority of people engage in simple agriculture and consume most of their output.",
         "A) raw material economy",
         "B) subsistence economy",
         "C) industrializing economy",
@@ -22187,7 +22187,7 @@ let data = [
         ]
     ],
     [
-        "42) A(n) ________ economy is rich in one or more natural resources but poor in other ways andmuch of its revenue comes from exporting its natural resources.",
+        "42) A(n) ________ economy is rich in one or more natural resources but poor in other ways and much of its revenue comes from exporting its natural resources.",
         "A) industrial",
         "B) industrializing",
         "C) raw material exporting",
@@ -22198,7 +22198,7 @@ let data = [
         ]
     ],
     [
-        "43) Coffee, tea, cotton, and tobacco are the main exports of Uganda. It is most likely that Ugandahas a(n) ________ economy.",
+        "43) Coffee, tea, cotton, and tobacco are the main exports of Uganda. It is most likely that Uganda has a(n) ________ economy.",
         "A) subsistence",
         "B) marketing",
         "C) merchandise exporting",
@@ -22209,7 +22209,7 @@ let data = [
         ]
     ],
     [
-        "44) In a(n) ________ economy, fast growth in manufacturing results in rapid overall economicgrowth.",
+        "44) In a(n) ________ economy, fast growth in manufacturing results in rapid overall economic growth.",
         "A) industrial",
         "B) industrializing",
         "C) materials exporting",
@@ -22264,7 +22264,7 @@ let data = [
         ]
     ],
     [
-        "49) India needs more imports of raw materials such as textiles, steel, and heavy machinery andfewer imports of finished textiles, paper products, and automobiles. In the context of industrialstructures, India is most likely a(n) ________ economy.",
+        "49) India needs more imports of raw materials such as textiles, steel, and heavy machinery and fewer imports of finished textiles, paper products, and automobiles. In the context of industrial structures, India is most likely a(n) ________ economy.",
         "A) subsistence",
         "B) totalitarian",
         "C) raw material exporting",
@@ -22297,7 +22297,7 @@ let data = [
         ]
     ],
     [
-        "52) Countries with ________ economies consist mostly of households with very low familyincomes.",
+        "52) Countries with ________ economies consist mostly of households with very low family incomes.",
         "A) industrial",
         "B) industrializing",
         "C) raw material exporting",
@@ -22319,7 +22319,7 @@ let data = [
         ]
     ],
     [
-        "54) Which of the following is an economic factor that a company should consider beforedeciding to enter into a new country?",
+        "54) Which of the following is an economic factor that a company should consider before deciding to enter into a new country?",
         "A) industrial structure",
         "B) natural resources",
         "C) cultural and social norms",
@@ -22330,7 +22330,7 @@ let data = [
         ]
     ],
     [
-        "55) Income distribution is the second economic factor. While much of Africa consists ofcountries with subsistence economies, companies are increasingly targeting ________consumers in subsistence and emerging economies.",
+        "55) Income distribution is the second economic factor. While much of Africa consists of countries with subsistence economies, companies are increasingly targeting ________ consumers in subsistence and emerging economies.",
         "A) upper-class",
         "B) \"bottom of the economic pyramid\"",
         "C) middle-income",
@@ -22341,7 +22341,7 @@ let data = [
         ]
     ],
     [
-        "56) Foreign businesses in India appear to receive unusually close scrutiny and must meetspecial regulations, aimed at protecting local businesses. This includes nontariff trade barriers.This reflects that a country's ________ should be carefully considered before doing business inthat country.",
+        "56) Foreign businesses in India appear to receive unusually close scrutiny and must meet special regulations, aimed at protecting local businesses. This includes nontariff trade barriers. This reflects that a country's ________ should be carefully considered before doing business in that country.",
         "A) political-legal environment",
         "B) industrial structure",
         "C) cultural norms",
@@ -22352,7 +22352,7 @@ let data = [
         ]
     ],
     [
-        "57) A company should consider political and legal factors such as monetary regulations,political stability, the country's attitudes toward international buying, and ________ whendetermining whether to enter a specific country.",
+        "57) A company should consider political and legal factors such as monetary regulations, political stability, the country's attitudes toward international buying, and ________ when determining whether to enter a specific country.",
         "A) size of population",
         "B) government bureaucracy",
         "C) natural resources",
@@ -22363,7 +22363,7 @@ let data = [
         ]
     ],
     [
-        "58) Which of the following is a political and legal factor that a company should consider beforedeciding to enter into a new country?",
+        "58) Which of the following is a political and legal factor that a company should consider before deciding to enter into a new country?",
         "A) monetary and trade regulations",
         "B) transportation structure",
         "C) population size and growth",
@@ -22374,7 +22374,7 @@ let data = [
         ]
     ],
     [
-        "59) Sellers might accept a(n) ________, one whose removal from the country is restricted bythe buyer's government, if they can buy other goods in that country that they need themselvesor can sell elsewhere for a needed currency.",
+        "59) Sellers might accept a(n) ________, one whose removal from the country is restricted by the buyer's government, if they can buy other goods in that country that they need themselves or can sell elsewhere for a needed currency.",
         "A) blocked currency",
         "B) countervailing duty",
         "C) custom duty",
@@ -22396,7 +22396,7 @@ let data = [
         ]
     ],
     [
-        "61) Demographic characteristics, geographic characteristics, economic factors, socioculturalfactors, and political and legal factors all help a company ________.",
+        "61) Demographic characteristics, geographic characteristics, economic factors, sociocultural factors, and political and legal factors all help a company ________.",
         "A) determine a market's potential",
         "B) determine a country's degree of globalization",
         "C) evaluate its marketing objectives",
@@ -22407,7 +22407,7 @@ let data = [
         ]
     ],
     [
-        "62) If Azerbaijan imported wheat from Romania in exchange for crude oil, and Vietnamexchanged rice for Philippine fertilizer and coconuts then these scenarios would be examples of________.",
+        "62) If Azerbaijan imported wheat from Romania in exchange for crude oil, and Vietnam exchanged rice for Philippine fertilizer and coconuts then these scenarios would be examples of ________.",
         "A) cash transaction",
         "B) compensation",
         "C) buyback",
@@ -22418,7 +22418,7 @@ let data = [
         ]
     ],
     [
-        "63) Which of the following is a demographic factor that a company should consider beforedeciding to enter into a new country?",
+        "63) Which of the following is a demographic factor that a company should consider before deciding to enter into a new country?",
         "A) transportation structure",
         "B) natural resources",
         "C) political stability",
@@ -22429,7 +22429,7 @@ let data = [
         ]
     ],
     [
-        "64) Nike inadvertently offended Chinese officials when it ran an ad featuring LeBron Jamescrushing a number of revered Chinese figures in a kung fu-themed television ad. As a result,Nike had to release a formal apology. This is an example of the impact of ________ onmarketing strategy.",
+        "64) Nike inadvertently offended Chinese officials when it ran an ad featuring LeBron James crushing a number of revered Chinese figures in a kung fu-themed television ad. As a result, Nike had to release a formal apology. This is an example of the impact of ________ on marketing strategy.",
         "A) culture",
         "B) political stability",
         "C) level of industrialization",
@@ -22440,7 +22440,7 @@ let data = [
         ]
     ],
     [
-        "65) Which of the following is a sociocultural factor that a company should consider beforedeciding to enter into a new country?",
+        "65) Which of the following is a sociocultural factor that a company should consider before deciding to enter into a new country?",
         "A) political stability",
         "B) population density (urban vs. rural)",
         "C) education",
@@ -22451,7 +22451,7 @@ let data = [
         ]
     ],
     [
-        "66) Which of the following would a defender of globalization most likely use as an example toargue that concerns of Americanization are overblown and that globalization is indeed a two-way street?",
+        "66) Which of the following would a defender of globalization most likely use as an example to argue that concerns of Americanization are overblown and that globalization is indeed a two- way street?",
         "A) the view of McDonald's being a domestic brand in China",
         "B) the growing popularity of coffee in China since the introduction of Starbucks",
         "C) the growing number of IKEA furniture stores in the United States",
@@ -22462,7 +22462,7 @@ let data = [
         ]
     ],
     [
-        "67) Which of the following is a geographic factor that a company should consider beforedeciding to enter into a new country?",
+        "67) Which of the following is a geographic factor that a company should consider before deciding to enter into a new country?",
         "A) climate",
         "B) population size",
         "C) GDP size and growth",
@@ -22473,7 +22473,7 @@ let data = [
         ]
     ],
     [
-        "68) Which of the following is the LEAST critical decision a company should make beforegoing abroad?",
+        "68) Which of the following is the LEAST critical decision a company should make before going abroad?",
         "A) Can the company learn to understand buyer behavior of consumers in other countries?",
         "B) Can the company offer competitively attractive products?",
         "C) Can the company adapt to other countries' business cultures?",
@@ -22484,7 +22484,7 @@ let data = [
         ]
     ],
     [
-        "69) A company should make several important decisions before deciding which markets toenter. These include all of the following EXCEPT ________.",
+        "69) A company should make several important decisions before deciding which markets to enter. These include all of the following EXCEPT ________.",
         "A) how many countries it wants to enter",
         "B) what volume of foreign sales it wants",
         "C) how many different products it wants to offer in a specific country",
@@ -22495,7 +22495,7 @@ let data = [
         ]
     ],
     [
-        "70) Market size, market growth, the cost of doing business, competitive advantage, and risklevel all help a company ________.",
+        "70) Market size, market growth, the cost of doing business, competitive advantage, and risk level all help a company ________.",
         "A) determine a market's potential",
         "B) determine a country's degree of globalization",
         "C) evaluate its marketing objectives",
@@ -22517,7 +22517,7 @@ let data = [
         ]
     ],
     [
-        "101) Members of management at Growing Green, a company that markets organic andenvironmentally friendly gardening and landscaping supplies and equipment, are evaluating thebenefits and disadvantages of indirect exporting, direct exporting, and licensing. In which stageof the international marketing process is Growing Green?",
+        "101) Members of management at Growing Green, a company that markets organic and environmentally friendly gardening and landscaping supplies and equipment, are evaluating the benefits and disadvantages of indirect exporting, direct exporting, and licensing. In which stage of the international marketing process is Growing Green?",
         "A) deciding on the global advertising strategy",
         "B) deciding which markets to enter",
         "C) deciding how to enter the market",
@@ -22539,7 +22539,7 @@ let data = [
         ]
     ],
     [
-        "103) When entering a foreign market, companies typically start with ________, workingthrough independent intermediaries to sell products produced in the home country.",
+        "103) When entering a foreign market, companies typically start with ________, working through independent intermediaries to sell products produced in the home country.",
         "A) direct exporting",
         "B) embargo",
         "C) product adaptation",
@@ -22572,7 +22572,7 @@ let data = [
         ]
     ],
     [
-        "106) Think Ink is a growing company that sells a variety of inks for home and businessprinters. Management at Think Ink has decided to open a sales branch overseas to handle salesand distribution abroad. Think Ink is engaging in ________.",
+        "106) Think Ink is a growing company that sells a variety of inks for home and business printers. Management at Think Ink has decided to open a sales branch overseas to handle sales and distribution abroad. Think Ink is engaging in ________.",
         "A) indirect exporting",
         "B) direct exporting",
         "C) licensing",
@@ -22583,7 +22583,7 @@ let data = [
         ]
     ],
     [
-        "107) Working with foreign companies to produce or market products or services is known as________.",
+        "107) Working with foreign companies to produce or market products or services is known as ________.",
         "A) direct export",
         "B) global distribution",
         "C) direct investment",
@@ -22616,7 +22616,7 @@ let data = [
         ]
     ],
     [
-        "110) Through ________, an organization in the foreign market buys the right to use acompany's manufacturing process, trademark, patent, trade secret, or other item of value.",
+        "110) Through ________, an organization in the foreign market buys the right to use a company's manufacturing process, trademark, patent, trade secret, or other item of value.",
         "A) indirect exporting",
         "B) licensing",
         "C) contract manufacturing",
@@ -22627,7 +22627,7 @@ let data = [
         ]
     ],
     [
-        "111) In Japan, Budweiser beer flows from Kirin breweries, and Moringa Milk Companyproduces Sunkist fruit juice. These are examples of ________.",
+        "111) In Japan, Budweiser beer flows from Kirin breweries, and Moringa Milk Company produces Sunkist fruit juice. These are examples of ________.",
         "A) contract manufacturing",
         "B) management contracting",
         "C) licensing",
@@ -22638,7 +22638,7 @@ let data = [
         ]
     ],
     [
-        "112) An advantage of licensing to a company is that it ________, while the licensee gainsproduction expertise or a well-known product without having to start from scratch.",
+        "112) An advantage of licensing to a company is that it ________, while the licensee gains production expertise or a well-known product without having to start from scratch.",
         "A) does not maintain the same level of control over product quality",
         "B) must send employees to work with the licensee in training, selling, and distribution",
         "C) might create a competitor",
@@ -22649,7 +22649,7 @@ let data = [
         ]
     ],
     [
-        "113) Sears opened up department stores in Mexico and Spain, where it found qualified localmanufacturers to produce many of the products it sells. This type of joint venture is known as________.",
+        "113) Sears opened up department stores in Mexico and Spain, where it found qualified local manufacturers to produce many of the products it sells. This type of joint venture is known as ________.",
         "A) joint ownership",
         "B) licensing",
         "C) management contracting",
@@ -22671,7 +22671,7 @@ let data = [
         ]
     ],
     [
-        "115) Potential advantages of contract manufacturing include all of the following EXCEPT________.",
+        "115) Potential advantages of contract manufacturing include all of the following EXCEPT ________.",
         "A) reducing plant investment",
         "B) starting faster with less risk",
         "C) providing a later opportunity to form a partnership with the local manufacturer",
@@ -22682,7 +22682,7 @@ let data = [
         ]
     ],
     [
-        "116) Hilton helps others run their hotels by providing the management know-how. This type ofjoint venture is known as ________.",
+        "116) Hilton helps others run their hotels by providing the management know-how. This type of joint venture is known as ________.",
         "A) contract manufacturing",
         "B) licensing",
         "C) management contracting",
@@ -22693,7 +22693,7 @@ let data = [
         ]
     ],
     [
-        "117) Campbell Soup recently joined forces with Hong Kong-based Swire Pacific to form anentity called Campbell Swire to better distribute the company's soups in China. This is anexample of ________.",
+        "117) Campbell Soup recently joined forces with Hong Kong-based Swire Pacific to form an entity called Campbell Swire to better distribute the company's soups in China. This is an example of ________.",
         "A) licensing",
         "B) contract manufacturing",
         "C) management contracting",
@@ -22704,7 +22704,7 @@ let data = [
         ]
     ],
     [
-        "118) ________ ventures consist of one company joining forces with foreign investors to createa local business in which they share ownership and control.",
+        "118) ________ ventures consist of one company joining forces with foreign investors to create a local business in which they share ownership and control.",
         "A) Joint ownership",
         "B) Licensing",
         "C) Contract manufacturing",
@@ -22715,7 +22715,7 @@ let data = [
         ]
     ],
     [
-        "119) ________ involves entering a foreign market by developing foreign-based assembly ormanufacturing facilities.",
+        "119) ________ involves entering a foreign market by developing foreign-based assembly or manufacturing facilities.",
         "A) Indirect exporting",
         "B) Direct investment",
         "C) Joint venturing",
@@ -22726,7 +22726,7 @@ let data = [
         ]
     ],
     [
-        "120) Lower costs in the form of cheaper labor or raw materials, foreign government investmentincentives, freight savings, and the opportunity to improve the company image are the factorsthat would most likely lead a company to enter a foreign market using the market entry strategyof ________.",
+        "120) Lower costs in the form of cheaper labor or raw materials, foreign government investment incentives, freight savings, and the opportunity to improve the company image are the factors that would most likely lead a company to enter a foreign market using the market entry strategy of ________.",
         "A) direct exporting",
         "B) licensing",
         "C) management contracting",
@@ -22737,7 +22737,7 @@ let data = [
         ]
     ],
     [
-        "130) ________ involves essentially using the same marketing strategy approaches andmarketing mix worldwide",
+        "130) ________ involves essentially using the same marketing strategy approaches and marketing mix worldwide",
         "A) Adapted global marketing",
         "B) Ambush marketing",
         "C) Standardized global marketing",
@@ -22748,7 +22748,7 @@ let data = [
         ]
     ],
     [
-        "131) ________ means adjusting the marketing strategy and mix elements to each internationaltarget market.",
+        "131) ________ means adjusting the marketing strategy and mix elements to each international target market.",
         "A) Standardized global marketing",
         "B) Ambush marketing",
         "C) Adapted global marketing",
@@ -22759,7 +22759,7 @@ let data = [
         ]
     ],
     [
-        "132) ________ means marketing a product in a foreign market without making any changes tothe product.",
+        "132) ________ means marketing a product in a foreign market without making any changes to the product.",
         "A) Product adaptation",
         "B) Product invention",
         "C) Communication adaptation",
@@ -22770,7 +22770,7 @@ let data = [
         ]
     ],
     [
-        "133) Heineken beer is sold successfully in the same form around the world. Which of thefollowing product strategies is illustrated in this example?",
+        "133) Heineken beer is sold successfully in the same form around the world. Which of the following product strategies is illustrated in this example?",
         "A) product adaptation",
         "B) straight product extension",
         "C) product invention",
@@ -22781,7 +22781,7 @@ let data = [
         ]
     ],
     [
-        "134) Kraft has adapted its popular Oreo cookie to the unique tastes of consumers all around theworld, whether it's mango-and-orange flavored Oreos in the Asia Pacific region, green teaOreos in China, a chocolate and peanut variety in Indonesia, or banana and dulce de leche inArgentina. This is an example of ________.",
+        "134) Kraft has adapted its popular Oreo cookie to the unique tastes of consumers all around the world, whether it's mango-and-orange flavored Oreos in the Asia Pacific region, green tea Oreos in China, a chocolate and peanut variety in Indonesia, or banana and dulce de leche in Argentina. This is an example of ________.",
         "A) product invention",
         "B) straight product extension",
         "C) product adaptation",
@@ -22803,7 +22803,7 @@ let data = [
         ]
     ],
     [
-        "136) Vidal Sassoon shampoos contain different amounts of scent according to the country inwhich they are sold. This is an example of ________.",
+        "136) Vidal Sassoon shampoos contain different amounts of scent according to the country in which they are sold. This is an example of ________.",
         "A) straight product extension",
         "B) product invention",
         "C) product adaptation",
@@ -22814,7 +22814,7 @@ let data = [
         ]
     ],
     [
-        "137) ________ consists of creating something new to meet the needs of consumers in a givencountry.",
+        "137) ________ consists of creating something new to meet the needs of consumers in a given country.",
         "A) Communication adaptation",
         "B) Joint venturing",
         "C) Product invention",
@@ -22825,7 +22825,7 @@ let data = [
         ]
     ],
     [
-        "138) GigaTalk, a U.S. based computer manufacturing company, found that Japanese commutershad difficulty using standard laptops on crowded rush-hour trains because, while standing,commuters cannot use their laptops. So GigaTalk created a standing computer. This computerincludes a touch screen and small keyboard that can be used while standing or on the move.This is an example of ________.",
+        "138) GigaTalk, a U.S. based computer manufacturing company, found that Japanese commuters had difficulty using standard laptops on crowded rush-hour trains because, while standing, commuters cannot use their laptops. So GigaTalk created a standing computer. This computer includes a touch screen and small keyboard that can be used while standing or on the move. This is an example of ________.",
         "A) straight product extension",
         "B) standardized global marketing",
         "C) product adaptation",
@@ -22847,7 +22847,7 @@ let data = [
         ]
     ],
     [
-        "140) Kellogg ads in the United States promote the taste and nutrition of Kellogg's cerealsversus competitors' brands. In France, where consumers drink little milk and eat little forbreakfast, Kellogg's ads must convince consumers that cereals are a tasty and healthfulbreakfast. Which marketing strategy is being followed by Kellogg?",
+        "140) Kellogg ads in the United States promote the taste and nutrition of Kellogg's cereals versus competitors' brands. In France, where consumers drink little milk and eat little for breakfast, Kellogg's ads must convince consumers that cereals are a tasty and healthful breakfast. Which marketing strategy is being followed by Kellogg?",
         "A) straight product extension",
         "B) product adaptation",
         "C) product invention",
@@ -22858,7 +22858,7 @@ let data = [
         ]
     ],
     [
-        "141) In Chinese, the KFC slogan \"finger-lickin' good\" came out as \"eat your fingers off.\" AndMotorola's Hello-moto ringtone sounded like \"Hello, Fatty\" in India. Which of the followingstrategies can be used to avoid such mistakes?",
+        "141) In Chinese, the KFC slogan \"finger-lickin' good\" came out as \"eat your fingers off.\" And Motorola's Hello-moto ringtone sounded like \"Hello, Fatty\" in India. Which of the following strategies can be used to avoid such mistakes?",
         "A) communication adaptation",
         "B) standardized global marketing",
         "C) straight product extension",
@@ -22869,7 +22869,7 @@ let data = [
         ]
     ],
     [
-        "142) Advertising media must be adapted internationally. Which of the following is NOT trueabout the need for communication adaptation?",
+        "142) Advertising media must be adapted internationally. Which of the following is NOT true about the need for communication adaptation?",
         "A) Advertising time is limited in Europe.",
         "B) Mobile phone ads are widely accepted in Europe and Asia.",
         "C) Advertisers must buy advertising time far in advance.",
@@ -22880,7 +22880,7 @@ let data = [
         ]
     ],
     [
-        "143) Assume that a Gucci handbag sells for $60 in Italy and $240 in the United States becauseGucci must add the cost of transportation, tariffs, importer margin, wholesaler margin, andretailer margin to its factory price. This information indicates that Gucci faces a ________problem.",
+        "143) Assume that a Gucci handbag sells for $60 in Italy and $240 in the United States because Gucci must add the cost of transportation, tariffs, importer margin, wholesaler margin, and retailer margin to its factory price. This information indicates that Gucci faces a ________ problem.",
         "A) dumping",
         "B) tariff",
         "C) licensing",
@@ -22891,7 +22891,7 @@ let data = [
         ]
     ],
     [
-        "144) Designing international channels that take into account the entire global supply chain andmarketing channel, thus forging an effective global value delivery network, recognizes acompany must have a ________.",
+        "144) Designing international channels that take into account the entire global supply chain and marketing channel, thus forging an effective global value delivery network, recognizes a company must have a ________.",
         "A) whole-channel view",
         "B) direct-distribution channel",
         "C) large-scale channel",
@@ -22902,7 +22902,7 @@ let data = [
         ]
     ],
     [
-        "145) ________ are the first link between the seller and the final buyer. They move companyproducts from points of production to the borders of countries within which they are sold.",
+        "145) ________ are the first link between the seller and the final buyer. They move company products from points of production to the borders of countries within which they are sold.",
         "A) Channels between nations",
         "B) Channels within nations",
         "C) Retail channels",
@@ -22913,7 +22913,7 @@ let data = [
         ]
     ],
     [
-        "146) If Selman & Saks allowed a French company to produce and market razors and trimmerscarrying the company's brand in exchange for a royalty, Selman & Saks would be using themarket entry strategy of ________.",
+        "146) If Selman & Saks allowed a French company to produce and market razors and trimmers carrying the company's brand in exchange for a royalty, Selman & Saks would be using the market entry strategy of ________.",
         "A) exporting",
         "B) franchising",
         "C) licensing",
@@ -22924,7 +22924,7 @@ let data = [
         ]
     ],
     [
-        "147) Selman & Saks offered the same razors and trimmers in France as in the United States.Selman & Saks is an example of a ________.",
+        "147) Selman & Saks offered the same razors and trimmers in France as in the United States. Selman & Saks is an example of a ________.",
         "A) product adaptation",
         "B) communication adaptation",
         "C) product invention",
@@ -22935,7 +22935,7 @@ let data = [
         ]
     ],
     [
-        "160) A company can manage its international marketing in all of the following ways EXCEPT________.",
+        "160) A company can manage its international marketing in all of the following ways EXCEPT ________.",
         "A) becoming a global organization",
         "B) organizing an export department",
         "C) creating an international division",
@@ -22946,7 +22946,7 @@ let data = [
         ]
     ],
     [
-        "161) A firm often enters international marketing by simply shipping its goods out of the49country. If its international sales expand, the company often organizes a(n) ________.",
+        "161) A firm often enters international marketing by simply shipping its goods out of the 49 country. If its international sales expand, the company often organizes a(n) ________.",
         "A) indirect exporting venture",
         "B) joint ownership",
         "C) export department",
@@ -22957,7 +22957,7 @@ let data = [
         ]
     ],
     [
-        "162) World product groups, geographical organizations, and international subsidiaries are alloptions for organizing a(n)________.",
+        "162) World product groups, geographical organizations, and international subsidiaries are all options for organizing a(n)________.",
         "A) export department",
         "B) indirect exporting venture",
         "C) joint ownership",
@@ -22968,7 +22968,7 @@ let data = [
         ]
     ],
     [
-        "163) When a company exports to one country, licenses to another, has a joint ownership venturein a third, and owns a subsidiary in a fourth, it likely will create a(n) ________ to handle itsinternational activity.",
+        "163) When a company exports to one country, licenses to another, has a joint ownership venture in a third, and owns a subsidiary in a fourth, it likely will create a(n) ________ to handle its international activity.",
         "A) global organization",
         "B) international division",
         "C) world product group",
@@ -22979,7 +22979,7 @@ let data = [
         ]
     ],
     [
-        "164) International divisions are organized in several ways. Their operating units can include allof the following EXCEPT ________.",
+        "164) International divisions are organized in several ways. Their operating units can include all of the following EXCEPT ________.",
         "A) international subsidiaries",
         "B) world product groups",
         "C) corporate staff providing services to operating units",
@@ -22990,7 +22990,7 @@ let data = [
         ]
     ],
     [
-        "165) In a(n) ________, executives are trained in worldwide operations, not just domestic orinternational operations.",
+        "165) In a(n) ________, executives are trained in worldwide operations, not just domestic or international operations.",
         "A) direct exporting company",
         "B) joint venture",
         "C) international division",
@@ -23001,7 +23001,7 @@ let data = [
         ]
     ],
     [
-        "166) At Comfort Homes, a manufacturer of furniture and home accessories, the globaloperating units report directly to the chief executive instead of a head of an internationaldivision. The company recruits management from many countries and buys components andsupplies where they cost the least. Comfort Homes is most accurately classified as a(n)________.",
+        "166) At Comfort Homes, a manufacturer of furniture and home accessories, the global operating units report directly to the chief executive instead of a head of an international division. The company recruits management from many countries and buys components and supplies where they cost the least. Comfort Homes is most accurately classified as a(n) ________.",
         "A) direct exporter",
         "B) geographical organization",
         "C) international subsidiary",
@@ -23023,7 +23023,7 @@ let data = [
         ]
     ],
     [
-        "2) The marketing concept focuses on meeting the company's short-term sales, ________, andprofit needs, though that doesn't always serve the future best interests of either customers or thebusiness.",
+        "2) The marketing concept focuses on meeting the company's short-term sales, ________, and profit needs, though that doesn't always serve the future best interests of either customers or the business.",
         "A) market share",
         "B) customer value",
         "C) growth",
@@ -23034,7 +23034,7 @@ let data = [
         ]
     ],
     [
-        "3) ________ calls for meeting the present needs of consumers and businesses while alsopreserving or enhancing the ability of future generations to meet their needs.",
+        "3) ________ calls for meeting the present needs of consumers and businesses while also preserving or enhancing the ability of future generations to meet their needs.",
         "A) Sustainable marketing",
         "B) Ambush marketing",
         "C) Consumerism",
@@ -23056,7 +23056,7 @@ let data = [
         ]
     ],
     [
-        "5) According to the text, McDonald's was criticized for all of the following EXCEPT________.",
+        "5) According to the text, McDonald's was criticized for all of the following EXCEPT ________.",
         "A) the sizable environmental footprint of its global operations",
         "B) wasteful packaging and solid waste creation",
         "C) inefficient energy use in its stores",
@@ -23078,7 +23078,7 @@ let data = [
         ]
     ],
     [
-        "7) The ________ concept calls for socially and environmentally responsible actions that meetboth the immediate and future needs of customers and the company.",
+        "7) The ________ concept calls for socially and environmentally responsible actions that meet both the immediate and future needs of customers and the company.",
         "A) societal marketing",
         "B) business-to-business",
         "C) direct marketing",
@@ -23089,7 +23089,7 @@ let data = [
         ]
     ],
     [
-        "8) McDonald's \"Commitments to Offer Improved Nutrition Choices\" strategy has addedhealthy food options to its menu, phased out traditional artery-clogging trans fats, launched amajor multifaceted education campaign, and addressed environmental issues. This strategy bestexemplifies the ________ concept.",
+        "8) McDonald's \"Commitments to Offer Improved Nutrition Choices\" strategy has added healthy food options to its menu, phased out traditional artery-clogging trans fats, launched a major multifaceted education campaign, and addressed environmental issues. This strategy best exemplifies the ________ concept.",
         "A) sustainable marketing",
         "B) direct marketing",
         "C) mercantilism",
@@ -23100,7 +23100,7 @@ let data = [
         ]
     ],
     [
-        "9) The BeautyShop, a manufacturer of skin care products, uses only plant-based materials forits cosmetic products. It supports several environmental protection movements and movementsdefending human rights. This accounts for the company's efforts to build good will andcorporate social responsibility. This exemplifies the ________ concept.",
+        "9) The BeautyShop, a manufacturer of skin care products, uses only plant-based materials for its cosmetic products. It supports several environmental protection movements and movements defending human rights. This accounts for the company's efforts to build good will and corporate social responsibility. This exemplifies the ________ concept.",
         "A) consumer business",
         "B) strategic planning",
         "C) consumerism",
@@ -23122,7 +23122,7 @@ let data = [
         ]
     ],
     [
-        "14) Consumer advocates, government agencies, and other critics have accused marketing ofharming consumers through ________.",
+        "14) Consumer advocates, government agencies, and other critics have accused marketing of harming consumers through ________.",
         "A) technological obsolescence",
         "B) sales promotion tactics",
         "C) viral marketing",
@@ -23133,7 +23133,7 @@ let data = [
         ]
     ],
     [
-        "15) Critics point out that in the stationery industry, a pen that costs fifty cents to make costs theconsumer $10 to buy. This is an example of ________.",
+        "15) Critics point out that in the stationery industry, a pen that costs fifty cents to make costs the consumer $10 to buy. This is an example of ________.",
         "A) deceptive advertising",
         "B) redlining",
         "C) excessive markups",
@@ -23144,7 +23144,7 @@ let data = [
         ]
     ],
     [
-        "16) Critics point to which of the following factors when they accuse marketing of harmingconsumers through high prices?",
+        "16) Critics point to which of the following factors when they accuse marketing of harming consumers through high prices?",
         "A) quotas",
         "B) nontrade tariffs",
         "C) excessive markups",
@@ -23155,7 +23155,7 @@ let data = [
         ]
     ],
     [
-        "17) When criticized about the value of intermediaries, marketers and resellers respond thatintermediaries ________.",
+        "17) When criticized about the value of intermediaries, marketers and resellers respond that intermediaries ________.",
         "A) are too few in number",
         "B) are inefficient",
         "C) provide only necessary services that must be provided by someone",
@@ -23166,7 +23166,7 @@ let data = [
         ]
     ],
     [
-        "18) A longstanding charge against intermediaries is that they mark up prices beyond the________.",
+        "18) A longstanding charge against intermediaries is that they mark up prices beyond the ________.",
         "A) value of their services",
         "B) delivery charges",
         "C) going market price",
@@ -23188,7 +23188,7 @@ let data = [
         ]
     ],
     [
-        "20) Marketers respond to charges of high advertising and promotion costs that unnecessarilyincrease retail prices, by arguing that advertising and promotion ________.",
+        "20) Marketers respond to charges of high advertising and promotion costs that unnecessarily increase retail prices, by arguing that advertising and promotion ________.",
         "A) support consumerism",
         "B) standardize the product",
         "C) add quality to the product",
@@ -23210,7 +23210,7 @@ let data = [
         ]
     ],
     [
-        "22) A major step in regulating \"unfair or deceptive business acts and practices\" was theenactment of the ________ in 1938.",
+        "22) A major step in regulating \"unfair or deceptive business acts and practices\" was the enactment of the ________ in 1938.",
         "A) Robinson-Patman Act",
         "B) Wheeler-Lea Act",
         "C) Interstate Commerce Commissions",
@@ -23221,7 +23221,7 @@ let data = [
         ]
     ],
     [
-        "23) Dan's Drugstore sells medicine to consumers for $20 that only costs $2 to produce. Criticsaccuse Dan's of ________.",
+        "23) Dan's Drugstore sells medicine to consumers for $20 that only costs $2 to produce. Critics accuse Dan's of ________.",
         "A) deceptive promotion",
         "B) deceptive packaging",
         "C) false advertising",
@@ -23232,7 +23232,7 @@ let data = [
         ]
     ],
     [
-        "24) Cybertron Inc. was accused of deceptive pricing. Which of the following explains whatmost likely occurred?",
+        "24) Cybertron Inc. was accused of deceptive pricing. Which of the following explains what most likely occurred?",
         "A) Cybertron refused to advertise sale prices in the local paper.",
         "B) Cybertron sold only defective products at the advertised price.",
         "C) Cybertron advertised a large price reduction from a phony high retail list price.",
@@ -23265,7 +23265,7 @@ let data = [
         ]
     ],
     [
-        "27) Hart's Department Store was accused of deceptive promotion. Which of the following bestexplains what might have happened?",
+        "27) Hart's Department Store was accused of deceptive promotion. Which of the following best explains what might have happened?",
         "A) Hart's refused to advertise sale prices in the local paper.",
         "B) Hart's advertised a bargain price on an out-of-stock product.",
         "C) Hart's advertised a large price reduction from a phony high retail list price.",
@@ -23276,7 +23276,7 @@ let data = [
         ]
     ],
     [
-        "28) A federal agency ordered a fast food chain to stop running ads with false claims that itsfried chicken is compatible with certain weight loss programs. Which agency had the authorityto issue this order?",
+        "28) A federal agency ordered a fast food chain to stop running ads with false claims that its fried chicken is compatible with certain weight loss programs. Which agency had the authority to issue this order?",
         "A) the Federal Trade Commission",
         "B) the Food and Drug Administration",
         "C) the Consumer Product Safety Commission",
@@ -23298,7 +23298,7 @@ let data = [
         ]
     ],
     [
-        "30) Which of the following advertising situations would LEAST likely be considered\"puffery\"?",
+        "30) Which of the following advertising situations would LEAST likely be considered \"puffery\"?",
         "A) Mr. Clean coming to a housewife's rescue",
         "B) instantly toned thighs and legs as a result of using the Thigh Master for only 15 minutes",
         "C) children immediately growing into attractive adults as a result of drinking milk",
@@ -23320,7 +23320,7 @@ let data = [
         ]
     ],
     [
-        "32) When critics argue that insurance, real estate, and used cars are sold, not bought, they areaccusing marketers of ________.",
+        "32) When critics argue that insurance, real estate, and used cars are sold, not bought, they are accusing marketers of ________.",
         "A) deceptive promotions",
         "B) excessive markups",
         "C) high-pressure selling",
@@ -23331,7 +23331,7 @@ let data = [
         ]
     ],
     [
-        "33) In which of the following scenarios would high-pressure selling tactics typically be mostadvantageous for marketers?",
+        "33) In which of the following scenarios would high-pressure selling tactics typically be most advantageous for marketers?",
         "A) selling situations with long-time customers",
         "B) selling situations with new customers with a high likelihood of becoming repeat customers",
         "C) selling situations with a company's most highly valued customers",
@@ -23342,7 +23342,7 @@ let data = [
         ]
     ],
     [
-        "34) The success of the Tom Dennis Ford dealership has been built largely on return customersand word-of-mouth recommendations. The majority of sales are made to customers whopreviously purchased a vehicle at the dealership or who know someone who had a positiveexperience of purchasing a vehicle there. The sales force at the Tom Dennis Ford dealershipmost likely knows that using high-pressure selling is ineffective if the dealership wants to________.",
+        "34) The success of the Tom Dennis Ford dealership has been built largely on return customers and word-of-mouth recommendations. The majority of sales are made to customers who previously purchased a vehicle at the dealership or who know someone who had a positive experience of purchasing a vehicle there. The sales force at the Tom Dennis Ford dealership most likely knows that using high-pressure selling is ineffective if the dealership wants to ________.",
         "A) achieve short-term gains",
         "B) move last year's models",
         "C) obey local and federal law",
@@ -23353,7 +23353,7 @@ let data = [
         ]
     ],
     [
-        "35) Recently, a class-action lawsuit was brought against BigBurger, a fast food chain, chargingthat its food has contributed to the nationwide obesity epidemic. The suit was eventuallydismissed, but many critics continue to point out the health dangers of typical \"fast food\" menuitems. These critics are most likely concerned that the fast food industry has provided________.",
+        "35) Recently, a class-action lawsuit was brought against BigBurger, a fast food chain, charging that its food has contributed to the nationwide obesity epidemic. The suit was eventually dismissed, but many critics continue to point out the health dangers of typical \"fast food\" menu items. These critics are most likely concerned that the fast food industry has provided ________.",
         "A) high-pressure selling",
         "B) deceptive promotions",
         "C) deceptive pricing",
@@ -23364,7 +23364,7 @@ let data = [
         ]
     ],
     [
-        "36) Most companies are unlikely to intentionally provide shoddy, harmful, or unsafe productsbecause ________.",
+        "36) Most companies are unlikely to intentionally provide shoddy, harmful, or unsafe products because ________.",
         "A) they won't face liability lawsuits and expensive awards for damages",
         "B) they want to develop long-term relationships with their customers",
         "C) they know that customers will shrug off errors for a while",
@@ -23375,7 +23375,7 @@ let data = [
         ]
     ],
     [
-        "37) Critics have accused some producers of practicing ________ by using materials andcomponents that will break, wear, rust, or rot sooner than they should.",
+        "37) Critics have accused some producers of practicing ________ by using materials and components that will break, wear, rust, or rot sooner than they should.",
         "A) high-pressure selling",
         "B) short-term planning",
         "C) planned obsolescence",
@@ -23386,7 +23386,7 @@ let data = [
         ]
     ],
     [
-        "38) ________ refers to the practice of continually changing consumer concepts of acceptablestyles to encourage more and earlier buying.",
+        "38) ________ refers to the practice of continually changing consumer concepts of acceptable styles to encourage more and earlier buying.",
         "A) Perceived obsolescence",
         "B) Technological obsolescence",
         "C) Bait-and-switch advertising",
@@ -23408,7 +23408,7 @@ let data = [
         ]
     ],
     [
-        "40) Trendy Teens manufactures fashionable clothing and accessories for the tween and teenfemale markets. New merchandise with a very different look is rolled out each season andheavily promoted as the \"must-have\" style in a variety of media. This information indicates thatTrendy Teens is most likely to be criticized for ________.",
+        "40) Trendy Teens manufactures fashionable clothing and accessories for the tween and teen female markets. New merchandise with a very different look is rolled out each season and heavily promoted as the \"must-have\" style in a variety of media. This information indicates that Trendy Teens is most likely to be criticized for ________.",
         "A) deceptive promotions",
         "B) shoddy products",
         "C) high-pressure selling",
@@ -23430,7 +23430,7 @@ let data = [
         ]
     ],
     [
-        "42) The following quote best describes ________. \"The marvels of modern technology includethe development of a soda can which, when discarded, will last forever, and a car, which whenproperly cared for, will rust out in two or three years.\"",
+        "42) The following quote best describes ________. \"The marvels of modern technology include the development of a soda can which, when discarded, will last forever, and a car, which when properly cared for, will rust out in two or three years.\"",
         "A) planned obsolescence",
         "B) product failure",
         "C) deceptive promotions",
@@ -23441,7 +23441,7 @@ let data = [
         ]
     ],
     [
-        "43) Critics claim that companies in the ________ industries introduce planned streams of newproducts that make older models obsolete, a form of planned obsolescence that harmsconsumers.",
+        "43) Critics claim that companies in the ________ industries introduce planned streams of new products that make older models obsolete, a form of planned obsolescence that harms consumers.",
         "A) car and truck",
         "B) housing and construction",
         "C) food and beverage",
@@ -23452,7 +23452,7 @@ let data = [
         ]
     ],
     [
-        "44) When major chain retailers avoid placing stores in disadvantaged neighborhoods, they arelikely to be accused of the discriminatory practice of ________.",
+        "44) When major chain retailers avoid placing stores in disadvantaged neighborhoods, they are likely to be accused of the discriminatory practice of ________.",
         "A) embargo",
         "B) licensing",
         "C) redlining",
@@ -23463,7 +23463,7 @@ let data = [
         ]
     ],
     [
-        "45) Marketers are most effective when they appeal to ________ rather than when they________.",
+        "45) Marketers are most effective when they appeal to ________ rather than when they ________.",
         "A) short-term needs; focus on long-term needs",
         "B) teenagers; target older people",
         "C) existing wants; attempt to create new ones",
@@ -23496,7 +23496,7 @@ let data = [
         ]
     ],
     [
-        "48) The overselling of private goods results in ________ as they require more public servicesthat may not be available.",
+        "48) The overselling of private goods results in ________ as they require more public services that may not be available.",
         "A) cultural pollution",
         "B) misdirected funding",
         "C) social costs",
@@ -23507,7 +23507,7 @@ let data = [
         ]
     ],
     [
-        "49) Which of the following is one of the social costs associated with cars?15",
+        "49) Which of the following is one of the social costs associated with cars? 15",
         "A) traffic congestion",
         "B) water pollution",
         "C) new highways",
@@ -23518,7 +23518,7 @@ let data = [
         ]
     ],
     [
-        "50) TerraPass is a company that offers consumers the opportunity to buy carbon offsets, whichare contributions to projects that combat global warming by reducing carbon emissions.TerraPass offers contribution packages for driving, flying, and home energy use. ThroughTerraPass, consumers can pay some of the ________ costs of their private goods and services.",
+        "50) TerraPass is a company that offers consumers the opportunity to buy carbon offsets, which are contributions to projects that combat global warming by reducing carbon emissions. TerraPass offers contribution packages for driving, flying, and home energy use. Through TerraPass, consumers can pay some of the ________ costs of their private goods and services.",
         "A) promotional",
         "B) safety",
         "C) health",
@@ -23551,7 +23551,7 @@ let data = [
         ]
     ],
     [
-        "53) In response to charges of ________, marketers point out that because of ads, manytelevision and radio sites are free to users and also keep down the cost of magazines andnewspapers.",
+        "53) In response to charges of ________, marketers point out that because of ads, many television and radio sites are free to users and also keep down the cost of magazines and newspapers.",
         "A) deceptive pricing",
         "B) creating false wants",
         "C) creating materialism",
@@ -23562,7 +23562,7 @@ let data = [
         ]
     ],
     [
-        "54) Karl Harris, a marketing critic, is concerned about the pervasiveness of marketing. Hepoints out that advertising messages are everywhere, from Web sites and e-mails to unwanteddirect mail and catalogs to television commercials and product tie-ins to billboards and storesignage. Karl is concerned about ________.",
+        "54) Karl Harris, a marketing critic, is concerned about the pervasiveness of marketing. He points out that advertising messages are everywhere, from Web sites and e-mails to unwanted direct mail and catalogs to television commercials and product tie-ins to billboards and store signage. Karl is concerned about ________.",
         "A) high packaging costs",
         "B) cultural pollution",
         "C) deceptive practices",
@@ -23573,7 +23573,7 @@ let data = [
         ]
     ],
     [
-        "55) Critics claim that firms are harmed and competition is reduced when companies expand by________.",
+        "55) Critics claim that firms are harmed and competition is reduced when companies expand by ________.",
         "A) developing their own new products",
         "B) diversifying into new industries",
         "C) acquiring competitors",
@@ -23584,7 +23584,7 @@ let data = [
         ]
     ],
     [
-        "56) Critics argue that large marketing companies use patents and heavy promotion spending to________.",
+        "56) Critics argue that large marketing companies use patents and heavy promotion spending to ________.",
         "A) acquire smaller companies",
         "B) bear the social costs of their operations",
         "C) bar new companies from entering an industry",
@@ -23606,7 +23606,7 @@ let data = [
         ]
     ],
     [
-        "58) Critics charge that a company's marketing practices can harm other companies and reducecompetition. One of the problems critics identified is ________.",
+        "58) Critics charge that a company's marketing practices can harm other companies and reduce competition. One of the problems critics identified is ________.",
         "A) pollution",
         "B) barriers to entry",
         "C) unfair discrimination",
@@ -23617,7 +23617,7 @@ let data = [
         ]
     ],
     [
-        "59) Which of the following is a product decision that may be called into question under thelaw?",
+        "59) Which of the following is a product decision that may be called into question under the law?",
         "A) stealing trade secrets",
         "B) misrepresenting",
         "C) patent protection",
@@ -23628,7 +23628,7 @@ let data = [
         ]
     ],
     [
-        "60) Setting prices below cost, threatening to cut off business with suppliers, and discouragingthe purchase of a competitor's products are all examples of ________.",
+        "60) Setting prices below cost, threatening to cut off business with suppliers, and discouraging the purchase of a competitor's products are all examples of ________.",
         "A) oligopolistic competition",
         "B) social costs",
         "C) predatory competition",
@@ -23639,7 +23639,7 @@ let data = [
         ]
     ],
     [
-        "61) Some customers believe that the Good Green Grocer purposefully runs weekly promotionalprices on items that are low in stock, leaving most customers who come to the store hoping forlower prices but unable to buy the out-of-stock sale items. If this were true, then the GoodGreen Grocer would most likely be accused of ________.",
+        "61) Some customers believe that the Good Green Grocer purposefully runs weekly promotional prices on items that are low in stock, leaving most customers who come to the store hoping for lower prices but unable to buy the out-of-stock sale items. If this were true, then the Good Green Grocer would most likely be accused of ________.",
         "A) using puffery",
         "B) deceptive pricing",
         "C) deceptive promotions",
@@ -23650,7 +23650,7 @@ let data = [
         ]
     ],
     [
-        "84) The two major citizen movements to keep businesses in line are environmentalism and________.",
+        "84) The two major citizen movements to keep businesses in line are environmentalism and ________.",
         "A) consumerism",
         "B) protectionism",
         "C) liberalism",
@@ -23661,7 +23661,7 @@ let data = [
         ]
     ],
     [
-        "85) ________ is an organized movement of citizens and government agencies to improve therights and power of buyers in relation to sellers.",
+        "85) ________ is an organized movement of citizens and government agencies to improve the rights and power of buyers in relation to sellers.",
         "A) Environmentalism",
         "B) Protectionism",
         "C) Liberalism",
@@ -23716,7 +23716,7 @@ let data = [
         ]
     ],
     [
-        "90) The proposed right to ________ includes the right to know the unit pricing, the ingredientsin a product, the nutritional value of foods, product freshness, and the true benefits of a product.",
+        "90) The proposed right to ________ includes the right to know the unit pricing, the ingredients in a product, the nutritional value of foods, product freshness, and the true benefits of a product.",
         "A) charge any price for the product",
         "B) be protected against questionable products",
         "C) influence products and marketing practices in ways that will improve \"quality of life\"",
@@ -23727,7 +23727,7 @@ let data = [
         ]
     ],
     [
-        "91) Proposals related to ________ include controlling the ingredients that go into certainproducts and packaging as well as reducing the level of advertising \"noise.\"",
+        "91) Proposals related to ________ include controlling the ingredients that go into certain products and packaging as well as reducing the level of advertising \"noise.\"",
         "A) the right to be informed",
         "B) consumer protection",
         "C) preserving the world for future consumption",
@@ -23738,7 +23738,7 @@ let data = [
         ]
     ],
     [
-        "92) Proposals related to ________ include strengthening consumer rights in cases of businessfraud and financial protections, requiring greater product safety, ensuring information privacy,and giving more power to government agencies.",
+        "92) Proposals related to ________ include strengthening consumer rights in cases of business fraud and financial protections, requiring greater product safety, ensuring information privacy, and giving more power to government agencies.",
         "A) preserving the world for future consumption",
         "B) consumer protection",
         "C) truth in lending",
@@ -23749,7 +23749,7 @@ let data = [
         ]
     ],
     [
-        "93) Proposals related to ________ include promoting the use of sustainable ingredients,recycling and reducing solid wastes, and managing energy consumption.",
+        "93) Proposals related to ________ include promoting the use of sustainable ingredients, recycling and reducing solid wastes, and managing energy consumption.",
         "A) the right to be informed",
         "B) consumer protection",
         "C) preserving the world for future consumption",
@@ -23760,7 +23760,7 @@ let data = [
         ]
     ],
     [
-        "94) ________ is an organized movement of concerned citizens, businesses, and governmentagencies to protect and improve people's current and future living conditions.",
+        "94) ________ is an organized movement of concerned citizens, businesses, and government agencies to protect and improve people's current and future living conditions.",
         "A) Consumerism",
         "B) Environmentalism",
         "C) Protectionism",
@@ -23782,7 +23782,7 @@ let data = [
         ]
     ],
     [
-        "96) Environmentalism is concerned with damage to the ecosystem caused by global warming,toxic and solid waste, chemically treated food, resource depletion, and ________ along withother issues.",
+        "96) Environmentalism is concerned with damage to the ecosystem caused by global warming, toxic and solid waste, chemically treated food, resource depletion, and ________ along with other issues.",
         "A) wage inequity",
         "B) nutritional information",
         "C) technological changes impacting individuals",
@@ -23793,7 +23793,7 @@ let data = [
         ]
     ],
     [
-        "97) ________ is a management approach that involves developing strategies that both preservethe environment and produce profits for the company.",
+        "97) ________ is a management approach that involves developing strategies that both preserve the environment and produce profits for the company.",
         "A) Aesthetic consumerism",
         "B) Profitable environmentalism",
         "C) Environmental sustainability",
@@ -23826,7 +23826,7 @@ let data = [
         ]
     ],
     [
-        "100) Nike produces shoes out of \"environmentally preferred materials,\" recycles old sneakers,and educates young people about conserving, reusing, and recycling. Nike is practicing________.",
+        "100) Nike produces shoes out of \"environmentally preferred materials,\" recycles old sneakers, and educates young people about conserving, reusing, and recycling. Nike is practicing ________.",
         "A) new clean technology",
         "B) product stewardship",
         "C) pollution prevention",
@@ -23859,7 +23859,7 @@ let data = [
         ]
     ],
     [
-        "103) Minimizing pollution from production and all environmental impacts throughout the fullproduct life cycle is called ________.",
+        "103) Minimizing pollution from production and all environmental impacts throughout the full product life cycle is called ________.",
         "A) aesthetic consumerism",
         "B) sustainability vision",
         "C) product stewardship",
@@ -23870,7 +23870,7 @@ let data = [
         ]
     ],
     [
-        "104) Electrola Inc. is currently designing a new product line with the goal of making eachproduct easy to recover, reuse, or recycle. Electrola Inc. hopes to recover many of theseproducts when they reach the end of their life cycle and reuse their components in newproducts. Electrola Inc. is in the ________ stage of environmental sustainability.",
+        "104) Electrola Inc. is currently designing a new product line with the goal of making each product easy to recover, reuse, or recycle. Electrola Inc. hopes to recover many of these products when they reach the end of their life cycle and reuse their components in new products. Electrola Inc. is in the ________ stage of environmental sustainability.",
         "A) pollution prevention",
         "B) new clean technology",
         "C) product stewardship",
@@ -23881,7 +23881,7 @@ let data = [
         ]
     ],
     [
-        "105) ________ involves thinking ahead in the design stage to create products that are easier toreuse, recycle, or recover.",
+        "105) ________ involves thinking ahead in the design stage to create products that are easier to reuse, recycle, or recover.",
         "A) DSS",
         "B) Design for environment (DFE)",
         "C) Sustainability vision",
@@ -23892,7 +23892,7 @@ let data = [
         ]
     ],
     [
-        "106) Xerox Corporation's Equipment Remanufacture and Parts Reuse Program converts end-of-life office equipment into new products and parts. This not only helps sustain the environment,but it is also highly profitable for the company. This practice is an example of a ________.",
+        "106) Xerox Corporation's Equipment Remanufacture and Parts Reuse Program converts end-of- life office equipment into new products and parts. This not only helps sustain the environment, but it is also highly profitable for the company. This practice is an example of a ________.",
         "A) pollution prevention practice",
         "B) green marketing practice",
         "C) beyond greening practice",
@@ -23903,7 +23903,7 @@ let data = [
         ]
     ],
     [
-        "107) Companies that plan to implement ________ develop innovative sets of environmentalskills and capabilities.",
+        "107) Companies that plan to implement ________ develop innovative sets of environmental skills and capabilities.",
         "A) product stewardship",
         "B) a sustainability vision",
         "C) pollution prevention",
@@ -23914,7 +23914,7 @@ let data = [
         ]
     ],
     [
-        "108) ________ serves as a guide to the future by showing how the company's products andservices, processes, and policies must evolve and what new technologies must be developed toget there.",
+        "108) ________ serves as a guide to the future by showing how the company's products and services, processes, and policies must evolve and what new technologies must be developed to get there.",
         "A) New clean technology",
         "B) A cradle-to-cradle practice",
         "C) Pollution prevention",
@@ -23925,7 +23925,7 @@ let data = [
         ]
     ],
     [
-        "109) A sustainability vision addresses not just challenges in the natural environment but also________.",
+        "109) A sustainability vision addresses not just challenges in the natural environment but also ________.",
         "A) challenges in the manufacturing and product development departments",
         "B) prods the firm's employees to identify personal ways to impact the environment",
         "C) strategic opportunities for using environmental strategies to create sustainable value for the",
@@ -23936,7 +23936,7 @@ let data = [
         ]
     ],
     [
-        "122) Which of the following is a marketing decision that may be called into question under thelaw?",
+        "122) Which of the following is a marketing decision that may be called into question under the law?",
         "A) price increases",
         "B) scarce resources",
         "C) excessive cost",
@@ -23947,7 +23947,7 @@ let data = [
         ]
     ],
     [
-        "123) Under the ________ concept, a company's marketing should support the best long-runperformance of the marketing system.",
+        "123) Under the ________ concept, a company's marketing should support the best long-run performance of the marketing system.",
         "A) corporate social responsibility",
         "B) direct marketing",
         "C) sustainable marketing",
@@ -23958,7 +23958,7 @@ let data = [
         ]
     ],
     [
-        "124) A company's marketing should be guided by the sustainable marketing principle of________ marketing.",
+        "124) A company's marketing should be guided by the sustainable marketing principle of ________ marketing.",
         "A) direct",
         "B) viral",
         "C) buzz",
@@ -23969,7 +23969,7 @@ let data = [
         ]
     ],
     [
-        "125) Jacob Engineering Group views and organizes its marketing activities from the viewpointof its buyers. Management works hard to sense, serve, and satisfy the needs of its well-definedgroup of buyers. What does Jacob Engineering Group practice?",
+        "125) Jacob Engineering Group views and organizes its marketing activities from the viewpoint of its buyers. Management works hard to sense, serve, and satisfy the needs of its well-defined group of buyers. What does Jacob Engineering Group practice?",
         "A) consumer-oriented marketing",
         "B) societal marketing",
         "C) sense-of-mission marketing",
@@ -23980,7 +23980,7 @@ let data = [
         ]
     ],
     [
-        "126) When a company makes improvements in a product's quality, features, or convenience, itis practicing ________.",
+        "126) When a company makes improvements in a product's quality, features, or convenience, it is practicing ________.",
         "A) consumer-oriented marketing",
         "B) sense-of-mission marketing",
         "C) innovative marketing",
@@ -23991,7 +23991,7 @@ let data = [
         ]
     ],
     [
-        "127) The principle of ________ requires that the company continuously seek real product andmarketing improvements.",
+        "127) The principle of ________ requires that the company continuously seek real product and marketing improvements.",
         "A) consumer-oriented marketing",
         "B) innovative marketing",
         "C) customer-value marketing",
@@ -24002,7 +24002,7 @@ let data = [
         ]
     ],
     [
-        "128) The Wii system, developed by Nintendo, with its intuitive motion-sensitive controller andinteractive games, appealed not only to teen boys but also to their sisters, moms, dads, and evengrandparents. This is a successful example of ________ marketing.",
+        "128) The Wii system, developed by Nintendo, with its intuitive motion-sensitive controller and interactive games, appealed not only to teen boys but also to their sisters, moms, dads, and even grandparents. This is a successful example of ________ marketing.",
         "A) consumer-oriented",
         "B) innovative",
         "C) customer-value",
@@ -24013,7 +24013,7 @@ let data = [
         ]
     ],
     [
-        "129) Some firms define their purpose in narrow product terms. Others that define their purposein broad social terms follow ________.",
+        "129) Some firms define their purpose in narrow product terms. Others that define their purpose in broad social terms follow ________.",
         "A) societal marketing",
         "B) sense-of-mission marketing",
         "C) consumer-oriented marketing",
@@ -24024,7 +24024,7 @@ let data = [
         ]
     ],
     [
-        "130) One look at a Pedigree ad or a visit to the Pedigree.com Web site confirms that the peoplebehind the Pedigree Brand really do believe the \"We're for dogs\" mission. Associates are evenencouraged to take their dogs to work. To further fulfill the \"We're for dogs\" brand promise, thecompany created the Pedigree Foundation, which along with the Pedigree Adoption Drivecampaign, has raised millions of dollars for helping \"shelter dogs\" find good homes. Thisinformation indicates that Pedigree is practicing ________.",
+        "130) One look at a Pedigree ad or a visit to the Pedigree.com Web site confirms that the people behind the Pedigree Brand really do believe the \"We're for dogs\" mission. Associates are even encouraged to take their dogs to work. To further fulfill the \"We're for dogs\" brand promise, the company created the Pedigree Foundation, which along with the Pedigree Adoption Drive campaign, has raised millions of dollars for helping \"shelter dogs\" find good homes. This information indicates that Pedigree is practicing ________.",
         "A) consumerism",
         "B) environmental sustainability",
         "C) a sustainability vision",
@@ -24035,7 +24035,7 @@ let data = [
         ]
     ],
     [
-        "131) Dove wanted to do more than just sell its beauty care products. The company was on aquest to discover \"real beauty\" and help women be happy just the way they are. As a result, theDove Campaign for Real Beauty was successfully launched in 2004. Which of the followingtypes of marketing did Dove use?",
+        "131) Dove wanted to do more than just sell its beauty care products. The company was on a quest to discover \"real beauty\" and help women be happy just the way they are. As a result, the Dove Campaign for Real Beauty was successfully launched in 2004. Which of the following types of marketing did Dove use?",
         "A) sense-of-mission marketing",
         "B) consumer-oriented marketing",
         "C) customer-value marketing",
@@ -24046,7 +24046,7 @@ let data = [
         ]
     ],
     [
-        "132) While companies have learned that \"doing good\" and \"doing well\" go hand in hand,companies have also learned that to do good, they must first do well in terms of ________.",
+        "132) While companies have learned that \"doing good\" and \"doing well\" go hand in hand, companies have also learned that to do good, they must first do well in terms of ________.",
         "A) successful advertising campaigns",
         "B) hiring of strong employees",
         "C) designing of attractive products",
@@ -24057,7 +24057,7 @@ let data = [
         ]
     ],
     [
-        "133) When a company makes marketing decisions by considering consumers' wants andinterests, the company's requirements, and society's long-run interests, it is practicing ________marketing.",
+        "133) When a company makes marketing decisions by considering consumers' wants and interests, the company's requirements, and society's long-run interests, it is practicing ________ marketing.",
         "A) value",
         "B) societal",
         "C) sense-of-mission",
@@ -24079,7 +24079,7 @@ let data = [
         ]
     ],
     [
-        "135) Dale's Drugstore sells cough medicine that is sour and ineffective. This is an example of a________ product.",
+        "135) Dale's Drugstore sells cough medicine that is sour and ineffective. This is an example of a ________ product.",
         "A) societal",
         "B) pleasing",
         "C) salutary",
@@ -24090,7 +24090,7 @@ let data = [
         ]
     ],
     [
-        "136) A company that makes products that give high immediate satisfaction but may hurtconsumers in the long run makes ________ products.",
+        "136) A company that makes products that give high immediate satisfaction but may hurt consumers in the long run makes ________ products.",
         "A) deficient",
         "B) pleasing",
         "C) salutary",
@@ -24112,7 +24112,7 @@ let data = [
         ]
     ],
     [
-        "138) A company that makes products that have low immediate appeal but may benefitconsumers in the long run are ________ products.",
+        "138) A company that makes products that have low immediate appeal but may benefit consumers in the long run are ________ products.",
         "A) deficient",
         "B) desirable",
         "C) pleasing",
@@ -24156,7 +24156,7 @@ let data = [
         ]
     ],
     [
-        "142) In societal marketing, the ideal goal for companies is to turn all of their products into43________ ones.",
+        "142) In societal marketing, the ideal goal for companies is to turn all of their products into 43 ________ ones.",
         "A) salutary",
         "B) desirable",
         "C) pleasing",
@@ -24167,7 +24167,7 @@ let data = [
         ]
     ],
     [
-        "143) Maytag's front-loading Neptune washer provides superior cleaning and energy efficiency.The Neptune washer is an example of a ________ product.",
+        "143) Maytag's front-loading Neptune washer provides superior cleaning and energy efficiency. The Neptune washer is an example of a ________ product.",
         "A) deficient",
         "B) pleasing",
         "C) salutary",
@@ -24178,7 +24178,7 @@ let data = [
         ]
     ],
     [
-        "144) The challenge for makers of which type of product is to add long-run benefits withoutreducing the product's desirable qualities?",
+        "144) The challenge for makers of which type of product is to add long-run benefits without reducing the product's desirable qualities?",
         "A) salutary product",
         "B) desirable product",
         "C) pleasing product",
@@ -24189,7 +24189,7 @@ let data = [
         ]
     ],
     [
-        "145) Bicycle helmets have low immediate appeal, but they tend to benefit consumers in thelong run. This indicates that a bicycle helmet is an example of a(n) ________ product.",
+        "145) Bicycle helmets have low immediate appeal, but they tend to benefit consumers in the long run. This indicates that a bicycle helmet is an example of a(n) ________ product.",
         "A) salutary",
         "B) desirable",
         "C) pleasing",
@@ -24200,7 +24200,7 @@ let data = [
         ]
     ],
     [
-        "146) The challenge posed by a(n) ________ product is to add some pleasing qualities so thatthey will become more desirable in consumers' minds.",
+        "146) The challenge posed by a(n) ________ product is to add some pleasing qualities so that they will become more desirable in consumers' minds.",
         "A) deficient",
         "B) pleasing",
         "C) desirable",
@@ -24211,7 +24211,7 @@ let data = [
         ]
     ],
     [
-        "147) Envirosax reusable shopping bags are stylish and affordable, and they eliminate the needfor plastic store bags. Envirosax reusable shopping bags most likely fall in the category of________ products.",
+        "147) Envirosax reusable shopping bags are stylish and affordable, and they eliminate the need for plastic store bags. Envirosax reusable shopping bags most likely fall in the category of ________ products.",
         "A) deficient",
         "B) pleasing",
         "C) mature",
@@ -24222,7 +24222,7 @@ let data = [
         ]
     ],
     [
-        "148) Good Green Grocer wants to keep its customers happy. Its marketing strategy should bedesigned with this goal. Which strategy focuses on satisfying the needs of Good Green Grocer'scustomers?",
+        "148) Good Green Grocer wants to keep its customers happy. Its marketing strategy should be designed with this goal. Which strategy focuses on satisfying the needs of Good Green Grocer's customers?",
         "A) societal marketing",
         "B) customer-value marketing",
         "C) sense-of-mission marketing",
@@ -24233,7 +24233,7 @@ let data = [
         ]
     ],
     [
-        "162) Monica Carey is a conscientious marketing manager. Sometimes it is unclear whatdecisions to make when she and her staff are faced with moral dilemmas. To help them handlesuch situations, Monica and other managers should create broad guidelines that everyone in theorganization must follow. Which of the following terms best describes these guidelines?",
+        "162) Monica Carey is a conscientious marketing manager. Sometimes it is unclear what decisions to make when she and her staff are faced with moral dilemmas. To help them handle such situations, Monica and other managers should create broad guidelines that everyone in the organization must follow. Which of the following terms best describes these guidelines?",
         "A) corporate value statements",
         "B) company mission statement",
         "C) company vision statement",
@@ -24244,7 +24244,7 @@ let data = [
         ]
     ],
     [
-        "163) Which of the following is being followed as a guiding principle by a company thatproduces and heavily markets cigarettes, with many promotions aimed at young (although legalage) nonsmokers?",
+        "163) Which of the following is being followed as a guiding principle by a company that produces and heavily markets cigarettes, with many promotions aimed at young (although legal age) nonsmokers?",
         "A) the philosophy that companies should have a social conscience and be morally responsible",
         "B) the philosophy that companies can do in good conscience whatever the market and legal",
         "C) the philosophy of environmentalism",
@@ -24255,7 +24255,7 @@ let data = [
         ]
     ],
     [
-        "164) Under the ________ concept, each manager must look beyond what is legal and developstandards based on personal integrity, corporate conscience, and long-run consumer welfare.",
+        "164) Under the ________ concept, each manager must look beyond what is legal and develop standards based on personal integrity, corporate conscience, and long-run consumer welfare.",
         "A) sustainable marketing",
         "B) consumer marketing",
         "C) societal marketing",
@@ -24266,7 +24266,7 @@ let data = [
         ]
     ],
     [
-        "165) The organic food sold by Bryant and Anne is of good quality. Also, it is tasty and haslong-term health benefits. This information indicates that the organic food sold by Bryant andAnne would fall into the category of ________ products.",
+        "165) The organic food sold by Bryant and Anne is of good quality. Also, it is tasty and has long-term health benefits. This information indicates that the organic food sold by Bryant and Anne would fall into the category of ________ products.",
         "A) salutary",
         "B) mature",
         "C) deficient",

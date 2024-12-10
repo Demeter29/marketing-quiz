@@ -27,7 +27,7 @@ def parse_questions(text):
             open = False
         else:
             if open and len(block) == 1:
-                block[0] += line
+                block[0] += " "+line
     
     
     return blocks
