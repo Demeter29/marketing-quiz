@@ -1,4 +1,4 @@
-let data = [
+[
     [
         "1) Which of the following is NOT an accurate description of modern marketing?",
         "A) Marketing is the creation of value for customers.",
@@ -2178,7 +2178,7 @@ let data = [
         ]
     ],
     [
-        "141) The main section of the marketing plan most likely presents a detailed ________ analysis 42 of the current marketing situation.",
+        "141) The main section of the marketing plan most likely presents a detailed ________ analysis of the current marketing situation.",
         "A) breakeven",
         "B) SBU",
         "C) SWOT",
@@ -2673,7 +2673,7 @@ let data = [
         ]
     ],
     [
-        "47) The marketing team of 7 Star Inc., a company manufacturing smartphones, is currently 15 studying the size, density, location, age, and occupation of its target market. Which of the following environments is being studied in this scenario?",
+        "47) The marketing team of 7 Star Inc., a company manufacturing smartphones, is currently studying the size, density, location, age, and occupation of its target market. Which of the following environments is being studied in this scenario?",
         "A) demographic environment",
         "B) political environment",
         "C) economic environment",
@@ -3256,7 +3256,7 @@ let data = [
         ]
     ],
     [
-        "126) Business legislation is enacted to protect ________. 43",
+        "126) Business legislation is enacted to protect ________.",
         "A) consumers from unfair business practices",
         "B) businesses from unfair attacks by consumers",
         "C) consumers from competition by businesses",
@@ -3938,7 +3938,7 @@ let data = [
         ]
     ],
     [
-        "55) Commercial online databases are rich sources for obtaining ________. 17",
+        "55) Commercial online databases are rich sources for obtaining ________.",
         "A) primary data",
         "B) secondary data",
         "C) customer insights",
@@ -4136,7 +4136,7 @@ let data = [
         ]
     ],
     [
-        "73) Experimental research is best suited for gathering ________ information. 23",
+        "73) Experimental research is best suited for gathering ________ information.",
         "A) exploratory",
         "B) causal",
         "C) random",
@@ -4301,7 +4301,7 @@ let data = [
         ]
     ],
     [
-        "88) Which of the following is true about Internet-based survey research? 28",
+        "88) Which of the following is true about Internet-based survey research?",
         "A) The effectiveness of Internet-based survey research is invariably affected by the",
         "B) Internet-based survey research is less flexible compared to mail questionnaires.",
         "C) Internet-based survey research is characterized by high speed and low costs.",
@@ -4521,7 +4521,7 @@ let data = [
         ]
     ],
     [
-        "134) Customer relationship management integrates everything that a company's sales, service, 42 and ________ teams know about individual customers.",
+        "134) Customer relationship management integrates everything that a company's sales, service, and ________ teams know about individual customers.",
         "A) management",
         "B) marketing",
         "C) manufacturing",
@@ -5060,7 +5060,7 @@ let data = [
         ]
     ],
     [
-        "37) Which of the following is characteristic of online social networks? 11",
+        "37) Which of the following is characteristic of online social networks?",
         "A) use of one-way communication techniques",
         "B) negligible adoption rates",
         "C) guaranteed positive results",
@@ -6182,7 +6182,7 @@ let data = [
         ]
     ],
     [
-        "35) A marketer wanting to determine business buyer behavior is most likely to ask which of the 10 following questions?",
+        "35) A marketer wanting to determine business buyer behavior is most likely to ask which of the following questions?",
         "A) Are buyers sensitive toward price changes in consumer markets?",
         "B) What are the major influences on buyers?",
         "C) Are niche markets more profitable than mass markets?",
@@ -6391,7 +6391,7 @@ let data = [
         ]
     ],
     [
-        "54) ________ have formal authority to select the supplier and arrange the terms of purchase. 16",
+        "54) ________ have formal authority to select the supplier and arrange the terms of purchase.",
         "A) Users",
         "B) Influencers",
         "C) Buyers",
@@ -6919,7 +6919,7 @@ let data = [
         ]
     ],
     [
-        "121) In which stage of the business buying process does a buyer ask users to rate their 37 satisfaction with the supplied materials?",
+        "121) In which stage of the business buying process does a buyer ask users to rate their satisfaction with the supplied materials?",
         "A) problem recognition",
         "B) performance review",
         "C) supplier search",
@@ -8371,7 +8371,7 @@ let data = [
         ]
     ],
     [
-        "154) The Jay Group hires better employees than its competition by conducting effective 49 searches and multi-tiered interviews. The company also provides high quality training to its employees, an aspect often neglected by competitors. The Jay Group is most likely to gain a strong competitive advantage through which type of differentiation?",
+        "154) The Jay Group hires better employees than its competition by conducting effective searches and multi-tiered interviews. The company also provides high quality training to its employees, an aspect often neglected by competitors. The Jay Group is most likely to gain a strong competitive advantage through which type of differentiation?",
         "A) image differentiation",
         "B) people differentiation",
         "C) services differentiation",
@@ -9779,7 +9779,7 @@ let data = [
         ]
     ],
     [
-        "12) New product development starts with ________. 3",
+        "12) New product development starts with ________.",
         "A) concept development",
         "B) idea screening",
         "C) idea generation",
@@ -10175,7 +10175,7 @@ let data = [
         ]
     ],
     [
-        "48) In a ________, new products and marketing tactics are tested online in a virtual shopping 15 environment.",
+        "48) In a ________, new products and marketing tactics are tested online in a virtual shopping environment.",
         "A) controlled test market",
         "B) simulated test market",
         "C) standard test market",
@@ -10505,7 +10505,7 @@ let data = [
         ]
     ],
     [
-        "108) Which of the following statements characterizes the introduction stage of the PLC? 33",
+        "108) Which of the following statements characterizes the introduction stage of the PLC?",
         "A) There are increased marketing outlays.",
         "B) Profits are nonexistent.",
         "C) The company incurs minimal expenses.",
@@ -11121,7 +11121,7 @@ let data = [
         ]
     ],
     [
-        "29) ________ pricing involves charging higher prices on an everyday basis but running 9 frequent promotions to lower prices temporarily on selected items.",
+        "29) ________ pricing involves charging higher prices on an everyday basis but running frequent promotions to lower prices temporarily on selected items.",
         "A) High-low",
         "B) Everyday low",
         "C) Cost-plus",
@@ -11363,7 +11363,7 @@ let data = [
         ]
     ],
     [
-        "51) With accumulated production experience and a higher volume of production, companies not 17 only become more efficient but also ________.",
+        "51) With accumulated production experience and a higher volume of production, companies not only become more efficient but also ________.",
         "A) gain economies of scale",
         "B) incur higher overhead costs",
         "C) create derived demand in the market",
@@ -11627,7 +11627,7 @@ let data = [
         ]
     ],
     [
-        "75) Which of the following involves setting prices based on a rival firm's strategies, costs, 25 prices, and market offerings?",
+        "75) Which of the following involves setting prices based on a rival firm's strategies, costs, prices, and market offerings?",
         "A) target return pricing",
         "B) good-value pricing",
         "C) competitor value-added pricing",
@@ -12419,7 +12419,7 @@ let data = [
         ]
     ],
     [
-        "56) Which of the following is a price adjustment strategy? 16",
+        "56) Which of the following is a price adjustment strategy?",
         "A) product bundle pricing",
         "B) by-product pricing",
         "C) product line pricing",
@@ -12749,7 +12749,7 @@ let data = [
         ]
     ],
     [
-        "86) What type of pricing is being used when a company temporarily prices its product below 26 the list price or even below cost to create buying excitement and urgency?",
+        "86) What type of pricing is being used when a company temporarily prices its product below the list price or even below cost to create buying excitement and urgency?",
         "A) segmented pricing",
         "B) international pricing",
         "C) reference pricing",
@@ -13332,7 +13332,7 @@ let data = [
         ]
     ],
     [
-        "4) The term supply chain is considered limited because it ________. 1",
+        "4) The term supply chain is considered limited because it ________.",
         "A) ignores the make-and-sell aspect of the market",
         "B) suggests that planning begins with raw materials and factory capacity",
         "C) takes a step-by-step, linear view of purchase-production-consumption activities",
@@ -14531,7 +14531,7 @@ let data = [
         ]
     ],
     [
-        "158) What mode of transport should Kimberly use to ship its goods over long distances as 48 quickly as possible?",
+        "158) What mode of transport should Kimberly use to ship its goods over long distances as quickly as possible?",
         "A) flatcars",
         "B) water transport",
         "C) air transport",
@@ -15048,7 +15048,7 @@ let data = [
         ]
     ],
     [
-        "78) A large retailer of home improvement and construction products offers \"how-to\" classes for 24 do-it-yourselfers, featuring instructions on how to complete home improvement projects using products sold at its stores. This is an example of how the retailer has differentiated itself through its ________.",
+        "78) A large retailer of home improvement and construction products offers \"how-to\" classes for do-it-yourselfers, featuring instructions on how to complete home improvement projects using products sold at its stores. This is an example of how the retailer has differentiated itself through its ________.",
         "A) product assortment",
         "B) services mix",
         "C) segmentation",
@@ -15477,7 +15477,7 @@ let data = [
         ]
     ],
     [
-        "139) Which of the following wholesaler's channel functions is demonstrated when a wholesaler's sales force helps a manufacturer to reach many small customers at a low cost? 42",
+        "139) Which of the following wholesaler's channel functions is demonstrated when a wholesaler's sales force helps a manufacturer to reach many small customers at a low cost?",
         "A) bulk-breaking",
         "B) selling and promoting",
         "C) buying and assortment building",
@@ -18161,7 +18161,7 @@ let data = [
         ]
     ],
     [
-        "4) Which of the following is NOT a position that a salesperson covers? 1",
+        "4) Which of the following is NOT a position that a salesperson covers?",
         "A) order taker",
         "B) creative seller",
         "C) order getter",
@@ -19184,7 +19184,7 @@ let data = [
         ]
     ],
     [
-        "144) ________ refer to sales promotion tools used to persuade resellers to carry a brand, give it 45 shelf space, promote it in advertising, and push it to consumers.",
+        "144) ________ refer to sales promotion tools used to persuade resellers to carry a brand, give it shelf space, promote it in advertising, and push it to consumers.",
         "A) Point-of-purchase promotions",
         "B) Frequency marketing programs",
         "C) Trade promotions",
@@ -20328,7 +20328,7 @@ let data = [
         ]
     ],
     [
-        "125) Josh received an e-mail stating that he had won a lottery of $500,000 from Lottors 40 Corporation. The e-mail asked Josh to send his bank account details and social security number to transfer cash directly to his account. Josh did not remember buying any lottery tickets, and so was apprehensive about providing his bank details without verification. Which of the following is illustrated from this scenario?",
+        "125) Josh received an e-mail stating that he had won a lottery of $500,000 from Lottors Corporation. The e-mail asked Josh to send his bank account details and social security number to transfer cash directly to his account. Josh did not remember buying any lottery tickets, and so was apprehensive about providing his bank details without verification. Which of the following is illustrated from this scenario?",
         "A) adware",
         "B) viral marketing",
         "C) telemarketing",
@@ -21560,7 +21560,7 @@ let data = [
         ]
     ],
     [
-        "129) Whereas the mass marketer achieves ________, the nicher achieves ________. 41",
+        "129) Whereas the mass marketer achieves ________, the nicher achieves ________.",
         "A) low margins; low volume",
         "B) low volume; high margins",
         "C) high volume; high margins",
@@ -22946,7 +22946,7 @@ let data = [
         ]
     ],
     [
-        "161) A firm often enters international marketing by simply shipping its goods out of the 49 country. If its international sales expand, the company often organizes a(n) ________.",
+        "161) A firm often enters international marketing by simply shipping its goods out of the country. If its international sales expand, the company often organizes a(n) ________.",
         "A) indirect exporting venture",
         "B) joint ownership",
         "C) export department",
@@ -23507,7 +23507,7 @@ let data = [
         ]
     ],
     [
-        "49) Which of the following is one of the social costs associated with cars? 15",
+        "49) Which of the following is one of the social costs associated with cars?",
         "A) traffic congestion",
         "B) water pollution",
         "C) new highways",
@@ -24156,7 +24156,7 @@ let data = [
         ]
     ],
     [
-        "142) In societal marketing, the ideal goal for companies is to turn all of their products into 43 ________ ones.",
+        "142) In societal marketing, the ideal goal for companies is to turn all of their products into ________ ones.",
         "A) salutary",
         "B) desirable",
         "C) pleasing",
