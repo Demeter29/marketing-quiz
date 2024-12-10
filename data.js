@@ -1,4 +1,4 @@
-[
+let data = [
     [
         "1) Which of the following is NOT an accurate description of modern marketing?",
         "A) Marketing is the creation of value for customers.",
