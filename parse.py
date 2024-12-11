@@ -60,6 +60,16 @@ with open(input_file_path, 'r', encoding='utf-8') as file:
 # Parse the questions
 parsed_questions = parse_questions(text)
 
+
+dict1 = {}
+for q in parsed_questions:
+    if(q[6][0] in dict1):
+        dict1[q[6][0]] += 1
+    else:
+        dict1[q[6][0]] = 1
+
+print(dict1)
+
 # Convert the parsed questions to JSON
 json_output = json.dumps(parsed_questions, indent=4, ensure_ascii=False)
 
